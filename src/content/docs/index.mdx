@@ -1,40 +1,36 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: Anglican Wiki
+description: An encyclopedic index to the texts, theology, and tradition of Anglicanism.
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: An encyclopedic index to the texts, theology, and tradition of Anglicanism
   actions:
-    - text: Example Guide
+    - text: Browse the Library
       link: /guides/example/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
+    - text: About This Project
+      link: /about/
+      icon: information
       variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+A unified, searchable encyclopaedia gathering the primary sources of the Anglican tradition — the works of Jewel, Hooker, the Homilies, the 39 Articles, historical sermons, and more — into a single scholarly reference.
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+## Explore the Collection
+
+<CardGrid>
+	<Card title="Foundational Documents" icon="document">
+		The 39 Articles of Religion, the Book of Common Prayer, and the Ordinal — the constitutional texts of Anglicanism.
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="Theological Works" icon="open-book">
+		The writings of Jewel, Hooker, and the Anglican divines who shaped the theology of the English Reformation and beyond.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Homilies & Sermons" icon="comment">
+		The Books of Homilies and historical sermons appointed to be read in churches.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Catechesis & Instruction" icon="puzzle">
+		The Church Catechism, devotional guides, and instructional works for the formation of the faithful.
 	</Card>
 </CardGrid>
