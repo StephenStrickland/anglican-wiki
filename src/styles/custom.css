@@ -24,6 +24,14 @@
 	--sl-color-black: #1c1c1c;
 }
 
+/* Liturgical text blockquotes */
+.sl-markdown-content blockquote {
+	border-left-color: var(--bcp-color-gold);
+	border-left-width: 3px;
+	font-style: italic;
+	padding-left: 1.5rem;
+}
+
 /* Light mode */
 :root[data-theme='light'] {
 	--sl-color-accent-low: #fce8e2;

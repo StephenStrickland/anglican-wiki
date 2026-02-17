@@ -16,9 +16,12 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/StephenStrickland/anglican-wiki' }],
 			sidebar: [
 				{
+					label: 'BCP 1770',
+					autogenerate: { directory: 'bcp-1770' },
+				},
+				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
 						{ label: 'Example Guide', slug: 'guides/example' },
 					],
 				},
