@@ -20,14 +20,21 @@ export default defineConfig({
 					autogenerate: { directory: 'bcp-1770' },
 				},
 				{
-					label: 'Guides',
+					label: 'Anglican Divines',
 					items: [
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{
+							label: 'John Jewel',
+							items: [
+								{ slug: 'anglican-divines/john-jewel' },
+								{
+									label: 'Apology of the Church of England',
+									collapsed: true,
+									autogenerate: { directory: 'anglican-divines/john-jewel/apology' },
+								},
+							],
+							collapsed: true,
+						},
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),

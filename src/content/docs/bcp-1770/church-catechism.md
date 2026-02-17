@@ -3,9 +3,6 @@ title: The Church Catechism
 description: The Church Catechism from the 1770 Book of Common Prayer — the foundational instructional text of the Anglican tradition.
 sidebar:
   order: 1
-  badge:
-    text: BCP
-    variant: tip
 ---
 
 ## Baptismal Vow
