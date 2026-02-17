@@ -8,7 +8,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Anglican Wiki',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/stephenstrickland/anglican.wiki' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/StephenStrickland/anglican-wiki' }],
 			sidebar: [
 				{
 					label: 'Guides',
