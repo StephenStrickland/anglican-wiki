@@ -8,6 +8,11 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Anglican Wiki',
+			customCss: [
+				'@fontsource/eb-garamond/400.css',
+				'@fontsource/eb-garamond/700.css',
+				'./src/styles/custom.css',
+			],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/StephenStrickland/anglican-wiki' }],
 			sidebar: [
 				{

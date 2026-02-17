@@ -12,6 +12,7 @@
   "packageManager": "pnpm@10.30.0",
   "dependencies": {
     "@astrojs/starlight": "^0.37.6",
+    "@fontsource/eb-garamond": "^5.2.7",
     "astro": "^5.6.1",
     "sharp": "^0.34.2"
   }

@@ -1,0 +1,41 @@
+/* BCP App Fonts & Colors for Anglican Wiki */
+
+/* Font */
+:root {
+	--sl-font: 'EB Garamond', serif;
+
+	/* Gold accent for future decorative use */
+	--bcp-color-gold: #bfa76f;
+}
+
+/* Dark mode (default) */
+:root {
+	--sl-color-accent-low: #2a1410;
+	--sl-color-accent: #cc3a1c;
+	--sl-color-accent-high: #f5d0c7;
+
+	--sl-color-white: #f5f2ed;
+	--sl-color-gray-1: #e0dbd4;
+	--sl-color-gray-2: #b0a99e;
+	--sl-color-gray-3: #7d7770;
+	--sl-color-gray-4: #4a4541;
+	--sl-color-gray-5: #333333;
+	--sl-color-gray-6: #262221;
+	--sl-color-black: #1c1c1c;
+}
+
+/* Light mode */
+:root[data-theme='light'] {
+	--sl-color-accent-low: #fce8e2;
+	--sl-color-accent: #b02e0c;
+	--sl-color-accent-high: #5a1806;
+
+	--sl-color-white: #1c1c1c;
+	--sl-color-gray-1: #4a4541;
+	--sl-color-gray-2: #7d7770;
+	--sl-color-gray-3: #b0a99e;
+	--sl-color-gray-4: #d5cfc6;
+	--sl-color-gray-5: #e5e0d5;
+	--sl-color-gray-6: #f5f0e8;
+	--sl-color-black: #fdfaf6;
+}
