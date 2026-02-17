@@ -1,0 +1,12 @@
+---
+title: The 2019 Book of Common Prayer
+description: The 2019 Book of Common Prayer of the Anglican Church in North America.
+sidebar:
+  order: 0
+---
+
+The 2019 Book of Common Prayer is the standard liturgical text of the Anglican Church in North America (ACNA). It includes a modernized rendering of the Coverdale Psalter, "renewed for contemporary use through efforts that included the labors of 20th century Anglicans T.S. Eliot and C.S. Lewis." According to Robert Duncan, the first Archbishop of the ACNA, "The 2019 edition takes what was good from the modern liturgical renewal movement and also recovers what had been lost from the tradition." The 2019 edition does not contain a catechism, but is accompanied by an extensive ACNA catechism in a separate publication, *To Be a Christian: An Anglican Catechism*.
+
+## Downloads
+
+- [PDF](/assets/2019/BCP-2019.pdf)

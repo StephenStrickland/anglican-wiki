@@ -16,8 +16,29 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/StephenStrickland/anglican-wiki' }],
 			sidebar: [
 				{
-					label: 'BCP 1770',
-					autogenerate: { directory: 'bcp-1770' },
+					label: 'Books of Common Prayer',
+					items: [
+						{
+							label: 'BCP 1662',
+							collapsed: true,
+							autogenerate: { directory: 'bcp-1662' },
+						},
+						{
+							label: 'BCP 1770',
+							collapsed: true,
+							autogenerate: { directory: 'bcp-1770' },
+						},
+						{
+							label: 'BCP 1928',
+							collapsed: true,
+							autogenerate: { directory: 'bcp-1928' },
+						},
+						{
+							label: 'BCP 2019',
+							collapsed: true,
+							autogenerate: { directory: 'bcp-2019' },
+						},
+					],
 				},
 				{
 					label: 'Anglican Divines',
