@@ -7,7 +7,9 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "crawl": "node scripts/crawl.mjs",
+    "transform": "node scripts/transform.mjs"
   },
   "packageManager": "pnpm@10.30.0",
   "dependencies": {
@@ -15,5 +17,12 @@
     "@fontsource/eb-garamond": "^5.2.7",
     "astro": "^5.6.1",
     "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2",
+    "p-queue": "^8.1.0",
+    "gray-matter": "^4.0.3"
   }
 }

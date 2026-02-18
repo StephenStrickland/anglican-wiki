@@ -45,6 +45,11 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Project Canterbury',
+					collapsed: true,
+					autogenerate: { directory: 'project-canterbury' },
+				},
+				{
 					label: 'Resources',
 					autogenerate: { directory: 'resources' },
 				},
