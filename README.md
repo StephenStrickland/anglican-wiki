@@ -1,49 +1,59 @@
-# Starlight Starter Kit: Basics
+# Anglican Wiki
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+A scholarly resource for Anglican theology and liturgy, built with [Astro](https://astro.build) + [Starlight](https://starlight.astro.build).
 
-```
-pnpm create astro@latest -- --template starlight
-```
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## Project Structure
 
 ```
 .
-├── public/
+├── public/assets/          # Downloadable PDFs and EPUBs
+├── scripts/                # Crawler and transform tooling
+│   ├── crawl.mjs           # CLI: crawl anglicanhistory.org
+│   ├── transform.mjs       # CLI: convert archived HTML to Markdown
+│   └── lib/                # Shared modules
 ├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
+│   ├── assets/             # Images (processed at build time)
+│   ├── components/         # Custom Astro components
+│   ├── content/docs/       # Site content (Markdown / MDX)
+│   └── styles/             # Custom CSS
+├── archive/                # Crawled HTML (git-ignored)
 ├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+└── package.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Content lives in `src/content/docs/` as `.md` or `.mdx` files. Each file becomes a page routed by its file path.
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+## Commands
 
-Static assets, like favicons, can be placed in the `public/` directory.
+| Command | Action |
+|:--------|:-------|
+| `pnpm install` | Install dependencies |
+| `pnpm dev` | Start local dev server at `localhost:4321` |
+| `pnpm build` | Build production site to `./dist/` |
+| `pnpm preview` | Preview production build locally |
+| `pnpm run crawl` | Crawl anglicanhistory.org into `archive/` |
+| `pnpm run transform` | Transform archived HTML to Markdown |
 
-## 🧞 Commands
+## Project Canterbury
 
-All commands are run from the root of the project, from a terminal:
+The `scripts/` directory contains tooling to archive and transform [anglicanhistory.org](https://anglicanhistory.org) (Project Canterbury), a CC BY-NC-SA 2.5 archive of out-of-print Anglican texts.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+### Crawling
 
-## 👀 Want to learn more?
+```bash
+pnpm run crawl              # Full crawl (resumes from manifest)
+pnpm run crawl -- --force   # Re-crawl everything
+pnpm run crawl -- --dry-run # Show what would be crawled
+```
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+The crawler saves raw HTML to `archive/`, mirroring the site's directory structure. Progress is tracked in `archive/.manifest.json` so crawls are resumable. The crawler is polite: 2 concurrent requests, 500ms interval, custom User-Agent. PDFs are recorded in the manifest but not downloaded. Images are downloaded.
+
+### Transforming
+
+```bash
+pnpm run transform              # Transform all archived HTML
+pnpm run transform -- --force   # Overwrite existing .md files
+pnpm run transform -- --dry-run # Show what would be generated
+```
+
+The transform pipeline reads each archived HTML file, extracts metadata (title, description), strips site navigation chrome, converts to Markdown with Starlight frontmatter, and writes to `src/content/docs/project-canterbury/`. Internal links are rewritten to Starlight paths. PDF entries become stub pages linking to the original.
