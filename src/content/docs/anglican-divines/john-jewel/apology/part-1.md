@@ -5,6 +5,12 @@ slug: anglican-divines/john-jewel/apology-part-1
 sidebar:
   order: 2
   label: Part I
+prev:
+  label: Introduction
+  link: /anglican-divines/john-jewel/apology-introduction/
+next:
+  label: "Part II: The Anglican Confession of Faith"
+  link: /anglican-divines/john-jewel/apology-part-2/
 ---
 
 It hath been an old complaint, even from the first time of the patriarchs and Prophets, and confirmed by the writings and testimonies of every age, that the truth wandereth here and there as a stranger in the world, and doth readily find enemies and slanderers amongst those that know her not. Albeit perchance this may seem unto some a thing hard to be believed, I mean to such as have scant well and narrowly taken heed thereunto, specially seeing all mankind of nature's very motion without a teacher doth covet the truth of their own accord; and seeing our Saviour Christ Himself, when He was on earth, would be called the Truth, as by a name most fit to express all His Divine power; yet we, which have been exercised in the Holy Scriptures, and which have both read and seen what hath happened to all godly men commonly at all times; what to the Prophets, to the Apostles, to the holy martyrs, and what to Christ Himself; with what rebukes, revilings, and despites they were continually vexed whiles they here lived, and that only for the truth's sake: we, I say, do see that this is not only no new thing, or hard to be believed, but that it is a thing already received, and commonly used from age to age. Nay, truly, this might seem much rather a marvel, and beyond all belief, if the devil, who is the father of lies, and enemy to all truth, would now upon a sudden change his nature, and hope that truth might otherwise be suppressed than by belying it; or that he would begin to establish his own kingdom by using now any other practices than the same which he hath ever used from the beginning. For since any man's remembrance we can scant find one time, either when religion did first grow, or when it was settled, or when it did afresh spring up again, wherein truth and innocency were not by all unworthy means, and most despitefully intreated. Doubtless the devil well seeth, that so long as truth is in good safety, himself cannot be safe, nor yet maintain his own estate.

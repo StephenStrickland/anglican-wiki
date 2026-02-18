@@ -5,6 +5,12 @@ slug: anglican-divines/john-jewel/apology-part-6
 sidebar:
   order: 7
   label: Part VI
+prev:
+  label: "Part V: Antiquity and the Fathers"
+  link: /anglican-divines/john-jewel/apology-part-5/
+next:
+  label: Recapitulation
+  link: /anglican-divines/john-jewel/apology-recapitulation/
 ---
 
 But peradventure they will say, it was treason to attempt these matters without a sacred general council; for in that consisteth the whole force of the Church; there Christ hath promised He will ever be a present assistant. Yet they themselves, without tarrying for any general council, have broken the commandments of God, and the decrees of the Apostles; and, as we said a little above, they have spoiled and disannulled almost all, not only ordinances, but even the doctrine of the primitive Church. And where they say it is not lawful to make a change without a council, what was he that gave us these laws, or from whence had they this injunction?

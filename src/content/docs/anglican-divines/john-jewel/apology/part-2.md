@@ -5,6 +5,12 @@ slug: anglican-divines/john-jewel/apology-part-2
 sidebar:
   order: 3
   label: Part II
+prev:
+  label: "Part I: Truth Slandered and Opposed"
+  link: /anglican-divines/john-jewel/apology-part-1/
+next:
+  label: "Part III: Against Charges of Heresy"
+  link: /anglican-divines/john-jewel/apology-part-3/
 ---
 
 We believe that there is one certain nature and Divine power, which we call God: and that the same is divided into three equal Persons--into the Father, into the Son, and into the Holy Ghost; and that They all be of one power, of one majesty, of one eternity, of one Godhead, and of one substance. And although these three Persons be so divided, that neither the Father is the Son, nor the Son is the Holy Ghost, or the Father; yet, nevertheless, we believe that there is but one very God, and that the same one God hath created heaven, and earth, and all things contained under heaven.

@@ -5,6 +5,12 @@ slug: anglican-divines/john-jewel/apology-part-5
 sidebar:
   order: 6
   label: Part V
+prev:
+  label: "Part IV: The Failings of Rome"
+  link: /anglican-divines/john-jewel/apology-part-4/
+next:
+  label: "Part VI: Councils and Princely Authority"
+  link: /anglican-divines/john-jewel/apology-part-6/
 ---
 
 But here I look they will say, though they have not the Scriptures, yet may chance they have the ancient doctors and the holy fathers with them. For this is a high brag they have ever made, how that all antiquity and a continual consent of all ages doth make on their side; and that all our cases be but new, and yesterday's work, and until these few late years were never heard of. Questionless, there can nothing be more spitefully spoken against the religion of God than to accuse it of novelty, as a new come up matter. For as there can be no change in God Himself, so ought there to be no change in His religion.

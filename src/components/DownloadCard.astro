@@ -1,0 +1,105 @@
+---
+interface Props {
+	href: string;
+	title: string;
+	format: 'PDF' | 'EPUB';
+	size: string;
+	description?: string;
+}
+
+const { href, title, format, size, description } = Astro.props;
+---
+
+<a href={href} class="download-card" download>
+	<div class="download-icon">
+		{format === 'PDF' ? (
+			<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+				<polyline points="14 2 14 8 20 8" />
+				<line x1="16" y1="13" x2="8" y2="13" />
+				<line x1="16" y1="17" x2="8" y2="17" />
+				<polyline points="10 9 9 9 8 9" />
+			</svg>
+		) : (
+			<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+				<path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+			</svg>
+		)}
+	</div>
+	<div class="download-info">
+		<span class="download-title">{title}</span>
+		{description && <span class="download-description">{description}</span>}
+		<span class="download-meta">
+			<span class="download-format">{format}</span>
+			<span class="download-size">{size}</span>
+		</span>
+	</div>
+</a>
+
+<style>
+	.download-card {
+		display: flex;
+		align-items: flex-start;
+		gap: 1rem;
+		padding: 1rem 1.25rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		text-decoration: none;
+		color: inherit;
+		transition: border-color 0.2s, background-color 0.2s;
+	}
+
+	.download-card:hover {
+		border-color: var(--bcp-color-gold);
+		background-color: var(--sl-color-gray-6);
+	}
+
+	.download-icon {
+		flex-shrink: 0;
+		color: var(--bcp-color-gold);
+		margin-top: 0.125rem;
+	}
+
+	.download-info {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+		min-width: 0;
+	}
+
+	.download-title {
+		font-weight: 700;
+		color: var(--sl-color-white);
+		line-height: 1.3;
+	}
+
+	.download-description {
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-2);
+		line-height: 1.4;
+	}
+
+	.download-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		margin-top: 0.125rem;
+	}
+
+	.download-format {
+		font-size: var(--sl-text-xs, 0.75rem);
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: var(--bcp-color-gold);
+		background: color-mix(in srgb, var(--bcp-color-gold) 15%, transparent);
+		padding: 0.125rem 0.5rem;
+		border-radius: 0.25rem;
+	}
+
+	.download-size {
+		font-size: var(--sl-text-xs, 0.75rem);
+		color: var(--sl-color-gray-3);
+	}
+</style>

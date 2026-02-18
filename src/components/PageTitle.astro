@@ -1,0 +1,63 @@
+---
+const PAGE_TITLE_ID = '_top';
+import { readFileSync } from 'node:fs';
+
+const { entry } = Astro.locals.starlightRoute;
+const slug = entry.slug ?? entry.id;
+const isApologyPage = slug.startsWith('anglican-divines/john-jewel/apology');
+
+let readingTime = 0;
+if (isApologyPage && entry.filePath) {
+	const raw = readFileSync(entry.filePath, 'utf-8');
+	// Strip frontmatter
+	const body = raw.replace(/^---[\s\S]*?---/, '');
+	const wordCount = body.trim().split(/\s+/).filter(Boolean).length;
+	readingTime = Math.ceil(wordCount / 200);
+}
+---
+
+<h1 id={PAGE_TITLE_ID}>{entry.data.title}</h1>
+
+{isApologyPage && (
+	<div class="reading-meta">
+		<a href="/anglican-divines/john-jewel/">Apology of the Church of England</a>
+		<span class="meta-sep">&middot;</span>
+		<span>{readingTime} min read</span>
+	</div>
+)}
+
+<style>
+	@layer starlight.core {
+		h1 {
+			margin-top: 1rem;
+			font-size: var(--sl-text-h1);
+			line-height: var(--sl-line-height-headings);
+			font-weight: 600;
+			color: var(--sl-color-white);
+		}
+	}
+
+	.reading-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+		margin-top: 0.25rem;
+		margin-bottom: 0.5rem;
+	}
+
+	.reading-meta a {
+		color: var(--sl-color-gray-2);
+		text-decoration: none;
+	}
+
+	.reading-meta a:hover {
+		color: var(--bcp-color-gold);
+		text-decoration: underline;
+	}
+
+	.meta-sep {
+		color: var(--sl-color-gray-4);
+	}
+</style>

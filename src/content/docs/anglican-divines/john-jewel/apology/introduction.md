@@ -5,6 +5,10 @@ slug: anglican-divines/john-jewel/apology-introduction
 sidebar:
   order: 1
   label: Introduction
+prev: false
+next:
+  label: "Part I: Truth Slandered and Opposed"
+  link: /anglican-divines/john-jewel/apology-part-1/
 ---
 
 The great interest of Jewel's "Apology" lies in the fact that it was written in Latin to be read throughout Europe as the answer of the Reformed Church of England, at the beginning of Queen Elizabeth's reign, to those who said that the Reformation set up a new Church. Its argument was that the English Church Reformers were going back to the old Church, not setting up a new; and this Jewel proposed to show by looking back to the first centuries of Christianity. Innovation was imputed; and an Apology originally meant a pleading to rebut an imputation. So, even as late as 1796, there was a book called "An Apology for the Bible," meaning its defence against those who questioned its authority. This Latin book of Jewel's, *Apologia Ecclesiae Anglicanae*--written in Latin because it was not addressed to England only--was first published in 1562, and translated into English by the mother of Francis Bacon, whose edition appeared in 1564. That is the translation given in this volume. The book has since had six or seven other translators, but Lady Ann Bacon's translation was that which presented it in Queen Elizabeth's time to English readers, and it had the advantage of revision by the Queen's Archbishop of Canterbury, her coadjutor in the establishment of the Reformed Church of England, Matthew Parker. It was published, with no name of author or translator on the title-page, as "An Apologie or answere in defence of the Churche of Englande, with a briefe and plaine declaration of the true Religion professed or used in the same." The book was prefaced by a letter, "To the right honorable learned and vertuous Ladie, A. B." [Ann Bacon] "M. C. wisheth from God grace, honoure, and felicitie," where M. C. signifies Matthew Cantuar, Matthew Parker, Archbishop of Canterbury, whom Lady Ann Bacon had made her judge, and whose judgment, the letter says, her book had singularly pleased.
