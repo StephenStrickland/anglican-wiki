@@ -8,6 +8,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Anglican Wiki',
+			components: {
+				PageTitle: './src/components/PageTitle.astro',
+			},
 			customCss: [
 				'@fontsource/eb-garamond/400.css',
 				'@fontsource/eb-garamond/700.css',
@@ -18,26 +21,10 @@ export default defineConfig({
 				{
 					label: 'Books of Common Prayer',
 					items: [
-						{
-							label: 'BCP 1662',
-							collapsed: true,
-							autogenerate: { directory: 'bcp-1662' },
-						},
-						{
-							label: 'BCP 1770',
-							collapsed: true,
-							autogenerate: { directory: 'bcp-1770' },
-						},
-						{
-							label: 'BCP 1928',
-							collapsed: true,
-							autogenerate: { directory: 'bcp-1928' },
-						},
-						{
-							label: 'BCP 2019',
-							collapsed: true,
-							autogenerate: { directory: 'bcp-2019' },
-						},
+						{ label: 'BCP 1662', slug: 'bcp-1662' },
+						{ label: 'BCP 1770 — Church Catechism', slug: 'bcp-1770/church-catechism' },
+						{ label: 'BCP 1928', slug: 'bcp-1928' },
+						{ label: 'BCP 2019', slug: 'bcp-2019' },
 					],
 				},
 				{
