@@ -8,20 +8,34 @@
 	--bcp-color-gold: #bfa76f;
 }
 
-/* Dark mode (default) */
+/* Dark mode colors. */
 :root {
-	--sl-color-accent-low: #2a1410;
-	--sl-color-accent: #cc3a1c;
-	--sl-color-accent-high: #f5d0c7;
-
-	--sl-color-white: #f5f2ed;
-	--sl-color-gray-1: #e0dbd4;
-	--sl-color-gray-2: #b0a99e;
-	--sl-color-gray-3: #7d7770;
-	--sl-color-gray-4: #4a4541;
-	--sl-color-gray-5: #333333;
-	--sl-color-gray-6: #262221;
-	--sl-color-black: #1c1c1c;
+	--sl-color-accent-low: #2e2119;
+	--sl-color-accent: #8b5e40;
+	--sl-color-accent-high: #d6c5ba;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #f3ece7;
+	--sl-color-gray-2: #c9c0ba;
+	--sl-color-gray-3: #98887d;
+	--sl-color-gray-4: #64554b;
+	--sl-color-gray-5: #43352c;
+	--sl-color-gray-6: #31241b;
+	--sl-color-black: #1d1713;
+}
+/* Light mode colors. */
+:root[data-theme='light'] {
+	--sl-color-accent-low: #e1d4cc;
+	--sl-color-accent: #8e5f42;
+	--sl-color-accent-high: #412d20;
+	--sl-color-white: #1d1713;
+	--sl-color-gray-1: #31241b;
+	--sl-color-gray-2: #43352c;
+	--sl-color-gray-3: #64554b;
+	--sl-color-gray-4: #98887d;
+	--sl-color-gray-5: #c9c0ba;
+	--sl-color-gray-6: #f3ece7;
+	--sl-color-gray-7: #f9f5f3;
+	--sl-color-black: #ffffff;
 }
 
 /* Liturgical text blockquotes */
@@ -44,20 +58,4 @@
 	width: 250px;
 	height: auto;
 	display: inline-block;
-}
-
-/* Light mode */
-:root[data-theme='light'] {
-	--sl-color-accent-low: #fce8e2;
-	--sl-color-accent: #b02e0c;
-	--sl-color-accent-high: #5a1806;
-
-	--sl-color-white: #1c1c1c;
-	--sl-color-gray-1: #4a4541;
-	--sl-color-gray-2: #7d7770;
-	--sl-color-gray-3: #b0a99e;
-	--sl-color-gray-4: #d5cfc6;
-	--sl-color-gray-5: #e5e0d5;
-	--sl-color-gray-6: #f5f0e8;
-	--sl-color-black: #fdfaf6;
 }
