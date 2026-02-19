@@ -20,5 +20,8 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
+# Python
+__pycache__/
+
 # Project Canterbury crawl archive
 archive/
