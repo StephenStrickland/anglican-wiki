@@ -1,0 +1,31 @@
+---
+title: Sermons During the Season from Advent to Whitsuntide
+description: Sermons During the Season from Advent to Whitsuntide. From Project Canterbury.
+---
+
+Sermons During the Season from Advent to Whitsuntide
+By the Rev. E. B. Pusey, D.D.
+
+Second Edition.
+Oxford: John Henry Parker, 1848.
+
+Advertisement to the Second Edition.
+
+A FEW additional remarks become necessary, since some have understood the writer as though he thought the unhappy divisions among us were altogether in words only; and so, unintentionally, was encouraging indifference as to sacred truth. This, however, is contrary to what he said, when he spoke of "good and pious men having difficulties in receiving the full truth, as it is in Jesus," p. vi. What he meant to say, is what he has said these many years:--
+
+1\. That *religious* persons, who seem opposed to the truth, and often speak very unguardedly, unsoundly, and distressingly, do yet mostly believe much more truly than they speak. They believe what they cannot, draw out in words, or would fear to express. Witness the great devotion at Holy Communion and careful preparation for It, among persons who really love their Saviour; and yet, it is only on the ground of the aweful greatness of that Mystery that we need to prepare more for It than for our ordinary prayers. Again, people would shrink from any irreverence as to the Consecrated Elements, who would yet, intellectually, argue in a very rationalistic way about them. And again, people speak almost as Antinomians, or as if Christians might almost more readily be saved without good works than with them, who yet are diligent themselves to keep God's Commandments and "to perfect holiness in the fear of God." Or, again, they speak as if commands of the Church were not binding, and yet themselves obey such of them as they are accustomed to; or they dread "forms," and yet use them religiously.
+
+2\. *Religious* persons, holding partial truth, are very frequently opposed, not to the real truth, but to some form of error which they mistake for it; or, again, they are held back by certain consequences which they suppose to be involved in it, but which are not. They are held back by an inveterate prejudice, which hinders them from seeing the pure truth, apart from the error with which they have been accustomed to associate it. And it ought to be a subject of humiliation to those who hold the truth, that we cannot present it to their minds in a form in which they would appreciate it, or, again, that through some imperfection of ours, they may be repelled from it, rather than drawn by its own intrinsic attractiveness.
+
+3\. What *religious* persons among the so-called "Evangelical" portion of the Church, hold positively, that is, their faith, is true. They, then, who have received the fuller teaching of the primitive and undivided Church, have not to call upon them to lay aside any thing which they believe, but to propose a fuller belief to them. And when that fuller truth is, by the Grace of God, received, whatever errors now cleave to them will drop off; as a substance held in solution is parted with and precipitated, when another is poured in to which the substance which holds it has greater affinity.
+
+The writer has felt, these fifteen years, that there was more susceptibility for Catholic truth among *religious* minds, who, in consequence of misapprehension, thought themselves, or were, opposed to it, than among many who held what in words more nearly approached to it. He always anticipated, (in common with others,) that it would be discarded by some who thought that they held it, when they knew what it involved, and would be received by very many who opposed it, when they came to see it truly. Both these expectations were early verified, whatever else there has been against or beyond all his hopes. And so the writer has felt himself called, not so much to oppose those who are entangled in partial views or misconceptions of the truth, as to teach, positively, the truth which they oppose, trusting that "they who are of the truth will hear" its "voice." In the Preface to this volume, he wished to point out how the full belief of the Mystery that faithful Christians are "in Christ," at once comprehends all the truths of our relation to our Redeeming Lord, which are held sacred by those who have embraced a more partial system, embodies those truths in a deeper and more blessed way, and excludes the errors which they imagine to attach to Catholic teaching.
+
+The writer spoke of "good and pious men," because, while the case of each individual among us must be left to the Judge, Who shall "make manifest the counsels of the heart," it is plain, upon the very surface, that a large, perhaps the larger, portion of so-called religious controversy, is hollow, unearnest, irreverent, and irreligious. How should it be otherwise, where, amid many words, there is so little self-sacrificing zeal for souls, so little devotedness or love? Yet God has His own every where. He is calling more and more to follow Him,, Who is "the Way, the Truth, and the Life." As we love Him more Who is the Truth, we shall receive, hold, set forth the Truth, "as it is in Him." As we love Him Who is our Head, with a more burning, self-devoted love, we must, in Him, love His members. And love understands thoughts of love, although ill-expressed, and catches at thoughts of truth, though conveyed in broken words and but half-uttered, and reads the heart with which it sympathises, and can even open to it its own undeveloped meaning, or what it should mean, instead of being itself repelled by its rude or imperfect speech. As we love our Lord more, we shall love more all whom He loves; and as we love more, we shall understand one another better. One grain of love avails more than many pounds of controversy. To those, then, whether penitents or childlike minds, who seek our One Lord earnestly, and to do His Will, the writer, such as he is, wished to speak words of peace and love, if so be it might help some who love Him, even in this life to love one another more in Him.
+
+"O Good Shepherd of the sheep,
+lead us and feed us,
+and nothing shall be wanting
+in the place of the pasture where Thou hast folded us,
+until we be brought
+to the pasture of Eternal Life."

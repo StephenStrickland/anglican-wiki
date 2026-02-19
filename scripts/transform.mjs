@@ -6,22 +6,83 @@ import { config } from './lib/config.mjs';
 import { loadManifest } from './lib/crawler.mjs';
 import { extractMetadata, cleanHtml } from './lib/html-parser.mjs';
 import { htmlToMarkdown, generateMarkdownFile, generatePdfStub } from './lib/markdown-writer.mjs';
-import { localPathToContentPath, isPdfUrl, urlToLocalPath } from './lib/url-utils.mjs';
+import { localPathToContentPath } from './lib/url-utils.mjs';
 
 const args = process.argv.slice(2);
 const force = args.includes('--force');
 const dryRun = args.includes('--dry-run');
 
-async function transform() {
-  const manifest = await loadManifest();
-  const entries = Object.entries(manifest);
+/**
+ * Recursively find all files with given extensions under a directory.
+ */
+async function findFiles(dir, extensions) {
+  const results = [];
+  let entries;
+  try {
+    entries = await fs.readdir(dir, { withFileTypes: true });
+  } catch {
+    return results;
+  }
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      results.push(...await findFiles(fullPath, extensions));
+    } else if (extensions.some(ext => entry.name.toLowerCase().endsWith(ext))) {
+      results.push(fullPath);
+    }
+  }
+  return results;
+}
 
-  if (entries.length === 0) {
+/**
+ * Build the list of files to transform.
+ * In curated mode, scans the archive filesystem for the curated directories.
+ * Otherwise, uses the manifest.
+ */
+async function collectEntries() {
+  if (config.curatedDirs) {
+    // Scan the archive filesystem directly for curated directories
+    const entries = [];
+    for (const dir of config.curatedDirs) {
+      const dirPath = path.join(config.archiveDir, dir);
+      const htmlFiles = await findFiles(dirPath, ['.html', '.htm']);
+      const pdfFiles = await findFiles(dirPath, ['.pdf']);
+
+      for (const filePath of htmlFiles) {
+        const localPath = path.relative(config.archiveDir, filePath);
+        entries.push({ localPath, contentType: 'text/html' });
+      }
+      for (const filePath of pdfFiles) {
+        const localPath = path.relative(config.archiveDir, filePath);
+        entries.push({ localPath, contentType: 'application/pdf' });
+      }
+    }
+    return entries;
+  }
+
+  // Non-curated mode: use the manifest
+  const manifest = await loadManifest();
+  const manifestEntries = Object.entries(manifest);
+  if (manifestEntries.length === 0) {
     console.log('No entries in manifest. Run `pnpm run crawl` first.');
     process.exit(1);
   }
+  return manifestEntries
+    .filter(([, entry]) => entry.status === 200)
+    .map(([url, entry]) => ({
+      localPath: entry.localPath,
+      contentType: entry.contentType,
+      url,
+    }));
+}
 
-  console.log(`Found ${entries.length} entries in manifest`);
+async function transform() {
+  const entries = await collectEntries();
+
+  console.log(`Found ${entries.length} files to transform`);
+  if (config.curatedDirs) {
+    console.log(`Curated mode: scanning ${config.curatedDirs.length} directories from archive`);
+  }
   if (dryRun) console.log('DRY RUN — no files will be written');
   if (force) console.log('FORCE MODE — overwriting existing .md files');
   console.log();
@@ -31,22 +92,23 @@ async function transform() {
   let errors = 0;
   let pdfs = 0;
 
-  for (const [url, entry] of entries) {
+  for (const entry of entries) {
     try {
-      // Skip failed entries
-      if (entry.status !== 200) {
+      const { localPath, contentType } = entry;
+
+      // Skip non-HTML, non-PDF content
+      if (!contentType?.includes('text/html') && contentType !== 'application/pdf') {
         skipped++;
         continue;
       }
 
-      const contentPath = localPathToContentPath(entry.localPath);
+      // Remap bcp/ → bcp-historical/ for output to avoid conflict with existing BCP directories
+      const outputLocalPath = localPath.startsWith('bcp/')
+        ? 'bcp-historical/' + localPath.slice(4)
+        : localPath;
+
+      const contentPath = localPathToContentPath(outputLocalPath);
       const outputPath = path.join(config.outputDir, contentPath);
-
-      // Skip non-HTML, non-PDF content (images, etc.)
-      if (!entry.contentType?.includes('text/html') && entry.contentType !== 'application/pdf') {
-        skipped++;
-        continue;
-      }
 
       // Check if output already exists (unless --force)
       if (!force && !dryRun) {
@@ -59,18 +121,18 @@ async function transform() {
         }
       }
 
-      if (entry.contentType === 'application/pdf') {
-        // Generate PDF stub page
-        const title = titleFromPath(entry.localPath);
+      if (contentType === 'application/pdf') {
+        const title = titleFromPath(localPath);
         const metadata = {
           title,
           description: `${title}. From Project Canterbury.`,
         };
+        const pdfUrl = `${config.baseUrl}/${localPath}`;
 
         if (dryRun) {
           console.log(`[PDF STUB] ${contentPath}`);
         } else {
-          const mdContent = generatePdfStub(metadata, url);
+          const mdContent = generatePdfStub(metadata, pdfUrl);
           await fs.mkdir(path.dirname(outputPath), { recursive: true });
           await fs.writeFile(outputPath, mdContent, 'utf-8');
         }
@@ -80,26 +142,19 @@ async function transform() {
       }
 
       // HTML → Markdown transform
-      const archivePath = path.join(config.archiveDir, entry.localPath);
+      const archivePath = path.join(config.archiveDir, localPath);
       let html;
       try {
         html = await fs.readFile(archivePath, 'utf-8');
       } catch {
-        console.log(`  [MISSING] ${entry.localPath} — archived file not found`);
+        console.log(`  [MISSING] ${localPath} — archived file not found`);
         errors++;
         continue;
       }
 
-      // Extract metadata
-      const metadata = extractMetadata(html, entry.localPath);
-
-      // Clean HTML
+      const metadata = extractMetadata(html, localPath);
       const cleaned = cleanHtml(html);
-
-      // Convert to Markdown
-      const markdown = htmlToMarkdown(cleaned);
-
-      // Generate complete file with frontmatter
+      const markdown = htmlToMarkdown(cleaned, localPath);
       const mdFile = generateMarkdownFile(metadata, markdown);
 
       if (dryRun) {
@@ -115,7 +170,7 @@ async function transform() {
         console.log(`  Progress: ${transformed} transformed, ${skipped} skipped, ${errors} errors`);
       }
     } catch (err) {
-      console.error(`  [ERROR] ${url}: ${err.message}`);
+      console.error(`  [ERROR] ${entry.localPath}: ${err.message}`);
       errors++;
     }
   }

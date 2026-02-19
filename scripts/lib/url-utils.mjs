@@ -16,6 +16,13 @@ export function normalizeUrl(href, parentUrl) {
   }
 
   try {
+    // Ensure directory-style parent URLs have trailing slash for correct resolution.
+    // Without this, `new URL('child.html', 'https://host/dir/page')` resolves to
+    // `/dir/child.html` instead of `/dir/page/child.html`.
+    if (parentUrl && !path.extname(new URL(parentUrl).pathname) && !parentUrl.endsWith('/')) {
+      parentUrl = parentUrl + '/';
+    }
+
     const resolved = new URL(href, parentUrl);
 
     // Only crawl same host
@@ -57,6 +64,9 @@ export function urlToLocalPath(url) {
   // Default to index.html for directory URLs
   if (!pathname || pathname.endsWith('/')) {
     pathname += 'index.html';
+  } else if (!path.extname(pathname)) {
+    // Directory-style URL without trailing slash — treat as directory
+    pathname += '/index.html';
   }
 
   return pathname;
@@ -75,7 +85,7 @@ export function localPathToContentPath(localPath) {
 /**
  * Convert a full anglicanhistory.org URL to a relative Starlight path.
  * Used for rewriting internal links in transformed content.
- * e.g. https://anglicanhistory.org/jewel/apology/01.html → /project-canterbury/jewel/apology/01/
+ * e.g. https://anglicanhistory.org/jewel/apology/01.html → /jewel/apology/01/
  */
 export function urlToStarlightPath(href) {
   try {
@@ -86,6 +96,11 @@ export function urlToStarlightPath(href) {
 
     // Remove leading slash
     pathname = pathname.replace(/^\//, '');
+
+    // Remap bcp/ → bcp-historical/ to avoid conflict with existing BCP directories
+    if (pathname.startsWith('bcp/')) {
+      pathname = 'bcp-historical/' + pathname.slice(4);
+    }
 
     // For PDFs, keep the original URL
     if (pathname.endsWith('.pdf')) return href;
@@ -101,7 +116,7 @@ export function urlToStarlightPath(href) {
       pathname += '/';
     }
 
-    return `/project-canterbury/${pathname}`;
+    return `/${pathname}`;
   } catch {
     return href;
   }

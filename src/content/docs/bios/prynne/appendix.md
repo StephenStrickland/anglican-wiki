@@ -1,0 +1,29 @@
+---
+title: 'George Rundle Prynne, by A. Clifton Kelway'
+description: 'George Rundle Prynne, by A. Clifton Kelway. From Project Canterbury.'
+---
+
+*George Rundle Prynne
+An Early Chapter in the History of the Catholic Revival*.
+by A. Clifton Kelway
+
+London: Longmans, Green and Co, 1905. 248 pp.
+
+---
+
+APPENDIX
+THE PRYNNE MEMORIAL
+
+THE memorial which finds a place in St. Peter's, Plymouth, of the saintly priest whose name will ever be associated with that church and parish, is a mural painting of the Church Triumphant-a decorative and symbolic treatment of the attitude of Christ and the angels and departed saints to the saints on earth. This notable painting was executed by Edward A. Fellowes Prynne, the late Vicar's third son, whose previous paintings, "The Desire of All Nations" and "The Magnificat," are well known. The memorial occupies a large space of wall over the sanctuary arch, thus appropriately connecting the old and new church, and is a finely conceived piece of church decoration, beautifully carried out. The picture, which may be seen in the illustration of St. Peter's Church given in this volume (p. 154), was thus admirably described in the Church Times on the occasion of the unveiling by the Bishop of Crediton, on November 2, 1904:--
+
+"The subject chosen is the Church Triumphant--a decorative and symbolic treatment of the attitude of Christ and the angels and the saints departed to the saints on earth. In the centre is represented Christ of the Resurrection, the Head of the Universal Church; the God Man, King, Great High Priest, and Victim, 'the Lamb that was slain,' crowned with a glorified crown of thorns, and robed in priestly garb; His right hand raised in blessing, and His left holding the banner of the Cross, and pointing up, as though to teach that all must take up the Cross and follow, and come to Him through suffering and sacrifice.
+
+"A vesica of glory with cherub angels surrounds the central figure, and the words from the Revelation, 'Thanksgiving, power, riches, wisdom,' etc., loom out in gold from the background. The Holy Innocents, as the first to suffer death for Christ, are grouped at His feet. At His right hand is seated the Blessed Virgin Mother, crowned as Queen, and close to her kneels St. Joseph holding the lily of Purity. On the left kneels St. John the Baptist, who still points to the 'Lamb of God;' and next to him is the first great penitent, St. Mary Magdalene. Seated in clouds around the central group are the Twelve Apostles, St. Paul, and St. Stephen. Above and behind is a long semi-circle of Saints and Martyrs, conspicuous amongst whom are the Patron Saints of the various parish guilds.
+
+"The arts of poetry, painting, music, architecture, are dedicated to God's service in the persons of Dante, Angelico, St. Cecilia, David, and Solomon. Beyond these are yet other rows of saints, and multitudes in white robes, representing countless angels and spirits.
+
+"In the lower part of the composition is represented the Old Dispensation. In the left spandril is depicted the three Magi, to represent the offering of the riches, wisdom, and honour of the world; while in the opposite side the lame, halt, blind, and poor, and the slave, represent the offering of the sorrows and sufferings of humanity to the glory of God. Below these the two archangels, Gabriel and Michael, gaze down on the Church Militant, with great golden trumpets in their hands, ready, by God's command, to sound them for the Final Judgment.
+
+"The ceremony of unveiling this beautiful memorial was at once most solemn and impressive. The church was crowded almost to overflowing by those who had known and loved the faithful priest who had worked in their midst for fifty-five years. At the close of Evensong, the Bishop of Crediton, preceded by the crucifer bearing a processional crucifix, with torch-bearers on either side, proceeded to the chancel gates, and facing east, read the prayers of Dedication, the whole congregation kneeling awhile. As the veil was slowly lowered, a cloud of incense rose from the censer immediately below, and the glowing colours of the great painted subject above were for a few moments enveloped in a floating mist of that at once most beautiful and scriptural of symbols--incense. Many were the prayers that were offered for him who had been so long their guide, and many the eyes that were dim.
+
+"Bishop Trefusis then preached an eloquent sermon, basing his remarks on Psalm cxxx. He said that the picture had been placed there that they might recall the largeness of heart of him who ministered among them as their priest in days gone by. There was nothing little about him. His vision was not cramped and narrowed, nor centred in self. His heart was one that went out to all people, so generous, and so wide in its embrace, that it reached down to the very poorest, the most suffering and the most needy that dwelt around the House of God. As that church was reared, he became a great messenger of truth. There, from the first, his attitude corresponded to that portrayed in the picture before them. There, with Christ, he presented the great sacrifice of the Atonement day by day. He felt that there was hope for the Church in the plenteousness of the Redemption wrought upon the Cross. The hearts of him and his partner in life were enlarged towards the poor of that parish, and they never ceased to teach that those who were sorrowful and poor, and wretched and miserable, could be made bright and happy, and pure and holy. He ministered in his pleadings and his intercessions day by day towards the great end of full redemption for all who needed it, and his attitude throughout was that of the faithful priest towards the flock committed to his care. He had led them out of individual religion into a religion that embraced every brother, every member of Christ in one great body."

@@ -45,9 +45,119 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Project Canterbury',
+					label: 'Oxford Movement',
 					collapsed: true,
-					autogenerate: { directory: 'project-canterbury' },
+					items: [
+						{
+							label: 'Tracts for the Times',
+							collapsed: true,
+							autogenerate: { directory: 'tracts' },
+						},
+						{
+							label: 'John Keble',
+							collapsed: true,
+							autogenerate: { directory: 'keble' },
+						},
+						{
+							label: 'E.B. Pusey',
+							collapsed: true,
+							autogenerate: { directory: 'pusey' },
+						},
+						{
+							label: 'Henry Liddon',
+							collapsed: true,
+							autogenerate: { directory: 'liddon' },
+						},
+					],
+				},
+				{
+					label: 'Caroline Divines & LACT',
+					collapsed: true,
+					items: [
+						{
+							label: 'Richard Hooker',
+							collapsed: true,
+							autogenerate: { directory: 'hooker' },
+						},
+						{
+							label: 'Library of Anglo-Catholic Theology',
+							collapsed: true,
+							autogenerate: { directory: 'lact' },
+						},
+						{
+							label: 'Caroline Divines',
+							collapsed: true,
+							autogenerate: { directory: 'caroline' },
+						},
+					],
+				},
+				{
+					label: 'Later Anglican Theology',
+					collapsed: true,
+					items: [
+						{
+							label: 'Charles Gore',
+							collapsed: true,
+							autogenerate: { directory: 'gore' },
+						},
+						{
+							label: 'Charles Chapman Grafton',
+							collapsed: true,
+							autogenerate: { directory: 'grafton' },
+						},
+						{
+							label: 'Percy Dearmer',
+							collapsed: true,
+							autogenerate: { directory: 'dearmer' },
+						},
+						{
+							label: 'John Mason Neale',
+							collapsed: true,
+							autogenerate: { directory: 'neale' },
+						},
+					],
+				},
+				{
+					label: 'Liturgy & Worship',
+					collapsed: true,
+					items: [
+						{
+							label: 'Liturgical Texts',
+							collapsed: true,
+							autogenerate: { directory: 'liturgy' },
+						},
+						{
+							label: 'BCP Documents',
+							collapsed: true,
+							autogenerate: { directory: 'bcp-historical' },
+						},
+					],
+				},
+				{
+					label: 'Historical Documents',
+					collapsed: true,
+					items: [
+						{
+							label: 'English Reformation',
+							collapsed: true,
+							autogenerate: { directory: 'reformation' },
+						},
+						{
+							label: 'Nonjurors',
+							collapsed: true,
+							autogenerate: { directory: 'nonjurors' },
+						},
+						{
+							label: 'Biographies',
+							collapsed: true,
+							autogenerate: { directory: 'bios' },
+						},
+						{
+							label: 'Essays',
+							collapsed: true,
+							autogenerate: { directory: 'essays' },
+						},
+					],
 				},
 				{
 					label: 'Resources',

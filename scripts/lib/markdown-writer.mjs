@@ -78,16 +78,18 @@ const turndown = createTurndown();
 
 /**
  * Convert cleaned HTML to Markdown.
+ * @param {string} cleanedHtml
+ * @param {string} [localPath] - archive-relative path (e.g. "dearmer/monuments1915.html") for resolving relative image URLs
  */
-export function htmlToMarkdown(cleanedHtml) {
+export function htmlToMarkdown(cleanedHtml, localPath) {
   let md = turndown.turndown(cleanedHtml);
-  return postProcess(md);
+  return postProcess(md, localPath);
 }
 
 /**
  * Post-process Markdown: collapse whitespace, fix entities, normalize headings.
  */
-function postProcess(md) {
+function postProcess(md, localPath) {
   // Collapse multiple blank lines to two
   md = md.replace(/\n{3,}/g, '\n\n');
 
@@ -98,6 +100,18 @@ function postProcess(md) {
   md = md.replace(/&gt;/g, '>');
   md = md.replace(/&quot;/g, '"');
   md = md.replace(/&#39;/g, "'");
+
+  // Rewrite relative image paths to absolute URLs on the source site
+  if (localPath) {
+    const baseDir = localPath.replace(/[^/]*$/, ''); // e.g. "dearmer/"
+    md = md.replace(/!\[([^\]]*)\]\((?!https?:\/\/)([^)]+)\)/g, (match, alt, src) => {
+      // Root-relative paths (e.g. /images/foo.jpg) resolve against the site root
+      const absoluteSrc = src.startsWith('/')
+        ? `${config.baseUrl}${src}`
+        : `${config.baseUrl}/${baseDir}${src}`;
+      return `![${alt}](${absoluteSrc})`;
+    });
+  }
 
   // Normalize headings: demote h1 to h2 (Starlight uses title as h1)
   md = md.replace(/^# /gm, '## ');

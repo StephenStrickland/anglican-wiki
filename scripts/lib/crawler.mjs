@@ -79,7 +79,11 @@ function extractLinks(html, pageUrl) {
  */
 async function saveToArchive(localPath, content) {
   const fullPath = path.join(config.archiveDir, localPath);
-  await fs.mkdir(path.dirname(fullPath), { recursive: true });
+  try {
+    await fs.mkdir(path.dirname(fullPath), { recursive: true });
+  } catch (err) {
+    if (err.code !== 'EEXIST') throw err;
+  }
   if (typeof content === 'string') {
     await fs.writeFile(fullPath, content, 'utf-8');
   } else {
@@ -98,6 +102,7 @@ export async function crawl({ force = false, dryRun = false } = {}) {
   let processed = 0;
   let skipped = 0;
   let errors = 0;
+  let notFound = 0;
 
   // Seed with the homepage
   const startUrl = config.baseUrl + '/';
@@ -161,8 +166,12 @@ export async function crawl({ force = false, dryRun = false } = {}) {
       };
 
       if (status !== 200) {
-        console.log(`  [${status}] ${url}`);
-        errors++;
+        if (status === 404) {
+          notFound++;
+        } else {
+          console.log(`  [${status}] ${url}`);
+          errors++;
+        }
         return;
       }
 
@@ -229,6 +238,7 @@ export async function crawl({ force = false, dryRun = false } = {}) {
   console.log(`Crawl complete.`);
   console.log(`  Processed: ${processed}`);
   console.log(`  Skipped (already archived): ${skipped}`);
+  console.log(`  404 Not Found: ${notFound}`);
   console.log(`  Errors: ${errors}`);
   console.log(`  Total URLs in manifest: ${Object.keys(manifest).length}`);
 
