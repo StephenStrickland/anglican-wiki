@@ -1,6 +1,8 @@
 ---
 title: Tract Number 11
 description: Tract Number 11. From Project Canterbury.
+sidebar:
+  order: 13
 ---
 
 Tracts for the Times

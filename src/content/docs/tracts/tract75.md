@@ -1,6 +1,8 @@
 ---
 title: Tract Number 75
 description: Tract Number 75. From Project Canterbury.
+sidebar:
+  order: 77
 ---
 
 Tracts for the Times

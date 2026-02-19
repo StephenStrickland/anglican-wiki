@@ -1,6 +1,8 @@
 ---
 title: Tract Number 32
 description: Tract Number 32. From Project Canterbury.
+sidebar:
+  order: 34
 ---
 
 Tracts for the Times

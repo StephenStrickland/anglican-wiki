@@ -1,6 +1,8 @@
 ---
 title: Tract Number 88
 description: Tract Number 88. From Project Canterbury.
+sidebar:
+  order: 90
 ---
 
 Tracts for the Times

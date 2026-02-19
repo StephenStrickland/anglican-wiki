@@ -3,6 +3,8 @@ title: Introduction to the Second American Edition of the Tracts
 description: >-
   Introduction to the Second American Edition of the Tracts. From Project
   Canterbury.
+sidebar:
+  order: 2
 ---
 
 Introduction to the American Editions of the *Tracts for the Times*

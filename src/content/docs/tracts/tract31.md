@@ -1,6 +1,8 @@
 ---
 title: Tract Number 31
 description: Tract Number 31. From Project Canterbury.
+sidebar:
+  order: 33
 ---
 
 Tracts for the Times

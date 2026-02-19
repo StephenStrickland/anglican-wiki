@@ -1,6 +1,8 @@
 ---
 title: Tract Number 71
 description: Tract Number 71. From Project Canterbury.
+sidebar:
+  order: 73
 ---
 
 Tracts for the Times

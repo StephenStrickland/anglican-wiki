@@ -1,6 +1,8 @@
 ---
 title: '-Tracts for the Times'
 description: '-Tracts for the Times. From Project Canterbury.'
+sidebar:
+  order: 0
 ---
 
 Tracts for the Times
@@ -177,5 +179,3 @@ With an Historical Account of the Changes Made in the Liturgy as to the Expressi
 ---
 
 [Tract Number 91](tract91.html)\-- *The Articles of Religion from an American Point of View*. By William Reed Huntington. Included here because of its topical association, not because of any other connection with the original ninety Tracts.
-
----

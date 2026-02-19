@@ -1,6 +1,8 @@
 ---
 title: Index
 description: Index. From Project Canterbury.
+sidebar:
+  order: 92
 ---
 
 Tracts for the Times

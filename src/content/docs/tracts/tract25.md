@@ -1,6 +1,8 @@
 ---
 title: Tract Number 25
 description: Tract Number 25. From Project Canterbury.
+sidebar:
+  order: 27
 ---
 
 Tracts for the Times

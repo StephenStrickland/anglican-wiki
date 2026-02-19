@@ -1,6 +1,8 @@
 ---
 title: Tract Number 55
 description: Tract Number 55. From Project Canterbury.
+sidebar:
+  order: 57
 ---
 
 Tracts for the Times

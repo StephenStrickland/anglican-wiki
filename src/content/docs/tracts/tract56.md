@@ -1,6 +1,8 @@
 ---
 title: Tract Number 56
 description: Tract Number 56. From Project Canterbury.
+sidebar:
+  order: 58
 ---
 
 Tracts for the Times

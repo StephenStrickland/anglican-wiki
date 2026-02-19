@@ -1,6 +1,8 @@
 ---
 title: Tract Number 12
 description: Tract Number 12. From Project Canterbury.
+sidebar:
+  order: 14
 ---
 
 Tracts for the Times

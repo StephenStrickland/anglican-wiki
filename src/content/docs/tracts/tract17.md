@@ -1,6 +1,8 @@
 ---
 title: Tract Number 17
 description: Tract Number 17. From Project Canterbury.
+sidebar:
+  order: 19
 ---
 
 Tracts for the Times

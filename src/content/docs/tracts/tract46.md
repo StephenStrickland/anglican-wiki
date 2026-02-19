@@ -1,6 +1,8 @@
 ---
 title: Tract Number 46
 description: Tract Number 46. From Project Canterbury.
+sidebar:
+  order: 48
 ---
 
 Tracts for the Times

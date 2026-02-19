@@ -1,6 +1,8 @@
 ---
 title: Tract Number 3
 description: Tract Number 3. From Project Canterbury.
+sidebar:
+  order: 5
 ---
 
 Tracts for the Times

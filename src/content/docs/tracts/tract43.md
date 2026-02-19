@@ -1,6 +1,8 @@
 ---
 title: Tract Number 43
 description: Tract Number 43. From Project Canterbury.
+sidebar:
+  order: 45
 ---
 
 Tracts for the Times

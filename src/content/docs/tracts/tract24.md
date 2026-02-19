@@ -1,6 +1,8 @@
 ---
 title: Tract Number 24
 description: Tract Number 24. From Project Canterbury.
+sidebar:
+  order: 26
 ---
 
 Tracts for the Times

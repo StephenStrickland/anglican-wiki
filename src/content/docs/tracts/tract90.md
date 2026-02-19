@@ -1,6 +1,8 @@
 ---
 title: Tract90
 description: Tract90. From Project Canterbury.
+sidebar:
+  order: 92
 ---
 
 > Tract 90 has moved to its own directory on Project Canterbury; please visit the new location to find a more easily downloaded and read version of this text.

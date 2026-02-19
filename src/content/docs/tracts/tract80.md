@@ -1,6 +1,8 @@
 ---
 title: Tract Number 80
 description: Tract Number 80. From Project Canterbury.
+sidebar:
+  order: 82
 ---
 
 Tracts for the Times

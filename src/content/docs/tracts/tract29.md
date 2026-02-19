@@ -1,6 +1,8 @@
 ---
 title: Tract Number 29
 description: Tract Number 29. From Project Canterbury.
+sidebar:
+  order: 31
 ---
 
 Tracts for the Times

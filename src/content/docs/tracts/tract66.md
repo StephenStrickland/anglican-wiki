@@ -1,6 +1,8 @@
 ---
 title: Tract Number 66--Supplement to Tract XVIII
 description: Tract Number 66--Supplement to Tract XVIII. From Project Canterbury.
+sidebar:
+  order: 68
 ---
 
 Tracts for the Times

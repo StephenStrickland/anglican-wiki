@@ -1,6 +1,8 @@
 ---
 title: Tract Number 89
 description: Tract Number 89. From Project Canterbury.
+sidebar:
+  order: 91
 ---
 
 Tracts for the Times

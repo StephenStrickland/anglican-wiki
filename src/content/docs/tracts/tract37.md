@@ -1,6 +1,8 @@
 ---
 title: Tract Number 37
 description: Tract Number 37. From Project Canterbury.
+sidebar:
+  order: 39
 ---
 
 Tracts for the Times

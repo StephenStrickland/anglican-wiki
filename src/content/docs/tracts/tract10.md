@@ -1,6 +1,8 @@
 ---
 title: Tract Number 10
 description: Tract Number 10. From Project Canterbury.
+sidebar:
+  order: 12
 ---
 
 Tracts for the Times

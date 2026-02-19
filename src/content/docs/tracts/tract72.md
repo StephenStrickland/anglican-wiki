@@ -1,6 +1,8 @@
 ---
 title: Tract Number 72
 description: Tract Number 72. From Project Canterbury.
+sidebar:
+  order: 74
 ---
 
 Tracts for the Times

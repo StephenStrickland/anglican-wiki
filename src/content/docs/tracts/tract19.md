@@ -1,6 +1,8 @@
 ---
 title: Tract Number 19
 description: Tract Number 19. From Project Canterbury.
+sidebar:
+  order: 21
 ---
 
 Tracts for the Times

@@ -1,6 +1,8 @@
 ---
 title: Tract Number 47
 description: Tract Number 47. From Project Canterbury.
+sidebar:
+  order: 49
 ---
 
 Tracts for the Times

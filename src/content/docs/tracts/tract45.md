@@ -1,6 +1,8 @@
 ---
 title: Tract Number 45
 description: Tract Number 45. From Project Canterbury.
+sidebar:
+  order: 47
 ---
 
 Tracts for the Times

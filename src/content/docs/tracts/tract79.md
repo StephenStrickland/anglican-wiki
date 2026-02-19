@@ -1,6 +1,8 @@
 ---
 title: Tract Number 79
 description: Tract Number 79. From Project Canterbury.
+sidebar:
+  order: 81
 ---
 
 Tracts for the Times

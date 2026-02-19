@@ -1,6 +1,8 @@
 ---
 title: Tract Number 21
 description: Tract Number 21. From Project Canterbury.
+sidebar:
+  order: 23
 ---
 
 Tracts for the Times

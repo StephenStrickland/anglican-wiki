@@ -1,6 +1,8 @@
 ---
 title: Tracts for the Times
 description: Tracts for the Times. From Project Canterbury.
+sidebar:
+  order: 80
 ---
 
 Tract Number 78

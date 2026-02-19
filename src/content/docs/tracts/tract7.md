@@ -1,6 +1,8 @@
 ---
 title: Tract Number 7
 description: Tract Number 7. From Project Canterbury.
+sidebar:
+  order: 9
 ---
 
 Tracts for the Times

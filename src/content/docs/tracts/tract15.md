@@ -1,6 +1,8 @@
 ---
 title: Tract Number 15
 description: Tract Number 15. From Project Canterbury.
+sidebar:
+  order: 17
 ---
 
 Tracts for the Times

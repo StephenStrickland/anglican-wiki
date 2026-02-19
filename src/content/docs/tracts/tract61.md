@@ -1,6 +1,8 @@
 ---
 title: Tract Number 61
 description: Tract Number 61. From Project Canterbury.
+sidebar:
+  order: 63
 ---
 
 Tracts for the Times

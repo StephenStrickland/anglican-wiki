@@ -1,6 +1,8 @@
 ---
 title: Tract Number 22
 description: Tract Number 22. From Project Canterbury.
+sidebar:
+  order: 24
 ---
 
 Tracts for the Times

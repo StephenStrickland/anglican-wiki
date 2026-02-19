@@ -1,6 +1,8 @@
 ---
 title: Tracts for the Times
 description: Tracts for the Times. From Project Canterbury.
+sidebar:
+  order: 83
 ---
 
 Testimony of Writers of the Later English Church

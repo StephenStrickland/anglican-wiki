@@ -1,6 +1,8 @@
 ---
 title: Advertisement to the Tracts for the Times
 description: Advertisement to the Tracts for the Times. From Project Canterbury.
+sidebar:
+  order: 1
 ---
 
 Tracts for the Times

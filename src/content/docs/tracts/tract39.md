@@ -1,6 +1,8 @@
 ---
 title: Tract Number 39
 description: Tract Number 39. From Project Canterbury.
+sidebar:
+  order: 41
 ---
 
 Tracts for the Times

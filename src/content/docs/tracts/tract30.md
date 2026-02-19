@@ -1,6 +1,8 @@
 ---
 title: Tract Number 30
 description: Tract Number 30. From Project Canterbury.
+sidebar:
+  order: 32
 ---
 
 Tracts for the Times

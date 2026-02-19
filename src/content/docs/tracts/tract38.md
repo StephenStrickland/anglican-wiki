@@ -1,6 +1,8 @@
 ---
 title: Tract Number 38
 description: Tract Number 38. From Project Canterbury.
+sidebar:
+  order: 40
 ---
 
 Tracts for the Times

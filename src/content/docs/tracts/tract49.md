@@ -1,6 +1,8 @@
 ---
 title: Tract Number 49
 description: Tract Number 49. From Project Canterbury.
+sidebar:
+  order: 51
 ---
 
 Tracts for the Times

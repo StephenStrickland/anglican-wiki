@@ -1,6 +1,8 @@
 ---
 title: 'Tract 91, by William Reed Huntington'
 description: 'Tract 91, by William Reed Huntington. From Project Canterbury.'
+sidebar:
+  order: 93
 ---
 
 TRACT NO. XCI

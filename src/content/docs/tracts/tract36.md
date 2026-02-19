@@ -1,6 +1,8 @@
 ---
 title: Tract Number 36
 description: Tract Number 36. From Project Canterbury.
+sidebar:
+  order: 38
 ---
 
 Tracts for the Times

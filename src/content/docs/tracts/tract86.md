@@ -1,6 +1,8 @@
 ---
 title: Tract Number 86
 description: Tract Number 86. From Project Canterbury.
+sidebar:
+  order: 88
 ---
 
 Tracts for the Times

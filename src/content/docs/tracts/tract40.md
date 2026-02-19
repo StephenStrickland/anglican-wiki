@@ -1,6 +1,8 @@
 ---
 title: Tract Number 40
 description: Tract Number 40. From Project Canterbury.
+sidebar:
+  order: 42
 ---
 
 Tracts for the Times

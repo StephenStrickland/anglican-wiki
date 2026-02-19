@@ -1,6 +1,8 @@
 ---
 title: Tract Number 34
 description: Tract Number 34. From Project Canterbury.
+sidebar:
+  order: 36
 ---
 
 Tracts for the Times

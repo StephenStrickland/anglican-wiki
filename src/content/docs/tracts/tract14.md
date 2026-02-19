@@ -1,6 +1,8 @@
 ---
 title: Tract Number 14
 description: Tract Number 14. From Project Canterbury.
+sidebar:
+  order: 16
 ---
 
 Tracts for the Times

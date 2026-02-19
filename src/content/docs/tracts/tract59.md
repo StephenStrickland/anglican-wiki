@@ -1,6 +1,8 @@
 ---
 title: Tract Number 59
 description: Tract Number 59. From Project Canterbury.
+sidebar:
+  order: 61
 ---
 
 Tracts for the Times

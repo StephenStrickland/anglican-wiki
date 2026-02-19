@@ -1,6 +1,8 @@
 ---
 title: Tract Number 2
 description: Tract Number 2. From Project Canterbury.
+sidebar:
+  order: 4
 ---
 
 Tracts for the Times

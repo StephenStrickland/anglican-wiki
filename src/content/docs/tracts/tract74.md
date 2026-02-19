@@ -1,6 +1,8 @@
 ---
 title: Tracts for the Times
 description: Tracts for the Times. From Project Canterbury.
+sidebar:
+  order: 76
 ---
 
 Tracts for the Times

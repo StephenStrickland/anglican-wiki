@@ -1,6 +1,8 @@
 ---
 title: Tract Number 5
 description: Tract Number 5. From Project Canterbury.
+sidebar:
+  order: 7
 ---
 
 Tracts for the Times

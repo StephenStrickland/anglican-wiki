@@ -1,6 +1,8 @@
 ---
 title: Tract Number 57
 description: Tract Number 57. From Project Canterbury.
+sidebar:
+  order: 59
 ---
 
 Tracts for the Times

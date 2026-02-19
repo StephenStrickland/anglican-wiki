@@ -1,6 +1,8 @@
 ---
 title: Tract Number 53
 description: Tract Number 53. From Project Canterbury.
+sidebar:
+  order: 55
 ---
 
 Tracts for the Times

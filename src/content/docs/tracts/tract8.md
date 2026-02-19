@@ -1,6 +1,8 @@
 ---
 title: Tract Number 8
 description: Tract Number 8. From Project Canterbury.
+sidebar:
+  order: 10
 ---
 
 Tracts for the Times

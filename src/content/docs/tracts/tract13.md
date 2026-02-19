@@ -1,6 +1,8 @@
 ---
 title: Tract Number 13
 description: Tract Number 13. From Project Canterbury.
+sidebar:
+  order: 15
 ---
 
 Tracts for the Times

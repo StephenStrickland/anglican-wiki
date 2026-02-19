@@ -1,6 +1,8 @@
 ---
 title: Tract Number 58
 description: Tract Number 58. From Project Canterbury.
+sidebar:
+  order: 60
 ---
 
 Tracts for the Times

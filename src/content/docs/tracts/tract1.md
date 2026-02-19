@@ -1,6 +1,8 @@
 ---
 title: Tract Number 1
 description: Tract Number 1. From Project Canterbury.
+sidebar:
+  order: 3
 ---
 
 Tracts for the Times

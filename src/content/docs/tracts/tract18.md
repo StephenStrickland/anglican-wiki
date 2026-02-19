@@ -1,6 +1,8 @@
 ---
 title: Tract Number 18
 description: Tract Number 18. From Project Canterbury.
+sidebar:
+  order: 20
 ---
 
 Tracts for the Times

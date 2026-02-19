@@ -1,6 +1,8 @@
 ---
 title: Tract Number 27
 description: Tract Number 27. From Project Canterbury.
+sidebar:
+  order: 29
 ---
 
 Tracts for the Times

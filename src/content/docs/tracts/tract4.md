@@ -1,6 +1,8 @@
 ---
 title: Tract Number 4
 description: Tract Number 4. From Project Canterbury.
+sidebar:
+  order: 6
 ---
 
 Tracts for the Times

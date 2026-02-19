@@ -1,6 +1,8 @@
 ---
 title: Tract Number 83
 description: Tract Number 83. From Project Canterbury.
+sidebar:
+  order: 85
 ---
 
 Tracts for the Times

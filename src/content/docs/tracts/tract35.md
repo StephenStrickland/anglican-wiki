@@ -1,6 +1,8 @@
 ---
 title: Tract Number 35
 description: Tract Number 35. From Project Canterbury.
+sidebar:
+  order: 37
 ---
 
 Tracts for the Times

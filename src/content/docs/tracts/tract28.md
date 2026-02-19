@@ -1,6 +1,8 @@
 ---
 title: Tract Number 28
 description: Tract Number 28. From Project Canterbury.
+sidebar:
+  order: 30
 ---
 
 Tracts for the Times

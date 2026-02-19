@@ -1,6 +1,8 @@
 ---
 title: Tract Number 41
 description: Tract Number 41. From Project Canterbury.
+sidebar:
+  order: 43
 ---
 
 Tracts for the Times

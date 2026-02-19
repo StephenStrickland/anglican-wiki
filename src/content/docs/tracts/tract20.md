@@ -1,6 +1,8 @@
 ---
-title: Tract20
-description: Tract20. From Project Canterbury.
+title: Tract Number 20
+description: Tract Number 20. From Project Canterbury.
+sidebar:
+  order: 22
 ---
 
 Tracts for the Times

@@ -1,6 +1,8 @@
 ---
 title: Tract Number 9
 description: Tract Number 9. From Project Canterbury.
+sidebar:
+  order: 11
 ---
 
 Tracts for the Times

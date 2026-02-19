@@ -1,6 +1,8 @@
 ---
 title: Tract Number 63
 description: Tract Number 63. From Project Canterbury.
+sidebar:
+  order: 65
 ---
 
 Tracts for the Times
