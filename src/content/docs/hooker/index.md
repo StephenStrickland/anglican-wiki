@@ -1,5 +1,7 @@
 ---
 title: Richard Hooker
+sidebar:
+  label: "Richard Hooker"
 description: Works of Richard Hooker (1554–1600), father of Anglican theology. Includes the Laws of Ecclesiastical Polity, edited by John Keble (Oxford, 1876).
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: Preface
+sidebar:
+  label: "Preface"
 subtitle: "Laws of Ecclesiastical Polity"
 description: Preface to the Laws of Ecclesiastical Polity by Richard Hooker, edited by John Keble (Oxford, 1876).
 author: Richard Hooker
