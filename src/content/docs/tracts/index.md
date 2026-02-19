@@ -1,11 +1,10 @@
 ---
-title: '-Tracts for the Times'
-description: '-Tracts for the Times. From Project Canterbury.'
+title: 'Tracts for the Times'
+description: 'Tracts for the Times. From Project Canterbury.'
 sidebar:
   order: 0
 ---
 
-Tracts for the Times
 
 [Advertisement](advertisement.html) to the Tracts, by John Henry Newman
 
@@ -168,7 +167,7 @@ With an Historical Account of the Changes Made in the Liturgy as to the Expressi
 
 [Tract Number 86](tract86.html)\--Indications of a Superintending Providence in the Preservation of the Prayer Book and in the Changes which It has Undergone
 
-[Tract Number 87](/tracts/tract87/)\--On Reserve in Communicating Religious Knowledge (continued).
+[Tract Number 87](tract87.html)\--On Reserve in Communicating Religious Knowledge (continued).
 
 [Tract Number 88](/tracts/tract88/)\--The Greek Devotions of Bishop Andrews, Translated and Arranged.
 

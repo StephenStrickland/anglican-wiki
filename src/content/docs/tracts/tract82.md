@@ -1,6 +1,6 @@
 ---
-title: Tracts for the Times
-description: Tracts for the Times. From Project Canterbury.
+title: Tract Number 82
+description: Tract Number 82. From Project Canterbury.
 sidebar:
   order: 84
 ---
