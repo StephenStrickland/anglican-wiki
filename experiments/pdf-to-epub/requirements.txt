@@ -1,0 +1,7 @@
+pdfplumber
+pdfminer.six
+pypdfium2
+markdownify
+beautifulsoup4
+lxml
+pymupdf
