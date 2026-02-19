@@ -8,16 +8,6 @@ author: "John Keble"
 year: 1835
 ---
 
-Tracts for the Times
-
-SERMONS ON SAINTS' DAYS.
-
-(No. 3. ST. MARK'S DAY.)
-
-\[Number 57\]
-
----
-
 > "*That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine*."Ephes. iv. 14.
 
 ---

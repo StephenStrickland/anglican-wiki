@@ -8,10 +8,6 @@ author: "John Henry Newman"
 year: 1837
 ---
 
-Tracts for the Times
-
-ON PURGATORY.
-
 (*Against Romanism.No. 3*.)
 
 \[Number 79\]

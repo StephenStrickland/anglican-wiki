@@ -8,10 +8,6 @@ author: "John Henry Newman"
 year: 1836
 ---
 
-Tracts for the Times
-
-ON THE CONTROVERSY WITH THE ROMANISTS.
-
 (Against Romanism.No. 1.)
 
 \[Number 71\]

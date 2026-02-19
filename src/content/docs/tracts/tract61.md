@@ -8,14 +8,6 @@ author: "Antony Buller"
 year: 1835
 ---
 
-Tracts for the Times
-
-THE CATHOLIC CHURCH A WITNESS AGAINST REAL ILLIBERALITY.
-
-\[Number 61\]
-
----
-
 ILLIBERALITY of mind in religious matters, bigotry, intolerance, and the like, is the disposition to make unimportant points important, to make them terms of communion, watchwords of parties, and so on.
 
 Now the Church Catholic acts on the principle of insisting on no points but such as are of importance, of judging of opinions variously according to their respective importance, of acknowledging no parties, and of protesting and witnessing against all party spirit and party dogmas.

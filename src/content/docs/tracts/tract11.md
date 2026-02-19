@@ -1,5 +1,6 @@
 ---
 title: "Tract 11: The Visible Church, Letters I and II"
+subtitle: (In Letters to a Friend.)
 description: Tract Number 11. From Project Canterbury.
 sidebar:
   label: "Tract 11: The Visible Church, Letters I and II"
@@ -8,17 +9,7 @@ author: "John Henry Newman"
 year: 1833
 ---
 
-Tracts for the Times
-
-THE VISIBLE CHURCH.
-
-*(In Letters to a Friend.)*
-
-\[Number 11\]
-
----
-
-LETTER I.
+### LETTER I.
 
 You wish to have my opinion on the doctrine of "the Holy Catholic Church," as contained in Scripture, and taught in the Creed. So I send you the following lines, which perhaps may serve, through GODS blessing, to assist you in your search after the truth in this matter, even though they do no more; indeed no remarks, however just, can be much more than an assistance to you. You must search for yourself, and GOD must teach you.
 
@@ -48,7 +39,7 @@ My paper is exhausted. If you allow me, I will send you soon a second Letter; me
 
 ---
 
-LETTER II.
+### LETTER II.
 
 I AM sometimes struck with the inconsistency of those, who do not allow us to express the gratitude due to the Church, while they do not hesitate to declare their obligation to individuals who have benefited them. To a vow that they owe their views of religion and their present hopes of salvation to this or that distinguished preacher, appears to them as harmless, as it may be in itself true and becoming; but if a person ascribes his faith and knowledge to the Church, he is thought to forget his peculiar and unspeakable debt to that SAVIOUR who died for him. Surely, if our LORD makes man His instrument of good to man, and if it is possible to be grateful to man without forgetting the Source of all grace and power, there is nothing wonderful in His having appointed a company of men as the especial medium of His instruction and spiritual gifts, and in consequence, of His having laid upon us the duty of gratitude to it. Now this is all I wish to maintain, what is most clearly (as I think) revealed in Scripture, that the blessings of redemption come to us through the Visible Church; so that, as we betake ourselves to a Dispensary for medicine, without attributing praise or intrinsic worth to the building or the immediate managers of its stores, in something of the like manner we are to come to that One Society, to which CHRIST has entrusted the office of stewardship in the distribution of gifts, of which He alone is the Author and real Dispenser.
 

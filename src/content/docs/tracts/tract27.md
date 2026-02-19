@@ -8,21 +8,7 @@ author: "John Cosin"
 year: 1834
 ---
 
-Tracts for the Times
-
-THE
-
-HISTORY OF POPISH TRANSUBSTANTIATION;
-
-TO WHICH IS OPPOSED THE CATHOLIC DOCTRINE OF THE HOLY SCRIPTURE, THE ANCIENT FATHERS, AND THE REFORMED CHURCHES.
-
-(*By John Cosin, Bishop of Durham*.)
-
-\[Number 27\]
-
----
-
-CHAPTER I.
+### Chapter I
 
 *The Spiritual Presence of Christ in the Sacrament of the Lord's Supper.*
 
@@ -40,7 +26,7 @@ This is the spiritual (and yet no less true and undoubted than if it were corpor
 
 As to the *manner* of the presence of the Body and Blood of our LORD in the Blessed Sacrament, we that are Protestant and Reformed according to the ancient Catholic Church, do not search into the manner of it with perplexing inquiries; but, after the example of the Primitive and purest Church of CHRIST, we leave it to the power and wisdom of our LORD, yielding a full and unfeigned assent to His words. Had the Romish maintainers of Transubstantiation done the same, they would not have determined and decreed, and then imposed as an article of faith absolutely necessary to salvation, a manner of presence, newly by them invented, under pain of the most direful curse, and there would have been in the Church less wrangling, and more peace and unity than now is.
 
-CHAPTER II.
+### Chapter II
 
 *Illustrated from Protestant Authorities.*
 
@@ -68,7 +54,7 @@ Now because great is the fame of Calvin (who subscribed the Augustan Confession,
 
 I was the more willing to be long in transcribing these things at large, out of Public Confessions of Churches, and the best of Authors; that it might the better appear, how injuriously Protestant Divines are calumniated by others unacquainted with their opinions, as though by these words, *Spiritually* and *Sacramentally*, they did not acknowledge a true and well-understood *real* Presence and Communication of the Body and Blood of CHRIST in the Blessed Sacrament; whereas, on the contrary, they do professedly own it, in terms as express as any can be used.
 
-CHAPTER III.
+### Chapter III
 
 *How the Papists understand the Doctrine of the Spiritual Presence.*
 
@@ -82,13 +68,9 @@ Yet our faith doth not cause or make that presence, but apprehends it as most tr
 
 The result of all this is, that the Body and Blood of CHRIST are sacramentally united to the Bread and Wine, so that CHRIST is truly given to the faithful; and yet is not to be here considered with sense or worldly reason, but by faith, resting on the words of the Gospel. Now it is said, that the Body and Blood of CHRIST are joined to the Bread and Wine, because, that in the celebration of the Holy Eucharist, the Flesh is given together with the Bread, and the Blood together with the Wine. All that remains is, that we should with faith and humility admire this high and sacred mystery, which our tongue cannot sufficiently explain, nor our heart conceive.
 
-CHAPTER IV.
+### Chapter IV
 
-*
-
-The Popish Doctrine of Transubstantiation.
-
-*
+*The Popish Doctrine of Transubstantiation.*
 
 IT is an Article of Faith in the Church of Rome, that in the blessed Eucharist the substance of the Bread and Wine is reduced to nothing, and that in its place succeeds the Body and Blood of CHRIST. . . . . The Protestants are much of another 1mind; and yet none of them denies altogether but that there is a conversion of the Bread into the Body, (and consequently the Wine into the Blood,) of CHRIST; for they know and acknowledge, that in the Sacrament, by virtue of the words and blessing of CHRIST, the condition, use, and office of the Bread is wholly changed, that is, of common and ordinary, it becomes our mystical and sacramental food; whereby, as they affirm and believe, the true Body of CHRIST is not only shadowed and figured, but also given indeed, and by worthy communicants truly received. Yet they believe not that the bread loseth its own, to become the substance of the Body of CHRIST; for the holy Scripture, and the ancient interpreters thereof for many ages, never taught such an essential change and conversion, as that the very substance, the matter, and form of the bread should be wholly taken away, but only a mysterious and sacramental one, whereby our ordinary is changed into mystic bread, and thereby designed and appointed to another use, end, and office than before. This change, whereby supernatural effects are wrought by things natural, while their essence is preserved entire, doth best agree with the grace and power of GOD.
 
@@ -110,10 +92,6 @@ Now we leave inquiring what GOD is able to do, for we should first know His will
 
 OXFORD.
 
-*
-
-The Feast of St. Matthias.
-
-*
+*The Feast of St. Matthias.*
 
 *(To be continued.)*

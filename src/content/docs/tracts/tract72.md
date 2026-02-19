@@ -8,10 +8,6 @@ author: "James Ussher"
 year: 1836
 ---
 
-Tracts for the Times
-
-ARCHBISHOP USSHER ON PRAYERS FOR THE DEAD
-
 (*Against Romanism No. 2.*)
 
 \[Number 72\]

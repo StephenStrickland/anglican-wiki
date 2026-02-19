@@ -1,5 +1,6 @@
 ---
 title: "Tract 26: The Necessity and Advantage of Frequent Communion"
+subtitle: (Extracted from Bishop Beveridge's Sermon on the subject.)
 description: Tract Number 26. From Project Canterbury.
 sidebar:
   label: "Tract 26: The Necessity and Advantage of Frequent Communion"
@@ -8,15 +9,6 @@ author: "William Beveridge"
 year: 1834
 ---
 
-Tracts for the Times
-
-THE NECESSITY AND ADVANTAGE OF FREQUENT COMMUNION.
-
-(*Extracted from Bishop Beveridge's Sermon on the subject*.)
-
-\[Number 26\]
-
----
 
 I HAVE done what I could; I have taken all occasions to convince you of your sin and danger in neglecting this *Blessed Sacrament*, and to persuade you to a more frequent receiving of it; but I see nothing will do: indeed nothing can do it but the Almighty Power of GOD, whom I therefore beseech of His Infinite mercy to open mens eyes, that they may "see the things that belong to their everlasting peace, before they be hid from them." And then I am sure this Sacrament would be as much *frequented*, as it hath been hitherto *neglected*. But seeing He is usually pleased to do this great work by the Ministry of His Word, I shall make it my business at this time, in his name, to put you in mind of your *duty* and *interest* in this particular, and so set before you such reasons why you ought to take all opportunities of receiving the Mystical Body and Blood of CHRIST your SAVIOUR, as I hope by His blessing may prevail with many to do it: GOD grant that it may do so with all that hear me at this time.
 

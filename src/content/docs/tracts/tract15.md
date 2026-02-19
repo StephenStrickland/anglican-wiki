@@ -8,14 +8,6 @@ author: "William Palmer"
 year: 1833
 ---
 
-Tracts for the Times
-
-ON THE APOSTOLICAL SUCCESSION IN THE ENGLISH CHURCH.
-
-\[Number 15\]
-
----
-
 WHEN Churchmen in England maintain the Apostolical Commission of their Ministers, they are sometimes met with the objection, that they cannot prove it without tracing their orders back to the Church of Rome; a position, indeed, which in a certain sense is true. And hence it is argued, that they are reduced to the dilemma, either of acknowledging they had no right to separate from the Pope, or, on the other hand, of giving up the Ministerial Succession altogether, and resting the claims of their pastors on some other ground; in other words, that they are inconsistent in reprobating Popery, while they draw a line between their Ministers and those of Dissenting Communions.
 
 It is intended in the pages that follow, to reply to this supposed difficulty; but first, a few words shall be said, by way of preface, on the doctrine itself, which we Churchmen advocate.

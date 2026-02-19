@@ -8,16 +8,6 @@ author: "John Keble"
 year: 1835
 ---
 
-Tracts for the Times
-
-SERMONS FOR SAINTS' DAYS AND HOLIDAYS.
-
-(No. 4. ST. PHILIP AND ST. JAMES.)
-
-\[Number 60\]
-
----
-
 "*If any man love not the* LORD JESUS CHRIST*, let him be Anathema, Maranatha*."1 Cor. xvi. 21.
 
 ---

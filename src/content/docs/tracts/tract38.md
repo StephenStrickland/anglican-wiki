@@ -8,16 +8,6 @@ author: "John Henry Newman"
 year: 1834
 ---
 
-Tracts for the Times
-
-VIA MEDIA.
-
-No. I.
-
-\[Number 38\]
-
----
-
 > *
 >
 > Laicus

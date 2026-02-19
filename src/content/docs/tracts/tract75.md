@@ -8,12 +8,6 @@ author: "John Henry Newman"
 year: 1836
 ---
 
-Tracts for the Times
-
-ON THE ROMAN BREVIARY AS EMBODYING THE SUBSTANCE OF THE DEVOTIONAL SERVICES OF THE CHURCH CATHOLIC.
-
-\[Number 75\]
-
 [Full text available](http://www.newmanreader.org/works/times/tract75/index.html) from Newmanreader.org
 
 ---

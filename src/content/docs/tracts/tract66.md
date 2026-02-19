@@ -8,16 +8,6 @@ author: "Edward Pusey"
 year: 1835
 ---
 
-Tracts for the Times
-
-SUPPLEMENT TO TRACT XVIII.
-
-ON THE BENEFITS OF THE SYSTEM OF FASTING PRESCRIBED BY OUR CHURCH.
-
-\[Number 66\]
-
----
-
 > THE following observations were occasioned by some questions, signed "Clericus," addressed to the Editor of the British Magazine, in April last; as they related to my tract, I felt called upon to answer them as far as I could; and they are now re-printed, with some additions, in the hope that they may remove some difficulties, which stand in the way of returning to the wise Rules of our Church, with respect to the Christian duty of Fasting.
 >
 > E. B. P.

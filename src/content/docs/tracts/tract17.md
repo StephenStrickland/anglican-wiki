@@ -1,21 +1,12 @@
 ---
-title: "Tract 17: The Ministerial Commission, a Trust from Christ"
+title: "Tract 17: The Ministerial Commission"
+subtitle: A Trust from Christ for the Benefit of His People
 description: Tract Number 17. From Project Canterbury.
 sidebar:
-  label: "Tract 17: The Ministerial Commission, a Trust from Christ"
+  label: "Tract 17: The Ministerial Commission"
   order: 19
 author: "Benjamin Harrison"
 year: 1833
----
-
-Tracts for the Times
-
-THE MINISTERIAL COMMISSION.
-
-A TRUST FROM CHRIST FOR THE BENEFIT OF HIS PEOPLE.
-
-\[Number 17\]
-
 ---
 
 IT will be acknowledged by all who have followed the Jewish Church through her days of suffering, and who have learnt the deep feeling of our own impressive Litany, that the main strength of the Church of GOD, in her times of trial and danger, is in the lowliness of her humiliation before her heavenly guardian for her many imperfections and sins. But there is another element of her strength, which, it is to be feared, is sometimes forgotten, though not less essential to her character; I mean, her firm and unshaken reliance upon the promises of GOD made to her. We find in Daniel's prayer the most heart-broken confessions of sin in the name of his Church and people; but, at the same time, there is throughout a stedfast hope of GOD'S mercy, as pledged to His holy city and temple. "O LORD, righteousness belongeth unto Thee, but unto us confusion of face, as at this day; to our kinds, to our princes, and to our fathers, because we have sinned against Thee." "O LORD, according to all Thy righteousness, I beseech Thee, let Thine anger and Thy fury be turned away from Thy city Jerusalem, Thy holy mountain; because for our sins, and for the iniquities of our fathers, Jerusalem and Thy people are become a reproach to all that are about us. O LORD, hear: O LORD, forgive; O LORD, hearken and do; defer not, for Thine own sake, O my GOD: for Thy city and Thy people are called by Thy Name." It can scarcely be necessary to remind the members of our own Church, how beautifully the close of her Litany breaches the spirit of Daniel's prayer: how, in the midst of reiterated supplications for GOD'S forgiveness and mercy, now addressed more especially to the SON, now to the FATHER, now to every person of the Blessed and Holy Trinity, now in the prevailing words which CHRIST Himself has taught us-supplications so deeply expressive of "the sighing of a contrite heart, the desire of such as be sorrowful,"-there still breaks in a gleam of faith and hope in the memory of the noble works which we have heard with our ears, and our fathers have declared unto us, a strong yet humble confidence, that GOD will yet again arise and help us, and deliver us for His Name's sake, and for His Honour.

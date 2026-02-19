@@ -8,16 +8,6 @@ author: "Thomas Wilson"
 year: 1834
 ---
 
-Tracts for the Times
-
-BISHOP WILSON'S MEDITATIONS ON HIS SACRED OFFICE.
-
-No. 4.Wednesday(continued)
-
-\[Number 50\]
-
----
-
 Luke xvi. 19. "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day." For a man, then, to be rich, to be clothed magnificently, and to take no care of the poor, is sufficient to send him to hell, because he cannot lead a Christian life. Repentance, mortification, and the cross, are utterly inconsistent with a soft, sensual, voluptuous life; the desire of happiness, with the love of this present life. It is, therefore, a most miserable state, for a man to have everything according to his desire, and quietly to enjoy the pleasures of life. There needs no more to expose him to eternal misery. "He that loveth his life, shall lose it; and he that hateth his life in this world, shall keep it unto life eternal (John xii. 25.) He that loveth life, (that is, is fond of it) for the sake of the pleasures, advantages, it affords, will soon lose the love of heavenly things; the love of God, of his soul, and of the duty he owes to them: He hates it, who does not value it in comparison of eternal life, which he hopes for. A Christian gives proof of this, by mortifying himself; a Pastor, in spending his life in the works of the ministry, &c. Those whom God loves in order to an happy eternity, He weans from the pleasures of this present life.
 
 Temperance consists in a sober use of all earthly, visible things, and in confining ourselves within the compass of what is necessary. With God all things are possible. The Almighty God enable me to conquer the temptation of riches, and to get above the allurements of this present life. There is much more reason for a man to humble himself, on account of his self-denial, than to boast of it, since the corruption of his nature is so great, that he cannot follow even the lawful dictates of nature, without hazarding his soul. Christian self-denial is, to resist and crucify in ourselves the spirit and inclinations of Adam,--the flesh, its affections and lusts,--to die to our passions, in order to follow the motions of the Spirit.

@@ -1,19 +1,11 @@
 ---
-title: "Tract 39: Bishop Wilson"
+title: "Tract 39: Bishop Wilson's Form of Receiving Penitents"
 description: Tract Number 39. From Project Canterbury.
 sidebar:
-  label: "Tract 39: Bishop Wilson"
+  label: "Tract 39: Bishop Wilson's Form of Receiving Penitents"
   order: 41
 author: "Thomas Wilson"
 year: 1834
----
-
-Tracts for the Times
-
-BISHOP WILSON'S FORM OF RECEIVING PENITENTS.
-
-\[Number 39\]
-
 ---
 
 After Morning Prayers, the person who is censured to penance standing in the accustomed place and habit, the Minister shall exhort him as follows:

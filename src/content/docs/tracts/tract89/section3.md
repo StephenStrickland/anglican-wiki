@@ -3,14 +3,6 @@ title: Tract Number 89; Section Three
 description: Tract Number 89; Section Three. From Project Canterbury.
 ---
 
-Tracts for the Times
-
-ON THE MYSTICISM ATTRIBUTED TO THE FATHERS OF THE CHURCH
-
-by John Keble
-
-\[Number 89\]
-
 > *
 >
 > §iii.-The Literal Sense left entire by the Mysticism of the Church.

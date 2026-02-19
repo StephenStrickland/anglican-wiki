@@ -1,5 +1,6 @@
 ---
 title: "Tract 28: Bishop Cosin on the Doctrine of the Eucharist"
+subtitle: (Continued.)
 description: Tract Number 28. From Project Canterbury.
 sidebar:
   label: "Tract 28: Bishop Cosin on the Doctrine of the Eucharist"
@@ -8,23 +9,7 @@ author: "John Cosin"
 year: 1834
 ---
 
-Tracts for the Times
-
-THE
-
-HISTORY OF POPISH TRANSUBSTANTIATION;
-
-TO WHICH IS OPPOSED THE CATHOLIC DOCTRINE OF THE HOLY SCRIPTURE, THE ANCIENT FATHERS, AND THE REFORMED CHURCHES.
-
-(*By John Cosin, Bishop of Durham*.)
-
-*(Continued.)*
-
-\[Number 28\]
-
----
-
-> CHAPTER V.
+### CHAPTER V.
 
 *The doctrine of Transubstantiation is contained neither in Scripture nor in the writings of the Fathers.*
 
@@ -82,7 +67,7 @@ All this the Fathers of Trent, and the Romish Inquisitors could not brook, and t
 
 ---
 
-CHAPTER VI.
+### CHAPTER VI.
 
 *Romish objections considered, as drawn from the writings of the Fathers.*
 
@@ -108,7 +93,7 @@ But if without admitting of a sacramental sense the words be used too rigorously
 
 ---
 
-CHAPTER VII.
+### CHAPTER VII.
 
 *History of the rise of the Romish Doctrine of Transubstantiation.*
 
@@ -154,8 +139,4 @@ By these any considering person may easily see, that Transubstantiation is a mer
 
 OXFORD.
 
-*
-
-The Feast of the Annunciation.
-
-*
+*The Feast of the Annunciation.*

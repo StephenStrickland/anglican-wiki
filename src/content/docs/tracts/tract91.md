@@ -8,23 +8,6 @@ author: "William Reed Huntington"
 year: 1907
 ---
 
-TRACT NO. XCI
-
-THE ARTICLES OF RELIGION FROM AN AMERICAN POINT OF VIEW
-
-BY
-
-THE REV. WILLIAM REED HUNTINGTON, D.D.
-RECTOR OF GRACE CHURCH, NEW YORK
-
-\[Reprinted from THE HIBBERT JOURNAL for July, 1907\]
-
-NEW YORK
-A. G. SHERWOOD & CO.
-1907
-
----
-
 DURING the last sixty and six years that have elapsed since 1841, the meteorite known in ecclesiastical history as Tract No. XC. has had ample time to cool. Such was the heat of friction developed by the stone’s passage through the Anglican atmosphere, so violent was the explosion caused by its impact upon the hard surface of an evangelical England, that, for the time being, a fair appraisal of values was impossible. Any attempt to lift and weigh the incandescent mass would have been futile. But patience has now had her perfect work, relative temperatures have quietly adjusted themselves, and it is open to sober-minded critics to subject Tract XC. to libration and analysis; hence Tract No. XCI, or The Same Subject Continued.
 
 Cardinal Newman has left on record in the Apologia a very full and frank statement of his reasons for making the Articles of Religion the subject of a Tract. He had been gradually leading his disciples on, through a sort of enchanted forest, beautiful for leafage and undergrowth, thou singularly deficient in guide-posts, until some of them, as he could not fail to discern, were on the point of asking him awkward questions. On the lips of more than one of the devotees there trembled the anxious interrogatory, "Master, whither?"

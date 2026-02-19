@@ -8,17 +8,6 @@ author: "John Keble"
 year: 1841
 ---
 
-Tracts for the Times
-
-ON THE MYSTICISM ATTRIBUTED TO THE FATHERS OF THE CHURCH
-
-by John Keble
-
-\[Number 89\]
-
-transcribed by Dr Robert G Stephenson
-AD 2000
-
 > § i.[Occasion, Grounds, and Limits of the Present Inquiry](/tracts/tract89/section1/)
 
 § ii.[Specimen of ancient Mysticism in interpreting Scripture.](/tracts/tract89/section2/)

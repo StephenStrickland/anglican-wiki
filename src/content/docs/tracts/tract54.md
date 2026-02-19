@@ -8,14 +8,6 @@ author: "John Keble"
 year: 1835
 ---
 
-Tracts for the Times
-
-SERMONS FOR SAINTS' DAYS AND HOLIDAYS.
-
-No. II, THE ANNUNCIATION OF THE BLESSED VIRGIN MARY.
-
-\[Number 54\]
-
 > ---
 
 "Though we, or an angel from heaven, preach any other Gospel unto you than that which we have preached unto you, let him be accursed."Galatians i. 8.

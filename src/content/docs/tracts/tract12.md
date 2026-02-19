@@ -1,32 +1,16 @@
 ---
-title: "Tract 12: Richard Nelson I. Bishops, Priests, and Deacons"
+title: "Tract 12: Bishops, Priests, and Deacons. Richard Nelson. No 1."
 description: Tract Number 12. From Project Canterbury.
 sidebar:
-  label: "Tract 12: Richard Nelson I. Bishops, Priests, and Deacons"
+  label: "Tract 12: Bishops, Priests, and Deacons. Richard Nelson. No 1"
   order: 14
 author: "Thomas Keble"
 year: 1833
 ---
 
-Tracts for the Times
-
-RICHARD NELSON.
-
-I.
-
-BISHOPS, PRIESTS, AND DEACONS.
-
-\[Number 12\]
-
----
-
-> > "It is evident unto all men diligently reading the Holy Scripture and ancient authors, that from the Apostles time there have been these orders of Ministers in CHRISTS Church; Bishops, Priests, and Deacons."
-> >
-> > *
-> >
-> > Pref. to the Ordination Service.
-> >
-> > *
+>"It is evident unto all men diligently reading the Holy Scripture and ancient authors, that from the Apostles time there have been these orders of Ministers in CHRISTS Church; Bishops, Priests, and Deacons."
+>
+>*Pref. to the Ordination Service*
 
 IN the course of this last summer of 1833, I had the pleasure of a visit from an old and valued friend, one of the most respectable merchants in the city of Bristol (and this, in my opinion, is no small praise).
 

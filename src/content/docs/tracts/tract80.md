@@ -8,14 +8,6 @@ author: "Isaac Williams"
 year: 1837
 ---
 
-Tracts for the Times
-
-ON RESERVE IN COMMUNICATING RELIGIOUS KNOWLEDGE.
-
-\[Number 80\]
-
----
-
 > PART I.
 
 FROM THE EXAMPLE OF OUR LORD.

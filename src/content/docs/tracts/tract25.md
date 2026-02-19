@@ -1,5 +1,6 @@
 ---
 title: "Tract 25: Bishop Beveridge on the Great Necessity and Advan"
+subtitle: (Extracted from Bishop Beveridge's Sermon on the subject.)
 description: Tract Number 25. From Project Canterbury.
 sidebar:
   label: "Tract 25: Bishop Beveridge on the Great Necessity and Advan"
@@ -8,16 +9,6 @@ author: "William Beveridge"
 year: 1834
 ---
 
-Tracts for the Times
-
-THE GREAT NECESSITY AND
-ADVANTAGE OF PUBLIC PRAYER.
-
-*(Extracted from Bishop Beveridge's Sermon on the subject.)*
-
-\[Number 25\]
-
----
 
 BESIDES our praying to, and praising GOD in the midst of other business, we ought to set apart some certain times in every day wholly for this. The Saints of old were wont to do it three times a day, as we learn from Daniel. For when King Darius had signed the decree, "That whosoever should ask a petition of any god or man for thirty days, except of the king, should be cast into the den of lions," it is written, "That when Daniel knew that the decree was signed, he went into his house; and, his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks unto his GOD, as he did aforetime." (Daniel vi. 10.) *As he did aforetime*; which shows that this had been his constant practice before, and he would not leave it off now, though he was sure to be cast into the den of lions for it. But what times of the day these were, which were anciently devoted to this religious purpose, we may best gather from king David, where he saith, "Evening, and morning, and at noon, will I pray, and cry aloud; and He shall hear my voice." (Psal. lv. 17.) He begins with the evening, because day then began, according to the Jewish account; but he observed all these times of prayer alike. And so questionless did other devout people as well as he. The Jews have a tradition that those times were ordained to that use, the morning by Abraham; noon, by Isaac; and evening by Jacob. But whether they have any ground for that or no, be sure this custom is so reasonable and pious, that the Church of CHRIST took it up, and observed it all along from the very beginning. Only to distinguish these times more exactly, the Christians called them, (as the Jews also had done before,) by the names of the *third*, the *sixth*, and the *ninth* hours. Of which Tertullian saith, "Tres istas horas ut insigniores in rebus humanis, ita et solenniores fuisse in orationibus divinis; as they were more famous than others in human affairs, so hey were more solemn in divine prayers. " (Tertul de Jejun c. 10.)
 
@@ -31,21 +22,13 @@ Not to insist upon other Churches, I shall instance at present only in our own; 
 
 The first is this:
 
-> *
->
-> And all Priests and Deacons are to say daily the Morning and Evening Prayer, either privately or openly, not being let by sickness, or other urgent cause.
->
-> *
+> *And all Priests and Deacons are to say daily the Morning and Evening Prayer, either privately or openly, not being let by sickness, or other urgent cause.*
 
 By this, every one that is admitted into Holy Orders, although he be neither Parson, Vicar, nor Curate of any particular place, yet he is bound to say both Morning and Evening Prayer every day, either in some Church or Chapel where he can get leave to do it, or else in the house where he dwells, except he be hindered by some such cause which the Ordinary of the place judges to be reasonable and urgent.
 
 The other Order is this:
 
-> *
->
-> And the Curate that ministereth in every Parish Church or Chapel, being at home, and not being otherwise reasonably hindered, shall say the same in the Parish-Church or Chapel, where he ministereth, and shall cause a bell to be tolled thereunto, a convenient time before he begin, that people may come to hear Gods Word, and pray with him.
->
-> *
+> *And the Curate that ministereth in every Parish Church or Chapel, being at home, and not being otherwise reasonably hindered, shall say the same in the Parish-Church or Chapel, where he ministereth, and shall cause a bell to be tolled thereunto, a convenient time before he begin, that people may come to hear Gods Word, and pray with him.*
 
 Here we have a plain and express command, that the Curate, whether he be the Incumbent himself, or another procured by him to do it; whosoever it is that ministereth GODS Holy Word and Sacraments in any Parish-Church or Chapel in England, shall say the same Morning and Evening Prayer daily in the Parish-Church or Chapel where he ministereth, and shall take care that a bell be tolled a convenient time before he begins, that people having notice of it, may come to GODS House to hear His Holy Word read, and join with the Minister in performing their *public* devotions to him. This every Minister or Curate in England is bound to do every day in the year, if he be at home, and be not otherwise reasonably hindered. And whether any hindrance be reasonable or no, the Minister himself is not the ordinary Judge; for in all such cases that is referred by the common laws of the Church to the Bishop of the Diocese, or the Ordinary of the place where he ministereth.
 

@@ -8,16 +8,6 @@ author: "Thomas Wilson"
 year: 1834
 ---
 
-Tracts for the Times
-
-BISHOP WILSON'S MEIDTATIONS ON HIS SACRED OFFICE.
-
-No. 4--WEDNESDAY.
-
-\[Number 48\]
-
----
-
 > *
 >
 > Question from the Office of Consecration

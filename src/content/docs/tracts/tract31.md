@@ -8,14 +8,6 @@ author: "John Henry Newman"
 year: 1834
 ---
 
-Tracts for the Times
-
-THE REFORMED CHURCH.
-
-\[Number 31\]
-
----
-
 > All the people shouted with a great shout, when they praised the LORD because the foundation of the House of the LORD was laid. But many of the Priests and Levites, the chief of the fathers, who were ancient men that had seen the first House, when the foundation of this House was laid before their eyes, wept with a loud voice.EZRA iii. 11, 12.
 
 ---

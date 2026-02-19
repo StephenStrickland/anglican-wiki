@@ -8,10 +8,6 @@ author: "George Bull"
 year: 1835
 ---
 
-Tracts for the Times
-
-BISHOP BULL ON THE ANCIENT LITURGIES.
-
 (*From his* XIII*th Sermon*.)
 
 \[Number 64\]

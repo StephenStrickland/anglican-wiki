@@ -8,18 +8,6 @@ author: "Thomas Keble"
 year: 1834
 ---
 
-Tracts for the Times
-
-RICHARD NELSON.
-
-No. IV
-
-\[Number 43\]
-
-LENGTH OF THE PUBLIC SERVICE.
-
----
-
 What a weariness is it!"--MAL. i. 13.
 
 ---

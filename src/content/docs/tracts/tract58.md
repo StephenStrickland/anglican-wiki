@@ -8,18 +8,6 @@ author: "John William Bowden"
 year: 1835
 ---
 
-Tracts for the Times
-
-ON THE CHURCH AS VIEWED BY FAITH AND BY THE WORLD.
-
-\[Number 58\]
-
----
-
-BY A LAYMAN.
-
----
-
 Yet a little while, and the world seeth Me no more; but ye see Me.
 
 JOHN xiv. 19.

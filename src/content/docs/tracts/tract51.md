@@ -8,14 +8,6 @@ author: "Robert F. Wilson"
 year: 1835
 ---
 
-Tracts for the Times
-
-ON DISSENT WITHOUT REASON IN CONSCIENCE.
-
-\[Number 51\]
-
----
-
 > As one mass doth contain the good ore and base alloy; as one floor the corn and the chaff; as one field the wheat and the tares as one net the choice fish and the refuse; as one fold the sheep and the goats as one tree the living and dry branches: so doth the *Visible* Church enfold the true universal. Church, called the Church mystical and *invisible*. And for this reason, and because presumptively every member of the Visible Church doth pass for a member of the invisible, (the time of distinction and separation being not yet come,) because this Visible Church, in its profession of truth, in its sacrifices of devotion, in its practice of service and duty to GOD, doth communicate with the invisible, therefore commonly the titles and attributes of one are imparted to the other." *Altered from Barrow on the Unity of the Church*, vol. vii. p. 631.
 
 ---

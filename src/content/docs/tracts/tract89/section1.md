@@ -3,14 +3,6 @@ title: Tract Number 89; Section One
 description: Tract Number 89; Section One. From Project Canterbury.
 ---
 
-Tracts for the Times
-
-ON THE MYSTICISM ATTRIBUTED TO THE FATHERS OF THE CHURCH
-
-by John Keble
-
-\[Number 89\]
-
 > *
 >
 > §i- Occasion, Grounds, and Limits of the Present Inquiry

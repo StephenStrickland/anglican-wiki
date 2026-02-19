@@ -8,8 +8,6 @@ author: "John Henry Newman"
 year: 1841
 ---
 
-Tracts for the Times
-
 > *Remarks on Certain Passages in the Thirty-Nine Articles*.
 
 \[Number 90\]

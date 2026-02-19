@@ -1,33 +1,12 @@
 ---
 title: "Tract 30: Christian Liberty (Continued)"
+subtitle: By a Layman
 description: Tract Number 30. From Project Canterbury.
 sidebar:
   label: "Tract 30: Christian Liberty (Continued)"
   order: 32
 author: "John William Bowden"
 year: 1834
----
-
-Tracts for the Times
-
-CHRISTIAN LIBERTY;
-
-OR,
-
-WHY SHOULD WE BELONG TO THE CHURCH OF ENGLAND?
-
----
-
-*BY A LAYMAN.*
-
----
-
-*(Continued.)*
-
----
-
-\[Number 30\]
-
 ---
 
 > He that receiveth you, receiveth me; and he that receiveth Me, receiveth Him that sent Me.

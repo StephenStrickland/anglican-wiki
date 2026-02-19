@@ -8,14 +8,6 @@ author: "John William Bowden"
 year: 1835
 ---
 
-Tracts for the Times
-
-HOLY DAYS OBSERVED IN THE ENGLISH CHURCH.
-
-\[Number 56\]
-
----
-
 *The Holy days observed by the Church of England are of two kinds:--Festivals, or days of joy: and fasts, or days of sorrow.*
 
 The FESTIVALS are:

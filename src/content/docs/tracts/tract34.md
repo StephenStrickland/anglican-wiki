@@ -8,12 +8,6 @@ author: "John Henry Newman"
 year: 1834
 ---
 
-Tracts for the Times
-
-RITES AND CUSTOMS OF THE CHURCH.
-
-\[Number 34\]
-
 > He who is duly strengthened in faith, does not go so far as to require argument and reason for what is enjoined, but is satisfied with the *tradition* alone.
 >
 > *Chrysost. in* 1 *Cor. Hom.* 26.

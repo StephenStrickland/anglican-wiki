@@ -1,23 +1,11 @@
 ---
-title: "Tract 22: Richard Nelson II. The Athanasian Creed"
+title: "Tract 22: The Athanasian Creed. Richard Nelson. No II."
 description: Tract Number 22. From Project Canterbury.
 sidebar:
-  label: "Tract 22: Richard Nelson II. The Athanasian Creed"
+  label: "Tract 22: The Athanasian Creed. Richard Nelson. No II."
   order: 24
 author: "Thomas Keble"
 year: 1834
----
-
-Tracts for the Times
-
-RICHARD NELSON.
-
-II.
-
-THE ATHANASIAN CREED.
-
-\[Number 22\]
-
 ---
 
 I LOOK back with much pleasure to the visit I had from my friend Mr. Woodnott, the Bristol Merchant I before spoke of.

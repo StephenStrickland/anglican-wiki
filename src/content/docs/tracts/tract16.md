@@ -8,14 +8,6 @@ author: "Benjamin Harrison"
 year: 1833
 ---
 
-Tracts for the Times
-
-ADVENT.
-
-\[Number 16\]
-
----
-
 THE name Advent, which means Coming, is given to the four Sundays immediately before Christmas-day, the feast which celebrates our LORDS coming in the flesh to suffer for us. This season, then, is set apart by the Church, in accordance with ancient and venerable usage, in the first place, to prepare the minds of her children, by holy meditation, for welcoming, with more devout and heartfelt joy, that great day, the day of CHRISTS Nativity. But her services at this solemn time are also directed to another object, very closely connected with the former: viz. to lead our thoughts onward to that second coming of our LORD and Master "in His glorious Majesty to judge the quick and the dead," which the Church is still expecting and anxiously looking for. These two subjects are very closely blended in the services of this season, as indeed there is much naturally to unit them in our thoughts and feelings; for the promise of CHRISTS *second* coming to *us*, what the hope of His *first* coming was to *the Jews*. And therefore, while we go back in our thoughts to the time when CHRIST appeared in the flesh, and to the state of the Jewish Church at that time, we must apply all to the searching out of our own spirits, whether we are like holy Simeon and Anna, and the faithful few who "waited for redemption in Jerusalem," or rather like the great mass of the people, who thought only of worldly and temporal things, and so rejected their King when he appeared among them. Let us here examine, what help the Church will give us in comparing our own privileges and condition with those of GODS ancient people.
 
 The Collects for the Sundays in Advent, those at least for the first three Sundays, are very much formed upon the language of the Epistles, with more or less reference to the Gospels. It will be right, then, to look first to the Epistles, and from them try to learn, how, as members of the Christian Church, we are to prepare for the second awful coming of our Lord and Master.

@@ -8,14 +8,6 @@ author: "Richard Hurrell Froude"
 year: 1835
 ---
 
-Tracts for the Times
-
-CHURCH AND STATE.
-
-\[Number 59\]
-
----
-
 WE are very naturally jealous of the attempts that are making to disunite, as it is called, Church and State; which in fact means neither more nor less, in the mouths of those who clamour for it, than a general confiscation of Church property, and a repeal of the few remaining laws which make the true Church the Church of England.
 
 This is what Dissenters mean by disuniting Church and State; and we are all naturally anxious to avert a step at once so unjust towards men and sacrilegious towards GOD.

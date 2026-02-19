@@ -1,21 +1,12 @@
 ---
 title: "Tract 20: The Visible Church, Letter III"
+subtitle: Letters to a Friend.
 description: Tract Number 20. From Project Canterbury.
 sidebar:
   label: "Tract 20: The Visible Church, Letter III"
   order: 22
 author: "John Henry Newman"
 year: 1833
----
-
-Tracts for the Times
-
-THE VISIBLE CHURCH.
-LETTERS TO A FRIEND.
-No. III.
-
-\[Number 20\]
-
 ---
 
 YOU have some misgivings, it seems, lest the doctrine I have been advocating "should lead to Popery." I will not, by way of answer, say, that the question is not, whether it will *lead to Popery*, but whether it is *in the Bible;* because it would bring the Bible and Popery into one sentence, and seem to imply the possibility of a "communion" between "light and darkness." No; it is the very enmity I feel against he Papistical corruptions of the Gospel, which leads me to press upon you a doctrine of Scripture, which we are sinfully surrendering, and the Church of Rome has faithfully retained.

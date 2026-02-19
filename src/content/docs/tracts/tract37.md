@@ -1,30 +1,19 @@
 ---
-title: "Tract 37: Bishop Wilson"
+title: "Tract 37: Bishop Wilson's Form of Excommunication"
 description: Tract Number 37. From Project Canterbury.
 sidebar:
-  label: "Tract 37: Bishop Wilson"
+  label: "Tract 37: Bishop Wilson's Form of Excommunication"
   order: 39
 author: "Thomas Wilson"
 year: 1834
----
-
-Tracts for the Times
-
-BISHOP WILSON'S FORM OF EXCOMMUNICATION.
-
-\[Number 37\]
-
 ---
 
 > It is well known that Bishop Wilson, who presided over the Church in the Isle of Man, from 1698 to 1755, was stirred up by Him who made him overseer, to revive the Primitive Discipline, and was remarkably blest in his undertaking. The principle of this discipline is, that no man who sinned openly, whether in creed or practice, should be allowed to remain in free and full communion with the Church; but should be censured, put to penance, suspended, or excommunicated, as the case might require. The following is the form he proposed to use, in inflicting the extreme punishment of excommunication.
 
 ---
 
-*
+#### My Brethren, and all good Christians here met together.
 
-My Brethren, and all good Christians here met together.
-
-*
 
 We are met upon a very *unusual* and *mournful* occasion.
 
@@ -90,7 +79,7 @@ And in the sixty-fifth Canon, directs, *That all such as stand lawfully excommun
 
 As for any temporal penalties or incapacities which an excommunicate person may be exposed to; these do not properly belong to the Church; they are no part of our sentence; they are altogether in the hands of the civil magistrate. Our sentence is purely spiritual; it is the sentence of JESUS CHRIST, and only concerns the good of the souls of those He has committed to our care. It is part of that ministry which we received by the imposition of hands, and which we most humbly pray GOD to enable us to exercise to *His glory*, to the putting a stop to the growing vices of the age, and to the edification of the Church of Christ, which He has purchased with His blood. *Amen*.
 
-THE SENTENCE.
+#### THE SENTENCE.
 
 It is with great reluctancy, GOD is our witness, and after many prayers to GOD for their conversion, that we proceed to this *last remedy* which CHRIST has appointed for the conversion of sinners.
 
@@ -100,18 +89,10 @@ In the mean time we must do our duty, and leave the event to GOD.
 
 In the name of JESUS CHRIST, and by the authority which we have received from Him, we separate you from the communion of the Church, which He has purchased with His blood, and which is the society of all faithful people; and you are no longer a member of His body, or of His kingdom, until you be openly reconciled by penance, and received into the Church by a judge that hath authority so to do.
 
-*
-
-When Persons excommunicated are received back into the Church.
-
-*
+*When Persons excommunicated are received back into the Church.*
 
 I, an unworthy minister of JESUS CHRIST, by the same authority and power, even that of our LORD JESUS CHRIST; by which for thy obstinacy, and other crimes, thou hast been excluded from the communion of CHRISTS Holy Church: By the same power, I do now release thee from that bond of excommunication, ac cording to the confession now made by thee before GOD and this Church; and do restore thee again unto the communion of the Church of CHRIST: beseeching the ALMIGHTY to give thee His grace, that thou mayest continue a worthy member of the same unto thy lifes end, through JESUS CHRIST our LORD. Amen.
 
 OXFORD,
 
-*
-
-The Feast of St. John the Baptist.
-
-*
+*The Feast of St. John the Baptist.*

@@ -8,16 +8,6 @@ author: "Thomas Wilson"
 year: 1835
 ---
 
-Tracts for the Times
-
-BISHOP WILSON'S MEDITATIONS ON HIS SACRED OFFICE.
-
-NO. V.THURSDAY.
-
-\[Number 55\]
-
----
-
 CHURCH DISCIPLINE.
 
 (*Continued*.)

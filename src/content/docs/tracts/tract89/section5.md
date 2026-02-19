@@ -3,14 +3,6 @@ title: Tract Number 89; Section Five
 description: Tract Number 89; Section Five. From Project Canterbury.
 ---
 
-Tracts for the Times
-
-ON THE MYSTICISM ATTRIBUTED TO THE FATHERS OF THE CHURCH
-
-by John Keble
-
-\[Number 89\]
-
 > § v*.Ancient Mysticism as applied to the Interpretation of New Testament.*
 
 The object of this section is, allowing the fact, that the ancient interpreters did apply the mystical principle very largely to the New Testament, to point out some of the rules by which they conducted that process, the limits within which they confined it, and the good purposes, which, under such rules and limits it was calculated to answer.

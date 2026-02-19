@@ -1,19 +1,11 @@
 ---
-title: "Tract 36: Account of Religious Sects at Present Existing"
+title: "Tract 36: Account of Religious Sects at Present Existing in England"
 description: Tract Number 36. From Project Canterbury.
 sidebar:
-  label: "Tract 36: Account of Religious Sects at Present Existing"
+  label: "Tract 36: Account of Religious Sects at Present Existing in England"
   order: 38
 author: "Arthur Philip Perceval"
 year: 1834
----
-
-Tracts for the Times
-
-ACCOUNT OF RELIGIOUS SECTS AT PRESENT EXISTING IN ENGLAND.
-
-\[Number 36\]
-
 ---
 
 > "I beseech you, brethren, mark them whcih cause divisions and offences contrary to the doctrine which ye have learned; and avoid them."
@@ -80,8 +72,4 @@ At the present time, these three Classes of opponents have united their forces, 
 
 OXFORD,
 
-*
-
-The Feast of St. Barnabas.
-
-*
+*The Feast of St. Barnabas.*

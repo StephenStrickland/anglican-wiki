@@ -1,29 +1,12 @@
 ---
-title: "Tract 29: Christian Liberty; Or, Why Should We Belong to"
+title: "Tract 29: Christian Liberty; Or, Why Should We Belong to The Church of England"
+subttitle: By a Layman
 description: Tract Number 29. From Project Canterbury.
 sidebar:
-  label: "Tract 29: Christian Liberty; Or, Why Should We Belong to"
+  label: "Tract 29: Christian Liberty; Or, Why Should We Belong to The Church of England"
   order: 31
 author: "John William Bowden"
 year: 1834
----
-
-Tracts for the Times
-
-CHRISTIAN LIBERTY;
-
-OR,
-
-WHY SHOULD WE BELONG TO THE CHURCH OF ENGLAND?
-
----
-
-BY A LAYMAN
-
----
-
-\[Number 29\]
-
 ---
 
 > He that receiveth you, receiveth me; and he that receiveth Me, receiveth Him that sent Me.
@@ -140,8 +123,4 @@ Dr.You are bringing me to a large subject, John; which we will discuss some ot
 
 OXFORD,
 
-*
-
-The Feast of the Annunciation.
-
-*
+*The Feast of the Annunciation.*

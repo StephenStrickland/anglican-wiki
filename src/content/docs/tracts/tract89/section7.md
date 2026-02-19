@@ -3,14 +3,6 @@ title: Tract Number 89; Section Seven
 description: Tract Number 89; Section Seven. From Project Canterbury.
 ---
 
-Tracts for the Times
-
-ON THE MYSTICISM ATTRIBUTED TO THE FATHERS OF THE CHURCH
-
-by John Keble
-
-\[Number 89\]
-
 > > > *
 > > >
 > > > § vii. Warrant of Scripture for the Mystical View of Things Natural.

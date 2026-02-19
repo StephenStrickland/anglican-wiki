@@ -8,12 +8,6 @@ author: "John Henry Newman"
 year: 1834
 ---
 
-Tracts for the Times
-
-PRIMITIVE EPISCOPACY.
-
-\[Number 33\]
-
 IN primitive times the first step towards evangelizing a heathen country seems to have been to seize upon some principal city in it, commonly the civil metropolis, as a centre of operation; to place a Pastor, i. e. (generally) a Bishop there; so surround him with a sufficient number of associates and assistants; and then to wait, till, under the blessing of Providence, this Missionary College was able to gather around it the scattered children of grace from the evil world, and invest itself with the shape and influence of an organized Church. The converts would, in the first instance, be those in the immediate vicinity of the Missionary or Bishop,
 
 whose diocese nevertheless would extend over the heathen country on every side, either indefinitely, or to the utmost extent of the civil province; his mission being without restriction to all to whom Christian faith had never been preached. As he prospered in the increase of his flock, and sent out his clergy to greater and greater distances from the city, so would the homestead (so to call it) of his Church enlarge. Other towns would be brought under his government, openings would occur for stations in isolated places; till at length "the burden becoming too heavy for him he would appoint others to supply his place in this or that part of the province. To these he would commit a greater or lesser share of his spiritual power, as might be necessary; sometimes he would make them fully his representatives, or ordain them Bishops; at other times he would employ presbyters for his purpose. These assistants, or (as they were called) Chorepiscopi, would naturally be confined to their respective districts; and if Bishops, an approximation would evidently be made to a division of the large original diocese into a number of smaller ones connected with and subordinate to the Bishop of the metropolitan city. Thus, from the very Missionary character of the Primitive Church, there was a tendency in its polity to what was afterwards called the Provincial and Patriarchal system.

@@ -8,14 +8,6 @@ author: "John Henry Newman"
 year: 1834
 ---
 
-Tracts for the Times
-
-MORTIFICATION OF THE FLESH A SCRIPTURE DUTY.
-
-\[Number 21\]
-
----
-
 If we take the example of the Holy men of Scripture as our guide, certain bodily privation and chastisement area very essential duty to all who wish to serve GOD, and prepare themselves for his presence.
 
 1\. First we have the example of Moses. His recorded Fasts were miraculous; still they were Fasts, and the ordinance was to the notice of all believers afterwards, by the honour put upon it. "I abode in the mount forty days and nights; I neither did eat bread nor drink water." Again; "I fell down before the LORD, as at the first, forty days and forty nights; I did neither eat bread nor drink water, because of all your sins." Deut. ix. 9. 18. Fasting is in the former instance subservient to divine contemplation, in the latter to humiliation and intercession for sinners.

@@ -8,14 +8,6 @@ author: "John Henry Newman"
 year: 1833
 ---
 
-Tracts for the Times
-
-ON ARGUING CONCERNING THE APOSTOLICAL SUCCESSION.
-
-\[Number 19\]
-
----
-
 Men are sometimes disappointed with the proofs offered in behalf of some important doctrines of our religion; such especially as the necessity of Episcopal Ordination, in order to constitute a Minister of Christ. They consider these proofs to be not so strong as they expected, or as they think desirable. Now such persons should be asked, whether these arguments they speak of are in their estimation weak as a guide to their own practice, or weak in controversy with hardheaded and subtle disputants. Surely, as Bishop Butler has convincingly shown, the faintest probabilities are strong enough to determine our conduct in a matter of duty. If there be but a reasonable likelihood of our pleasing Christ more by keeping than by not keeping to the fellowship of the Apostolic Ministry, this of course ought to be enough to lead those, who think themselves moved to undertake the Sacred Office, to seek for a license to do so from it.
 
 It is necessary to keep this truth distinctly in view, because of the great temptation, that exists among us, to put it out of sight. I do not mean the temptation, which results from pride,-hardness of heart,-a profane disregard of the details and lesser commandments of the Divine Law,--and other such like bad principles of our nature, which are in the way of our honestly confessing it. Besides these, there is a still more subtle temptation to slight it, which will bear insisting on here, arising from an over-desire to convince others, or, in other words a desire to out-argue others, a fear of seeming inconclusive and confused in our own nations and arguments. Nothing, certainly, is more natural, when we hold a truth strongly, than to wish to persuade others to embrace it also. Nay, without reference to persuasion, nothing is more natural than to be dissatisfied in all cases with our own convictions of a principle or opinion, nay suspicious of it, till we are able to set it down clearly in words. We know, that, in all matters of thought, to write down our meaning is one important means of clearing our minds. Till we do so, we often do not know what we really hold and what we do not hold. And a cautious and accurate reasoner, when he has succeeded in bringing the truth of any subject home to his mind, next begins to look round about the view he has adopted, to consider what others will say to it, and to try to make it unexceptionable. At least we are led thus to fortify our opinion, when it is actually attacked; and if we find we cannot recommend it to the judgment of the assailant, at any rate we endeavour to make him feel that it is to be respected. It is painful to be thought a weak reasoner, even though we are sure in our minds that we are not such.

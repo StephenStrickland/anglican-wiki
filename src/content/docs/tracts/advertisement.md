@@ -5,14 +5,6 @@ sidebar:
   order: 1
 ---
 
-Tracts for the Times
-
-ADVERTISEMENT
-
-by John Henry Newman
-
----
-
 > THE following Tracts were published with the object of contributing something towards the practical revival of doctrines, which, although held by the great divines of our Church, at present have become obsolete with the majority of her members, and are withdrawn from public view even by the more learned and orthodox few who still adhere to them.
 
 The Apostolic succession, the Holy Catholic Church, were principles of action in the minds of our predecessors of the 17th century; but, in proportion as the maintenance of the Church has been secured by law, her ministers have been under the temptation of leaning on an arm of flesh instead of her own divinely-provided discipline, a temptation increased by political events and arrangements which need not here be more than alluded to. A lamentable increase of sectarianism has followed; being occasioned (in addition to other more obvious causes,) first, by the cold aspect which the new Church doctrines have presented to the religious sensibilities of the mind, next to their meagreness in suggesting motives to restrain it from seeking out a more influential discipline. Doubtless obedience to the law of the land, and the careful maintenance of "decency and order," (the topics in usage among us,) are plain duties of the Gospel, and a reasonable ground for keeping in communion with the Established Church; yet, if Providence has graciously provided for our weakness more interesting and constraining motives, it is a sin thanklessly to neglect them; just as it would be a mistake to rest the duties of temperance or justice on the mere law of natural religion, when they are mercifully sanctioned in the Gospel by the more winning authority of our Saviour Christ. Experience has shown the inefficacy of the mere injunctions of Church order, however scripturally enforced, in restraining from schism the awakened and anxious sinner; who goes to a dissenting preacher "because (as he expresses it) he gets good from him:" and though he does not stand excused in Gods sight for yielding to the temptation, surely the Ministers of the Church are not blameless if, by keeping back the more gracious and consoling truths provided for the little ones of Christ, they indirectly lead him into it. Had he been taught as a child, that the Sacraments, not preaching, are the sources of Divine Grace; that the Apostolical ministry had a virtue in it which went out over the whole Church, when sought by the prayer of faith; that fellowship with it was a gift and privilege, as well as a duty, we could not have had so many wanderers from our fold, nor so many cold hearts within it.

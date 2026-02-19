@@ -3,14 +3,6 @@ title: Tract Number 89; Section Six
 description: Tract Number 89; Section Six. From Project Canterbury.
 ---
 
-Tracts for the Times
-
-ON THE MYSTICISM ATTRIBUTED TO THE FATHERS OF THE CHURCH
-
-by John Keble
-
-\[Number 89\]
-
 > > > *
 > > >
 > > > § vi.-Mysticism as applied to the Works of Nature, and generally to the external World.

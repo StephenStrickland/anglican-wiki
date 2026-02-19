@@ -8,7 +8,6 @@ author: "Isaac Williams"
 year: 1840
 ---
 
-Tracts for the Times
 On Reserve in Communicating Religious Knowledge
 \[Number 87\]
 

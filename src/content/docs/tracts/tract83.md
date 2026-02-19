@@ -8,14 +8,6 @@ author: "John Henry Newman"
 year: 1838
 ---
 
-Tracts for the Times
-
-ADVENT SERMONS ON ANTICHRIST.
-
-\[Number 83\]
-
----
-
 SERMON I.
 
 THE TIMES OF ANTICHRIST.

@@ -8,14 +8,6 @@ author: "Richard Hurrell Froude"
 year: 1835
 ---
 
-Tracts for the Times
-
-ON THE ANTIQUITY OF THE EXISTING LITURGIES.
-
-\[Number 63\]
-
----
-
 ALL Liturgies now existing, except those in use in Protestant countries, profess to be derived from very remote antiquity. So likely is it, however, that in the lapse of ages, considering the extreme ignorance in which many parts of Christendom have been immersed, interpolations almost to any extent should have crept into the formulae of the different Churches, that little weight seems at first sight due to them as traditionary depositories of ancient doctrine. Judging from the opinions and character of those to whose custody they have been committed, one would be disposed to treat them rather as accumulations of every kind of superstition, than relics of ancient evangelical simplicity, to examine them rather as exhibitions of the gradual decay of Christianity, than as monuments of what it was.
 
 Unlikely, however, as it might appear beforehand, learned men who have undertaken the laborious task of examining them, have been led to form a different estimate of their value. Certain, indeed, it is that they have been much interpolated, and in parts, corrupted; but it seems to be admitted at last, after long and patient research, that much likewise has been handed down from the first uninterpolated, and that means exist for ascertaining what parts are interpolated, and what pure and genuine.

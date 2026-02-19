@@ -1,19 +1,11 @@
 ---
-title: "Tract 35: The People"
+title: "Tract 35: The People's Interest In Their Minister's Commission"
 description: Tract Number 35. From Project Canterbury.
 sidebar:
-  label: "Tract 35: The People"
+  label: "Tract 35: The People's Interest In Their Minister's Commission"
   order: 37
 author: "Arthur Philip Perceval"
 year: 1834
----
-
-Tracts for the Times
-
-THE PEOPLE'S INTEREST IN THEIR MINISTER'S COMMISSION.
-
-\[Number 35\]
-
 ---
 
 And I will give unto thee the keys of the Kingdom of Heaven: and whatsoever thou shalt bind on earth, shall be bound in heaven; and whatsoever thou shalt loose on earth, shall be loosed in heaven. (Matt. xvi. 19.)
@@ -32,8 +24,4 @@ Remember, then, that whether your pastors be rich or poor, honoured or despised 
 
 OXFORD,
 
-*
-
-The Feast of the Ascension.
-
-*
+*The Feast of the Ascension.*

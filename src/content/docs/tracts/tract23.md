@@ -1,20 +1,11 @@
 ---
-title: "Tract 23: The Faith and Obedience of Churchmen, the Strength"
+title: "Tract 23: The Faith and Obedience of Churchmen, the Strength of the Church"
 description: Tract Number 23. From Project Canterbury.
 sidebar:
-  label: "Tract 23: The Faith and Obedience of Churchmen, the Strength"
+  label: "Tract 23: The Faith and Obedience of Churchmen, the Strength of the Church"
   order: 25
 author: "Arthur Philip Perceval"
 year: 1834
----
-
-Tracts for the Times
-
-THE FAITH AND OBEDIENCE OF CHURCHMEN,
-THE STRENGTH OF THE CHURCH.
-
-\[Number 23\]
-
 ---
 
 AND Simon Peter answered and said, Thou art the CHRIST the Son of the Living GOD. And JESUS answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed it unto thee, but MY FATHER which is in heaven. And I say also unto thee, That thou art Peter; and upon this rock I will build My Church; and the gates of hell shall not prevail against it." Matt. xvi. 16-18.

@@ -8,16 +8,6 @@ author: "John Keble"
 year: 1833
 ---
 
-Tracts for the Times
-
-SUNDAY LESSONS.
-
-THE PRINCIPLE OF SELECTION.
-
-\[Number 13\]
-
----
-
 AMONG projected alterations in the Liturgy, not the least popular seems to be a very considerable change in the selection of the Sunday Lessons. People do not see, first of all, why such and such chapters are chosen out of the Old Testament, in preference to others which they think more edifying. Secondly they see no reason why the Church should not assign Proper Lessons to every Sunday from the New Testament as well as from the Old.
 
 One who hopes that he should not be found froward, were a change to be made by competent Spiritual Authority, begs leave, nevertheless, to submit to all considerate lovers of the Prayer Book, the following remarks on the two points specified above.

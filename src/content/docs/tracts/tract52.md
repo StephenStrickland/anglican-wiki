@@ -8,16 +8,6 @@ author: "John Keble"
 year: 1835
 ---
 
-Tracts for the Times
-
-SERMONS FOR SAINTS' DAYS AND HOLIDAYS.
-
-(No. 1. ST. MATTHIAS.)
-
-\[Number 52\]
-
----
-
 > "*Ye have not chosen me, but I have chosen you, and ordained you, and that ye should go and bring forth fruit, and that your fruit should remain*."St. John xv. 16.
 
 ---

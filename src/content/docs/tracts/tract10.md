@@ -8,15 +8,6 @@ author: "John Henry Newman"
 year: 1833
 ---
 
-Tracts for the Times
-
-HEADS OF A WEEK-DAY LECTURE,
-DELIVERED TO A COUNTRY CONGREGATION IN --------SHIRE.
-
-\[Number 10\]
-
----
-
 BEFORE we meet again, we shall have celebrated the feast of St. Simon and St. Jude, the Apostles. You will be at your daily work, and will not have the opportunity to attend the Service in Church. For that reason, it may be as well, you should lay up some good thoughts against that day; and such, by GODS blessing, I will now attempt to give you.
 
 As you well know, there were twelve Apostles; St. Simon and St. Jude were two of them. They preached the Gospel of CHRIST; and they were like CHRIST, as far as sinful man may be accounted like the Blessed SON of GOD. They were like CHRIST in their deeds and in their sufferings. The Gospel for the festival shows us this. They were like CHRIST in their *works*, because CHRIST was a witness of the FATHER, and they were witnesses of CHRIST. CHRIST came in the name of GOD the Father Almighty; He "came "and spoke," and "did works which none other man did." In like manner, the Apostles were sent to bear witness of CHRIST, to declare His power, His great mercy, His sufferings on the cross for the sins of all men, His willingness to save all who come to Him.

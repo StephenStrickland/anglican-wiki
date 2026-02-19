@@ -8,9 +8,6 @@ author: "John Henry Newman"
 year: 1836
 ---
 
-Tracts for the Times
-\[Number 74\]
-
 Catena Patrum No. I.
 
 Testimony of Writers in the later English Church to the Doctrine of the Apostolical Succession

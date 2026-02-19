@@ -8,14 +8,6 @@ author: "Charles Page Eden"
 year: 1834
 ---
 
-Tracts for the Times
-
-THE STANDING ORDINANCES OF RELIGION.
-
-\[Number 32\]
-
----
-
 MOST of us, perhaps, will find, upon examination, that we do not feel and act, as the Apostles and the early Church felt and acted, with regard to the Ordinances of our Religion. The reader is entreated to give this suggestion a *fair* consideration; not to hurry on, nor turn away from the recollection, that we shall all one day be judged, not merely by what we actually knew, but by what we *might* have known, respecting our duties to CHRIST and His Church. Let him consider, whether his own reason, and the Holy Scriptures, which were expressly written in order that we might possess full religious knowledge, do not say more on this subject than be has yet duly weighed and acted upon.
 
 First, consider what *Reason* says; which surely, as well as Scripture, was given us for *religious* ends.
