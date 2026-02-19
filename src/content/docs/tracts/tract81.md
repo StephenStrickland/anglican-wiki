@@ -2,7 +2,10 @@
 title: Tract Number 81
 description: Tract Number 81. From Project Canterbury.
 sidebar:
+  label: "#81 - Catena Patrum. No. IV"
   order: 83
+author: "Edward Pusey"
+year: 1837
 ---
 
 Testimony of Writers of the Later English Church

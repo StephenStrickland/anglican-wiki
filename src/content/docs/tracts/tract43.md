@@ -2,7 +2,10 @@
 title: Tract Number 43
 description: Tract Number 43. From Project Canterbury.
 sidebar:
+  label: "#43 - Richard Nelson IV. Length of the Public Service"
   order: 45
+author: "Thomas Keble"
+year: 1834
 ---
 
 Tracts for the Times

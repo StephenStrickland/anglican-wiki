@@ -2,7 +2,10 @@
 title: Tract Number 89
 description: Tract Number 89. From Project Canterbury.
 sidebar:
+  label: "#89 - On the Mysticism Attributed to the Fathers of..."
   order: 91
+author: "John Keble"
+year: 1841
 ---
 
 Tracts for the Times

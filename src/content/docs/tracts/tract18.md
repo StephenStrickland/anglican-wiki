@@ -2,7 +2,10 @@
 title: Tract Number 18
 description: Tract Number 18. From Project Canterbury.
 sidebar:
+  label: "#18 - Thoughts on the Benefits of the System of Fasting..."
   order: 20
+author: "Edward Pusey"
+year: 1833
 ---
 
 Tracts for the Times

@@ -2,7 +2,10 @@
 title: Tract Number 35
 description: Tract Number 35. From Project Canterbury.
 sidebar:
+  label: "#35 - The People's Interest in Their Minister's Commission"
   order: 37
+author: "Arthur Philip Perceval"
+year: 1834
 ---
 
 Tracts for the Times

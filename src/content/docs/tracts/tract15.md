@@ -2,7 +2,10 @@
 title: Tract Number 15
 description: Tract Number 15. From Project Canterbury.
 sidebar:
+  label: "#15 - On the Apostolical Succession in the English Church"
   order: 17
+author: "William Palmer"
+year: 1833
 ---
 
 Tracts for the Times

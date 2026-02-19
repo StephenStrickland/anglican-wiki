@@ -2,7 +2,10 @@
 title: Tract Number 54
 description: Tract Number 54. From Project Canterbury.
 sidebar:
+  label: "#54 - Sermons for Saints' Days. No. 2, The Annunciation..."
   order: 56
+author: "John Keble"
+year: 1835
 ---
 
 Tracts for the Times

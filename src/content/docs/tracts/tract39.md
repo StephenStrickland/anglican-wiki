@@ -2,7 +2,10 @@
 title: Tract Number 39
 description: Tract Number 39. From Project Canterbury.
 sidebar:
+  label: "#39 - Bishop Wilson's Form of Receiving Penitents"
   order: 41
+author: "Thomas Wilson"
+year: 1834
 ---
 
 Tracts for the Times

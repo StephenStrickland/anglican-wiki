@@ -2,7 +2,10 @@
 title: Tract Number 41
 description: Tract Number 41. From Project Canterbury.
 sidebar:
+  label: "#41 - Via Media. No. II"
   order: 43
+author: "John Henry Newman"
+year: 1834
 ---
 
 Tracts for the Times

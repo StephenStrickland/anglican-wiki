@@ -2,7 +2,10 @@
 title: Tract Number 80
 description: Tract Number 80. From Project Canterbury.
 sidebar:
+  label: "#80 - On Reserve in Communicating Religious Knowledge"
   order: 82
+author: "Isaac Williams"
+year: 1837
 ---
 
 Tracts for the Times

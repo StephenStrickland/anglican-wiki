@@ -2,7 +2,10 @@
 title: Tract Number 20
 description: Tract Number 20. From Project Canterbury.
 sidebar:
+  label: "#20 - The Visible Church, Letter III"
   order: 22
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

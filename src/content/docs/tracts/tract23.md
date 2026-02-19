@@ -2,7 +2,10 @@
 title: Tract Number 23
 description: Tract Number 23. From Project Canterbury.
 sidebar:
+  label: "#23 - The Faith and Obedience of Churchmen, the Strength..."
   order: 25
+author: "Arthur Philip Perceval"
+year: 1834
 ---
 
 Tracts for the Times

@@ -2,7 +2,10 @@
 title: Tract Number 56
 description: Tract Number 56. From Project Canterbury.
 sidebar:
+  label: "#56 - Holy Days Observed in the English Church"
   order: 58
+author: "John William Bowden"
+year: 1835
 ---
 
 Tracts for the Times

@@ -2,7 +2,10 @@
 title: Tract Number 10
 description: Tract Number 10. From Project Canterbury.
 sidebar:
+  label: "#10 - Heads of a Week-day Lecture"
   order: 12
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

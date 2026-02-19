@@ -2,7 +2,10 @@
 title: Tract Number 74
 description: Tract Number 74. From Project Canterbury.
 sidebar:
+  label: "#74 - Catena Patrum. No. I"
   order: 76
+author: "John Henry Newman"
+year: 1836
 ---
 
 Tracts for the Times

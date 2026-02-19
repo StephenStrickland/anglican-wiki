@@ -2,7 +2,10 @@
 title: Tract Number 63
 description: Tract Number 63. From Project Canterbury.
 sidebar:
+  label: "#63 - On the Antiquity of the Existing Liturgies"
   order: 65
+author: "Richard Hurrell Froude"
+year: 1835
 ---
 
 Tracts for the Times

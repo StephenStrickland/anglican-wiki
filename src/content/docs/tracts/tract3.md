@@ -2,7 +2,10 @@
 title: Tract Number 3
 description: Tract Number 3. From Project Canterbury.
 sidebar:
+  label: "#3 - On Alterations in the Liturgy"
   order: 5
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

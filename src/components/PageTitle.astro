@@ -6,6 +6,10 @@ const { entry } = Astro.locals.starlightRoute;
 const slug = entry.slug ?? entry.id;
 const isApologyPage = slug.startsWith('anglican-divines/john-jewel/apology');
 
+const author = entry.data.author;
+const year = entry.data.year;
+const hasAuthorMeta = author || year;
+
 let readingTime = 0;
 if (isApologyPage && entry.filePath) {
 	const raw = readFileSync(entry.filePath, 'utf-8');
@@ -17,6 +21,14 @@ if (isApologyPage && entry.filePath) {
 ---
 
 <h1 id={PAGE_TITLE_ID}>{entry.data.title}</h1>
+
+{hasAuthorMeta && (
+	<div class="reading-meta">
+		{author && <span>{author}</span>}
+		{author && year && <span class="meta-sep">&middot;</span>}
+		{year && <span>{year}</span>}
+	</div>
+)}
 
 {isApologyPage && (
 	<div class="reading-meta">

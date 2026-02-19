@@ -2,7 +2,10 @@
 title: Tract Number 26
 description: Tract Number 26. From Project Canterbury.
 sidebar:
+  label: "#26 - The Necessity and Advantage of Frequent Communion"
   order: 28
+author: "William Beveridge"
+year: 1834
 ---
 
 Tracts for the Times

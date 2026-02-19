@@ -2,7 +2,10 @@
 title: Tract Number 9
 description: Tract Number 9. From Project Canterbury.
 sidebar:
+  label: "#9 - On Shortening the Church Service"
   order: 11
+author: "Richard Hurrell Froude"
+year: 1833
 ---
 
 Tracts for the Times

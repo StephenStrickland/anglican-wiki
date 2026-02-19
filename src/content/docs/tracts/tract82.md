@@ -2,7 +2,10 @@
 title: Tract Number 82
 description: Tract Number 82. From Project Canterbury.
 sidebar:
+  label: "#82 - A Letter on the Subject of Dr. Pusey's Tract..."
   order: 84
+author: "John Henry Newman"
+year: 1837
 ---
 
 Tract Number 82

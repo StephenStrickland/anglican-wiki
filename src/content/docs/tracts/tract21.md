@@ -2,7 +2,10 @@
 title: Tract Number 21
 description: Tract Number 21. From Project Canterbury.
 sidebar:
+  label: "#21 - Mortification of the Flesh a Scripture Duty"
   order: 23
+author: "John Henry Newman"
+year: 1834
 ---
 
 Tracts for the Times

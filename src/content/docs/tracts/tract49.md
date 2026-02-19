@@ -2,7 +2,10 @@
 title: Tract Number 49
 description: Tract Number 49. From Project Canterbury.
 sidebar:
+  label: "#49 - The Kingdom of Heaven"
   order: 51
+author: "Benjamin Harrison"
+year: 1834
 ---
 
 Tracts for the Times

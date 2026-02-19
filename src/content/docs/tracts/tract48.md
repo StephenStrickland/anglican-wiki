@@ -2,7 +2,10 @@
 title: Tract Number 48
 description: Tract Number 48. From Project Canterbury.
 sidebar:
+  label: "#48 - Bishop Wilson's Meditations on His Sacred Office..."
   order: 50
+author: "Thomas Wilson"
+year: 1834
 ---
 
 Tracts for the Times

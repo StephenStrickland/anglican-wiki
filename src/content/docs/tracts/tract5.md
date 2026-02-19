@@ -2,7 +2,10 @@
 title: Tract Number 5
 description: Tract Number 5. From Project Canterbury.
 sidebar:
+  label: "#5 - A Short Address to His Brethren on the Nature and Co..."
   order: 7
+author: "John William Bowden"
+year: 1833
 ---
 
 Tracts for the Times

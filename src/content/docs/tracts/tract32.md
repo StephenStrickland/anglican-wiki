@@ -2,7 +2,10 @@
 title: Tract Number 32
 description: Tract Number 32. From Project Canterbury.
 sidebar:
+  label: "#32 - The Standing Ordinances of Religion"
   order: 34
+author: "Charles Page Eden"
+year: 1834
 ---
 
 Tracts for the Times

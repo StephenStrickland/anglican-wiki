@@ -2,7 +2,10 @@
 title: Tract Number 33
 description: Tract Number 33. From Project Canterbury.
 sidebar:
+  label: "#33 - Primitive Episcopacy"
   order: 35
+author: "John Henry Newman"
+year: 1834
 ---
 
 Tracts for the Times

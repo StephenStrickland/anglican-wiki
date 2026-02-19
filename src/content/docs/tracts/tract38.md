@@ -2,7 +2,10 @@
 title: Tract Number 38
 description: Tract Number 38. From Project Canterbury.
 sidebar:
+  label: "#38 - Via Media. No. I"
   order: 40
+author: "John Henry Newman"
+year: 1834
 ---
 
 Tracts for the Times

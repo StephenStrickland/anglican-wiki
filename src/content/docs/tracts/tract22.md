@@ -2,7 +2,10 @@
 title: Tract Number 22
 description: Tract Number 22. From Project Canterbury.
 sidebar:
+  label: "#22 - Richard Nelson II. The Athanasian Creed"
   order: 24
+author: "Thomas Keble"
+year: 1834
 ---
 
 Tracts for the Times

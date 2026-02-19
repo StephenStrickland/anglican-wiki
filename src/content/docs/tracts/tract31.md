@@ -2,7 +2,10 @@
 title: Tract Number 31
 description: Tract Number 31. From Project Canterbury.
 sidebar:
+  label: "#31 - The Reformed Church"
   order: 33
+author: "John Henry Newman"
+year: 1834
 ---
 
 Tracts for the Times

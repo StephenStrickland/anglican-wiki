@@ -2,7 +2,10 @@
 title: Tract Number 4
 description: Tract Number 4. From Project Canterbury.
 sidebar:
+  label: "#4 - Adherence to the Apostolical Succession the Safest..."
   order: 6
+author: "John Keble"
+year: 1833
 ---
 
 Tracts for the Times

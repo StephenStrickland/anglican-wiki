@@ -2,7 +2,10 @@
 title: Tract Number 27
 description: Tract Number 27. From Project Canterbury.
 sidebar:
+  label: "#27 - Bishop Cosin on the Doctrine of the Eucharist"
   order: 29
+author: "John Cosin"
+year: 1834
 ---
 
 Tracts for the Times

@@ -2,7 +2,10 @@
 title: Tract Number 1
 description: Tract Number 1. From Project Canterbury.
 sidebar:
+  label: "#1 - Thoughts on the Ministerial Commission"
   order: 3
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

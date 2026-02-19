@@ -2,7 +2,10 @@
 title: Tract Number 52
 description: Tract Number 52. From Project Canterbury.
 sidebar:
+  label: "#52 - Sermons for Saints' Days and Holidays. No. 1"
   order: 54
+author: "John Keble"
+year: 1835
 ---
 
 Tracts for the Times

@@ -2,7 +2,10 @@
 title: Tract Number 14
 description: Tract Number 14. From Project Canterbury.
 sidebar:
+  label: "#14 - The Ember Days"
   order: 16
+author: "Alfred Menzies"
+year: 1833
 ---
 
 Tracts for the Times

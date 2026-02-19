@@ -2,7 +2,10 @@
 title: Tract Number 6
 description: Tract Number 6. From Project Canterbury.
 sidebar:
+  label: "#6 - The Present Obligation of Primitive Practice"
   order: 8
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

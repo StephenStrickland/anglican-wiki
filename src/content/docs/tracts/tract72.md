@@ -2,7 +2,10 @@
 title: Tract Number 72
 description: Tract Number 72. From Project Canterbury.
 sidebar:
+  label: "#72 - Against Romanism. No. II"
   order: 74
+author: "James Ussher"
+year: 1836
 ---
 
 Tracts for the Times

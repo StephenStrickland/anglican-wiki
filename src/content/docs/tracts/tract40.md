@@ -2,7 +2,10 @@
 title: Tract Number 40
 description: Tract Number 40. From Project Canterbury.
 sidebar:
+  label: "#40 - Richard Nelson III. Baptism"
   order: 42
+author: "John Keble"
+year: 1834
 ---
 
 Tracts for the Times

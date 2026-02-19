@@ -2,7 +2,10 @@
 title: Tract Number 7
 description: Tract Number 7. From Project Canterbury.
 sidebar:
+  label: "#7 - The Episcopal Church Apostolical"
   order: 9
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

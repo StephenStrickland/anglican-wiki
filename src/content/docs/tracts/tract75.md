@@ -2,7 +2,10 @@
 title: Tract Number 75
 description: Tract Number 75. From Project Canterbury.
 sidebar:
+  label: "#75 - On the Roman Breviary"
   order: 77
+author: "John Henry Newman"
+year: 1836
 ---
 
 Tracts for the Times

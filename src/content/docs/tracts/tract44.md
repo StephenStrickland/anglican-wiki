@@ -2,7 +2,10 @@
 title: Tract Number 44
 description: Tract Number 44. From Project Canterbury.
 sidebar:
+  label: "#44 - Bishop Wilson's Meditations on His Sacred Office..."
   order: 46
+author: "Thomas Wilson"
+year: 1834
 ---
 
 Tracts for the Times

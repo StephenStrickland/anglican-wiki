@@ -2,7 +2,10 @@
 title: Tract Number 55
 description: Tract Number 55. From Project Canterbury.
 sidebar:
+  label: "#55 - Bishop Wilson's Meditations, No. 5 (Continued)"
   order: 57
+author: "Thomas Wilson"
+year: 1835
 ---
 
 Tracts for the Times

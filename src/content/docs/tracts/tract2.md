@@ -1,9 +1,30 @@
 ---
+title: "Tract 2: The Catholic Church"
+description: >
+  Newman argues that the Church, as an apostolic and catholic society, 
+  must resist state interference in ecclesiastical affairs.
+sidebar:
+  label: "Tract 2: The Catholic Church"
+  order: 2
+# Custom fields for filtering, cross-referencing, and search
+series: "Tracts for the Times"
+tract: 2
+author: "John Henry Newman"
+year: 1833
+source: "Project Canterbury"
+tags:
+  - ecclesiology
+  - church and state
+  - apostolic succession
+---
+
+<!-- ---
 title: Tract Number 2
 description: Tract Number 2. From Project Canterbury.
 sidebar:
+  label: "#2 - The Catholic Church"
   order: 4
----
+--- -->
 
 Tracts for the Times
 

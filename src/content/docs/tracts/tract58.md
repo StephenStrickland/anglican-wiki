@@ -2,7 +2,10 @@
 title: Tract Number 58
 description: Tract Number 58. From Project Canterbury.
 sidebar:
+  label: "#58 - On the Church as Viewed by Faith and by the World"
   order: 60
+author: "John William Bowden"
+year: 1835
 ---
 
 Tracts for the Times

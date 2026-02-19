@@ -2,7 +2,10 @@
 title: Tract Number 45
 description: Tract Number 45. From Project Canterbury.
 sidebar:
+  label: "#45 - The Grounds of Our Faith"
   order: 47
+author: "John Henry Newman"
+year: 1834
 ---
 
 Tracts for the Times

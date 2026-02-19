@@ -2,7 +2,10 @@
 title: Tract Number 8
 description: Tract Number 8. From Project Canterbury.
 sidebar:
+  label: "#8 - The Gospel a Law of Liberty"
   order: 10
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times

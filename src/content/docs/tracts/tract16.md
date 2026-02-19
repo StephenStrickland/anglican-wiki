@@ -2,7 +2,10 @@
 title: Tract Number 16
 description: Tract Number 16. From Project Canterbury.
 sidebar:
+  label: "#16 - Advent"
   order: 18
+author: "Benjamin Harrison"
+year: 1833
 ---
 
 Tracts for the Times

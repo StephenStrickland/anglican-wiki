@@ -2,7 +2,10 @@
 title: Tract Number 50
 description: Tract Number 50. From Project Canterbury.
 sidebar:
+  label: "#50 - Bishop Wilson's Meditations, No. 4 (Continued)"
   order: 52
+author: "Thomas Wilson"
+year: 1834
 ---
 
 Tracts for the Times

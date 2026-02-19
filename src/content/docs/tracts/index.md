@@ -1,5 +1,5 @@
 ---
-title: 'Tracts for the Times'
+title: 'Index'
 description: 'Tracts for the Times. From Project Canterbury.'
 sidebar:
   order: 0

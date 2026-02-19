@@ -2,7 +2,10 @@
 title: Tract Number 11
 description: Tract Number 11. From Project Canterbury.
 sidebar:
+  label: "#11 - The Visible Church, Letters I and II"
   order: 13
+author: "John Henry Newman"
+year: 1833
 ---
 
 Tracts for the Times
