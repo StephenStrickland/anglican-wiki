@@ -1,0 +1,117 @@
+---
+interface Props {
+  bookSlug: string;
+  bookName: string;
+  chapterNum: number;
+  totalChapters: number;
+  verses: Record<string, string>;
+}
+
+const { bookSlug, bookName, chapterNum, totalChapters, verses } = Astro.props;
+
+const prevChapter = chapterNum > 1 ? chapterNum - 1 : null;
+const nextChapter = chapterNum < totalChapters ? chapterNum + 1 : null;
+---
+
+<nav class="bible-chapter-nav" aria-label="Chapter navigation">
+  {prevChapter
+    ? <a href={`/bible/${bookSlug}/${prevChapter}/`}>&larr; Chapter {prevChapter}</a>
+    : <span></span>
+  }
+  <a href={`/bible/${bookSlug}/`} class="bible-book-link">{bookName}</a>
+  {nextChapter
+    ? <a href={`/bible/${bookSlug}/${nextChapter}/`}>Chapter {nextChapter} &rarr;</a>
+    : <span></span>
+  }
+</nav>
+
+<ol class="bible-verses" start="1">
+  {Object.entries(verses).map(([v, text]) => (
+    <li id={`v${v}`} class="bible-verse">
+      <sup class="verse-num">{v}</sup>{text}
+    </li>
+  ))}
+</ol>
+
+<nav class="bible-chapter-nav bible-chapter-nav--bottom" aria-label="Chapter navigation">
+  {prevChapter
+    ? <a href={`/bible/${bookSlug}/${prevChapter}/`}>&larr; Chapter {prevChapter}</a>
+    : <span></span>
+  }
+  <a href={`/bible/${bookSlug}/`} class="bible-book-link">{bookName}</a>
+  {nextChapter
+    ? <a href={`/bible/${bookSlug}/${nextChapter}/`}>Chapter {nextChapter} &rarr;</a>
+    : <span></span>
+  }
+</nav>
+
+<style>
+  .bible-chapter-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--sl-color-gray-5);
+    margin-bottom: 1.5rem;
+    font-size: var(--sl-text-sm);
+  }
+
+  .bible-chapter-nav--bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--sl-color-gray-5);
+    margin-bottom: 0;
+    margin-top: 1.5rem;
+  }
+
+  .bible-chapter-nav a {
+    color: var(--bcp-color-gold);
+    text-decoration: none;
+  }
+
+  .bible-chapter-nav a:hover {
+    text-decoration: underline;
+  }
+
+  .bible-book-link {
+    font-style: italic;
+  }
+
+  /* Verse list: reset list styling, use flowing prose layout */
+  .bible-verses {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.1rem;
+    line-height: 1.9;
+  }
+
+  .bible-verse {
+    padding: 0.15rem 0.5rem 0.15rem 0;
+    /* Space for sticky header when scrolled to via anchor */
+    scroll-margin-top: 5rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s ease;
+  }
+
+  /* Highlight the target verse when arriving via a hash link — zero JavaScript */
+  .bible-verse:target {
+    background: color-mix(in srgb, var(--bcp-color-gold) 15%, transparent);
+    padding-left: 0.5rem;
+  }
+
+  .verse-num {
+    display: inline-block;
+    min-width: 1.6em;
+    font-size: 0.68em;
+    font-weight: 700;
+    color: var(--bcp-color-gold);
+    vertical-align: super;
+    line-height: 1;
+    margin-right: 0.15em;
+    /* Prevent verse numbers from being selected when copying text */
+    user-select: none;
+    -webkit-user-select: none;
+  }
+</style>

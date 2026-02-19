@@ -1,0 +1,60 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import BibleChapter from '../../../components/BibleChapter.astro';
+import manifest from '../../../data/bible/manifest.json';
+
+export async function getStaticPaths() {
+  // Load all book data files at build time
+  // Each JSON file is a book; we generate one path per chapter
+  const bookFiles = import.meta.glob('../../../data/bible/*.json', { eager: true });
+
+  const paths = [];
+  for (const [, bookModule] of Object.entries(bookFiles)) {
+    // Skip the manifest (it doesn't have a 'chapters' key)
+    const data = bookModule as any;
+    if (!data.chapters) continue;
+
+    const { slug, name, testament, chapterCount, chapters } = data;
+
+    for (const chapterNum of Object.keys(chapters)) {
+      paths.push({
+        params: { book: slug, chapter: chapterNum },
+        props: {
+          bookSlug: slug,
+          bookName: name,
+          chapterNum: parseInt(chapterNum, 10),
+          totalChapters: chapterCount,
+          verses: chapters[chapterNum],
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+interface Props {
+  bookSlug: string;
+  bookName: string;
+  chapterNum: number;
+  totalChapters: number;
+  verses: Record<string, string>;
+}
+
+const { bookSlug, bookName, chapterNum, totalChapters, verses } = Astro.props;
+---
+
+<StarlightPage
+  frontmatter={{
+    title: `${bookName} ${chapterNum}`,
+    description: `${bookName}, Chapter ${chapterNum} — King James Version`,
+  }}
+>
+  <BibleChapter
+    bookSlug={bookSlug}
+    bookName={bookName}
+    chapterNum={chapterNum}
+    totalChapters={totalChapters}
+    verses={verses}
+  />
+</StarlightPage>
