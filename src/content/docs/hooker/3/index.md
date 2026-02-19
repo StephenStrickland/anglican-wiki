@@ -8,11 +8,11 @@ year: 1593
 
 *Pages from the Keble edition (Oxford, 1876). Files are in Adobe Acrobat format.*
 
-> [337–347](337-347.pdf)
-> [348–357](348-357.pdf)
-> [358–367](358-367.pdf)
-> [368–377](368-377.pdf)
-> [378–387](378-387.pdf)
-> [388–397](388-397.pdf)
-> [398–407](398-407.pdf)
-> [408–415](408-415.pdf)
+> [337–347](https://anglicanhistory.org/hooker/337-347.pdf)
+> [348–357](https://anglicanhistory.org/hooker/348-357.pdf)
+> [358–367](https://anglicanhistory.org/hooker/358-367.pdf)
+> [368–377](https://anglicanhistory.org/hooker/368-377.pdf)
+> [378–387](https://anglicanhistory.org/hooker/378-387.pdf)
+> [388–397](https://anglicanhistory.org/hooker/388-397.pdf)
+> [398–407](https://anglicanhistory.org/hooker/398-407.pdf)
+> [408–415](https://anglicanhistory.org/hooker/408-415.pdf)

@@ -20,5 +20,5 @@ Arranged by John Keble. Oxford: At the Clarendon Press, 1876.
 
 ---
 
-[Hooker's Theology of Common Prayer: The Fifth Book of the Polity Paraphrased and Expanded into a Commentary on the Prayer Book](marshall1956.pdf). \[PDF\]
+[Hooker's Theology of Common Prayer: The Fifth Book of the Polity Paraphrased and Expanded into a Commentary on the Prayer Book](https://anglicanhistory.org/hooker/marshall1956.pdf). \[PDF\]
 By John S. Marshall. Sewanee: At the University Press, 1956.
