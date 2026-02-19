@@ -49,9 +49,4 @@ Once more, if, when all times, all places, all forms are in themselves alike, ye
 we cleanse ourselves from all unbelief, insincerity, and guile: "wash our hands in innocency, and so go to His altar."
 
 OXFORD.
-
-*
-
-The Feast of St. Mark.
-
-*
+*The Feast of St. Mark.*

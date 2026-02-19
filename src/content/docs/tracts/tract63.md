@@ -97,8 +97,6 @@ St. Jamess Liturgy.
 St. Marks Liturgy.
 *Egyptian and Ethiopian.*
 
-*
-
 > > > > > > > 10\. The kiss of peace.
 > > > > > > > 1\. Lift up your hearts, &c.
 > > > > > > > 3\. Prayers for the Church on earth.
@@ -112,8 +110,6 @@ St. Marks Liturgy.
 > > > > > > > 11\. Communion.
 
 St. Johns Liturgy.
-
-*
 
 > *
 >
@@ -159,11 +155,7 @@ This is taken from Dr. Brett's translation of the Liturgy of St. James, used at 
 
 In the same might that He was offered, or rather offered up Himself for the life and salvation of the world, taking bread into His holy, immaculate, pure, and immortal hands, looking up to Heaven, and presenting it to THEE, His GOD and FATHER, He gave thanks, sanctified and brake it, and gave it to His Disciples and Apostles, saying
 
-*
-
-Deacon
-
-*.For the remission of sins and for everlasting life.*
+*Deacon*.For the remission of sins and for everlasting life.*
 
 Priest continues
 
@@ -171,11 +163,7 @@ Priest continues
 
 Likewise, after supper He took the cup and mixed it with vine and water, and looking up to Heaven, presenting it to THEE, His GOD and FATHER, He gave thanks, sanctified and blessed it, and filled it with the HOLY; GHOST, and gave it to His Disciples, saying, Drink ye all of this; this is my blood of the New Testament, which is shed and given for you and for many, for the remission of sins. *R*. Amen. Do this in remembrance of Me. For as oft as ye eat this bread and drink this cup, ye do show forth the death of the SON of MAN, and confess His resurrection, until His coming again.
 
-*
-
-People
-
-*.O LORD, we show forth thy death and confess thy resurrection.*
+*People*.O LORD, we show forth thy death and confess thy resurrection.*
 
 Priest continues
 
@@ -183,11 +171,7 @@ Priest continues
 
 And reject not this people for me and my sins, O LORD.
 
-*
-
-Then is repeated thrice
-
-*.*
+*Then is repeated thrice*.*
 
 Priest
 
@@ -211,11 +195,7 @@ This is taken from Dr. Bretts translation of the Liturgy of St. Mark, used by 
 
 In the same night wherein He delivered himself for our sins, and was about to suer death for mankind, sitting down to supper with His Disciples; He took bread in His holy, spotless, and undefiled hands, and looking up to THEE, His FATHER, but our GOD and the GOD of all, He gave thanks, He blessed, He sanctified, and brake it, and gave it to them saying, Take, eat.
 
-*
-
-Deacon
-
-*.Attend.*
+*Deacon*.Attend.*
 
 Priest continues
 
@@ -249,19 +229,11 @@ Showing forth, therefore, O LORD ALMIGHTY, heavenly King, the death of thine onl
 
 Send down thine HOLY SPIRIT upon us, and upon these loaves and these cups, that the ALMIGHTY GOD may sanctify and thoroughly consecrate them: making the bread the body.
 
-*
-
-People
-
-*.Amen.
+*People*.Amen.
 
 And the cup, the blood of the New Testament of our LORD himself, our GOD and SAVIOUR, and supreme King JESUS CHRIST.
 
-*
-
-Deacon
-
-*.Descend ye Deacon*
+*Deacon*.Descend ye Deacon*
 
 Priest
 

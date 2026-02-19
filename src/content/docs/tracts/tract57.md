@@ -57,9 +57,4 @@ Can it be necessary to add the obvious remark, that if the Church system were ne
 It is of GOD'S great mercy, that to such a perversion of mind is generally annexed what makes it its own punishment here, and so far gives it a fairer chance of better and more humble thoughts in time for hereafter. We are plainly taught by St. Paul, that those who permit themselves to disparage the heavenly gifts, conveyed to us by the SPIRIT of CHRIST through his Apostles, may expect to be, if no worse, yet all their lives "children, tossed to and fro, and carried away by every wind of doctrine:" or, as he elsewhere expresses it, "ever learning, and never able to come to the knowledge of truth." Let us remember these things, when we hear, as we too often have heard, and must more and more expect to hear, of ingenious men letting go their hold, first, of Christian order, and then of Christian faith: and let us fear and prayer both for them and for ourselves.
 
 OXFORD,
-
-*
-
-The Feast of the Annunciation.
-
-*
+*The Feast of the Annunciation.*

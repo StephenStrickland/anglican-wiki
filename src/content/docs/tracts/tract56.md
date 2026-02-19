@@ -143,9 +143,4 @@ The above, with the three days immediately before Ascension day,days which, un
 A holy season which, though it is observed by some branches of the Church as a strict fast, is not comprised among the fasts of the Church of England, is that of ADVENT; the season of preparation for celebrating the festival of the Nativity. It begins on the fourth Sunday before Christmas, and continues till Christmas Eve.
 
 OXFORD,
-
-*
-
-The Feast of the Annunciation
-
-*.
+*The Feast of the Annunciation*.

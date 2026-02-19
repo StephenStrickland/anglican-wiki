@@ -39,9 +39,4 @@ While Dissenters are exclusive on the one hand, Papists are so on the other. The
 It may be added, that, while the Catholic Church is a stay to the inquiring Christian, she is a check upon the forward. She *recommends* much to us, which she does not *impose*, like a true loving mother, "giving her judgment, as one that hath obtained mercy of the LORD to be faithful." All that is necessary for enjoying the privileges committed to her, is belief in the Apostles Creed, and that teachable spirit that does not introduce novelties upon it; but in her Articles and Liturgy she aims at directing into the truth, in all its parts, such as wish "to follow on to know the LORD."
 
 OXFORD,
-
-*
-
-The Feast of St. Philip and St. James.
-
-*
+*The Feast of St. Philip and St. James.*

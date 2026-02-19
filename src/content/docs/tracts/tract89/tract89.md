@@ -88,11 +88,7 @@ so a little ecclesiastical knowledge will suggest to us another consideration, v
 
 Under such impressions, we may safely approach the first bead of Mysticism imputed to the Fathers, *viz*. their mode of interpreting Holy Scripture.
 
-*
-
-§ii.-Specimen of ancient Mysticism in interpreting Scripture.
-
-*
+*§ii.-Specimen of ancient Mysticism in interpreting Scripture.*
 
 (1.) First, as to the matter of fact ; we need not perhaps hesitate to admit in the most unreserved way,indeed it might be hard to find any one who has ever denied,the universal adoption, by the early Christian writers, of the allegorical way of expounding the Old Testament. They do undoubtedly profess to find an intended figurative and Christian meaning, in innumerable places, which are neither express prophecies, nor alluded to as types in the New. Not only in the prophetical writings do they find our Lord and His Gospel every where ; not only do they trace throughout the Levitical services the example and shadow of the future heavenly things; but they deal also in the same way with the records of history, whether Patriarchal or Jewish ; and with the fragments which the Holy Ghost has caused to be preserved out of the moral and devotional poetry of the Hebrews,the Book of Job, the Psalms, and the Proverbs, and (what is in some respects the most significant and remarkable instance of all) the Song of Solomon from beginning to end.
 
@@ -230,11 +226,7 @@ On this whole history we may remark, as on that of Jacob before, that it bears o
 
 On the true cause of this very general agreement, some considerations will be offered hereafter, which may at least have the effect of helping us all to think with seriousness of heart, on a subject, which scholars in general have, perhaps, been apt to treat over-lightly, not to say profanely ; so that, in speaking of it, a person insensibly falls into the apologetic tone. But the more we really come to know and think of it, the more deeply, perhaps, shall we feel, that even that tone is inexcusable presumption, compared with what would become us, in making mention of those who come nearest the Apostles, and had in greatest perfection the mind of Christ.
 
-*
-
-§iii.-The Literal Sense left entire by the Mysticism of the Church.
-
-*
+*§iii.-The Literal Sense left entire by the Mysticism of the Church.*
 
 No impression, I believe, is more general among ordinary readers of theology, than this; that beyond a strong tendency to allegory, the Fathers had no definite principles at all, by which to interpret Scripture, but only employed, in a rhetorical way, whatever allusions best served the purpose of the moment. A remarkable and not a very encouraging fact, if such really were the case, that such a series of distinguished writers,writers whom their very censurers40 allow to have greatly exceeded the mass of their contemporaries,zealously applying themselves to this one work, and with a, devotion and reverence as sincere, in very many cases, as martyrdom could prove it; that these should have gone on quite at random, and have been right, when they were right, only by a happy chance. Nor would it seem easy to reconcile such a statement with our Lords command to search the Scriptures, and with His implied and express promises of spiritual aid ; unless we were prepared to maintain, what all history contradicts, that the Fathers either neglected the Bible, or forfeited the promise of aid in the study of it by gross heresy, or insincerity, proved, by ill conduct.
 
@@ -442,11 +434,7 @@ Compare this passage with the former, and it will be plain that while St. Chryso
 
 On the whole, we may assume that the Mysticism of the ancient Church (whatever might be said of some individuals) was very far from interfering with the truth of the history. The next point will be to show, that neither did it interfere with moral truth, *i. e.* it did not, by prophetical exposition, of certain questionable parts of the Patriarchs conduct, annul or confound the judgement of the well-informed moral sense, as to the rectitude such conduct. This however must be made matter of separate investigation.
 
-*
-
-iv.--Mysticism as applied to the Moral Difficulties of
-
-*Scripture.
+*iv.--Mysticism as applied to the Moral Difficulties of Scripture.*
 
 It has been endeavoured in the former sections, first, to shew distinctly what is meant, when the Fathers are charged with Mysticism, and to point out by example the need of extreme caution and reverence, whenever we approach that subject. Secondly, granting the fact that they are, generally speaking Mystics, at least in the interpretation of Scripture, (for to that in its present stage the inquiry is limited) a reason was however adduced for believing that they were not so at random, nor in mere blind obedience to the literary fashion of the day. The reason is this, that we find them, with few and rare exceptions, careful to limit their mystical expositions, so as not to destroy the historical and literal meaning. The exceptions, chiefly drawn from the Alexandrian school, were shortly considered, and appeared in themselves less formidable than they are sometimes represented : it appeared moreover, that whatever their amount, they so far tend to strengthen our argument, as they occasioned an anxious disavowal of the mere allegory, on the part of St. Basil, St. Augustine, and others, who had the best claim to be regarded as representing the whole Church. Their verdict is correctly reported in the following passages from Cyril of Alexandria88.
 
@@ -1458,7 +1446,6 @@ Enter, and chase them forth, and cleanse the floor," etc.
 -   De Bapt. c. 9.
 -   P. 998. Ed. Potter.
 -   Agam. 689, Ed. Butler,
-*
 
 t íz p o q  w n o m a x e n w d 
 

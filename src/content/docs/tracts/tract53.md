@@ -18,9 +18,7 @@ O GOD of peace and love, make me, thy minister, a messenger and instrument of pe
 
 O merciful GOD, who wouldest not the death of a sinner, but that he should be converted and live, bring into the right way all such as are gone astray from thy commandments. Vouchsafe unto all penitents, (*and especially unto all such as are now under the censures of the Church*,) a true sense of their crimes, true repentance for them, and thy gracious pardon, that their souls may be saved in the day of the LORD JESUS. Amen.
 
-*
-
-Church Discipline.*
+*Church Discipline.*
 
 However the Church be in some respects incorporated with the commonwealth in a Christian state, yet its fundamental rights remain distinct from it; of which this is one of the chiefto receive into, and to exclude out of the Church, such persons which, according to the laws of the Christian Society, are fit to be taken in, or shut out.
 
@@ -62,16 +60,7 @@ How perilous is the government of the Church, wherein a man becomes guilty of th
 
 All mankind are agreed that human legislatures can only dispense and make laws in cases purely human.
 
-*
-
-(To be continued.)
-
-*
+*(To be continued.)*
 
 OXFORD,
-
-*
-
-The Feast of St. Matthias.
-
-*
+*The Feast of St. Matthias.*

@@ -26,11 +26,7 @@ In short, this authority is necessary, if it is necessary to pre serve the honou
 
 The authority of CHRIST is to be respected in the meanest of His ministers.
 
-*
-
-Excommunication
-
-*, the most dreadful punishment which a Christian can suffer, becomes less feared than it ought to be, through the countenance which excommunicated persons meet with, contrary to the express command of GOD, "With such a one, no not to eat."
+*Excommunication*, the most dreadful punishment which a Christian can suffer, becomes less feared than it ought to be, through the countenance which excommunicated persons meet with, contrary to the express command of GOD, "With such a one, no not to eat."
 
 A true penitent will be willing to bear the shame of his sins (where he has given offence) before men, that he may escape the confusion of them hereafter. But then he ought to know, that to submit to the outward part of penance, is not to submit to GOD, unless it proceed from the fear and love of GOD.
 
@@ -121,9 +117,4 @@ Excommunication, in the primitive times, was pronounced in the congregation to w
 *(To be continued.)*
 
 OXFORD,
-
-*
-
-The Feast of the Annunciation.
-
-*
+*The Feast of the Annunciation.*

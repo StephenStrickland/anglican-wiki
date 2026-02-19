@@ -45,7 +45,6 @@ Lichfield................... 978,655                 3344
 By this table, it is not here intended to insinuate the necessity of any immediate measure of multiplying the English sees or appointing suffragans, (the expediency of which is to be determined by a variety of considerations, which it were unprofitable here to detail,) but to show that the genius of our ecclesiastical system tends towards such an increase, and that the only question to be determined is one of time. These statements are also made with the view of keeping up in the minds of churchmen a recollection of the injury which the Irish branch of our Church has lately sustained in the diminution of its sees.
 
 OXFORD.
-
 *The Feast of SS. Philip and St. James.*
 
 P. S.-Since this was written, a new arrangement of Dioceses and Sees has been made by authority of a Royal Commission, composed of members the greater part of whom were laymen, and without confirmation of their acts on the part of the Church.

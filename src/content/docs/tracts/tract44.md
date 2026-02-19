@@ -14,11 +14,7 @@ year: 1834
 >
 > *.ARE YOU PERSUADED THAT THE HOLY SCRIPTURES CONTAIN SUEFICIENTLY ALL DOCTRINE REQUIRED OF NECESSITY TO ETERNAL SALVATION THROUGH FAITH IN JESUS CHRIST? AND ARE YOU DETERMINED, OUT OF THE SAME HOLY SCRIPTURES, TO INSTRUCT THE PEOPLE COMMITTED TO YOUR CHARGE, AND TO TEACH OR MAINTAIN NOTHING AS REQUIRED OF NECESSITY TO ETERNAL SALVATION, BUT THAT WHICH YOU SHALL BE PERSUADED MAY BE CONCLUDED AND PROVED BY THE SAME ?*Ans*. I AM so PERSUADED AND DETERMINED BY GODS GRACE.
 
-*
-
-Question
-
-*.WILL YOU THEN FAITHFULLY EXCERCISE YOURSELF IN THE SAME HOLY SCRIPTURES, AND CALL UPON GOD BY PRAYER FOR THE TRUE UNDERSTANDING1, OF THE SAME; SO AS YOU MAY BE ABLE BY THEM TO TEACH AND EXHORT WITH WHOLESOME DOCTRINE, AND TO WITHSTAND AND CONVINCE GAINSAYERS ? *Ans*. I WILL DO SO BY THE HELP OF GOD.
+*Question*.WILL YOU THEN FAITHFULLY EXCERCISE YOURSELF IN THE SAME HOLY SCRIPTURES, AND CALL UPON GOD BY PRAYER FOR THE TRUE UNDERSTANDING1, OF THE SAME; SO AS YOU MAY BE ABLE BY THEM TO TEACH AND EXHORT WITH WHOLESOME DOCTRINE, AND TO WITHSTAND AND CONVINCE GAINSAYERS ? *Ans*. I WILL DO SO BY THE HELP OF GOD.
 
 O GOD, the fountain of all wisdom, enlighten my mind, that I myself may seek and be able to teach others, the wonders of Thy law; that I may learn from Thee, what I ought to think and speak concerning Thee; and that whatever in Thy Holy Word I shall profitably learn, I may in deed fulfil the same. Direct and bless all my labours. Give me a discerning spirit, a sound judgment, and an honest and a religious heart, that in all my studies my first aim may be to set forth Thy glory, by setting forward the salvation of men. And if, by my ministry, Thy kingdom shall be enlarged, let me, in all humility, ascribe the success, not unto myself, but unto Thy Good Spirit, which enables us both to will and to do what is acceptable to Thee, through JESUS CHRIST our Lord. Amen.
 
@@ -54,19 +50,11 @@ Luke v. 5. "We have toiled all the night, and taken nothing." So does every prea
 
 John vii. 16. "My doctrine is not Mine, but His that sent Me." To preach *our own thoughts*, forsaking GODS word, is like an ambassador, who neglects his princes instructions, and follows his own fancy. With what truth can it be said, that "the sheep hear his voice," when the shepherd speaks of things, or in such a manner, as is above their capacity? Grant, O LORD, that I may read thy word with the same spirit with which it was written. *Learning* does not always lead men to GOD; it often carries them from him. Indeed, when they study to *find out*, and correct their own *weakness*, their *folly*, and the *corruption of their nature*; to be convinced of the evil of sin, of the vanity of the world; to fill their souls with heavenly wisdom and devout *affections* towards GOD; and all this, that they may be better able to *convince* and *edify* their neighbour; such learning leads men indeed to GOD:the rest is folly. Have mercy upon all that sit in darkness; and may the saving truths of the Gospel be received in all the world! He that sets his heart upon the world, is not in a capacity of understanding the Gospel. Give me that true wisdom which consists in knowing how to save myself and them that hear me. Remember, that a man may have the knowledge of the Word, without the Spirit.
 
-*
-
-Obscurity of the Scriptures
-
-*
+*Obscurity of the Scriptures*
 
 Serves to subdue the pride of man; to convince us, that to understand them, we have need of a light superior to reason, and that we may apply to GOD for help. May I ever understand the true language of thy Word, O LORD, and profit by it! Vouchsafe, O GOD, to give me a love for thy Sacred Scriptures, and a true understanding of them, that I may see therein the wonders of thy conduct, and thy love for us, thy miserable creatures.
 
-*
-
-Sermons
-
-*
+*Sermons*
 
 Should be instructions, not declamations, or displaying curious thoughts, which may amuse, but not edify Christians. If GOD suffers even an holy pastor not presently to see the fruits of his labours, it is to convince him, that the success of his labours belongs to GOD; that he ought to humble himself, and pray much, and fear lest the fault should be in himself.
 
@@ -90,19 +78,11 @@ Col. iv. 4. "That I may make it manifest, (that is, the mystery of the Gospel) a
 
 l Pet. iv. 11 "If any man speak, let him speak as the oracles of GOD." That is, worthy of GOD, not weakening it by softening interpretations, nor altering it by human inventions, nor degrading it by a profane eloquence. If we find that people do not attend to the Sacred Scripture, as the Word of GOD, with eagerness and attention, we ought to fear that the fault is in those that preach it after such a manner as is not proper or likely to make them believe it to be the Word of GOD. It is good to know what GOD has revealed, and to be ignorant of what he has not thought fit to make known to us.
 
-*
-
-Ejaculations before reading the Holy Scriptures.
-
-*
+*Ejaculations before reading the Holy Scriptures.*
 
 Give me, O GOD, a love for thy Scriptures, and a true under standing of them. O JESUS, open my understanding, cause me to love Thy Word, and to order my faith and life according to it. May I, O JESUS, love Thy Word, make Thy Gospel my delight, and continue in the practice of Thy law unto my lifes end.
 
-*
-
-Reading Scripture.
-
-*
+*Reading Scripture.*
 
 John xvi. 13. "The HOLY SPIRIT shall guide you into all truth." O HOLY SPIRIT, make me to understand, embrace, and love the truths of the Gospel. Give, O GOD, Thy blessing unto Thy Word, that it may become effectual to my conversion and salvation, and to the salvation of all that read or hear it. Give me grace to read Thy Holy Word with reverence and respect becoming the gracious manifestation of Thy Will to men; submitting my understanding and will to Thine. Let Thy gracious promises, O GOD, contained in Thy Word, quicken my obedience. Let Thy dreadful threatenings and judgments upon sinners, fright me from sin, and oblige me to a speedy repentance, for JESUS CHRIST His sake. Cause me, O GOD, to believe Thy Word, to obey Thy commands, to fear Thy judgments, and to hope in, and depend upon, Thy gracious promises contained ill Thy Holy Word, for JESUS CHRISTS sake. Grant, O LORD, that in reading Thy Holy Word, 1 may never prefer my private sentiments before those of the Church in the purely ancient times of Christianity. Give me a full persuasion of those great truths, which Thou hast revealed in Thy Holy Word. The Gospel will not be a means of salvation to him who reads or hears it only, but to him who reads, loves, remembers, and practises it by a lively faith. Cause me, O GOD, rightly to understand, and constantly to walk in the way of Thy commandments. Grant us in this world knowledge of Thy truth, and in the world to come life everlasting, for JESUS CHRISTS sake. *Amen*. From hardness of heart and contempt of Thy Word, Good LORD deliver us. Give us all grace to hear meekly Thy Word, to receive it with pure affection, and to bring forth the fruits of the SPIRIT, to amend our lives according to Thy Holy Word.
 
@@ -111,9 +91,4 @@ Luke xxiv. 45. "Then opened he their understanding, that they might understand t
 Matt. xiii. 36. "Declare unto us this parable." This should instruct us, that the knowledge of GODS Word, and the mysteries of the Gospel, are favours which we must always beg of GOD.
 
 OXFORD,
-
-*
-
-The Feast of St. Michael.
-
-*
+*The Feast of St. Michael.*

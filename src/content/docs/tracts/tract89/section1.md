@@ -260,7 +260,6 @@ Enter, and chase them forth, and cleanse the floor," etc.
 -   De Bapt. c. 9.
 -   P. 998. Ed. Potter.
 -   Agam. 689, Ed. Butler,
-*
 
 t íz p o q  w n o m a x e n w d 
 

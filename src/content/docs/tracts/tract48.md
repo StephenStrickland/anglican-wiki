@@ -38,16 +38,7 @@ Rom. xv. 3. "Even Jesus Christ pleased not Himself;" as appears in the meanness 
 
 Mortification consists in such a sparing use of the creatures, as may deaden our love for them, and make us even indifferent in the enjoyment of them. This lessens the weight of concupiscence, which carries us to evil, and so makes the grace of God more effectual to turn the balance of the will. (*Norriss Christian Prudence*, *p*. 300.) It is the greatest mercy, that God does not consult our inclinations, in laying upon us the cross, which is the only way to happiness. Jesus Christ crucified would have few imitators, if God did not lay it upon us, by the hands of men, and by His providence. "Let him deliver him now, if he will have him." (Matth. xxvii. 43.) Carnal man cannot comprehend that God loves those whom he permits to suffer; but faith teaches us, that the cross is the gift of his love, the foundation of our hope, the mark of his children, and the title of an inheritance in heaven. But unless God sanctify it by his Spirit, it becomes an insupportable burden, a subject of murmuring, and an occasion of sin.
 
-*
-
-(To be continued.)
-
-*
+*(To be continued.)*
 
 OXFORD,
-
-*
-
-The Feast of St. Andrew.
-
-*
+*The Feast of St. Andrew.*

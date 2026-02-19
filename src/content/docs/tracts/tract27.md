@@ -91,7 +91,6 @@ The Church of Rome sings on Corpus Christi day, *This is not bread, but* GOD *an
 Now we leave inquiring what GOD is able to do, for we should first know His will in this matter, before we examine His power; yet thus much we say, that this Roman Transubstantiation is so strange and monstrous, that it exceeds the nature of all miracles. And though GOD by His Almightiness be able to turn the substance of bread into some other substance, yet none will believe that He doth it, as long as it appears to our senses, that the substance of the Bread doth still remain whole and entire. Certain it is, that hitherto we read of no such thing done in the Old or New Testament, and therefore this tenet, being as unknown to the Ancients as it is ungrounded in Scripture, appears as yet to be very incredible, and there is no reason we should believe such an unauthorised figment, newly invented by men, and now imposed as an article of Christian Religion. For it is in vain that they bring Scripture to defend this their stupendous doctrine; and it is not true, what they so often and so confidently affirm, that the Universal Church hath always constantly owned it, being it was not so much as heard of in the Church for many ages, and hath been but lately approved by the Popes authority in the Councils of Lateran and Trent.
 
 OXFORD.
-
 *The Feast of St. Matthias.*
 
 *(To be continued.)*

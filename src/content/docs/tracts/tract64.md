@@ -45,9 +45,4 @@ So Origen says, "They eat the bread that was offered to the Creator, with prayer
 Cyril of Jerusalem more particularly specifies the substance of this thanksgiving in his Mystical Catechisms, saying, "After this we make mention of the heaven, and earth, and sea, &c...." This is much the same with the thanksgiving in St. Jamess Liturgy, which was used in the Church of Jerusalem, in this form: "It is very meet and right, becoming us and our duty, that we should praise Thee, and celebrate Thee with hymns, and give thanks unto Thee, the Maker of all creatures, visible and invisible, the Treasure of all good, the Fountain of life and immortality, the GOD and LORD of all things, whom the Heavens, and the Heaven of Heavens praise, and all the host of them; the sun and moon and the whole company of stars; the earth, the sea, and all that are in them; the celestial congregation of Jerusalem; the Church of the first born, who are written in heaven; the spirits of just men and prophets, the souls of martyrs and apostles; angels and archangels, thrones and dominions, principalities and powers, the tremendous hosts, and cherubims with many eyes, and seraphims with six wings, with two whereof they cover their faces, and with two their feet, and with two they fly, crying out incessantly one to another, and singing with loud voices the triumphant song of the magnificence of Thy Glory, Holy, Holy, Holy, Lord of Hosts, heaven and earth are full of Thy Glory, Hosannah in the Highest. Blessed be He that cometh in the name of the LORD. Hosannah in the Highest."
 
 OXFORD,
-
-*
-
-The feast of St. Barnabas.
-
-*
+*The feast of St. Barnabas.*

@@ -62,11 +62,7 @@ Mal. iii. 89. "Will a man rob God? yet ye have robbed Me; but ye say, Wherein 
 
 And thine unwearied arm
 
-*
-
-Is ready yet
-
-*with Moses rod," &c.
+*Is ready yet*with Moses rod," &c.
 
 "The glory of this latter house SHALL BE GREATER THAN OF THE FORMER, saith the LORD of Hosts."
 
@@ -75,5 +71,4 @@ Strange it now seems before the event, how the Church should close both with glo
 And let it be remembered, that when our Lord seems at greatest distance from His Church, then He is even at the doors. Doubtless, when the Angel appeared in the Temple to Zacharias, the news of a miraculous interposition was as great a marvel to the world at large as if it were now noised abroad of one of our own Ministers in the course of his Christian Service.
 
 OXFORD,
-
 *The Feast of St. Mark.*

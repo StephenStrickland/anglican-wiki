@@ -201,9 +201,4 @@ So we agreed that an address of this kind should be prepared, and kept ready to 
 Not of course that we were so vain as to expect that *our* exertions could be of much avail; but still, as Richard said, "We cannot stand by and see the noble old Prayer Book pulled to pieces, just to humour a mob of Tiptops, Gapes, and Yawns."
 
 OXFORD,
-
-*
-
-The Feast of St. Matthew, 1834.
-
-*
+*The Feast of St. Matthew, 1834.*

@@ -94,5 +94,4 @@ In the name of JESUS CHRIST, and by the authority which we have received from Hi
 I, an unworthy minister of JESUS CHRIST, by the same authority and power, even that of our LORD JESUS CHRIST; by which for thy obstinacy, and other crimes, thou hast been excluded from the communion of CHRISTS Holy Church: By the same power, I do now release thee from that bond of excommunication, ac cording to the confession now made by thee before GOD and this Church; and do restore thee again unto the communion of the Church of CHRIST: beseeching the ALMIGHTY to give thee His grace, that thou mayest continue a worthy member of the same unto thy lifes end, through JESUS CHRIST our LORD. Amen.
 
 OXFORD,
-
 *The Feast of St. John the Baptist.*

@@ -53,9 +53,4 @@ And to what else can one attribute it, that so many eminent men in the French Ch
 "*Fasting is Popish*." If this means, that it has been preserved amid the errors of Romanism, is not this true of most of the truths of the Gospel? Our charge against the Romanists, generally, is not that they have not preserved the truth, but that, like the Pharisees, "they have made it of none effect by their traditions;" at least, in great measure, to so many of their members. And does not the objection imply that we have forgotten the peculiar character of our church, which is not a mere Protestant, but a Primitive Church? And if we are to prevail in our approaching conflict with Romanism, or to be (as we seem marked out to be) a means of reclaiming that Church, must we not reconsider the character of our own Church, and take our stand in its principles, not in the protestantism of other churches, or of the day?
 
 OXFORD,
-
-*
-
-Passion-Week
-
-*
+*Passion-Week*

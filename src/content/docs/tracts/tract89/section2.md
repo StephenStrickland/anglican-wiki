@@ -3,11 +3,7 @@ title: Tract Number 89; Section Two
 description: Tract Number 89; Section Two. From Project Canterbury.
 ---
 
-*
-
-§ii.-Specimen of ancient Mysticism in interpreting Scripture.
-
-*
+*§ii.-Specimen of ancient Mysticism in interpreting Scripture.*
 
 (1.) First, as to the matter of fact ; we need not perhaps hesitate to admit in the most unreserved way,indeed it might be hard to find any one who has ever denied,the universal adoption, by the early Christian writers, of the allegorical way of expounding the Old Testament. They do undoubtedly profess to find an intended figurative and Christian meaning, in innumerable places, which are neither express prophecies, nor alluded to as types in the New. Not only in the prophetical writings do they find our Lord and His Gospel every where ; not only do they trace throughout the Levitical services the example and shadow of the future heavenly things; but they deal also in the same way with the records of history, whether Patriarchal or Jewish ; and with the fragments which the Holy Ghost has caused to be preserved out of the moral and devotional poetry of the Hebrews,the Book of Job, the Psalms, and the Proverbs, and (what is in some respects the most significant and remarkable instance of all) the Song of Solomon from beginning to end.
 
@@ -319,7 +315,6 @@ Enter, and chase them forth, and cleanse the floor," etc.
 -   De Bapt. c. 9.
 -   P. 998. Ed. Potter.
 -   Agam. 689, Ed. Butler,
-*
 
 t íz p o q  w n o m a x e n w d 
 

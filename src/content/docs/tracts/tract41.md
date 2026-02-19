@@ -14,11 +14,7 @@ year: 1834
 >
 > *. I am come for some further conversation with you; or rather, for another exposition of your views on Church matters. I am not well read enough to argue with you; nor, on the other hand, do I profess to admit all you say: but I want, if you will let me, to get at your opinions. So will you lecture if I give the subjects?
 
-*
-
-Clericus
-
-*. To lecture, as you call it, is quite beyond me, since at best I have but a smattering of reading in Church history. The mores the pity; though I have as much as a great many others: for ignorance of our historical position as Churchmen is one of the especial evils of the day. Yet even with a little knowledge, I am able to see certain facts which seem quite inconsistent with notions at present received. For my *practice*, I should be ashamed of myself if I guided it by any theories. Here the letter and spirit of the Liturgy is my direction, as it is of all classes of Churchmen, high and low. Yet, though I do not lay a great stress on such views as I gather from history, it is to my mind a strong confirmation of them, that they just account for and illustrate the conclusions to which I am led by plain obedience to my ordination vows.*
+*Clericus*. To lecture, as you call it, is quite beyond me, since at best I have but a smattering of reading in Church history. The mores the pity; though I have as much as a great many others: for ignorance of our historical position as Churchmen is one of the especial evils of the day. Yet even with a little knowledge, I am able to see certain facts which seem quite inconsistent with notions at present received. For my *practice*, I should be ashamed of myself if I guided it by any theories. Here the letter and spirit of the Liturgy is my direction, as it is of all classes of Churchmen, high and low. Yet, though I do not lay a great stress on such views as I gather from history, it is to my mind a strong confirmation of them, that they just account for and illustrate the conclusions to which I am led by plain obedience to my ordination vows.*
 
 L
 
@@ -34,11 +30,7 @@ L
 
 C. Again, when the Church, with an unprecedented confidence, bound herself hand and foot, and made herself over to the civil power, in order to escape the Pope, she did not expect that infidels (as it has lately been hinted) would be suffered to have the absolute disposal of the crown patronage.
 
-*
-
-L
-
-*. This, again, might be considered matter of discipline. Our Reformation in the 16th century was one in matters of *faith*; and therefore we do not need a second Reformation *in the same sense* in which we needed it first.*
+*L*. This, again, might be considered matter of discipline. Our Reformation in the 16th century was one in matters of *faith*; and therefore we do not need a second Reformation *in the same sense* in which we needed it first.*
 
 C
 
@@ -245,9 +237,4 @@ C
 *. I am not speaking of those who would admit they were Puritans; but of that arrogant Protestant spirit (so called) of the day, in and out of the Church (if it is possible to say what is in and what is out), which thinks it takes bold and large views, and would fain ride over the superstitions and formalities which it thinks it sees in those who (I maintain) hold to the old Catholic faith; and, as seeing that this spirit is coming on apace, I cry out betimes, whatever comes of it, that corruptions are pouring in, which, sooner or later, will need a SECOND REFORMATION.
 
 OXFORD,
-
-*
-
-The Feast of St. Bartholomew
-
-*
+*The Feast of St. Bartholomew*

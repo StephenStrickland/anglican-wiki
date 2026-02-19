@@ -34,27 +34,15 @@ There may be people bold enough to make a mock of sin, to submit to public penan
 
 Convocation, 1536."That perfect penance which CHRIST requireth consists of contrition, confession, and amendment of former life, and an obedient reconciliation to the laws and will of GOD."See also the *Homilies*.
 
-*
-
-Absolution
-
-*.
+*Absolution*.
 
 Our Church ascribeth not the power of remission of sins to any but to GOD only. She holds that faith and repentance are the necessary conditions of receiving this blessing. And she asserts what is most true, that CHRIST'S ministers have a special commission, which other believers have not, authoritatively to declare this absolution for the comfort of true penitents; and which absolution, if duly dispensed, will have -a real effect from the promise of CHRIST. (John xx. 23.)*Pull. Moderat*.
 
-*
-
-Authority of the Church
-
-*is only *spiritual* and *ministerial* (the Head and authority being in heaven). She does not, therefore, call her orders *Laws*, but *Rules, Canons*; and her inflictions, not *punishments*, but *censures*. She acknowledges that whatever power she has besides spiritual, is either from the favour or injunction of princes.
+*Authority of the Church*is only *spiritual* and *ministerial* (the Head and authority being in heaven). She does not, therefore, call her orders *Laws*, but *Rules, Canons*; and her inflictions, not *punishments*, but *censures*. She acknowledges that whatever power she has besides spiritual, is either from the favour or injunction of princes.
 
 But (Article 37.) we give not our princes (and they have always disclaimed it) the power of administering GODS Word, or the Sacraments. And although our spiritual power be from GOD, yet is this power subject to be inhibited, limited, regulated, in the *outward exercises*, by the laws and customs of the land. By this moderation both powers are preserved entire and distinct. We neither claim a power of jurisdiction over the prince, nor pretend to be exempt from his.
 
-*
-
-Antenuptial Fornication
-
-*.
+*Antenuptial Fornication*.
 
 Those who enter into marriage only to conceal their shame, ought to give public satisfaction, as well as expiate their sin, by open penance.
 
@@ -62,29 +50,17 @@ The greatest care ought to be taken concerning the sincerity of penitents; till 
 
 In the primitive Church, every thing was done with advice, because their great aim was to have reason and the will of GOD prevail. A despotic power was forbid by CHRIST himself: "It shall not be so among you." He that is humble and charitable will take the mildest and surest way, and will not be troubled, provided the end be obtained.
 
-*
-
-Penance
-
-*.
+*Penance*.
 
 Sin is the disease of the soul. Diseases are not to be cured in a moment: it will take time to root out their causes, and to prevent their effects; so will is require time to prove the sincerity of our resolutions. We solemnly profess that we repent, and we are not sure but that we lie to GOD.
 
-*
-
-Discipline
-
-*.
+*Discipline*.
 
 As discipline slackened, men's manners grew more and more corrupt, even in the primitive times. There were never more infidels converted (saith Fleury) than when catechumens were most strictly examined, and baptized Christians put to open penance for their sins. They that are for making still more concessions to human frailty, will at last set aside the Christian religion, which is established upon maxims of eternal truth, and not on human policy; and instead of gaining or securing the bad, they will lose the better sort. A flattering physician is for giving palliating medicines, to ease the pain, without taking away the cause, which will occasion relapses, until at last they destroy the patient. But a good man will prescribe what he believes necessary to remove the cause, though uneasy to his patient, and will have nothing to do with such as will not submit to the necessary methods of cure.
 
 Penances, in the primitive Church, were never granted but unto such as desired them, and such as desired to be converted. None were forced, but such as would not submit were excommunicated.
 
-*
-
-Discipline impracticable
-
-*.
+*Discipline impracticable*.
 
 This cannot be, when it was practised for so many years in the primitive: Church. And what if it be one of those things which CHRIST has commanded His followers to observe so strictly, Matt. xxviii. 19, 20; and which He had learned of the FATHER, John xv. 15. and xvi. 13. The commands of Christ cannot be impracticable. That would be to tax Him with ignorance or weakness. When He promised to be with his Church to the end of the world, He engaged to give such graces as were necessary to raise us above our natural weaknesses.
 
@@ -112,11 +88,7 @@ Discipline (saith our Homily of the right use of the Church, Part II.) in the pr
 
 Those that make a *mock*, a *sport*, a *jest* of sin, too plainly betray a love of wickedness in themselves.
 
-*
-
-Exemption
-
-*.
+*Exemption*.
 
 A legal exemption cannot free a man from guilt, beyond the extent of that power which grants the exemption. If it be a human power, it can extend no farther than to exempt a man from human penalties, not from those that are purely spiritual.
 
@@ -175,9 +147,4 @@ Eccles. iv. 9. "Be not faint-hearted when thou sittest in judgment."
 A lover of the law will always have an eye to the intent of the law. (Matt. xii. 3.)
 
 OXFORD,
-
-*
-
-Feast of St. Philip and S. James.
-
-*
+*Feast of St. Philip and S. James.*

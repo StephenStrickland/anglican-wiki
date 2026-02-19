@@ -8,17 +8,9 @@ author: "John Henry Newman"
 year: 1834
 ---
 
-> *
->
-> Laicus
->
-> *.Will you listen to a few free questions from one who has not known you long enough to be familiar with you without apology? I am struck by many things I have heard you say, which show me that, somehow or other, my religious system is incomplete; yet at the same time the world accuses you of Popery, and there are seasons when I have misgivings whither you are carrying me.
+*Laicus*.Will you listen to a few free questions from one who has not known you long enough to be familiar with you without apology? I am struck by many things I have heard you say, which show me that, somehow or other, my religious system is incomplete; yet at the same time the world accuses you of Popery, and there are seasons when I have misgivings whither you are carrying me.
 
-*
-
-Clericus
-
-*.I trust I am prepared, most willing I certainly am, to meet any objections you have to bring against doctrines which you have heard me maintain. Say more definitely what the charge against me is.*
+*Clericus*.I trust I am prepared, most willing I certainly am, to meet any objections you have to bring against doctrines which you have heard me maintain. Say more definitely what the charge against me is.*
 
 L
 
@@ -134,11 +126,7 @@ C
 
 What is the prevailing opinion or usage respecting the form of absolution in the office for Visiting the Sick? What is thought by a great body of men of the words in which the Priesthood is conveyed? Are there no objections to the Athanasian Creed? no murmurs against the Commination Service? Does no one stumble at the word "oblations," in the Prayer for the Church Militant? Is there no clamour against parts of the Burial Service? No secret or scarcely secret complaints against the word *regeneration* in the Baptismal? No bold protestations against reading the Apocrypha? Now do not all these objections rest upon one general ground: *viz*. That these parts of our Services savour of Popery? And again, are not these the popular objections of the day?
 
-*
-
-L
-
-*. I cannot deny it.*
+*L*. I cannot deny it.*
 
 C
 
@@ -266,11 +254,7 @@ C
 
 L. Certainly.
 
-*
-
-C
-
-*. But the doctrine is no where found in the Articles; and for this plain reason, that both Romanists and Reformers admitted it; and the difference between the two parties was, not whether the Old and New Testament were inspired, but whether the Apocrypha was of canonical authority.*
+*C*. But the doctrine is no where found in the Articles; and for this plain reason, that both Romanists and Reformers admitted it; and the difference between the two parties was, not whether the Old and New Testament were inspired, but whether the Apocrypha was of canonical authority.*
 
 L
 
@@ -318,16 +302,7 @@ That the claim of the Pope to be Universal Bishop is against Scripture and antiq
 
 I might add other points in which also I protest against the Church of Rome, but I think it enough to make my confession in Halls order, and so leave it. And having done so, I will ask you but one question. Which says more against Popery, the Articles or I? The only severe words in the Articles being, that "the Sacrifice of Masses" "were blasphemous fables a dangerous deceits;" whereas the "doctrines concerning Purgatory, Pardons, Worshipping, and Adoration, as well of images as of relics, and also Invocation of saints," are only called "a fond thing," vainly invented, and grounded upon no warranty of Scripture, but rather repugnant to the Word of GOD."
 
-*
-
-L
-
-*. Thank you for this conversation; from which I hope to draw matter for reflection, though the subject seems to involve such deep historical research, I hardly know how to find my way ..through it.
+*L*. Thank you for this conversation; from which I hope to draw matter for reflection, though the subject seems to involve such deep historical research, I hardly know how to find my way ..through it.
 
 OXFORD,
-
-*
-
-The Feast of St. James.
-
-*
+*The Feast of St. James.*

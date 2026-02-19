@@ -53,9 +53,4 @@ This will be seen yet more clearly, on proceeding to examine the *doctrinal* res
 For the present, reverting to that ineffable mystery, from which on this day especially all our devout thoughts should begin, and in which they should end, I would only ask one question. *What will be the feelings of a Christian, particularly of a Christian pastor, should he find hereafter that in slighting or discouraging Apostolical claims and views, (be the temptation what it may) he has really been helping the evil spirit to unsettle mens faith in* THE INCARNATION OF THE SON OF GOD?
 
 OXFORD,
-
-*
-
-The Feast of the Purification.
-
-*
+*The Feast of the Purification.*

@@ -23,5 +23,4 @@ It is of the utmost importance that you should know and understand that it is by
 Remember, then, that whether your pastors be rich or poor, honoured or despised by the world, it is only the having received this COMMISSION that makes us "bold in our GOD to speak unto you the Gospel of GOD" (1 Thess. ii. 2.); and it is only this that can give you any security that the ministration of the Word and Sacraments shall be effectual to the saving of your souls. Learn, then, to cherish and value the blessing which GOD has vouchsafed to you, in having given you pastors who have received this commission. The Dissenting teachers have it not. They lay no claim to regular succession from the Apostles; and though the Roman Catholic clergy have indeed been ordained by the hands of Bishops, they are mere intruders in this country, have no right to come here, and besides, have so corrupted the truth of GOD'S word, that they are not to be listened to for a moment.
 
 OXFORD,
-
 *The Feast of the Ascension.*

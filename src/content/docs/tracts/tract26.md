@@ -69,9 +69,4 @@ The oftener we do it, \[partake the LORDS Supper,\] the more I expert we shall
 If such considerations as these will not prevail upon men, to lay aside their little excuses for the neglect of so great a duty, and to resolve for the future upon the more constant performance of it; for my part, I know not what will and therefore shall say no more, but that I never expect to see our Church settled, Primitive Christianity revived, and true piety and virtue flourish again among us, till the Holy Communion be oftener celebrated, than it hath been of late, in all places of the Kingdom: and am sure, that if people were but sensible of the great advantage it would be to them, they would need no other arguments to persuade them to frequent it as often as they can. For we should soon find, as many have done already, by experience, that this is the great means appointed by our Blessed REDEEMER, whereby to communicate Himself, and all the merits of His most precious Death and Passion to us, for the pardon of all our sins, and for the "purging our consciences from dead works to serve the living GOD." So that by applying ourselves thus constantly unto Him, we may receive constant supplies of grace and power from Him to live in His true faith and fear all our days; and by conversing so frequently with Him at His Holy Table upon earth, we shall be always fit and ready to go to Him, and to converse perpetually with Him at His Kingdom I above, where we shall have no need of Sacraments, but shall see *Him face to face*, and adore and praise Him for ever; as for all His other blessings, so particularly for the many opportunities he hath given us, of partaking of His most Blessed Body and Blood.
 
 OXFORD,
-
-*
-
-The Feast of the Purification.
-
-*
+*The Feast of the Purification.*

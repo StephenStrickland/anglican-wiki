@@ -59,9 +59,4 @@ Every Churchwarden in every parish in England is called on once a year to attend
 These remarks are offered to my brethren without immediate practical object. Circumstances, however, may occur any day which would make them immediately practical; and it is necessary to be *prepared* for these. Firmly as we may be resolved at present, from the dictates of a sober and contented spirit, not to commence changes; yet when changes are commenced, and seem likely to extend still more widely, it may obviously be the duty of Churchmen, in mere self-defence, to expose and protest against their destitute and oppressed condition.
 
 OXFORD,
-
-*
-
-Feast of St. Mark.
-
-*
+*Feast of St. Mark.*

@@ -83,9 +83,4 @@ Let us learn never to be ashamed to acknowledge our sins to remembrance, and jud
 Then shall be said distinctly the fifty-first Psalm, together with the Prayers appointed in the Commination service for Ash-Wednesday.
 
 OXFORD,
-
-*
-
-The Feast of St. James.
-
-*
+*The Feast of St. James.*

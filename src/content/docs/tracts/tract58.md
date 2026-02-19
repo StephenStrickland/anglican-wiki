@@ -39,9 +39,4 @@ Even to the Churchs true members, its real glories here on earth, are for the 
 In that retrospective view it will undoubtedly be seen, that the world, in systematically afflicting the Church, is but doing its appointed part. May the part assigned to ourselves be the happier one of witnesses for GODS truth and defenders of His Holy Institution. May we, seeing GOD in all things,habitually contemplating the ALMIGHTY as now revealed to the eye of faith alike in His Church and in His world,prepare ourselves, through His Grace, for that fuller and more perfect contemplation of Him, which shall hereafter be the privilege of the redeemed in Heaven.
 
 OXFORD,
-
-*
-
-The Feast of the Resurrection.
-
-*
+*The Feast of the Resurrection.*

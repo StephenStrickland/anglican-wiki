@@ -46,11 +46,7 @@ Acts xxviii. 29. "And when he had said these things,the Jews had great reasoni
 
 It is not by the heat of disputation, but by the gentleness of charity, that souls are gained over to GOD. And when controversy is necessary, as sometimes it is, let it never be managed with harshness, bitterness, or severity, lest it exasperate and harden, more than convert and edify. A prudent condescension has often prevailed upon the weak, and rendered them capable of hearkening to reason, when the contrary conduct would have removed them farther from the light. We ought to avoid evil men and seducers, in order to shame them;to deprive them of that credit, whereby they may do hurt;to make them to return to a right mind,and that we may avoid the snare ourselves.
 
-*
-
-Disputes.
-
-*
+*Disputes.*
 
 The primitive Fathers were ever modest upon religious questions. They contented themselves with resolving such questions as were proposed to them, without starting new ones; and carefully suppressed the curious, restless temper.
 
@@ -61,9 +57,4 @@ GOD judges otherwise than we do of these things. He knows the good He intends to
 One single soul is worth the utmost pains of the greatest Minister of CHRIST. But, then, let us take care, when it is brought into the fold, that he be a better Christian than before,that he be not two-fold more the child of hell than before.
 
 OXFORD,
-
-*
-
-The Feast of St. Simon and St. Jude.
-
-*
+*The Feast of St. Simon and St. Jude.*

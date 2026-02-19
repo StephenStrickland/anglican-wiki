@@ -21,9 +21,4 @@ Further, it is surely parallel with the order of Divine Providence that there sh
 I say all this, merely for the purpose of suggesting to those who are "weak" some idea of possible modes in which Eternal Wisdom may reconcile the exuberance of His mercy in Christ to the whole race of man, with the placing of it in its fulness in a certain ordained society and ministry. For myself I prefer to rely upon the simple word of truth, of which Scripture is the depository, and since Christ has told me to preach the *whole* counsel of God, to do so fearlessly and without doubting; not being careful to find ways of smoothing strange appearances in His counsels, and of obviating difficulties, being aware on the one hand that His thoughts are not our thoughts, nor our ways His ways, and on the other, that He is ever justified in His sayings, and overcomes when He is judged.
 
 OXFORD,
-
-*
-
-The Feast of All Saints.
-
-*
+*The Feast of All Saints.*

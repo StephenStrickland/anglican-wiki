@@ -498,5 +498,4 @@ Again, it may be objected that the great article of difference between Greeks an
 And with these remarks shall terminate a discussion, which has extended far beyond the limits which were originally proposed by the writer.
 
 OXFORD.
-
 *The Feast of the Annunciation*.

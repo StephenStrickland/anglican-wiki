@@ -113,9 +113,4 @@ P.S. In order that you may know whom you ought to look upon as your proper spiri
 (*Barrow*, Serm. LVI. p. 284287. vol. iii.)
 
 OXFORD,
-
-*
-
-The Feast of St. Matthias.
-
-*
+*The Feast of St. Matthias.*

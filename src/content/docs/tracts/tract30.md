@@ -88,12 +88,7 @@ Dr.It gives me, John, the sincerest pleasure to hear you express such sentimen
 J.I hope, Sir, that I shall: I hope that I shall ever feel duly thankful for the blessing of being called into CHRISTS Church, thus happily established among us; and I trust that when in the name of the congregation you put up the prayer for protection against "false doctrine, heresy, and schism," my heart and soul may accompany my lips in the response,"Good LORD, deliver us !"
 
 OXFORD,
-
-*
-
-The Feast of the Annunciation.
-
-*
+*The Feast of the Annunciation.*
 
 FOOTNOTE
 
