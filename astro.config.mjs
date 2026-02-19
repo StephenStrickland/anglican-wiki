@@ -22,12 +22,18 @@ export default defineConfig({
 					label: 'Books of Common Prayer',
 					items: [
 						{ label: 'BCP 1662', slug: 'bcp-1662' },
-						{ label: 'BCP 1770 — Church Catechism', slug: 'bcp-1770/church-catechism' },
-						{ label: 'BCP 1789', slug: 'bcp-1789' },
 						{ label: 'BCP 1928', slug: 'bcp-1928' },
-						{ label: 'BCP 1962 — Canadian', slug: 'bcp-1962' },
 						{ label: 'BCP 2019', slug: 'bcp-2019' },
-						{ label: 'BCP 2005 — REC', slug: 'bcp-rec-2005' },
+						{
+							label: 'Other Editions',
+							collapsed: true,
+							items: [
+								{ label: 'BCP 1770 — Church Catechism', slug: 'bcp-1770/church-catechism' },
+								{ label: 'BCP 1789', slug: 'bcp-1789' },
+								{ label: 'BCP 1962 — Canadian', slug: 'bcp-1962' },
+								{ label: 'BCP 2005 — REC', slug: 'bcp-rec-2005' },
+							],
+						},
 					],
 				},
 				{
