@@ -42,7 +42,7 @@ The Celebration of the Holy Eucharist [1](p001.html)
 The Vestments [12](p012.html)
 
 The Order of Administration [23](p023.html)
-    continued [64](p064.html)
+    continued [64](p064.html)
 
 The Calendar [76](p076.html)
 
@@ -172,22 +172,22 @@ CORRIGENDA.
 
 \[Note: These corrections have been made to the online text.\]
 
-Persons using this Book are requested to make with a pen the following corrections:
+Persons using this Book are requested to make with a pen the following corrections:—
 
-Page 22, a, line 4, *for* triangular *read* quadrangular.
+Page 22, a, line 4, *for* "triangular" *read* "quadrangular."
 
 Page 27, line 6, *for* the colon *read* a comma.
 
-Page 27, a, line 1, *for* before *read* during.
+Page 27, a, line 1, *for* "before" *read* "during."
 
-Page 50, line 5, *for* upon *read* outside.
+Page 50, line 5, *for* "upon" *read* "outside."
 
-Page 53, b, line 2, *for* IT *read* it.
+Page 53, b, line 2, *for* "IT" *read* "it."
 
-Page 72, line 5, *omit* and *gloria*.
+Page 72, line 5, *omit* "and *gloria*."
 
-Page 72, line 8, *omit* and *gloria*.
+Page 72, line 8, *omit* "and *gloria*."
 
-Page 219, a, line 30, *for* The church-yard crosses *read* The Church-yard Cross.
+Page 219, a, line 30, *for* "The church-yard crosses" *read* "The Church-yard Cross."
 
-Page 219, b, line 16, *after* maniple *insert* (worn also by Epistoler.)
+Page 219, b, line 16, *after* "maniple" *insert* "(worn also by Epistoler.)"

@@ -13,7 +13,7 @@ INFANT BAPTISM[\[1\]](#_edn1)
 
 § 4. *When it seems fit, the following, or some other convenient address, shall precede the baptismal service.*
 
-Beloved in the Lord, when the Saviour sent out his Apostles, he said unto them, “Go ye, and teach all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you[\[2\]](#_edn2).” “He that believeth and is baptized shall be saved[\[3\]](#_edn3).” Through baptism men are cleansed from their sins, made partakers in the meritorious redemption of Jesus Christ, taken into the society of the faithful and into the Church of Christ, fitted to obtain a share in all the treasuries of grace, with the management and administration of which Christ has entrusted *his* church.
+Beloved in the Lord, when the Saviour sent out his Apostles, he said unto them, "Go ye, and teach all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you[\[2\]](#_edn2)." "He that believeth and is baptized shall be saved[\[3\]](#_edn3)." Through baptism men are cleansed from their sins, made partakers in the meritorious redemption of Jesus Christ, taken into the society of the faithful and into the Church of Christ, fitted to obtain a share in all the treasuries of grace, with the management and administration of which Christ has entrusted *his* church.
 
 When an adult is to be baptized, he must be first instructed in the doctrine of Christ, and profess his faith in it, and declare himself ready to observe all that Christ hath commanded, and to renounce all that is in opposition to the doctrine and commandments of Christ. But it is in accordance with the intention of the Lord, who lovingly called little children to come unto him, that the infant children of Christian parents should be taken up into the company of the faithful by baptism, and soon after their natural birth should be born again of water and the Holy Ghost.
 
@@ -27,7 +27,7 @@ Which holy act, as I am now on the point of commencing, I beseech those present 
 
 *Sponsors*. I do.
 
-*Priest*. The Lord himself hath said; “This is life eternal, that they may know thee the only true God, and Jesus Christ, whom thou hast sent[\[4\]](#_edn4).” “If thou wilt enter into life, keep the commandments[\[5\]](#_edn5).” “Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and thy neighbour as thyself[\[6\]](#_edn6).”
+*Priest*. The Lord himself hath said; "This is life eternal, that they may know thee the only true God, and Jesus Christ, whom thou hast sent[\[4\]](#_edn4)." "If thou wilt enter into life, keep the commandments[\[5\]](#_edn5)." "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and thy neighbour as thyself[\[6\]](#_edn6)."
 
 § 5. *The Priest shall then breathe on the child, and say:*
 
@@ -61,13 +61,13 @@ O God, thou author of all wisdom, look graciously down on this thy servant *N*.,
 
 *Priest*. Sign yourselves now with the sign of the holy cross in the name of the Father, the Son, and the Holy Ghost, and learn the words of the holy gospel, written by the Evangelist S. Mark.
 
-“At that time they brought young children to Jesus, that he should touch them: and his disciples rebuked those that brought them. But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God. Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein. And he took them up in his arms, put his. hands upon them (*here the Priest shall lay his hand on the child*), and blessed them[\[13\]](#_edn13).”
+"At that time they brought young children to Jesus, that he should touch them: and his disciples rebuked those that brought them. But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God. Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein. And he took them up in his arms, put his. hands upon them (*here the Priest shall lay his hand on the child*), and blessed them[\[13\]](#_edn13)."
 
 Peace be with you.
 
 § 17.
 
-Let us now repeat the Creed, which has been used in the church since the Apostles’ time, as a short summary of the chief points of the doctrine of Christ, and then the Lord’s Prayer:
+Let us now repeat the Creed, which has been used in the church since the Apostles' time, as a short summary of the chief points of the doctrine of Christ, and then the Lord's Prayer:
 
 I believe in God, &c.
 
@@ -151,7 +151,7 @@ Almighty God, the Father of our Lord Jesus Christ, who hath regenerated thee by 
 
 § 39. *If the father of the child be present, the following address may be added:*
 
-In the name of the church of Christ, into whose communion this child is now by baptism received, I give *him* back into the hands of *his* parents. It is now your duty to take thought for the child’s education, to make *him* acquainted, as *he* grows up, with the truths of the Christian religion, and to lead *him* to keep the evangelical commandments; that hereafter *he* may himself confess the faith in word and deed, which *his* sponsors have now confessed in *his* name, and may fulfil the promises which they have made for *him*. May God bless this child, who now through baptism is made a child of God, that *he* may prosper both in body and soul to *his* parents’ joy; and may grow up to be a fit member of our communion. May God also bless the endeavours of the parents, and reward them according to the words of the Lord, “Whoso shall receive a child in my name receiveth me[\[15\]](#_edn15)!”
+In the name of the church of Christ, into whose communion this child is now by baptism received, I give *him* back into the hands of *his* parents. It is now your duty to take thought for the child's education, to make *him* acquainted, as *he* grows up, with the truths of the Christian religion, and to lead *him* to keep the evangelical commandments; that hereafter *he* may himself confess the faith in word and deed, which *his* sponsors have now confessed in *his* name, and may fulfil the promises which they have made for *him*. May God bless this child, who now through baptism is made a child of God, that *he* may prosper both in body and soul to *his* parents' joy; and may grow up to be a fit member of our communion. May God also bless the endeavours of the parents, and reward them according to the words of the Lord, "Whoso shall receive a child in my name receiveth me[\[15\]](#_edn15)!"
 
 ---
 
@@ -187,13 +187,13 @@ And now I ask thee *N*., Dost thou desire by faith in Jesus Christ to obtain ete
 
 [\[6\]](#_ednref6) S. Matt. xxii. 37, 39.
 
-[\[7\]](#_ednref7) *If the child has been already baptized*, “May the powers of darkness remain far from thee,” &c.
+[\[7\]](#_ednref7) *If the child has been already baptized*, "May the powers of darkness remain far from thee," &c.
 
 [\[8\]](#_ednref8) Eph. i. 18.
 
-[\[9\]](#_ednref9) *In the case of an adult*, “this thy servant *or* handmaiden.”
+[\[9\]](#_ednref9) *In the case of an adult*, "this thy servant *or* handmaiden."
 
-[\[10\]](#_ednref10) *If the child has been already baptized*, “Which thou hast brought to the grace of regeneration by the Holy Ghost; keep all darkness from his heart,” &c.
+[\[10\]](#_ednref10) *If the child has been already baptized*, "Which thou hast brought to the grace of regeneration by the Holy Ghost; keep all darkness from his heart," &c.
 
 [\[11\]](#_ednref11) Gal. vi. 14.
 
@@ -203,6 +203,6 @@ And now I ask thee *N*., Dost thou desire by faith in Jesus Christ to obtain ete
 
 \[The Gospel in the Strasburg Ritual is from S. Mat. xix. 13—15; in the Cologne Ritual, from S. Mark x. 13—16.\]
 
-[\[14\]](#_ednref14) If the child has been already baptized, the words, “before … baptism,” must be omitted.
+[\[14\]](#_ednref14) If the child has been already baptized, the words, "before … baptism," must be omitted.
 
 [\[15\]](#_ednref15) S. Matt, xviii. 5.

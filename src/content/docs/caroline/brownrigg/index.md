@@ -36,7 +36,7 @@ By that famous and reverend divine Ralph Brownrigge, formerly vice-chancelour of
 London, 1660.
 
 Fourty sermons by the Right Reverend Father in God Ralph Brownrig, late Lord Bishop of Exceter
-Published by William Martyn, M.A., preacher at the Rolls, London,  1661
+Published by William Martyn, M.A., preacher at the Rolls, London,  1661
 
 [A Sermon Preached on the Coronation day of K. Charles I](coronation.html)
 March 27, 1644, in S. Mary's in Cambridge
@@ -50,4 +50,4 @@ London, 1664.
 
 Sixty-five Sermons in Two Volumes
 By the Right Reverend Father in God, Ralph Brownrig
-London,  1674.
+London,  1674.

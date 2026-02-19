@@ -37,7 +37,7 @@ ZAŚWIADCZAM i stwierdzam, że dziegcie to należycie ochrzczone zostało i Chrz
 
 *S-ty Marek X. 13*.
 
-„TEDY przynoszono do niego dziatki, aby się ich dotykał, ale uczniowie gromili tych którzy je przynosili. Co ujrzawszy Jezus, rozgniewał się i rzekł im: Dopuśćcie dziatkom przychodzić do mnie, a nie zabraniajcie im, albowiem takich jest królestwo Boże. Zaprawdę powiadam wam: ktobykolwiek nie przyjął królestwa Bożego jako dzieciątko, nie wnijdzie do niego. I biorąc je na ręce Swoje i kładąc na nie ręce, błogosławił im.”
+„TEDY przynoszono do niego dziatki, aby się ich dotykał, ale uczniowie gromili tych którzy je przynosili. Co ujrzawszy Jezus, rozgniewał się i rzekł im: Dopuśćcie dziatkom przychodzić do mnie, a nie zabraniajcie im, albowiem takich jest królestwo Boże. Zaprawdę powiadam wam: ktobykolwiek nie przyjął królestwa Bożego jako dzieciątko, nie wnijdzie do niego. I biorąc je na ręce Swoje i kładąc na nie ręce, błogosławił im."
 
 *Po przeczytaniu Ewangelji ksiądz wypowiada następujące krótkie napomnienie*.
 

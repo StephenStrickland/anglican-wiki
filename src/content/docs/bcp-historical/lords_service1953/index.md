@@ -86,7 +86,7 @@ VI. Thou shalt do no murder.
 VII. Thou shalt not commit adultery.
 VIII. Thou shalt not steal.
 IX. Thou shalt not bear false witness against thy neighbour.
-X. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his servant, nor his maid, nor his ox, nor his ass, nor anything that is his.
+X. Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his servant, nor his maid, nor his ox, nor his ass, nor anything that is his.
 *Answer*. Lord, have mercy upon us, and write all these thy laws in our hearts, we beseech thee.
 
 *Here follows the Prayer for the Queen.*
@@ -134,7 +134,7 @@ And in one Lord (*here all bow*) Jesus Christ, the only-begotten Son of God; Beg
 God of God, Light of Light, Very God of very God, Begotten, not made.
 Being of one substance with the Father; By whom all things were made.
 Who for us men, and for our salvation came down from heaven:
-*Here kneel in memory of Jesus Christ’s great humility in taking our flesh upon him and becoming Man.*
+*Here kneel in memory of Jesus Christ's great humility in taking our flesh upon him and becoming Man.*
 And was incarnate by the Holy Ghost of the Virgin Mary.
 And was made Man. *Stand*.
 And was crucified also for us under Pontius Pilate. He suffered and was buried.
@@ -156,7 +156,7 @@ Let us pray.
 
 *Then follows the Offertory*.
 
-*This part of the Service is called the Offertory. (1) Because it is the offertory of bread and wine. (2) Because it is the custom for the congregation to make an offering here to God. On the Altar there is a small plate called the Paten: on this are placed breads made of the best and purest wheat. The priest then takes with him to the side of the Altar a cup called the Chalice. He pours some wine into the Chalice and mixes a few drops of water with the wine, because there was water mixed with the wine at the Institution of the sacrament of the Lord’s Supper. Then the priest goes to the middle of the Altar and offers the bread and wine to God, because by the power of God they are to become verily and indeed the Body and Blood of Christ. Then the priest washes his hands before proceeding with the service. This is called the Lavabo*.
+*This part of the Service is called the Offertory. (1) Because it is the offertory of bread and wine. (2) Because it is the custom for the congregation to make an offering here to God. On the Altar there is a small plate called the Paten: on this are placed breads made of the best and purest wheat. The priest then takes with him to the side of the Altar a cup called the Chalice. He pours some wine into the Chalice and mixes a few drops of water with the wine, because there was water mixed with the wine at the Institution of the sacrament of the Lord's Supper. Then the priest goes to the middle of the Altar and offers the bread and wine to God, because by the power of God they are to become verily and indeed the Body and Blood of Christ. Then the priest washes his hands before proceeding with the service. This is called the Lavabo*.
 
 *During the Offertory this hymn may be sung*:
 
@@ -173,7 +173,7 @@ And make it wholly thine.
 Send down thy Spirit from above
 To bless this heavenly Food,
 That we, by faith, may here discern
-Christ’s Body and his Blood.
+Christ's Body and his Blood.
 
 And grant that we, who here partake
 Of Christ, the Living Bread,
@@ -192,7 +192,7 @@ THE PRAYER FOR THE CHURCH MILITANT
 
 *After the Offertory the Priest says*:
 
-Let us pray: for the whole state of Christ’s Church militant here in earth.
+Let us pray: for the whole state of Christ's Church militant here in earth.
 
 Almighty and everliving God, who by thy holy Apostle hast taught us to make prayers and k supplications, and to give thanks, for all men; We humbly beseech thee most mercifully to accept our alms and oblations, and to receive these our prayers, which we offer unto thy divine Majesty; beseeching thee to inspire continually the universal Church with the spirit of truth, unity, and concord.
 
@@ -206,13 +206,13 @@ And to all thy people give thy heavenly grace; and specially to this congregatio
 
 And we most humbly beseech thee of thy goodness, O Lord, to comfort and succour all them, who in this transitory life are in trouble, sorrow, need, sickness, or any other adversity.
 
-And we also bless thy holy Name for all thy servants departed this life in thy faith and fear; beseeching thee to give us grace so to follow their good examples, that with them we may be partakers of thy heavenly kingdom. Grant this, O Father, for Jesus Christ’s sake; our only Mediator and Advocate. R. Amen.
+And we also bless thy holy Name for all thy servants departed this life in thy faith and fear; beseeching thee to give us grace so to follow their good examples, that with them we may be partakers of thy heavenly kingdom. Grant this, O Father, for Jesus Christ's sake; our only Mediator and Advocate. R. Amen.
 
 *The Priest turns and says*: Ye that do truly, *etc*.
 
 *Then this confession is made*:
 
-Almighty God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men; We acknowledge and bewail our manifold sins and wickedness, Which we, from time to time, most grievously have committed, By thought, word, and deed, Against thy divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ’s sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee in newness of life, to the honour and glory of thy Name. Through Jesus Christ our Lord. Amen.
+Almighty God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men; We acknowledge and bewail our manifold sins and wickedness, Which we, from time to time, most grievously have committed, By thought, word, and deed, Against thy divine Majesty, Provoking most justly thy wrath and indignation against us. We do earnestly repent, And are heartily sorry for these our misdoings; The remembrance of them is grievous unto us; The burden of them is intolerable. Have mercy upon us, Have mercy upon us, most merciful Father; For thy Son our Lord Jesus Christ's sake, Forgive us all that is past; And grant that we may ever hereafter Serve and please thee in newness of life, to the honour and glory of thy Name. Through Jesus Christ our Lord. Amen.
 
 *The Priest says*:
 
@@ -264,7 +264,7 @@ PRAYER OF CONSECRATION
 
 Almighty God, our heavenly Father, who of thy tender mercy didst give thine only Son Jesus Christ to suffer death upon the Cross for our redemption; Who made there (by his one oblation of himself once offered) a full, perfect, and sufficient sacrifice, oblation, and satisfaction, for the sins of the whole world; and did institute, and in his holy Gospel command us to continue, a perpetual memory of that his precious death, until his coming again;
 
-Hear us, O merciful Father, we most humbly beseech thee; and grant that we receiving these thy creatures of bread and wine, according to thy Son our Saviour Jesus Christ’s holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood:
+Hear us, O merciful Father, we most humbly beseech thee; and grant that we receiving these thy creatures of bread and wine, according to thy Son our Saviour Jesus Christ's holy institution, in remembrance of his death and passion, may be partakers of his most blessed Body and Blood:
 
 ![](https://anglicanhistory.org/bcp/lords_service1953/24.jpg)
 
@@ -382,7 +382,7 @@ For this Holy Sacrifice.
 
 And if thoughts have entered in,
 Which have mixed our prayers with sin,
-Let thy Son’s pure Blood and grace,
+Let thy Son's pure Blood and grace,
 All the sinfulness efface.
 
 Sweet it is to worship here!

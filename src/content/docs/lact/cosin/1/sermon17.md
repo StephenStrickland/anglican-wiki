@@ -4,7 +4,7 @@ description: 'John Cosin, Works, Sermons, Volume One. From Project Canterbury.'
 ---
 
 John Cosin, Works, Sermons, Volume One
-pp. 236­247
+pp. 236247
 
 SERMON XVII
 AT PARIS. March 26th, 1651.

@@ -34,7 +34,7 @@ Benson, Richard Meux, *The Final Passover*, Vol I, London, J Hayes, 1884.
 
 \------, "A Retreat given in Aberdeen, 1877," *Cowley Evangelist*, June, 1919 to November, 1919
 
-\------, *Spiritual Readings for Every Day:  Advent*, London, T Hayes, 1879.
+\------, *Spiritual Readings for Every Day:  Advent*, London, T Hayes, 1879.
 
 \------, 'The Virgin Birth of Our Lord Jesus Christ," *The Church Eclectic*, vol 22, nos 6 & 7, September and October, 1894.
 
@@ -50,9 +50,9 @@ Congreve, George, *Christian Progress*, London, Longmans, Green, 1910.
 
 Field, C N, *After the Flood*, Philadelphia, The Guild of the Iron Cross, n d.
 
-Field, C N, *The Christmas Mystery:  A Nativity Play compiled by C N Field for the benefit of St Augustine's Church, on Phillips Street, Boston*, n d, texts and scores, in the SSJE Archives, Cambridge.
+Field, C N, *The Christmas Mystery:  A Nativity Play compiled by C N Field for the benefit of St Augustine's Church, on Phillips Street, Boston*, n d, texts and scores, in the SSJE Archives, Cambridge.
 
-Field, C N. *The Easter Mystery, followed by the Story of Jacob's Ladder and the Ending of Dives and Lazarus:  A Miracle Play composed by the Reverend C N Field SSJE, for the edification of the children of the Faith*, n d, texts and scores, in the SSJE Archives, Cambridge.
+Field, C N. *The Easter Mystery, followed by the Story of Jacob's Ladder and the Ending of Dives and Lazarus:  A Miracle Play composed by the Reverend C N Field SSJE, for the edification of the children of the Faith*, n d, texts and scores, in the SSJE Archives, Cambridge.
 
 Field, C N, private papers and correspondence in the archives of the SSJE, Cambridge MA.
 
@@ -70,13 +70,13 @@ Allchin, A M, *The Silent Rebellion*, London, SCM, 1958.
 
 van Allen, W H, "Obituary, Charles Neale Field, SSJE," in *The Living Church*
 
-Bettany, F G, *Stewart Headlam:  A Biography*, London, John Murray, 1926.
+Bettany, F G, *Stewart Headlam:  A Biography*, London, John Murray, 1926.
 
-Binyon, Gilbert Clive, *The Christian Socialist Movement in England:  An Introduction to the Study of ts History*, London, SPCK, 1931. January 26, 1929.
+Binyon, Gilbert Clive, *The Christian Socialist Movement in England:  An Introduction to the Study of ts History*, London, SPCK, 1931. January 26, 1929.
 
 Bull, H P, "Charles Neale Field, SSJE," in *Cowley Evangelist*, February, 1929.
 
-Burton, Spence, "Four Types of Holiness:  IV. Father Field, the Lover of Man," *Cowley*, Winter, 1930.
+Burton, Spence, "Four Types of Holiness:  IV. Father Field, the Lover of Man," *Cowley*, Winter, 1930.
 
 Chadwick, Owen, *The Secularization of the European Mind in the Nineteenth Century*, Cambridge, The Cambridge University Press, 975.
 
@@ -90,21 +90,21 @@ Douglas, Ann, *The Feminization of American Culture*, NY, Alfred A Knopf, 1977.
 
 Duffy, Mark J, ed, *The Episcopal Diocese of Massachusetts, 1784-1984*, oston, the Episcopal Diocese f Massachusetts, 1984.
 
-Franklin, R W,"Pusey and Worship in Industrial Society." *Worship*, 57, no 5, September 1983, pp 386-412.
+Franklin, R W,"Pusey and Worship in Industrial Society." *Worship*, 57, no 5, September 1983, pp 386-412.
 
-Grugel, Lee E, *Society and Religion during the Age of Industrialization:  Christianity in ictorian England*, The University Press of America, 1979.
+Grugel, Lee E, *Society and Religion during the Age of Industrialization:  Christianity in ictorian England*, The University Press of America, 1979.
 
-Harlan, Louis R, *Booker T Washington:  The Wizard of Tuskegee*, New York, Oxford University Press, 983.
+Harlan, Louis R, *Booker T Washington:  The Wizard of Tuskegee*, New York, Oxford University Press, 983.
 
 *The Hymnal 1940 Companion*, 2nd ed, rev, New York, The Church Pension Fund, 1951.
 
-Jarrett, Emmett, "'Behold I Am Doing a New Thing':  Mysticism and Politics in Contemporary hristianity," in Leech and Williams.
+Jarrett, Emmett, "'Behold I Am Doing a New Thing':  Mysticism and Politics in Contemporary hristianity," in Leech and Williams.
 
-Jones, Peter d'Alroy, *The Christian Socialist Revival, 1877-1914:  Religion, Class and Social ate-Victorian England*, Princeton, New Jersey, The Princeton University Press, 1968.
+Jones, Peter d'Alroy, *The Christian Socialist Revival, 1877-1914:  Religion, Class and Social ate-Victorian England*, Princeton, New Jersey, The Princeton University Press, 1968.
 
-Lears, T J Jackson, *No Place of Grace:  Antimodernism and the Transformation of American 880-1920*, New York, Pantheon, 1981.
+Lears, T J Jackson, *No Place of Grace:  Antimodernism and the Transformation of American 880-1920*, New York, Pantheon, 1981.
 
-Lett, Leslie A, *"Christian Socialism:"  Anglican Social Teaching Tradition*, Barbados, Jubilee Research entre, n d.
+Lett, Leslie A, *"Christian Socialism:"  Anglican Social Teaching Tradition*, Barbados, Jubilee Research entre, n d.
 
 Leech, Kenneth and Rowan Williams, *Essays Catholic and Radical*, London, The Bowerdean Press, 1983.
 
@@ -114,9 +114,9 @@ Morris, R J, *Class and Class Consciousness in the Industrial Revolution, 1780-1
 
 Noel, Conrad, *Socialism in Church History*, London, Frank Palmer, 1910.
 
-Orens, John, "The Mass, the Masses and the Music Hall:  Stewart Headlam's Radical Anglicanism," London, The Jubilee Group, 1979.
+Orens, John, "The Mass, the Masses and the Music Hall:  Stewart Headlam's Radical Anglicanism," London, The Jubilee Group, 1979.
 
-Orens, John, "Priesthood and Prophecy:  the Development of Anglo-Catholic Socialism," in Leech and Williams.
+Orens, John, "Priesthood and Prophecy:  the Development of Anglo-Catholic Socialism," in Leech and Williams.
 
 Rea, Robert, "The Society of St John the Evangelist," in Duffy, Mark J, ed, *The Episcopal Diocese of Massachusetts, 1784-1984*, Boston, The Episcopal Diocese of Massachusetts, 1984.
 
@@ -124,7 +124,7 @@ Shaw, George Bernard, *Candida*, 1895.
 
 Simkhovitch, Mary Kingsbury, *Here is God's Plenty*, New York, Harpers.
 
-\------, *Neighborhood:  My Story of Greenwich House*, New York, Norton, 1938.
+\------, *Neighborhood:  My Story of Greenwich House*, New York, Norton, 1938.
 
 \-------, "Father Field--Friend of Colored Children," *Journal of Negro Life*, January 1930, p 17f.
 
@@ -132,14 +132,14 @@ Smith, Martin L, SSJE, ed, *Benson of Cowley*, Oxford, Oxford University Press, 
 
 \------, "Benson, Richard Meux," *The Westminster Dictionary of Spirituality*, ed Gordon Wakefield, Philadelphia, The Westminster Press, 1983.
 
-Smith, Robert C, *The Cowley Fathers in America:  The Early Years*, n d.
+Smith, Robert C, *The Cowley Fathers in America:  The Early Years*, n d.
 
 \------, *The Shrine on Bowdoin Street, 1883-1958*, n d.
 
-Sockman, Ralph, *The Revival of Conventual Life in the Church of England in the Nineteenth Century* New York, W D Gray, 1917.  This is a PhD dissertation completed at Columbia University.
+Sockman, Ralph, *The Revival of Conventual Life in the Church of England in the Nineteenth Century* New York, W D Gray, 1917.  This is a PhD dissertation completed at Columbia University.
 
-Tournier, Wilton, *The Cross of Iron. with a sketch of the Life and Work of ather Field*, Philadelphia, Wm Fell, 1891.  This is an entirly laudatory and uncritical biography, written when Fr Field left Philadelphia.  It is a primary source for his words and thoughts, but is entirly undocumented.
+Tournier, Wilton, *The Cross of Iron. with a sketch of the Life and Work of ather Field*, Philadelphia, Wm Fell, 1891.  This is an entirly laudatory and uncritical biography, written when Fr Field left Philadelphia.  It is a primary source for his words and thoughts, but is entirly undocumented.
 
-Woodgate, M V, *Father Benson:  Founder of the Cowley Fathers*, London, Geoffrey Bles, 1953. One regrets and misses the presence in this and the following work of any useful documentation.
+Woodgate, M V, *Father Benson:  Founder of the Cowley Fathers*, London, Geoffrey Bles, 1953. One regrets and misses the presence in this and the following work of any useful documentation.
 
 \------, *Father Congreve of Cowley*, London, SPCK, 1956.

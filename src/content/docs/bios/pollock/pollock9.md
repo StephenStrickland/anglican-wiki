@@ -6,7 +6,7 @@ description: Father Pollock And His Brother; chapter eight. From Project Canterb
 > Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests of St. Albans Birmingham*
+Mission Priests of St. Alban's Birmingham*
 
 Transcribed by Robert Stevens
 AD 2001
@@ -35,39 +35,39 @@ The grief of that bereaved flock is a thing not to be described or dwelt on. The
 ÒÔHe whom Thou lovest, LORD, is sick.Õ
 Our hearts For many days this mournful burden bore:
 Then came Thy call; and our loved shepherd feeds
-    Thy flock on earth no more.
+    Thy flock on earth no more.
 
 The lamp, that long before Thine Altar burned
 With flame so pure, is from the Temple reft,
 And we, who in its beams sure guidance found,
-    In gloom and grief are left.
+    In gloom and grief are left.
 
 ÔHe whom Thou lovest.Õ Was it not, dear LORD,
 A very token of Thy lovingness
-That Thou didst with the signet of Thy Hand    His parting moments bless?
+That Thou didst with the signet of Thy Hand    His parting moments bless?
 
 That he, who ever with deep love was filled,
 And adoration for Thy Gift unpriced,
 Should be called upward in the blessed hour
-    Of solemn Eucharist?
+    Of solemn Eucharist?
 
 ÔHe whom Thou lovest.Õ While his children knelt
 The sacred pledges of Thy Love to claim,
 Thine Angel, with glad tidings of great joy
-    To his still chamber came.
+    To his still chamber came.
 
 While with those sheep for whom his life was spent
 His soul was knit in that Communion blest,
-And prayerÕs sweet incense for him Heavenward soared,    He entered into Rest.
+And prayerÕs sweet incense for him Heavenward soared,    He entered into Rest.
 
 ÔHe whom Thou lovest.Õ LORD, to that dear Love
 We leave him, while our eyes with tears are dim
-By our heartsÕ anguish we may faintly know    What is Thy love for him.
+By our heartsÕ anguish we may faintly know    What is Thy love for him.
 
 A Brother, born for sore adversity,
 Be, LORD, to him, whose life is rent in twain,
 And grant us all in peace around Thy Feet,
-    JESU, to meet again.Ó
+    JESU, to meet again.Ó
 
 Father Tom was not in time to see his brother alive.
 
@@ -95,7 +95,7 @@ The star of Father TomÕs life had set. He was in the most delicate state of hea
 
 But Father Tom was a soldier, of the sort that dies game. A true hero of the Cross, he, though with trembling hands and bowed shoulders, took up the burden of his life and mission work again. He went in and out among his people, preached and visited as long as he could do so. At the earnest desire of his people, though he did not feel, and was not physically, fit, he accepted the vacant cure, and became Vicar of S. AlbanÕs. On the occasion of his institution in March 1896, his words to his people were:Ñ
 
-ÒIt is with great misgivings I have accepted this work.  I never wished to be beneficed. I do not feel physically fit for it, and have other misgivings, known only to GOD and myself. I would much rather have taken a subordinate position, but this has been represented to me as impossible. I must leave altogether or take the position I have accepted, and which, I am told, is the united wish of the communicants of S. AlbanÕs. I thank GOD for two thingsÑone, for the helpers I have in the clergy; the other, for your great sympathy, not your sympathy to me personally. This is not the place to speak of that which will be one of my tenderest memories while life shall last, but of your sympathy in this work.
+ÒIt is with great misgivings I have accepted this work.  I never wished to be beneficed. I do not feel physically fit for it, and have other misgivings, known only to GOD and myself. I would much rather have taken a subordinate position, but this has been represented to me as impossible. I must leave altogether or take the position I have accepted, and which, I am told, is the united wish of the communicants of S. AlbanÕs. I thank GOD for two thingsÑone, for the helpers I have in the clergy; the other, for your great sympathy, not your sympathy to me personally. This is not the place to speak of that which will be one of my tenderest memories while life shall last, but of your sympathy in this work.
 
 ÒI have accepted, and now throw myself upon GOD and your prayers. I know you will pray and strive for this work, which is weakened by the loss of him who is gone from us in body, not in spirit, and who intercedes for you, and whose joy, if possible, is made greater by seeing his work prove by its continuance that it is of GOD.Ó
 

@@ -36,7 +36,7 @@ And it may be good to be so and good to say so; good really in several senses; a
 
 For, first, this here was in the "mount," a place of solitude and retirement, "apart by themselves," says S. Mark. And it is good sometimes to retire ourselves from the world and worldly business, to think and meditate upon heaven and heavenly things, especially having lately tasted of those dainties, that we may chew and relish them; nothing so good and convenient then presently as some retirement, to sit down a little and bethink ourselves of the sweetness we \[320/321\] have so lately tasted, the covenant we have so lately renewed, the resolutions we have so lately taken up, and the ways to perform them.
 
-2\. It was "a high mountain" too, says S. Matthew. Nothing henceforth should serve our turn but high thoughts and resolutions; we must do nothing mean after so high favours and dignations: fix our thoughts, "set our affections" now henceforward "upon things above;" ­"good to be here."
+2\. It was "a high mountain" too, says S. Matthew. Nothing henceforth should serve our turn but high thoughts and resolutions; we must do nothing mean after so high favours and dignations: fix our thoughts, "set our affections" now henceforward "upon things above;" "good to be here."
 
 3\. It was "the holy mountain" too, so styled ever since from the authority of S. Peter. And it is good to be holy, better than to be high. High contemplations of God and heaven are not so good as holy conversations. It is good indeed, very good, to be also in the "holy mount," in holy places, at holy work, where Christ is to be seen or heard in beauty and glory, in the Church, at his word and sacraments.
 

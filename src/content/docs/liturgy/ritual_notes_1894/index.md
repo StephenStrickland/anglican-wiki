@@ -12,13 +12,13 @@ Project Canterbury
 ## ORDER OF DIVINE SERVICE.
 
 ### BY THE EDITORS
-OF “THE ORDER OF DIVINE SERVICE,” &c., &c.
+OF "THE ORDER OF DIVINE SERVICE," &c., &c.
 
 #### REVISED AND COMPLETE EDITION
 
 ### OXFORD:
 
-### MOWBRAY & Co., 106, S. Aldate’s Street,
+### MOWBRAY & Co., 106, S. Aldate's Street,
 
 #### ALSO AT LONDON AND BOURNEMOUTH.
 

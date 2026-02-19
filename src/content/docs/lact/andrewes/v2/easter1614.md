@@ -6,7 +6,7 @@ description: Andrewes' Sermons. From Project Canterbury.
 SERMONS OF THE RESURRECTION
 PREACHED UPON EASTER-DAY, 1614.
 Preached before King James, at Whitehall, on Sunday the Twenty-fourth of April, A. D. MDCXIV.
-pp. 323 ­ 343
+pp. 323  343
 
 Transcribed by Dr. Marianne Dorman
 AD 2002

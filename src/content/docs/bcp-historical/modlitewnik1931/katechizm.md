@@ -64,7 +64,7 @@ X. Nie będziesz pożądał domu bliźnie go twego, ani będziesz pożądał żo
 *Pytanie*. Ile sakramentów ustanowił Chrystus Pan w Swym Kościele?
 *Odpowiedź*. Tylko dwa, jako powszechnie konieczne do zbawienia, to jest Chrzest Święty i Wieczerzę Pańską.
 
-*Pytanie*. Co rozumiesz pod słowem „sakrament”?
+*Pytanie*. Co rozumiesz pod słowem „sakrament"?
 *Odpowiedź*. Pod słowem „sakrament" rozumiem zewnętrzną i widoczną oznakę wewnętrznej i duchowej łaski udzielonej nam i ustanowionej przez samego Chrystusa Pana, jako środek do otrzymania tej łaski i jako zapewnienie o niej.
 
 *Pytanie*. Z jakich elementów składa się sakrament?

@@ -83,7 +83,7 @@ The next notice I have found of church-seats occurs in the year 1470; when an ac
 
 And here I may observe, that very little information is to be gained from the law reports of particular cases like the above. They divide themselves principally into two classes: one, where right; of prescription by occupation for forty years is claimed, together with a proof that the seat has been, during that time, kept in repair by the claimant: the other, where the same right is urged, without the latter addition. In the former case judgment has always been given for the claimant; in the latter, the decision of different authorities has been very different; as a reference to Ayliffe's Parergon, or Burns' Ecclesiastical Law, will soon evince.
 
-In descending to the Reformation, it is necessary to remember how different was the then state of our parish-churches from their present condition. There were no pues, as we have seen; no reading-desk, often no pulpit; the old Altars for the most part in parish churches and in all cathedrals remained: for it must always be remembered that these, by the so often and so triumphantly quoted injunction of Queen Elizabeth, were not orderedonly, under certain restrictions, allowedto be removed: in some instances a table stood lengthwise at the east end; and in others, was brought down into the Chancel or Nave, where even our present rubrick permits it to stand. In this latter case, Matins and Evensong seem to have been read from it; in the former, I suppose that a lettern was used, being placed where the priest could best be heard.
+In descending to the Reformation, it is necessary to remember how different was the then state of our parish-churches from their present condition. There were no pues, as we have seen; no reading-desk, often no pulpit; the old Altars for the most part in parish churches and in all cathedrals remained: for it must always be remembered that these, by the so often and so triumphantly quoted injunction of Queen Elizabeth, were not ordered—only, under certain restrictions, allowed—to be removed: in some instances a table stood lengthwise at the east end; and in others, was brought down into the Chancel or Nave, where even our present rubrick permits it to stand. In this latter case, Matins and Evensong seem to have been read from it; in the former, I suppose that a lettern was used, being placed where the priest could best be heard.
 
 I will now endeavor to trace historically the gradual intrusion of pue, reading-pue, gallery and the other encumbrances of modern churches.
 
@@ -201,7 +201,7 @@ And in the before-quoted Voice of the Lord, we find (p. 4), that William Sargent
 
 In a Copy of the Proceedings of some Divines appointed by the Lords to meet at the Bishop of Lincoln's, in Westminster, among the innovations which they mention in discipline, one is, the demolishing galleries where they have been built, and forbidding the erection of new ones. These divines were Bishop, afterwards Archbishop, Williams, Archbishop Ussher, Dr Prideaux, afterwards Bishop of Worcester, Dr Ward, afterwards Bishop of Salisbury, Dr Brownrigg, afterwards Bishop of Exeter, Dr Hacket, afterwards Bishop of Lichfield and Coventry, and Dr Featly.
 
-At this time, however, Bishop Williams bestirred himself against the innovation of pues. For we are told in A Sermon very necessary for the times, of conscience, by Anthony Cade, B. D. Cambridge, 1639, that he removed the pues from the chapel at Buckden; substituting in their place wooden seats; the remaining description of what that greatwould we could say goodPrelate did, is very interesting:
+At this time, however, Bishop Williams bestirred himself against the innovation of pues. For we are told in A Sermon very necessary for the times, of conscience, by Anthony Cade, B. D. Cambridge, 1639, that he removed the pues from the chapel at Buckden; substituting in their place wooden seats; the remaining description of what that great—would we could say good—Prelate did, is very interesting:
 
 "The cloisters fairly pargetted and beautified with comely copartments and inscriptions of wise counsels and sentences; the windows enriched with costly pictures of Prophets, Apostles, and Holy Fathers; and beyond all the chapel for GOD'S immediate service most beautifully furnished with new seats, windows, Altar, Bibles, and other sacred books, costly covered, and embossed with silver, and gilt with gold; candlesticks and other ornaments of bright shining silver, and with stately organs curiously coloured, gilded, and enamelled."
 
@@ -209,7 +209,7 @@ It appears, if we may believe the Royalist writers, that pues were used at this 
 
 In 1641, Dr Pocklington, already hated by the Puritans for his Sunday no Sabbath, published his Altare Christianum. In the second edition of this work, he inserted the following passage, which is not to be found in the first:
 
-"The practice of piety was then (in the Primitive Church) performed in kneeling before the Saviour and Redeemer. The stools they had were either none, or none but fallstools, to come and fall down and kneel before the LORD. \[This etymology is, I need not say, more pious than correct.\] Ambition to step up into the highest rooms and seats, and there to enclose and enthronize themselves, was confined to pharisaical feasts and synagogues; holy men and good Christians had no such custom in those timessought no such state and easenor did the Church of God. The Churches of God did and do detest the profaneness that is and may be committed in close and exalted pews."
+"The practice of piety was then (in the Primitive Church) performed in kneeling before the Saviour and Redeemer. The stools they had were either none, or none but fallstools, to come and fall down and kneel before the LORD. \[This etymology is, I need not say, more pious than correct.\] Ambition to step up into the highest rooms and seats, and there to enclose and enthronize themselves, was confined to pharisaical feasts and synagogues; holy men and good Christians had no such custom in those times—sought no such state and ease—nor did the Church of God. The Churches of God did and do detest the profaneness that is and may be committed in close and exalted pews."
 
 This book was licensed by Dr Bray, domestic chaplain to Archbishop Laud, a man mentioned favourably in a letter written to that holy Martyr by Dr Montague, when Bishop of Chichester. But afterwards changing his principles, he wrote A Sermon of the Blessed Sacrament, professedly in answer to Pocklington's Altare Christianum. At p. 52, is the following sentence: "He (Pocklington) saith that close and exalted pews are profane, and were detested by the Church of God. Which is but his foolish and fond conceit."
 
@@ -351,7 +351,7 @@ P. 11. "It might be wished that in London there might be some provision made of 
 
 P. 12. "And in some places boys do write on the Table, it being prepared for the Chancel." He also mentions other objections to pues, namely,
 
-"Danger of infection from plague, or person with a plague sore,no uncommon thing in London congregations."
+"Danger of infection from plague, or person with a plague sore,—no uncommon thing in London congregations."
 
 P. 15. "If the rail offend there may be a wainscot made instead thereof, as it is in Blackfryars; the seats of which are so ordered about the Table, that two or three rows of Communicants may come at one time round about it, and in view of it: which Church hath never been accused of Popery.
 
@@ -369,7 +369,7 @@ A gallery was erected, however, in 1657, in Gloucester S. Nicholas; and we are t
 
 But, though our churches were even at the Restoration comparatively free from pues, England's character had been puritanized, and the questions of her prelates evince a different feeling with respect to them; a disposition to look at them in the light of a necessary evil. Bishop Laney asks (1662), "Is there any strife or contention for the pews or seats in your church? Have any new pews been erected in your Chancel, or the body of your church, without leave of the ordinary?" And Bishop Rainbow (1665) asks nearly the same question.
 
-Still, pues were sufficiently common, and churches began here and therechiefly in large townsto be pued throughout. In The Oracles of the Dissenters, (1707), we are told that the spire of S. Mary Tower, at Ipswich, was blown down, Feb. 18, 1661; and on account of its fall the church had to be repued.
+Still, pues were sufficiently common, and churches began here and there—chiefly in large towns—to be pued throughout. In The Oracles of the Dissenters, (1707), we are told that the spire of S. Mary Tower, at Ipswich, was blown down, Feb. 18, 1661; and on account of its fall the church had to be repued.
 
 Sir Christopher Wren, it is well known, made a gallant, though unsuccessful stand, against the introduction of pues into his London churches.
 

@@ -25,7 +25,7 @@ A.
 
 *Al**bizzi,* Cardinal, attacks the Church of Holland, 167.
 
-*Alsace,* Cardinal d’, 278.
+*Alsace,* Cardinal d', 278.
 
 *Alva,* the Duke of, his commencements, 110.
 
@@ -175,7 +175,7 @@ D.
 
 *Daemen,* Adam, Archbishop of Adrianople, and Vicar-General, 225; his resignation, 226.
 
-*Damen,* Abbé, attacks the validity of Steenoven’s consecration, 264.
+*Damen,* Abbé, attacks the validity of Steenoven's consecration, 264.
 
 *David of Burgundy,* Archbishop, 71.
 
@@ -205,7 +205,7 @@ D.
 
 *De Swaen,* Dean of Haarlem, defends the rights of the Chapter, 216.
 
-*De Faucel,* Van Neercassel’s agent at Rome, 184.
+*De Faucel,* Van Neercassel's agent at Rome, 184.
 
 *Deventer,* 75; re-erection of the bishopric of, 293.
 
@@ -257,7 +257,7 @@ E.
 
 *Erasmus,* Desiderius, a scholar of the Brothers of the Common Life, 99.
 
-*Exposition de la Foi,* Bossuet’s, adopted by the Council of Utrecht, 298.
+*Exposition de la Foi,* Bossuet's, adopted by the Council of Utrecht, 298.
 
 *Ex quâ die,* the Bull, 367.
 
@@ -265,7 +265,7 @@ F.
 
 *Fact and right,* distinction between, 30.
 
-*Fagan,* Luke, Bishop of Meath, ordains on the Chapters’ letters dimissory, 235; his device to screen himself from enquiry, 236.
+*Fagan,* Luke, Bishop of Meath, ordains on the Chapters' letters dimissory, 235; his device to screen himself from enquiry, 236.
 
 *Families,* the six, of the Brothers of the Common Life, 101.
 
@@ -287,7 +287,7 @@ G.
 
 *Giffard,* Bishop of Madaura, declines to assist the Chapter, 235.
 
-*Glan*, Van Neercassel’s funeral at, 196.
+*Glan*, Van Neercassel's funeral at, 196.
 
 *God,* how often we are compelled to love, 25.
 
@@ -305,7 +305,7 @@ G.
 
 *Groenendael,* collegiate church of, 68.
 
-*Grolle,* Grotius’s history of its siege, 141.
+*Grolle,* Grotius's history of its siege, 141.
 
 *Groote,* Geert, his birth, 75; his conversion, 76; his sermons, 77; he is inhibited from preaching, 77; his death, 81; his works, 82.
 
@@ -371,7 +371,7 @@ K.
 
 *Kafenza,* Archbishop of, his account of the Klopjes, 146.
 
-*Kempis,* Thomas à, 97; the “Imitation” not written by him, 98.
+*Kempis,* Thomas à, 97; the "Imitation" not written by him, 98.
 
 *Kettel,* John, the cook, 91.
 
@@ -643,7 +643,7 @@ V.
 
 *Van Cort,* Oratorian, 172.
 
-*Van der Croon,* Theodore, pastor at Gouda, elected Archbishop, 276; writes to Clement XII., 277; his consecration, 277; his correspondence with the Cardinal D’Alsace, 278; his defence, 279; his death, 281.
+*Van der Croon,* Theodore, pastor at Gouda, elected Archbishop, 276; writes to Clement XII., 277; his consecration, 277; his correspondence with the Cardinal D'Alsace, 278; his defence, 279; his death, 281.
 
 *Van der Gronde,* John, 87.
 

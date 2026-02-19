@@ -6,7 +6,7 @@ description: Father Pollock And His Brother; chapter seven. From Project Canterb
 Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests of St. Alban’s Birmingham*
+Mission Priests of St. Alban's Birmingham*
 
 Transcribed by Robert Stevens
 AD 2001
@@ -43,7 +43,7 @@ That it was another choir, and a reality, they knew by these marks:
 
 3\. The sweet music went on, while the men in the procession made pauses in their singing.
 
-4.  The singers did not go on with the procession, but seemed to be on one side at a little distance, and the voices died away gradually as the funeral went on.
+4.  The singers did not go on with the procession, but seemed to be on one side at a little distance, and the voices died away gradually as the funeral went on.
 
 Inquiries were made afterwards, but no one could explain the mystery.
 
@@ -96,7 +96,7 @@ Then O\`out of the depthsO�L need not mean out of misery and because of it. Th
 Since that day in the summer of 1894 1 have cared less for these lines of a favourite hymnN
 
 O\`Keep Thou my feet; I do not ask to see
-The distant scene; one step enough for me.O�L 
+The distant scene; one step enough for me.O�L 
 
 But perhaps these words of the next verse will make them trueN
 
@@ -109,7 +109,7 @@ The O\`heavinessO�L of night is followed by the O^joyO�L of the morningNwhat
 
 The Eucharistic Presence does not depend on our faint efforts, though the joy of It is lost when we cease to strive. And though our blindness hide the light of GODOS countenance, let us know that O\`GOD is light, and in Him is no darkness at all.O�L O\`The light of seven daysO�L is reserved for all who love light rather than darkness now.
 
-O\`Out of the depthsO�L means O\`from the height above.O�L  HeavenOs glory is revealed in earthOs misery. The martyrOs crown has jewels of its own.
+O\`Out of the depthsO�L means O\`from the height above.O�L  HeavenOs glory is revealed in earthOs misery. The martyrOs crown has jewels of its own.
 
 GODOS CARE FOR US.
 
@@ -152,19 +152,19 @@ Hail, Truth Divine, the very Light of light.
 
 *Saint Matthew.*
 
-We know that Thou art Man, we watch Thee sleeping 
+We know that Thou art Man, we watch Thee sleeping 
 In manger laid, and wrapped in swaddling clothes;
-We see Thee tears of human sorrow weeping 
+We see Thee tears of human sorrow weeping 
 With friends who mourn, and over SionOs woes.
 
-Of woman born, Thou art indeed our Brother, 
+Of woman born, Thou art indeed our Brother, 
 In all things like Thy brethren save in sin;
-Thou feelest all we feel, as can no other; 
+Thou feelest all we feel, as can no other; 
 The glory Thou hast won we live to win.
 
 We own the power of Thine example holy,
 With bands of love it draws us after Thee;
-We gladly hear a Master meek and lowly, 
+We gladly hear a Master meek and lowly, 
 Who goes before us, saying O\`follow Me.O�L
 
 *Saint Mark.*
@@ -174,7 +174,7 @@ We see the strength of an Almighty will;
 Resistless power is veiled in human weakness
 The ends of love and wisdom to fulfil.
 
-Thou art ManOs Champion; evil quails before Thee; 
+Thou art ManOs Champion; evil quails before Thee; 
 The winds and waves their MakerOs voice obey;
 No fainting souls in vain for help implore Thee;
 Disease and death and sin resign their prey.
@@ -438,7 +438,7 @@ Foes gather nigh;
 Sin and misery abound,N
 GOD knoweth why.
 
-Sad the grief, and pain, and scorn, 
+Sad the grief, and pain, and scorn, 
 We suffer now;
 But from evil good is born,N
 GOD knoweth how.
@@ -484,7 +484,7 @@ And see lifeOs tempests raging far below.
 
 [\[2\]](#_ftn2)O\`SIRS, YE ARE BRETHREN.O�L
 
-Oh, why should we revile our brotherOs creed, 
+Oh, why should we revile our brotherOs creed, 
 Or brand his failings with a scornful name?
 For, do not we more Heaven-taught wisdom need?
 Are they weak sinners?.Nare not we the same?
@@ -505,7 +505,7 @@ To point the sick to Him Whose Word makes whole,
 To lead the penitent to JESUOS side.
 
 Be ours to choose the path of lowly love
-And patient work our meek Redeemer trod: 
+And patient work our meek Redeemer trod: 
 Are we provoked?Nit all is known above,
 And we may bear what is endured by GOD.
 

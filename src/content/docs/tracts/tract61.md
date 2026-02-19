@@ -22,7 +22,7 @@ Herein lies one eminent argument in favour of the divine origin of the Church, t
 
 Again, the claim of authority with which it silences quarrels, affords, I say, a *test*, such as we antecedently might expect would be given us, for *ascertaining* that latent Pharisaical temper of party which our LORD rebukes.
 
-Submission to Church authority is the test whether or not we prefer unity, and the edification of CHRISTS body, to private fancies.
+Submission to Church authority is the test whether or not we prefer unity, and the edification of CHRIST'S body, to private fancies.
 
 Thus, *e. g*. when the man of strong feelings, in old time, merely founded a college or monastery for devotion and study, he *satisfied* the test. When, in modern times, he opens a conventicle, and forms a sect, he is *condemned* by it, as Pharisaical.
 
@@ -36,7 +36,7 @@ Zeal is the effort to maintain *all* the Truth; *party spirit* is a perverse mai
 
 While Dissenters are exclusive on the one hand, Papists are so on the other. The Council of Trent converted certain theological opinions into (what they maintained to be) Catholic Verities. This was wrong, whoever did it; but it is some comfort to find, that the body that thus became uncatholic, was not the Church Catholic itself. It had been wretched, indeed, had the Church, in its Oecumenic or Universal capacity, surrendered its own essential character, and added to the Catholic faith private judgments. But the Tridentine Council was a meeting of but a part of Christendom. Though the Latin communion is given at 80,000,000 souls, yet the Greek Churches are said to comprehend as many as 50,000,000, and these were not there represented. Where too were the Bishops of the Reformed Churches? Catholic doctrines are those to which the *whole* Catholic Church bears witness: the Council of Trent was collected only from parts of the Church, such parts as differed from the views ultimately adopted there being excluded; and, therefore, representing but a part, not the whole of the Universal Church, it assumed a privilege not belonging to it; for none but the Catholic Church can attest Catholic Truths. As to our Thirty-nine Articles, they were never imposed as essential, only as a basis of union in a particular Church.
 
-It may be added, that, while the Catholic Church is a stay to the inquiring Christian, she is a check upon the forward. She *recommends* much to us, which she does not *impose*, like a true loving mother, "giving her judgment, as one that hath obtained mercy of the LORD to be faithful." All that is necessary for enjoying the privileges committed to her, is belief in the Apostles Creed, and that teachable spirit that does not introduce novelties upon it; but in her Articles and Liturgy she aims at directing into the truth, in all its parts, such as wish "to follow on to know the LORD."
+It may be added, that, while the Catholic Church is a stay to the inquiring Christian, she is a check upon the forward. She *recommends* much to us, which she does not *impose*, like a true loving mother, "giving her judgment, as one that hath obtained mercy of the LORD to be faithful." All that is necessary for enjoying the privileges committed to her, is belief in the Apostles' Creed, and that teachable spirit that does not introduce novelties upon it; but in her Articles and Liturgy she aims at directing into the truth, in all its parts, such as wish "to follow on to know the LORD."
 
 OXFORD,
 *The Feast of St. Philip and St. James.*

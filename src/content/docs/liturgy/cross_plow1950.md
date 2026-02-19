@@ -112,7 +112,7 @@ Our Maker, Defender, Redeemer, and Friend! Amen.
 
 ¶ *And then shall the Minister say*,
 
-DEARLY beloved, we learn from the Scriptures that in the beginning God created the heavens and the earth and caused the sun to shine and the rain to fall, the plants to grow and the earth to give forth her increase. He is the giver of life in the seed, in the soil, and in the sowers. Then God said, let us make man in our image and let him have dominion over everything upon the earth. We are now assembled to ask God’s blessing on the seed that has been planted, the soil that has been cultivated, and the sowers that labor to the service of God and for the good of mankind.
+DEARLY beloved, we learn from the Scriptures that in the beginning God created the heavens and the earth and caused the sun to shine and the rain to fall, the plants to grow and the earth to give forth her increase. He is the giver of life in the seed, in the soil, and in the sowers. Then God said, let us make man in our image and let him have dominion over everything upon the earth. We are now assembled to ask God's blessing on the seed that has been planted, the soil that has been cultivated, and the sowers that labor to the service of God and for the good of mankind.
 
 Hear the words of the Lord as proclaimed through the Prophet Ezekiel in the twenty-fourth chapter beginning at the twenty-fifth verse:
 
@@ -355,7 +355,7 @@ O HEAVENLY Father, who in thy wondrous goodness had the birds and beasts of the 
 
 BLESS, O Lord, this house and farm and those who live here and do their work. Give them health and purity, strength and humility, goodness and meekness, the fulfillment of the law of Christ and thanksgiving to God, now and always. *Amen*.
 
-¶ *The congregation shall then process to the fourth Station singing a hymn*.
+¶ *The congregation shall then process to the fourth Station singing a hymn*.
 
 1\. Fairest Lord Jesus,
 Ruler of all nature,
@@ -380,7 +380,7 @@ Than all the angels heav'n can boast.
 
 Fourth Station: At the Churchyard
 
-¶ *Then the Minister shall lead the congregation in the Litany of the Hymn of Creation*.
+¶ *Then the Minister shall lead the congregation in the Litany of the Hymn of Creation*.
 
 O MOST high, omnipotent, good Lord God, to thee belong praise, glory, honor, and all blessing.
 

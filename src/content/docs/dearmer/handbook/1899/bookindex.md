@@ -3,7 +3,7 @@ title: The Parson's Handbook by Percy Dearmer (1899)
 description: The Parson's Handbook by Percy Dearmer (1899). From Project Canterbury.
 ---
 
-The Parson’s Handbook
+The Parson's Handbook
 
 By the Rev. Percy Dearmer, M.A.
 
@@ -124,9 +124,9 @@ Cruets, 98.
 Cupboard for Altar linen, 110.
 Cupboard for Frontals, 111.
 —— Music, 111.
-—— Sacristan’s, 105.
-—— Servers’, in.
-—— Thurifer’s, 107.
+—— Sacristan's, 105.
+—— Servers', in.
+—— Thurifer's, 107.
 Cushion, for altar, 23, 26, 27, 64.
 
 Dalmatic, 93.
@@ -170,8 +170,8 @@ Gospel, 152, 171.
 Gothic, 55.
 Gown, for preaching, 198.
 —— academical, 81, 199.
-—— priest’s, use of, 81, 199.
-—— verger’s, 94.
+—— priest's, use of, 81, 199.
+—— verger's, 94.
 Gradine, 61.
 
 Henry VIII. (Statute 25), 21, 38.
@@ -270,7 +270,7 @@ Rosemary, 204.
 Rowell, 204.
 
 Sacring bell. *See* Bell.
-Sacristan’s cupboard, 105.
+Sacristan's cupboard, 105.
 —— duties, 112.
 Sacristy, 108.
 Safe, 52, 105, 110.
@@ -290,7 +290,7 @@ Sharp, Archdeacon, 25.
 Sick, Communion of, 98, 183.
 —— Visitation of, 182.
 Simplicity, 28, 64, 80, 204.
-Souls’, All, 202, 219.
+Souls', All, 202, 219.
 Stalls, returned, 40.
 Standards, 64, 123.
 State Prayers, 122.
@@ -316,8 +316,8 @@ Veil, humeral, 93.
 —— Chalice, 97, 145.
 Veils, Lenten, 207.
 Verger, 94, 130, 195, 199.
-‘Vestment.’ *See* Chasuble.
-Vestry, Churchwarden’s, 104.
+'Vestment.' *See* Chasuble.
+Vestry, Churchwarden's, 104.
 —— Choir, 107.
 —— Priests. See Sacristy.
 

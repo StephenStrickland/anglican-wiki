@@ -52,6 +52,6 @@ After dinner, some other being present, the discourse began about the state of t
 
 Then they descended to the particular points of doctrine, and abusive practices, &c.; in all which the Archbishop agreed with the Bishop, and said, that they were all, either the fond opinions and bold practices of private men, or the ungrounded conceits and conclusions of the schoolmen, or the papal decrees of Innocent III., Eugenius IV., and other Popes who succeeded them, but no determinations or decrees of the Catholic Church.
 
-He wrote a compendious history of his own life in English, to which he put this Latin title: *Vitae meae ab initio*, i.e. *ab anno* 1595, *usque ad praesentem annum* 1665, *brevis enarratio*; of which I have seen a small fragment: the rest lost. The English title in another paper is this: "A brief and true enarration of the whole course of my life, set forth in the annals thereof from the year 1595 to this \[present year 16."
+He wrote a compendious history of his own life in English, to which he put this Latin title: *Vitae meae ab initio*, i.e. *ab anno* 1595, *usque ad praesentem annum* 1665, *brevis enarratio*; of which I have seen a small fragment: the rest lost. The English title in another paper is this: "A brief and true enarration of the whole course of my life, set forth in the annals thereof from the year 1595 to this \[present year 16—."
 
-He wrote also *Selecta Bibliotheca Historicorum, tam Ecclesiasticorum, quam Secularium*, now in the hands of Mr. H.
+He wrote also *Selecta Bibliotheca Historicorum, tam Ecclesiasticorum, quam Secularium*, now in the hands of Mr. H———.

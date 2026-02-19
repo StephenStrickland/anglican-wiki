@@ -93,7 +93,7 @@ Truth shall bud out of the earth; and Righteousness shall look down from Heaven.
 Preached before King James, at Whitehall, on Friday, the Twenty-fifth of December, A.D. MDCXVIII.
 Luke ii. 12-14.
 *And this shall be a sign unto you; ye shall find the Child swaddled, and laid in a cratch.
-And straightway there was with the Angel a multitude of Heavenly soldiers, praising God, and saying,* *Glory be to God on high, \[and peace upon earth, and towards men good­will.*
+And straightway there was with the Angel a multitude of Heavenly soldiers, praising God, and saying,* *Glory be to God on high, \[and peace upon earth, and towards men goodwill.*
 
 [SERMON XIII.](sermon13.html)
 (Page 215.)
@@ -164,7 +164,7 @@ Preached before King James, at Whitehall, on Wednesday, the Sixth of March, A.D.
 Matthew vi. 16.
 *Moreover when you fast looke not sour as the hypocrites; for they disfigure their faces that they might seen* unto men *to fast: verily I say unto you, That they have their reward.*
 
-[Sermon VII](/lact/andrewes/v1/wednesday7/). 
+[Sermon VII](/lact/andrewes/v1/wednesday7/). 
 Preached before King James, at Whitehall, on Wednesday, the Twenty-sixth of February, A.D. MDCXXIII.
 Matthew iii. 7,8.
 *O generations of vipers, who hath forewarned you to flee from the anger to come?

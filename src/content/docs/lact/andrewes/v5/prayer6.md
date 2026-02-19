@@ -99,7 +99,7 @@ The second general point is, touching the contents of the word *Oratis*.
 
 Our necessities are manifold, and the grace of God which we sue for to God is *multiformis gratia*. Besides, the Apostle saith, 'Pray with all manner of prayer:' therefore it is meet that we should take notice how many kinds of prayers there are, wherein the Apostle guides us when he saith, 'Let supplications, prayers, thanksgiving and intercession \[357/358\] be made. These four contain all those sorts of prayer which are contained in the body of the word *Orate*.
 
-Prayer or invocation consists of confession and petition; confession is divided in to *confessionem fraudis,* which the Greeks call xmolÒghsij, that is, the confession of sins, whereunto they add suppplication to God for pardon like that of the Publican, 'God be merciful to me a sinner.'
+Prayer or invocation consists of confession and petition; confession is divided in to *confessionem fraudis,* which the Greeks call ™xmolÒghsij, that is, the confession of sins, whereunto they add suppplication to God for pardon like that of the Publican, 'God be merciful to me a sinner.'
 
 The other kind of confession is *confessio laudis*, that is, thanksgiving to God for His goodness in pardoning our sins, and bestowing His benefits upon us, which kind of confessions is called antmÑlÒghsij. This also is a part of prayer, and ought to go with it, as appears where the Apostle doth 'thank God always' for the Churches 'in his prayer.'
 

@@ -4,7 +4,7 @@ description: 'John Cosin, Works, Sermons, Volume One. From Project Canterbury.'
 ---
 
 John Cosin, Works, Sermons, Volume One
-pp. 206­219
+pp. 206219
 
 SERMON XV
 AT PARIS. Feb. 12th, 1651. DOMNIICA SEXAGESIMA.

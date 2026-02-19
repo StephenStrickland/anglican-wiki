@@ -6,14 +6,14 @@ description: Father Pollock And His Brother; chapter seven. From Project Canterb
 > Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests of St. Albans Birmingham*
+Mission Priests of St. Alban's Birmingham*
 
 Transcribed by Robert Stevens
 AD 2001
 
 IN MEMORIAM
 
-J. S. P.,  T. B. P.
+J. S. P.,  T. B. P.
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;
  mso-table-layout-alt:fixed;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td style="width:232.95pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="311"><p align="left" class="ni" style="text-align:left"><span lang="EN-GB" style="font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman"">Feast of S. John<br>Evangelist, 1895.</span></p></td><td style="width:65.55pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="87"><p align="left" class="ni" style="text-align:left"></p></td><td style="width:188.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="251"><p align="left" class="ni" style="text-align:left"><span lang="EN-GB" style="font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman"">Vigil of<br>S. Thomas, 1896.</span></p></td></tr></tbody></table>

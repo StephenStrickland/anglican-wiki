@@ -14,7 +14,7 @@ year: 1834
 >
 > *. I am come for some further conversation with you; or rather, for another exposition of your views on Church matters. I am not well read enough to argue with you; nor, on the other hand, do I profess to admit all you say: but I want, if you will let me, to get at your opinions. So will you lecture if I give the subjects?
 
-*Clericus*. To lecture, as you call it, is quite beyond me, since at best I have but a smattering of reading in Church history. The mores the pity; though I have as much as a great many others: for ignorance of our historical position as Churchmen is one of the especial evils of the day. Yet even with a little knowledge, I am able to see certain facts which seem quite inconsistent with notions at present received. For my *practice*, I should be ashamed of myself if I guided it by any theories. Here the letter and spirit of the Liturgy is my direction, as it is of all classes of Churchmen, high and low. Yet, though I do not lay a great stress on such views as I gather from history, it is to my mind a strong confirmation of them, that they just account for and illustrate the conclusions to which I am led by plain obedience to my ordination vows.*
+*Clericus*. To lecture, as you call it, is quite beyond me, since at best I have but a smattering of reading in Church history. The more's the pity; though I have as much as a great many others: for ignorance of our historical position as Churchmen is one of the especial evils of the day. Yet even with a little knowledge, I am able to see certain facts which seem quite inconsistent with notions at present received. For my *practice*, I should be ashamed of myself if I guided it by any theories. Here the letter and spirit of the Liturgy is my direction, as it is of all classes of Churchmen, high and low. Yet, though I do not lay a great stress on such views as I gather from history, it is to my mind a strong confirmation of them, that they just account for and illustrate the conclusions to which I am led by plain obedience to my ordination vows.*
 
 L
 
@@ -22,7 +22,7 @@ L
 
 C
 
-. Because I think the Church has in a measure *forgotten* its own principles, as declared in the 16th century; nay, under stranger circumstances, as far as I know, than have attended any of the errors and corruptions of the Papists. Grievous as are their declensions from primitive usage, I never heard in any case of their practice directly contradicting their Services;whereas we go on lamenting once a year the absence of discipline in our Church, yet do not even dream of taking any one step towards its restoration. Again, we confess in the Articles the excommunication is a solemn duty of the Church under certain circumstances, and that the excommunicated person must be openly reconciled by penance, before he is acknowledged by the faithful as a brother; yet excommunication, I am told, is now a civil process, which takes place as a matter of course at a certain stage of certain law proceedings. Here a *reformation* is needed.*
+. Because I think the Church has in a measure *forgotten* its own principles, as declared in the 16th century; nay, under stranger circumstances, as far as I know, than have attended any of the errors and corruptions of the Papists. Grievous as are their declensions from primitive usage, I never heard in any case of their practice directly contradicting their Services;—whereas we go on lamenting once a year the absence of discipline in our Church, yet do not even dream of taking any one step towards its restoration. Again, we confess in the Articles the excommunication is a solemn duty of the Church under certain circumstances, and that the excommunicated person must be openly reconciled by penance, before he is acknowledged by the faithful as a brother; yet excommunication, I am told, is now a civil process, which takes place as a matter of course at a certain stage of certain law proceedings. Here a *reformation* is needed.*
 
 L
 
@@ -34,7 +34,7 @@ C. Again, when the Church, with an unprecedented confidence, bound herself hand 
 
 C
 
-*. In what points would you say the Churchs *faith* was reformed in the 16th century?*
+*. In what points would you say the Church's *faith* was reformed in the 16th century?*
 
 L
 
@@ -42,11 +42,11 @@ L
 
 C
 
-*. I conceive the presumption of the Popish doctrine on these points to lie in adding to the means of salvation set forth in Scripture. ALMIGHTY GOD has said His Sons merits shall wash away all sin, and that they shall be conveyed to believers through the two Sacraments; whereas, the Church of Rome has added other ways of gaining heaven.*
+*. I conceive the presumption of the Popish doctrine on these points to lie in adding to the means of salvation set forth in Scripture. ALMIGHTY GOD has said His Son's merits shall wash away all sin, and that they shall be conveyed to believers through the two Sacraments; whereas, the Church of Rome has added other ways of gaining heaven.*
 
 L
 
-*. Granted. The belief in purgatory and pardons disparages the sufficiency, first of CHRISTS merits, next of His appointed sacraments.*
+*. Granted. The belief in purgatory and pardons disparages the sufficiency, first of CHRIST'S merits, next of His appointed sacraments.*
 
 C
 
@@ -58,7 +58,7 @@ L
 
 C
 
-*. Do you not suppose that there are multitudes both among clergy and laity at the present day, who disparage, not indeed CHRISTS merits, but the Sacraments He has appointed? and if so, is not their error so far the same in kind as that of the Romish Churchthe preferring Abana and Pharpar to the waters of Jordan? Take the Sacrament of Baptism. Have not some denominations of schismatics *invented* a rite of dedication instead of Baptism? and do not Churchmen find themselves under the temptation of countenancing this Papist-like presumption? Again, there is a well-known sect, which denies both Baptism and the LORDS Supper. A Churchman must believe its members to be altogether *external* to the fold of CHRIST. Whatever benevolent works they may be able to show, still, if we receive the Churchs doctrine concerning the means "generally necessary to salvation," we must consider such persons to be mere heathens, except in knowledge. Now would there not be an outcry raised, as if I were uncharitable, did I refuse the rites of burial to such an one?*
+*. Do you not suppose that there are multitudes both among clergy and laity at the present day, who disparage, not indeed CHRIST'S merits, but the Sacraments He has appointed? and if so, is not their error so far the same in kind as that of the Romish Church—the preferring Abana and Pharpar to the waters of Jordan? Take the Sacrament of Baptism. Have not some denominations of schismatics *invented* a rite of dedication instead of Baptism? and do not Churchmen find themselves under the temptation of countenancing this Papist-like presumption? Again, there is a well-known sect, which denies both Baptism and the LORD'S Supper. A Churchman must believe its members to be altogether *external* to the fold of CHRIST. Whatever benevolent works they may be able to show, still, if we receive the Church's doctrine concerning the means "generally necessary to salvation," we must consider such persons to be mere heathens, except in knowledge. Now would there not be an outcry raised, as if I were uncharitable, did I refuse the rites of burial to such an one?*
 
 L
 
@@ -66,7 +66,7 @@ L
 
 C
 
-*. Happily, we are not as yet so corrupted as at the era of the Reformation. Our Pralates are still sound, and know the difference between what is modern and what is ancient. Yet is not the mode of viewing the subject I refer to, a *growing* one? and how does it differ from the presumption of the Papists? In both eases, the power of CHRISTS Sacraments is denied; in the one case by the unbelief of restlessness and fear, in the other by the unbelief of profaneness.*
+*. Happily, we are not as yet so corrupted as at the era of the Reformation. Our Pralates are still sound, and know the difference between what is modern and what is ancient. Yet is not the mode of viewing the subject I refer to, a *growing* one? and how does it differ from the presumption of the Papists? In both eases, the power of CHRIST'S Sacraments is denied; in the one case by the unbelief of restlessness and fear, in the other by the unbelief of profaneness.*
 
 L
 
@@ -74,7 +74,7 @@ L
 
 C
 
-*. I would do what our reformers in the l6th century did: they did not touch the existing documents of doctrinethere was no occasionthey kept the creeds as they were; but they *added* protests against the corruptions of faith, worship, and discipline, which had grown up around them. I would have the Church do the same thing now, if I could: she should not *change* the Articles, she should *add* to them: add protests against the erastianism and latitudinarianism which have incrusted them. I would have her append to the Catechism a section on the power of the Church.*
+*. I would do what our reformers in the l6th century did: they did not touch the existing documents of doctrine—there was no occasion—they kept the creeds as they were; but they *added* protests against the corruptions of faith, worship, and discipline, which had grown up around them. I would have the Church do the same thing now, if I could: she should not *change* the Articles, she should *add* to them: add protests against the erastianism and latitudinarianism which have incrusted them. I would have her append to the Catechism a section on the power of the Church.*
 
 L
 
@@ -110,7 +110,7 @@ C
 
 L
 
-*. I think I quite understand the ground you take. You consider that, as time goes on, fresh and fresh articles of faith are necessary to secure the Churchs purity, according to the rise of successive heresies and errors. These articles are all hidden, as it were, in the Churchs bosom, from the first, and brought out into form according to the occasion. Such was the Nicene explanation against Arius; the English Articles against Popery: and such are those now called for in this Age of schism, to meet the new heresy, which denies the holy Catholic Churchthe heresy of Hoadley, and others like him.*
+*. I think I quite understand the ground you take. You consider that, as time goes on, fresh and fresh articles of faith are necessary to secure the Church's purity, according to the rise of successive heresies and errors.' These articles are all hidden, as it were, in the Church's bosom, from the first, and brought out into form according to the occasion. Such was the Nicene explanation against Arius; the English Articles against Popery: and such are those now called for in this Age of schism, to meet the new heresy, which denies the holy Catholic Church—the heresy of Hoadley, and others like him.*
 
 C
 
@@ -118,11 +118,11 @@ C
 
 L
 
-*. I understand you further to say, that you hold to the Re formers as far as they have spoken out in our formularies, which at the same time you consider as incomplete; that the doctrines which may appear wanting in the Articles such as the Apostolical Commission, are the doctrines of the Church Catholic; doctrines, which a member of that Church holds *as such*, prior to subscription; that, moreover, they are quite consistent with our Articles, sometimes are even implied in them, and sometimes clearly contained in the Liturgy, though not in the Articles, as the Apostolical Commission in the Ordination Service; lastly, that we are clearly bound to believe, and all of us do believe, as essential, doctrines which nevertheless are not contained in the Articles, as *e. g*. the inspiration of Holy Scripture.*
+*. I understand you further to say, that you hold to the Re formers as far as they have spoken out in our formularies, which at the same time you consider as 'incomplete; that the doctrines which may appear wanting in the Articles such as the Apostolical Commission, are the doctrines of the Church Catholic; doctrines, which a member of that Church holds *as such*, prior to subscription; that, moreover, they are quite consistent with our Articles, sometimes are even implied in them, and sometimes clearly contained in the Liturgy, though not in the Articles, as the Apostolical Commission in the Ordination Service; lastly, that we are clearly bound to believe, and all of us do believe, as essential, doctrines which nevertheless are not contained in the Articles, as *e. g*. the inspiration of Holy Scripture.*
 
 C
 
-*. Yesand further I maintain, that, while I fully concur in the Articles, as far as they go, those who call one Papist, do not acquiesce in the doctrine of the Liturgy.
+*. Yes—and further I maintain, that, while I fully concur in the Articles, as far as they go, those who call one Papist, do not acquiesce in the doctrine of the Liturgy.
 
 L
 
@@ -146,7 +146,7 @@ L
 
 C
 
-*. It is true; but I would rather shew the general spirit of the Services, than take those obvious instances which, it seems, you can find out for yourself. Is it not certain that a modern Protestant, even though he granted that children were regenerated in Baptism, would, in the Confirmation Service, have inserted some address to them about the necessity of spiritual renovation, of becoming new creatures, &c.? I do not say such warning has not its appropriateness; nor do I propose to account for our Churchs not giving it; but is it not quite certain that the present *prevailing* temper in the Church would have given it, judging from the prayers and sermons of the day, and that the Liturgy does not? Were that day like this, would it not have been deemed formal and cold, and to argue a want of spiritual-mindedness, to have proposed a declaration, such as has been actually adopted, that "to the end that Confirmation may be ministered to the more edifying of such as shall receive it ...none hereafter shall be confirmed, but such as can *say* the Creed, the LORDS Prayer, and the Ten Commandments," &c.; nothing being said of a change of heart, or spiritual affections? And yet, upon this mere external profession, the children receive the imposition of the Bishops hands, "to *certify* them by this sign, of GODS favour and gracious goodness towards them."*
+*. It is true; but I would rather shew the general spirit of the Services, than take those obvious instances which, it seems, you can find out for yourself. Is it not certain that a modern Protestant, even though he granted that children were regenerated in Baptism, would, in the Confirmation Service, have inserted some address to them about the necessity of spiritual renovation, of becoming new creatures, &c.? I do not say such warning has not its appropriateness; nor do I propose to account for our Church's not giving it; but is it not quite certain that the present *prevailing* temper in the Church would have given it, judging from the prayers and sermons of the day, and that the Liturgy does not? Were that day like this, would it not have been deemed formal and cold, and to argue a want of spiritual-mindedness, to have proposed a declaration, such as has been actually adopted, that "to the end that Confirmation may be ministered to the more edifying of such as shall receive it ...none hereafter shall be confirmed, but such as can *say* the Creed, the LORD'S Prayer, and the Ten Commandments," &c.; nothing being said of a change of heart, or spiritual affections? And yet, upon this mere external profession, the children receive the imposition of the Bishop's hands, "to *certify* them by this sign, of GOD'S favour and gracious goodness towards them."*
 
 L
 
@@ -162,7 +162,7 @@ L
 
 C
 
-*. Yes, and it affords a remarkable contrast to the modern use of the word. Now-a-days, the *prominent* notion conveyed by it regards its properties, whether spiritual or not, warm, heart felt, vital. But in the Catechism, the *prominent* notion is that of its object, the believing "*all* the *Articles* of the Christian faith," according to the Apostles declaration, that it is, "the substance of things hoped for, the evidence of things not seen."*
+*. Yes, and it affords a remarkable contrast to the modern use of the word. Now-a-days, the *prominent* notion conveyed by it regards its properties, whether spiritual or not, warm, heart felt, vital. But in the Catechism, the *prominent* notion is that of its object, the believing "*all* the *Articles* of the Christian faith," according to the Apostle's declaration, that it is, "the substance of things hoped for, the evidence of things not seen."*
 
 L
 
@@ -170,7 +170,7 @@ L
 
 C
 
-*. And still more remarkably into the Order for Visiting the Sick: more remarkably, both because of the season when it is introduced, when a Christian is drawing near his end, and also as being a preparation for the Absolution. Most comfortable, truly, in his last hour, is such a distinct rehearsal of the great truths on which the Christian has fed by faith, with thanksgiving, all his life long; yet it surely would not have suggested itself to a modern Protestant. He would rather have instituted some more searching examination (as he would call it,) of the state of the sick mans heart; whereas the whole of the ministers exhortation is what the modern school calls cold and formal. It ends thus:"I require you to examine yourself and your estate, both toward GOD and man; so that, accusing and condemning yourself for your own fau1ts, you may find mercy, at our heavenly FATHERS hand for CHRISTS sake, and not be accused and condemned in that fearful judgment. Therefore, I shall rehearse to you the *Articles* of our Faith*, that you may know whether you believe as a Christian man should, or no*."*
+*. And still more remarkably into the Order for Visiting the Sick: more remarkably, both because of the season when it is introduced, when a Christian is drawing near his end, and also as being a preparation for the Absolution. Most comfortable, truly, in his last hour, is such a distinct rehearsal of the great truths on which the Christian has fed by faith, with thanksgiving, all his life long; yet it surely would not have suggested itself to a modern Protestant. He would rather have instituted some more searching examination (as he would call it,) of the state of the sick man's heart; whereas the whole of the minister's exhortation is what the modern school calls cold and formal. It ends thus:—"I require you to examine yourself and your estate, both toward GOD and man; so that, accusing and condemning yourself for your own fau1ts, you may find mercy, at our heavenly FATHER'S hand for CHRIST'S sake, and not be accused and condemned in that fearful judgment. Therefore, I shall rehearse to you the *Articles* of our Faith*, that you may know whether you believe as a Christian man should, or no*."*
 
 L
 
@@ -182,7 +182,7 @@ C
 
 L
 
-*. Yet it mentions a great number of topics for examination: "Whether he repent him truly of his sins, and be in charity with all the world; exhorting him to forgive, from the bottom of his heart, all persons that have offended him; and, if he hath offended any other, to ask them forgiveness; and where he hath done injury or wrong to any man, that he make amends to the uttermost of his power. And, if he hath not before disposed of his goods, let him then be admonished to make his will, and to declare his debts, what he oweth, and what is owing to him; for the better discharging of his conscience, and the quietness of his executors. Here is an exhortation to repentance, charity, forgiveness of injuries, humbleness of mind, honesty, and justice. What could be added?*
+*. Yet it mentions a great number of topics for examination:— "Whether he repent him truly of his sins, and be in charity with all the world; exhorting him to forgive, from the bottom of his heart, all persons that have offended him; and, if he hath offended any other, to ask them forgiveness; and where he hath done injury or wrong to any man, that he make amends to the uttermost of his power. And, if he hath not before disposed of his goods, let him then be admonished to make his will, and to declare his debts, what he oweth, and what is owing to him; for the better discharging of his conscience, and the quietness of his executors. Here is an exhortation to repentance, charity, forgiveness of injuries, humbleness of mind, honesty, and justice. What could be added?*
 
 C
 
@@ -190,11 +190,11 @@ C
 
 L
 
-*. I can corroborate what you just now observed about the Creed, by what I lately read in some book or books, advocating a revision of the Liturgy. It was vehemently objected to the Apostles Creed, that it contained no confession of the doctrine of the atonement, nor (I think) of original sin!*
+*. I can corroborate what you just now observed about the Creed, by what I lately read in some book or books, advocating a revision of the Liturgy. It was vehemently objected to the Apostles' Creed, that it contained no confession of the doctrine of the atonement, nor (I think) of original sin!*
 
 C
 
-*. It is well to see persons consistent. When they go full lengths, they startle others, and, perhaps (please GOD) themselves. Indeed, I wish men would stop a while, and seriously reflect whether the mere verbal opposition which exists between their own language and the language of the Services (to say nothing of the difference of spirit), is not a sort of warning to them, if they would take it, against inconsiderately proceeding in their present course. But nothing is more rare at this day than *quiet* thought. Every one is in a bustle, being bent to do a great deal. We preach, and run from house to house; we do not pray or meditate. But to return. Next, consider the first exhortation to the Communion: would it not be called, if I said it in discourse of my own, dark, cold, and formal? "The way and means thereto \[to receive worthily\] is,First, to examine your lives and conversations by the rule of GODS *Commandments*, &c. ..... Therefore, if any of you be a *blasphemer* of GOD, an *hinderer* or *slanderer* of His word, an *adulterer*, or be in *malice*, or envy, or any other grievous crime, repent you of your sins," &c. Now this is what is called, in some quarters, by a great abuse of terms, "mere morality."*
+*. It is well to see persons consistent. When they go full lengths, they startle others, and, perhaps (please GOD) themselves. Indeed, I wish men would stop a while, and seriously reflect whether the mere verbal opposition which exists between their own language and the language of the Services (to say nothing of the difference of spirit), is not a sort of warning to them, if they would take it, against inconsiderately proceeding in their present course. But nothing is more rare at this day than *quiet* thought. Every one is in a bustle, being bent to do a great deal. We preach, and run from house to house; we do not pray or meditate. But to return. Next, consider the first exhortation to the Communion: would it not be called, if I said it in discourse of my own, dark, cold, and formal? "The way and means thereto \[to receive worthily\] is,—First, to examine your lives and conversations by the rule of GOD'S *Commandments*, &c. ..... Therefore, if any of you be a *blasphemer* of GOD, an *hinderer* or *slanderer* of His word, an *adulterer*, or be in *malice*, or envy, or any other grievous crime, repent you of your sins," &c. Now this is what is called, in some quarters, by a great abuse of terms, "mere morality."*
 
 L
 
@@ -202,7 +202,7 @@ L
 
 C
 
-*. Yes; and that, in thus speaking, it runs quite counter to the innovating spirit of this day, which proceeds rashly forward on large and general views,sweeps along, with one or two prominent doctrines, to the comparative neglect of the details of duty, and drops articles of faith and positive and ceremonial observances, as beneath the attention of a spiritual Christian, as monastic and superstitious, as forms, as minor points, as technical, lip-worship, narrow-minded, and bigotted.Next, consider the wording of one part of the Commination Service:"He was wounded for our offences, and smitten for our wickedness. Let us, therefore, return unto Him, who is the merciful receiver of all true penitent sinners; assuring ourselves that He is ready to receive us, and most willing to pardon us, if we come unto Him with faithful repentance; if we will submit our selves unto Him, and *from henceforth walk* in His ways; if we will take *His easy yoke* and *light burden* upon us, to follow Him in *lowliness, patience*, and *charity*, and be *ordered* by the governance of His Holy Spirit; seeking *always His glory*, and *serving* Him duly in our vocation with thanksgiving: *This if we do*, CHRIST *will* *deliver us from the curse of the law*," &c. Did another say this, he would be accused by the Protestant of this day of interfering with the doctrine of justification by faith.*
+*. Yes; and that, in thus speaking, it runs quite counter to the innovating spirit of this day, which proceeds rashly forward on large and general views,—sweeps along, with one or two prominent doctrines, to the comparative neglect of the details of duty, and drops articles of faith and positive and ceremonial observances, as beneath the attention of a spiritual Christian, as monastic and superstitious, as forms, as minor points, as technical, lip-worship, narrow-minded, and bigotted.—Next, consider the wording of one part of the Commination Service:—"He was wounded for our offences, and smitten for our wickedness. Let us, therefore, return unto Him, who is the merciful receiver of all true penitent sinners; assuring ourselves that He is ready to receive us, and most willing to pardon us, if we come unto Him with faithful repentance; if we will submit our selves unto Him, and *from henceforth walk* in His ways; if we will take *His easy yoke* and *light burden* upon us, to follow Him in *lowliness, patience*, and *charity*, and be *ordered* by the governance of His Holy Spirit; seeking *always His glory*, and *serving* Him duly in our vocation with thanksgiving: *This if we do*, CHRIST *will* *deliver us from the curse of the law*," &c. Did another say this, he would be accused by the Protestant of this day of interfering with the doctrine of justification by faith.*
 
 L
 
@@ -226,11 +226,11 @@ L
 
 C
 
-*. And surely numerous other passages would have been pronounced unsuitable to the spiritual faith of a Christian. I mean all such as speak of our being rewarded according to the cleanness of our hands, and of our walking innocently, and of the LORDS doing well to those that are good and true of heart. Indeed, this doctrine is so much the characteristic of that heavenly book, that I hardly see any part of it could have been retained but what is clearly predictive of the Messiah.*
+*. And surely numerous other passages would have been pronounced unsuitable to the spiritual faith of a Christian. I mean all such as speak of our being rewarded according to the cleanness of our hands, and of our walking innocently, and of the LORD'S doing well to those that are good and true of heart. Indeed, this doctrine is so much the characteristic of that heavenly book, that I hardly see any part of it could have been retained but what is clearly predictive of the Messiah.*
 
 L
 
-*. I shall now take my leave, with many thanks, and will think over what you have said. However, have you not been labouring superfluously? We know all along that the *Puritans* of Hookers time *did* object to the Prayer Book: there was no need of proving that.*
+*. I shall now take my leave, with many thanks, and will think over what you have said. However, have you not been labouring superfluously? We know all along that the *Puritans* of Hooker's time *did* object to the Prayer Book: there was no need of proving that.*
 
 C
 

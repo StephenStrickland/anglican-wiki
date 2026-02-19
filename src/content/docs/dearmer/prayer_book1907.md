@@ -8,17 +8,17 @@ description: 'The Prayer Book, by Percy Dearmer (1907). From Project Canterbury.
 Transcribed by Wayne Kempton
 Archivist and Historiographer of the Diocese of New York, 2010
 
-            CONTENTS
-           
-            I.—THE MATERIAL OF THE PRAYER BOOK, Page 5
-            II.—WHAT IS THE PRAYER BOOK? Page 8
-            III.—HOW IT GREW, Page 14
-            IV.—THE PRAYER BOOK SYSTEM, Page 24
-            V.—HOW THE SERVICES ARE TO BE PERFORMED, Page 33
-            VI.—CONCLUSION, Page 38
-           
-            SOME LANDMARKS IN THE HISTORY OF WORSHIP, Page 41
-            THE FAMILY TREE OF THE PRAYER BOOK, Page 44
+            CONTENTS
+           
+            I.—THE MATERIAL OF THE PRAYER BOOK, Page 5
+            II.—WHAT IS THE PRAYER BOOK? Page 8
+            III.—HOW IT GREW, Page 14
+            IV.—THE PRAYER BOOK SYSTEM, Page 24
+            V.—HOW THE SERVICES ARE TO BE PERFORMED, Page 33
+            VI.—CONCLUSION, Page 38
+           
+            SOME LANDMARKS IN THE HISTORY OF WORSHIP, Page 41
+            THE FAMILY TREE OF THE PRAYER BOOK, Page 44
 
 CHAPTER I
 THE MATERIAL OF THE PRAYER BOOK
@@ -183,10 +183,10 @@ We do not know what these morning and evening prayers consisted of in those very
 
 \[18\] EVENSONG
 
-*The eighth century Service*.          
-"O God, make speed," etc.    
-"Glory be to the Father," etc;     
-Psalms.           
+*The eighth century Service*.          
+"O God, make speed," etc.    
+"Glory be to the Father," etc;     
+Psalms.           
 Lesson.
 *Added in the Middle Ages.*
 Lord's Prayer.
@@ -455,7 +455,7 @@ A.D. 29 Baptism and Confirmation among the Apostles.
 A.D. 54-68 Nero.
 
 A.D. 57 S. Paul writes to the Corinthians about the Communion.
-\[1 Cor. x. 16-21; 1 Cor. xi. 18-30. "The Amen",  at the "giving of thanks" or Eucharist is mentioned in 1 Cor. xiv. 16; the Almsgiving "upon the first day of the week" in 1 Cor. xvi. 2.\]
+\[1 Cor. x. 16-21; 1 Cor. xi. 18-30. "The Amen",  at the "giving of thanks" or Eucharist is mentioned in 1 Cor. xiv. 16; the Almsgiving "upon the first day of the week" in 1 Cor. xvi. 2.\]
 
 A.D. 98-117 Trajan.
 

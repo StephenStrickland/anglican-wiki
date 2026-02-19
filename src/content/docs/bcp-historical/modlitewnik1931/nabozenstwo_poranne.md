@@ -236,7 +236,7 @@ WIEKUISTY i wszechmogący Boże, Panie panów i Królu królów, jedyny Rządco 
 
 MODLITWA ZA DUCHOWIEŃSTWO I LUD.
 
-WSZECHMOGĄCY i wiekuisty Boże, który czynisz wielkie cuda, ześlij na biskupów,  księży i wszystkich innych głosicieli słowa Twego świętego, jak również na wszystkie zbory ich pieczy powierzone, Ducha łask i darów niebiańskich; skrapiaj ich rosą Twego błogosławieństwa i spraw, aby wszyscy stali się Tobie miłymi, wykonywując świętą Twą wolę. Uczyńźe tak, o Panie, dla czci i chwały Orędownika i Pana naszego Jezusa Chrystusa. Amen.
+WSZECHMOGĄCY i wiekuisty Boże, który czynisz wielkie cuda, ześlij na biskupów,  księży i wszystkich innych głosicieli słowa Twego świętego, jak również na wszystkie zbory ich pieczy powierzone, Ducha łask i darów niebiańskich; skrapiaj ich rosą Twego błogosławieństwa i spraw, aby wszyscy stali się Tobie miłymi, wykonywując świętą Twą wolę. Uczyńźe tak, o Panie, dla czci i chwały Orędownika i Pana naszego Jezusa Chrystusa. Amen.
 
 *Modlitwa przyczynna za wszystkich ludzi, odmawiana wtedy, kiedy niema litanji*.
 

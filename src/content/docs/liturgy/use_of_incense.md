@@ -17,7 +17,7 @@ Transcribed by Peter Owen, 2006
 
 A quarter of an hour before the celebration the Thurifer should present himself at the sacristy, put on his casssock and *cotta*, and in default of the acolytes assist the Sacred Ministers to vest.
 
-The Priest, Deacon, and Subdeacon being vested, the blessing of the Incense to be used in the procession[\[1\]](#_edn1) takes place, immediately before leaving the sacristy. The celebrant receives the spoon from the Deacon, who says, “Be pleased, reverend father, to give a blessing;” he then takes incense from the *navicula* or incense-boat (held by the Deacon, who receives it from the Thurifer,) and puts it on the burning charcoal in three several portions, each time sprinkling it in the form of a cross. Then in accordance with the Deacon’s prayer, he blesses the incense with his right hand, saying, “Be thou blessed by Him in whose honour thou art to be burned.” The thurible is held by the Thurifer whilst the incense is put in. The procession then moves into the aisle in the following order:—
+The Priest, Deacon, and Subdeacon being vested, the blessing of the Incense to be used in the procession[\[1\]](#_edn1) takes place, immediately before leaving the sacristy. The celebrant receives the spoon from the Deacon, who says, "Be pleased, reverend father, to give a blessing;" he then takes incense from the *navicula* or incense-boat (held by the Deacon, who receives it from the Thurifer,) and puts it on the burning charcoal in three several portions, each time sprinkling it in the form of a cross. Then in accordance with the Deacon's prayer, he blesses the incense with his right hand, saying, "Be thou blessed by Him in whose honour thou art to be burned." The thurible is held by the Thurifer whilst the incense is put in. The procession then moves into the aisle in the following order:—
 
 1\. Thurifer with thurible smoking, preceded by the cross-bearer.
 
@@ -65,18 +65,18 @@ q. The thurible, *Navicula* (Incense boat) spoon, and canister of Incense should
 
 > [\[4\]](#_ednref4) Unless the *whole* of the Incense has been blessed in the Sacristy.
 
-> [\[5\]](#_ednref5) “Accepto thuribulo a Diacono.” Rom. Miss.
+> [\[5\]](#_ednref5) "Accepto thuribulo a Diacono." Rom. Miss.
 
-> [\[6\]](#_ednref6) “Et ipse sacerdos thurificet medium altaris, et utrumque cornu altaris.” Missale Sarisb.
+> [\[6\]](#_ednref6) "Et ipse sacerdos thurificet medium altaris, et utrumque cornu altaris." Missale Sarisb.
 
-> [\[7\]](#_ednref7) “Deinde ab ipso diacono ipse sacerdos thurificetur.” *Ibid*.
+> [\[7\]](#_ednref7) "Deinde ab ipso diacono ipse sacerdos thurificetur." *Ibid*.
 
-> [\[8\]](#_ednref8) “Et postea incenset altare.” Missale Ebor.
+> [\[8\]](#_ednref8) "Et postea incenset altare." Missale Ebor.
 
-> [\[9\]](#_ednref9) “In fine alleluia, vel sequentiae, vel tractus, diaconus antequam accedat ad evangelium pronuntiandum thurificet medium altaris tantum. Nunquam enim thurificetur lectrinum ante pronuntiationem evangelii.” Missale Sarisburiense.
+> [\[9\]](#_ednref9) "In fine alleluia, vel sequentiae, vel tractus, diaconus antequam accedat ad evangelium pronuntiandum thurificet medium altaris tantum. Nunquam enim thurificetur lectrinum ante pronuntiationem evangelii." Missale Sarisburiense.
 
-> [\[10\]](#_ednref10) “Hoc peracto accipiat thuribulum a diacono et thurificet sacrificium: videlicet ultra ter signum crucis faciens, et in circuitu et ex utraque parte calicis et sacrificii: deinde locum inter se et altare. Et dum thurificat dicat: Dirigatur Domine ad te oratio mea, sicut incensum in conspectu tuo.” Missale Sarisb. In all the Greek Liturgies, the oblations are here incensed, e.g., Liturgy of S. Chrysostom in the Euchol. Graec. Goar.
+> [\[10\]](#_ednref10) "Hoc peracto accipiat thuribulum a diacono et thurificet sacrificium: videlicet ultra ter signum crucis faciens, et in circuitu et ex utraque parte calicis et sacrificii: deinde locum inter se et altare. Et dum thurificat dicat: Dirigatur Domine ad te oratio mea, sicut incensum in conspectu tuo." Missale Sarisb. In all the Greek Liturgies, the oblations are here incensed, e.g., Liturgy of S. Chrysostom in the Euchol. Graec. Goar.
 
-> [\[11\]](#_ednref11) “Postea thurificetur ipse sacerdos ab ipso diacono.” *Ibid*.
+> [\[11\]](#_ednref11) "Postea thurificetur ipse sacerdos ab ipso diacono." *Ibid*.
 
-> [\[12\]](#_ednref12) “Deinde acolytus thurificet chorum.” See also Maskell *in loco*, p. 62. *Ibid*.
+> [\[12\]](#_ednref12) "Deinde acolytus thurificet chorum." See also Maskell *in loco*, p. 62. *Ibid*.

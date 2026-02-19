@@ -52,7 +52,7 @@ But that we may take all due caution, I must in the name of the congregation, as
 
 Are you from your heart sorry for the sin you have committed?- Answer. I am.
 
-Will you be more careful for the time to come; and by GOD's help, avoid all temptations to it?
+Will you be more careful for the time to come; and by GOD's help, avoid all temptations to it?—
 
 Answer. I will.
 

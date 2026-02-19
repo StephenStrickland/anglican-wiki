@@ -21,7 +21,7 @@ THE ANNUNCIATION OF THE BLESSED VIRGIN MARY
 
 S. LUKE i 28
 
- And the Angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
+ And the Angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
 
 THE day will tell you who this Ôblessed among womenÕ is: we call it our Lady-day; and the text will tell you why she comes into the day, because the Angel to-day came in to her. And the Angel will tell you why he to-day came in to her; she was Ôhighly favouredÕ and Ôthe Lord was with her,Õ was to come himself this day into her, to make her the most Ôblessed among women,Õ Ñsent him only before to tell her soÑto tell her, he would be with her by and by himself.
 

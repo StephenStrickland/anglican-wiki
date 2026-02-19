@@ -13,7 +13,7 @@ IN the present edition of Bishop Gunning's Sermon on the Paschal or Lent Fast, t
 
 In preparing the Work for the press in its present form, the Editor has not attempted to present it in a perfectly modern dress, or to rob it of the characteristics which connect it with the period of time when it first appeared. It being manifest that the composition would bear marks in every page of the date to which it belongs, the spelling of proper names and the like has been allowed to remain, and with such variety also as appears in the original Work. In the new matter, the headings of the pages, namely, and the Indexes, modern rules have of course been observed.
 
-The best thanks of  the Editor are due to the Librarians of the Bodleain Library of their unwearied kindness in assisting him through with their instructions and advice.
+The best thanks of  the Editor are due to the Librarians of the Bodleain Library of their unwearied kindness in assisting him through with their instructions and advice.
 
 *Oriel College,*
 *July,* 1845.

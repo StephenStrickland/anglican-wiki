@@ -20,13 +20,13 @@ It has been a very great privilege to be allowed to collect the writings of Bish
 
 The spiritual opportunity in so humble an occupation as reading the proof for this edition has been to take a course in theology, and to learn the deep spiritual convictions of a long life that was consecrated with unswerving consistency to the service of Jesus Christ for the extension of His Kingdom in the hearts and lives of his fellow-men by the bonds of the life-giving sacraments of the Holy Catholic Church.
 
-We have undertaken to gather Bishop Graftons literary remains in a uniform edition of eight volumes that includes a volume of his Sermons and Letters. A volume of miscellanies could be increased to two or three, but in writing for so many different occasions the same teaching was often repeated in altered form. In order to avoid repetition it was necessary to omit much that might otherwise have been included, but it has been our aim to preserve all that the Bishop taught in his writings without diminution or alteration.
+We have undertaken to gather Bishop Grafton's literary remains in a uniform edition of eight volumes that includes a volume of his Sermons and Letters. A volume of miscellanies could be increased to two or three, but in writing for so many different occasions the same teaching was often repeated in altered form. In order to avoid repetition it was necessary to omit much that might otherwise have been included, but it has been our aim to preserve all that the Bishop taught in his writings without diminution or alteration.
 
-The value of his writings is largely due to the representative character of his life. It was representative, in a broad and large way, of the Churchs work. It illustrates for the individual and the Church the results of loyalty to our Catholic heritage. He would be the first to deny any originality in his writings. He ever sought to be loyal and bear faithful witness to "the Faith once for all delivered to the Saints."
+The value of his writings is largely due to the representative character of his life. It was representative, in a broad and large way, of the Church's work. It illustrates for the individual and the Church the results of loyalty to our Catholic heritage. He would be the first to deny any originality in his writings. He ever sought to be loyal and bear faithful witness to "the Faith once for all delivered to the Saints."
 
 The value of the personal equation was his ability to translate that teaching into the terms of modern thought, and to indicate the manner of its application to the life and problems of to-day.
 
-In his autobiography, so aptly called, "A Journey Godward," he indicates his early environment as Puritan and Calvinistic. From this he revolted in early manhood and, as is often the case, he gave his allegiance to that form of Church teaching and service that emphasizes the Churchs differences from Protestantism rather than Her resemblance to the modern religious bodies and movements about Her.
+In his autobiography, so aptly called, "A Journey Godward," he indicates his early environment as Puritan and Calvinistic. From this he revolted in early manhood and, as is often the case, he gave his allegiance to that form of Church teaching and service that emphasizes the Church's differences from Protestantism rather than Her resemblance to the modern religious bodies and movements about Her.
 
 It was always his contention that the Church held a stronger position and was more likely to succeed by showing that she had something to give those outside Her Communion. He thought that it was more statesmanlike as well as loyal to Her standard to uphold Her Catholic heritage and privileges rather than to represent Her as one of many denominations.
 
@@ -67,5 +67,5 @@ The proceeds from the sale of this edition will help to perpetuate the Bishop's 
 Devout souls north, south, east, and west looked to him as a spiritual leader who never failed them, nor swerved from the narrow way. For their sakes this uniform edition of his writings is compiled. May their faith and loyalty be further strengthened. And may we who knew and loved him, and those who come to know him by his works, have the Grace of final perseverance.
 
 B. TALBOT ROGERS.
-ST. PAULS CATHEDRAL, FOND DU LAC,
+ST. PAUL'S CATHEDRAL, FOND DU LAC,
 *Whitsuntide*, 1914.

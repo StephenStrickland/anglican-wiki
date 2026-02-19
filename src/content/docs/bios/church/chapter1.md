@@ -31,7 +31,7 @@ The process in Church's mind was unlike either of these. He speaks, indeed, of h
 
 ---
 
-1.  "So Church has refused to sit in the seat of Anslem.  How strange it seems! But there is no doubt, though he himself was doggedly silent on the subject, that he had the offer." *\- Letters of Frederick Lord Blachford*, page 417
+1.  "So Church has refused to sit in the seat of Anslem. … How strange it seems! But there is no doubt, though he himself was doggedly silent on the subject, that he had the offer." *\- Letters of Frederick Lord Blachford*, page 417
 2.  *Life and Letters of Dean Church*. Edited by his daughter, Mary C. Church. With a preface by the Dean of Christ Church. Macmillan, 1895, pages xiv, xv.
 3.  1747-1821. Author of *the Force of Truth*; *Essays on the Most Important Subjects in Religion*; and a *Bible with Explanatory Notes*, which had great vogue among Evangelicals.
 4.  *Letters and Correspondence*, I, page 108, ed. 1898.

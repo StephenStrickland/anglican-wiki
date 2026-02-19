@@ -32,7 +32,7 @@ Which action of theirs, for that it was brought not only against her who bestowe
 
 We see both the occasion and sum of these words read, which may aptly be said to contain in them disputation or plea about Mary Magdalene's act, whether it were well done or no. Whereof there are two principal parts; Judas with some *ad appositum,* 'against it,' to have Mary Magdalene reformed, and her box converted to better uses; Christ for it, and against them; *sinite*, that He would have it stand, yes that He would have it acknowledged, for that it was *bonum opus.*
 
-In the entreating whereof, these three points I purpose: I. First of Judas' motion; and in it 1. The speech itself, *ut quid perditio, &c?* 2\. The speaker ­ 'some' of them; 3. The mind or affection, 'thought much.'
+In the entreating whereof, these three points I purpose: I. First of Judas' motion; and in it 1. The speech itself, *ut quid perditio, &c?* 2\. The speaker  'some' of them; 3. The mind or affection, 'thought much.'
 
 II. Secondly, of Christ's apology; and in it. 1. That it is sufferable; 2. That it is commendable; 3. The reason of both, *in Me;* for that on Him.
 
@@ -40,7 +40,7 @@ III, Last of all, laying both together: the former, that it is 'a good work;' th
 
 Of the tongue the Psalmist saith, it is, 'the best member' we have; and St. James, it is the worst, and it marreth all the rest. The nature of the tongue, thus being both good and bad, maketh that our speech is of the same complexion, good and bad likewise. Whereof this speech here is a pregnant \[39/40\] example. Good in substance, as I shall shew presently; evil in circumstance. As we shall afterward see, as neither well meant nor well applied.
 
-In the speech I commend two good things: 1. The abuse noted, *ut quid, &c.* 2. The use set down, *potuit &c*. Not only the defect - not thus wasted; but the provision how ­ 'turned into money, and distributed to the poor.
+In the speech I commend two good things: 1. The abuse noted, *ut quid, &c.* 2. The use set down, *potuit &c*. Not only the defect - not thus wasted; but the provision how  'turned into money, and distributed to the poor.
 
 We begin with the first: *Ut quid perditio* &c. Surely a good speech and of good use, and to be retained. Religion and reason, both teach us, in all things, to regard both *quid* and *ut quid*; no less to what end we do, than what we do, and both of them censure not only what is done to an evil end wickedly, but what is done to no end vainly. *Quem fructum*, 'What fruit,' saith St. Paul, a good question; and if it have none, *ut quid terram occupat*, 'why troubleth it the ground?' saith Christ. So that religion allows not waste, censures idleness, and in all things calls us to our *ut quid hæc?*
 

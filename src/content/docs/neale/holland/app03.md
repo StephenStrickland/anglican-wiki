@@ -47,9 +47,9 @@ The identity of this Vicariate with the Chapter is proved, —
 
 The greater part of the first *Tractatus Historicus,* and its *Monumenta**,* a masterpiece of laborious research, is occupied by such testimonies.
 
-The last, as we have seen, is that of Bussi, June 21, 1702: “Indelebilis nota vestris tam praeclaris capitulis inuretur.”
+The last, as we have seen, is that of Bussi, June 21, 1702: "Indelebilis nota vestris tam praeclaris capitulis inuretur."
 
-Broedersen amuses himself with collecting Hoynck’s various epochs for the destruction of the Chapter. He says, in different places, that it perished in 1580, in 1583, in 1589, in 1603, in 1625, and in 1680!
+Broedersen amuses himself with collecting Hoynck's various epochs for the destruction of the Chapter. He says, in different places, that it perished in 1580, in 1583, in 1589, in 1603, in 1625, and in 1680!
 
 ---
 

@@ -10,7 +10,7 @@ SERMONS OF THE RESURRECTION
 PREACHED UPON EASTER-DAY, 1613.
 
 Preached before King James, at Whitehall, on Sunday the Twelfth of April, A. D. MDCXIII.
-pp. 309 ­ 322
+pp. 309  322
 
 Transcribed by Dr. Marianne Dorman
 AD 2002

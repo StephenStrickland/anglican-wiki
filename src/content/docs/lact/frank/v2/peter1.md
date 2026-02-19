@@ -24,7 +24,7 @@ But such is our mortal condition, that we can neither bear our unhappiness nor o
 
 S. Peter, we must needs say, was not thoroughly called as yet to be a disciple; this humble acknowledgment of his own unworthiness to be so was a good beginning. Here it is we begin our Christianity, which, though it seems to be a kind of refusal of our Master, is but a trick to get into his service, who himself is humble and lowly, and receives none so soon as they that are such, none at all but such, whom by the posture of their knees, and the tenours of hearty and humble words, you may discern for such.
 
-And to sum up the whole meaning of the words to a brief head, they are no other, no no more than S. Peter's profession of his own humble condition, that he is not worthy that his God and his Redeemer should come so near him, and therefore --in an ecstasy, as it were, at the sight of so glorious a guest **­** desires him to forbear to oppress his unworthy servant with an honour he was not yet able to bear.
+And to sum up the whole meaning of the words to a brief head, they are no other, no no more than S. Peter's profession of his own humble condition, that he is not worthy that his God and his Redeemer should come so near him, and therefore --in an ecstasy, as it were, at the sight of so glorious a guest **** desires him to forbear to oppress his unworthy servant with an honour he was not yet able to bear.
 
 Yet we cannot but confess the words may have a harder sense upon them, as the voice of a stupid apprehension, or an insensibleness of such heavenly favours as our Saviour's company brings with it. We shall have time to hint at that anon. It shall suffice now, at first, to trouble you only with two evident and general parts.
 

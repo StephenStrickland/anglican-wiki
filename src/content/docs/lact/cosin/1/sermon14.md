@@ -4,7 +4,7 @@ description: Library of Anglo-Catholic Theology. From Project Canterbury.
 ---
 
 John Cosin Works, Sermons, Volume One
-pp. 190­205
+pp. 190205
 
 SERMON XIV
 AT PARIS. CORAM DUCE JACOBO. SEPTEMBER 11, 1650.

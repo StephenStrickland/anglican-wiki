@@ -22,7 +22,7 @@ For the celebration of the Holy Communion a cup, or chalice, and a paten are req
 
 The paten should be made without any base, and so that it may fit into or safely rest upon the top of the chalice. This enables the vessels to be carried together. If the paten has any engraving upon it, it is better to place this on the lower side.
 
-Besides the chalice and paten the following articles will be found convenient for the priests use in the celebration:
+Besides the chalice and paten the following articles will be found convenient for the priest's use in the celebration:
 
 **
 
@@ -58,7 +58,7 @@ The Communion-Veil
 
 **
 
-There are two other articles which may be mentioned. First the "fair linen cloth", or communion-veil, before alluded to, and directed in the rubric, the use of which is peculiar to our own Church. It is not found in the Roman rite, but was required by our Reformers, out of reverence for the sacrament. It should therefore not be laid aside, and the pall alone used, as is the habit with some, but rather cherished as a peculiarity of our Church. Symbolically it is said to signify the cloth which after the crucifixion was wound about our blessed Lords body at His burial. As the Church bids us make it "fair", that is, beautiful, love and reverence will take care to make it as beautiful as it can be made.
+There are two other articles which may be mentioned. First the "fair linen cloth", or communion-veil, before alluded to, and directed in the rubric, the use of which is peculiar to our own Church. It is not found in the Roman rite, but was required by our Reformers, out of reverence for the sacrament. It should therefore not be laid aside, and the pall alone used, as is the habit with some, but rather cherished as a peculiarity of our Church. Symbolically it is said to signify the cloth which after the crucifixion was wound about our blessed Lord's body at His burial. As the Church bids us make it "fair", that is, beautiful, love and reverence will take care to make it as beautiful as it can be made.
 
 **
 
@@ -76,4 +76,4 @@ The Burse
 
 The burse is a case made of two squares of cardboard covered with silk, and joined together at the bottom, having the sides fastened together by a triangular piece of silk. The burse is open at the top. It thus forms a pocket or case which can be opened, within which the corporal and linen veil may be placed. It is about nine inches square, and may be adorned on one side with a cross of the same design as that on the chalice-veil, with which it corresponds in colour.
 
-\[1\] It is not commonly known that a clergyman may bring into this country a chalice and paten free of duty. Articles for the priests use, which he wears on his person or carries in his hand, it has been ruled, are free from import duty.
+\[1\] It is not commonly known that a clergyman may bring into this country a chalice and paten free of duty. Articles for the priest's use, which he wears on his person or carries in his hand, it has been ruled, are free from import duty.
