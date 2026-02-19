@@ -14,9 +14,9 @@ sidebar:
 
 [Tract Number 2](tract2.html)\-- The Catholic Church.
 
-[Tract Number 3](tract3.html)\-- On Alterations in the Liturgy.
+[Tract Number 3](tract3.html)\-- Thoughts respectfully addressed to the Clergy on alterations in the Liturgy. The Burial Service. The Principle of Unity.
 
-[Tract Number 4](tract4.html)\-- Adherence to the Apostolical Succession the safest Course.
+[Tract Number 4](tract4.html)\-- Adherence to the Apostolical Succession the Safest Course. On Alterations in the Prayer-book.
 
 [Tract Number 5](tract5.html)\-- A Short Address to His Brethren on the Nature and Constitution of The Church of Christ, and of the Branch of It Established in England.
 
@@ -30,7 +30,7 @@ sidebar:
 
 [Tract Number 10](tract10.html)\-- Heads of a Week-day lecture, delivered to a country congregation in -------shire.
 
-[Tract Number 11](tract11.html)\-- The Visible Church, Letters I and II.
+[Tract Number 11](tract11.html)\-- The Visible Church.
 
 [Tract Number 12](tract12.html)\-- Richard Nelson I. Bishops, Priests, and Deacons.
 
@@ -58,13 +58,13 @@ sidebar:
 
 [Tract Number 24](tract24.html)\-- The Scripture View of the Apostolical Commission.
 
-[Tract Number 25](tract25.html)\-- Bishop Beveridge on the great Necessity and Advantage of Public Prayer.
+[Tract Number 25](tract25.html)\-- The Great Necessity and Advantage of Public Prayer.
 
 [Tract Number 26](tract26.html)\-- The Necessity and Advantage of Frequent Communion. (Extracted from Bishop Beveridge's Sermon on the Subject).
 
-[Tract Number 27](tract27.html)\-- Bishop Cosin on the Doctrine of the Eucharist.
+[Tract Number 27](tract27.html)\-- The History of Popish Transubstantiation.
 
-[Tract Number 28](tract28.html)\-- Bishop Cosin on the Doctrine of the Eucharist. *(Continued).*
+[Tract Number 28](tract28.html)\-- The same, concluded.
 
 [Tract Number 29](tract29.html)\-- Christian Liberty; Or, Why Should We Belong to the Church of England? By a Layman.
 
@@ -72,7 +72,7 @@ sidebar:
 
 [Tract Number 31](tract31.html)\-- The Reformed Church.
 
-[Tract Number 32](tract32.html)\-- The Standing Ordinances of Religion.
+[Tract Number 32](tract32.html)\-- On the Standing Ordinances of Religion.
 
 [Tract Number 33](tract33.html)\-- Primitive Episcopacy.
 
@@ -124,11 +124,11 @@ sidebar:
 
 [Tract Number 58](tract58.html)\-- On the Church as viewed by Faith and by the World.
 
-[Tract Number 59](tract59.html)\-- Church and State.
+[Tract Number 59](tract59.html)\-- The position of the Church of Christ in England, relatively to the State and the Nation.
 
 [Tract Number 60](tract60.html)\-- Sermons for Saints' Days and Holidays. (No. 4. St. Philip and St. James.)
 
-[Tract Number 61](tract61.html)\-- The Catholic Church a Witness Against Real Illiberality.
+[Tract Number 61](tract61.html)\-- The Catholic Church a Witness against Illiberality.
 
 [Tract Number 62](tract62.html)\-- Bishop Wilson's Meditations on His Sacred Office, No. 5.-- Thursday--*(continued)*
 
@@ -138,7 +138,7 @@ sidebar:
 
 Tract Number 65-- Bishop Wilson's Meditations on His Sacred Office, No. 6.-- Friday.
 
-[Tract Number 66](tract66.html)\-- Supplement to Tract XVIII; On the Benefits of the System of Fasting Prescribed by Our Church.
+[Tract Number 66](tract66.html)\-- On the Benefits of the System of Fasting Prescribed by Our Church. Supplement to Tract XVIII.
 
 [Tract Number 71](tract71.html)\--Against Romanism.No. I. On the Controversy with the Romanists.
 
@@ -152,14 +152,14 @@ Tract Number 65-- Bishop Wilson's Meditations on His Sacred Office, No. 6.-- Fri
 
 [Tract Number 76](tract76.html)\--Catena Patrum.No. II. Testimony of Writers in the later English Church to the Doctrine of Baptismal Regeneration.
 
-[Tract Number 79](tract79.html)\-- Against Romanism No III. On Purgatory.
+[Tract Number 79](tract79.html)\-- On Purgatory (Against Romanism, No. III).
 
 [Tract Number 80](tract80.html)\--On Reserve in Communicating Religious Knowledge.
 
 [Tract Number 81](tract81.html)\--Catena Patrum.No. IV. Testimony of Writers in the later English Church to the Eucharistic Sacrifice,
 With an Historical Account of the Changes Made in the Liturgy as to the Expression of that Doctrine.
 
-[Tract Number 82](tract82.html)\--A Letter to a Magazine on the Subject of Dr. Pusey's Tract on Baptism.
+[Tract Number 82](tract82.html)\-- Preface, Title-Page, and Contents to Volume IV.
 
 [Tract Number 83](tract83.html)\--Advent Sermons on Antichrist.
 
@@ -173,7 +173,7 @@ With an Historical Account of the Changes Made in the Liturgy as to the Expressi
 
 [Tract Number 89](/tracts/tract89/)\--On the Mysticism Attributed to the Fathers of the Church.
 
-[Tract Number 90](tract90.html)\-- Remarks on Certain Passages in theThirty-Nine Articles.
+[Tract Number 90](tract90.html)\-- Remarks on Certain Passages in the Thirty-Nine Articles.
 
 ---
 

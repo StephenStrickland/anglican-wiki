@@ -1,10 +1,10 @@
 ---
-title: "Tract 78: Catena Patrum. No. III"
+title: "Tract 78: Catena Patrum. No. III. Testimony of Writers in the later English Church to the duty of maintaining, Quod semper, quod ubique, quod ab omnibus traditum est."
 description: Tract Number 78. From Project Canterbury.
 sidebar:
-  label: "Tract 78: Catena Patrum. No. III"
+  label: "Tract 78: Catena Patrum. No. III. Testimony of Writers in..."
   order: 80
-author: "Henry Edward Manning"
+author: "Henry Edward Manning and Charles Marriott"
 year: 1837
 ---
 

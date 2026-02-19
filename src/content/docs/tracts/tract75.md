@@ -1,8 +1,8 @@
 ---
-title: "Tract 75: On the Roman Breviary"
+title: "Tract 75: On the Roman Breviary as embodying the substance of the Devotional Services of the Church Catholic"
 description: Tract Number 75. From Project Canterbury.
 sidebar:
-  label: "Tract 75: On the Roman Breviary"
+  label: "Tract 75: On the Roman Breviary as embodying the substanc..."
   order: 77
 author: "John Henry Newman"
 year: 1836

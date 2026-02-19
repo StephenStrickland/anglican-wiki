@@ -1,10 +1,10 @@
 ---
-title: "Tract 59: Church and State"
+title: "Tract 59: The position of the Church of Christ in England, relatively to the State and the Nation."
 description: Tract Number 59. From Project Canterbury.
 sidebar:
-  label: "Tract 59: Church and State"
+  label: "Tract 59: The position of the Church of Christ in England..."
   order: 61
-author: "Richard Hurrell Froude"
+author: "Hurrell Froude"
 year: 1835
 ---
 

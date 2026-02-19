@@ -1,8 +1,8 @@
 ---
-title: "Tract 58: On the Church as Viewed by Faith and by the World"
+title: "Tract 58: On the Church as viewed by Faith and by the World"
 description: Tract Number 58. From Project Canterbury.
 sidebar:
-  label: "Tract 58: On the Church as Viewed by Faith and by the World"
+  label: "Tract 58: On the Church as viewed by Faith and by the World"
   order: 60
 author: "John William Bowden"
 year: 1835

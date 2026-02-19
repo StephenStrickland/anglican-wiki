@@ -1,8 +1,8 @@
 ---
-title: "Tract 3: On Alterations in the Liturgy"
+title: "Tract 3: Thoughts respectfully addressed to the Clergy on alterations in the Liturgy. The Burial Service. The Principle of Unity."
 description: Tract Number 3. From Project Canterbury.
 sidebar:
-  label: "Tract 3: On Alterations in the Liturgy"
+  label: "Tract 3: Thoughts respectfully addressed to the Clergy on..."
   order: 5
 author: "John Henry Newman"
 year: 1833

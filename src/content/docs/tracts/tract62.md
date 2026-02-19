@@ -1,8 +1,8 @@
 ---
-title: "Tract 62: Bishop Wilson"
+title: "Tract 62: Bishop Wilson's Meditations on his Sacred Office. No. V, Thursday (continued)"
 description: Tract Number 62. From Project Canterbury.
 sidebar:
-  label: "Tract 62: Bishop Wilson"
+  label: "Tract 62: Bishop Wilson's Meditations on his Sacred Offic..."
   order: 64
 author: "Thomas Wilson"
 year: 1835

@@ -1,9 +1,9 @@
 ---
-title: "Tract 11: The Visible Church, Letters I and II"
-subtitle: (In Letters to a Friend.)
+title: "Tract 11: The Visible Church"
+subtitle: "In Letters to a Friend."
 description: Tract Number 11. From Project Canterbury.
 sidebar:
-  label: "Tract 11: The Visible Church, Letters I and II"
+  label: "Tract 11: The Visible Church"
   order: 13
 author: "John Henry Newman"
 year: 1833

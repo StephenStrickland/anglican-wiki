@@ -1,8 +1,8 @@
 ---
-title: "Tract 71: Against Romanism. No. I"
+title: "Tract 71: On the Controversy with the Romanists (No. I, Against Romanism)"
 description: Tract Number 71. From Project Canterbury.
 sidebar:
-  label: "Tract 71: Against Romanism. No. I"
+  label: "Tract 71: On the Controversy with the Romanists (No. I, A..."
   order: 73
 author: "John Henry Newman"
 year: 1836

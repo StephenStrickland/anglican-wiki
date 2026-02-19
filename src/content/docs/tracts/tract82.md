@@ -1,8 +1,8 @@
 ---
-title: "Tract 82: A Letter on the Subject of Dr. Pusey"
+title: "Tract 82: Preface, Title-Page, and Contents to Volume IV"
 description: Tract Number 82. From Project Canterbury.
 sidebar:
-  label: "Tract 82: A Letter on the Subject of Dr. Pusey"
+  label: "Tract 82: Preface, Title-Page, and Contents to Volume IV"
   order: 84
 author: "John Henry Newman"
 year: 1837

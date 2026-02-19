@@ -1,8 +1,8 @@
 ---
-title: "Tract 27: Bishop Cosin on the Doctrine of the Eucharist"
+title: "Tract 27: The History of Popish Transubstantiation"
 description: Tract Number 27. From Project Canterbury.
 sidebar:
-  label: "Tract 27: Bishop Cosin on the Doctrine of the Eucharist"
+  label: "Tract 27: The History of Popish Transubstantiation"
   order: 29
 author: "John Cosin"
 year: 1834

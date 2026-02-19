@@ -3,7 +3,7 @@ title: "Tract 5: A Short Address to His Brethren on the Nature and Constitution 
 subtitle: "By a Layman."
 description: Tract Number 5. From Project Canterbury.
 sidebar:
-  label: "Tract 5: A Short Address to His Brethren on the Nature and Co"
+  label: "Tract 5: A Short Address to His Brethren on the Nature..."
   order: 7
 author: "John William Bowden"
 year: 1833

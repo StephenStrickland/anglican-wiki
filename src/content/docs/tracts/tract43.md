@@ -1,8 +1,8 @@
 ---
-title: "Tract 43: Richard Nelson IV. Length of the Public Service"
+title: "Tract 43: Length of the Public Service. Richard Nelson. No. IV."
 description: Tract Number 43. From Project Canterbury.
 sidebar:
-  label: "Tract 43: Richard Nelson IV. Length of the Public Service"
+  label: "Tract 43: Length of the Public Service. Richard Nelson. N..."
   order: 45
 author: "Thomas Keble"
 year: 1834

@@ -1,8 +1,8 @@
 ---
-title: "Tract 86: Indications of a Superintending Providence in"
+title: "Tract 86: Indications of a Superintending Providence in the Preservation of the Prayer Book and in the Changes which It has Undergone"
 description: Tract Number 86. From Project Canterbury.
 sidebar:
-  label: "Tract 86: Indications of a Superintending Providence in"
+  label: "Tract 86: Indications of a Superintending Providence in t..."
   order: 88
 author: "Isaac Williams"
 year: 1839

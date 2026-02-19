@@ -1,8 +1,8 @@
 ---
-title: "Tract 56: Holy Days Observed in the English Church"
+title: "Tract 56: Holy Days observed in the English Church"
 description: Tract Number 56. From Project Canterbury.
 sidebar:
-  label: "Tract 56: Holy Days Observed in the English Church"
+  label: "Tract 56: Holy Days observed in the English Church"
   order: 58
 author: "John William Bowden"
 year: 1835

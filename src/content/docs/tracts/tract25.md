@@ -1,9 +1,8 @@
 ---
-title: "Tract 25: Bishop Beveridge on the Great Necessity and Advan"
-subtitle: (Extracted from Bishop Beveridge's Sermon on the subject.)
+title: "Tract 25: The Great Necessity and Advantage of Public Prayer"
 description: Tract Number 25. From Project Canterbury.
 sidebar:
-  label: "Tract 25: Bishop Beveridge on the Great Necessity and Advan"
+  label: "Tract 25: The Great Necessity and Advantage of Public Prayer"
   order: 27
 author: "William Beveridge"
 year: 1834

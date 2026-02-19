@@ -1,8 +1,8 @@
 ---
-title: "Tract 72: Against Romanism. No. II"
+title: "Tract 72: Archbishop Ussher on Prayers for the Dead (No. II, Against Romanism)"
 description: Tract Number 72. From Project Canterbury.
 sidebar:
-  label: "Tract 72: Against Romanism. No. II"
+  label: "Tract 72: Archbishop Ussher on Prayers for the Dead (No. ..."
   order: 74
 author: "James Ussher"
 year: 1836

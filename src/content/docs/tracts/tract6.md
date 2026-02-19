@@ -1,8 +1,8 @@
 ---
-title: "Tract 6: The Present Obligation of Primitive Practice"
+title: "Tract 6: The Present Obligation of Primitive Practice. A Sin of the Church."
 description: Tract Number 6. From Project Canterbury.
 sidebar:
-  label: "Tract 6: The Present Obligation of Primitive Practice"
+  label: "Tract 6: The Present Obligation of Primitive Practice. A ..."
   order: 8
 author: "John Henry Newman"
 year: 1833

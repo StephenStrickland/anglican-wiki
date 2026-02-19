@@ -1,8 +1,8 @@
 ---
-title: "Tract 61: The Catholic Church a Witness Against Real Illib"
+title: "Tract 61: The Catholic Church a Witness against Illiberality"
 description: Tract Number 61. From Project Canterbury.
 sidebar:
-  label: "Tract 61: The Catholic Church a Witness Against Real Illib"
+  label: "Tract 61: The Catholic Church a Witness against Illiberality"
   order: 63
 author: "Antony Buller"
 year: 1835

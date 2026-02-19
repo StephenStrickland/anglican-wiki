@@ -4,7 +4,7 @@ description: Tract Number 15. From Project Canterbury.
 sidebar:
   label: "Tract 15: On the Apostolical Succession in the English Church"
   order: 17
-author: "William Palmer"
+author: "William Palmer, completed by Newman"
 year: 1833
 ---
 

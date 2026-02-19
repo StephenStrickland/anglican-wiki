@@ -1,8 +1,8 @@
 ---
-title: "Tract 66: Supplement to Tract XVIII"
+title: "Tract 66: On the Benefits of the System of Fasting Prescribed by Our Church. Supplement to Tract XVIII"
 description: Tract Number 66 - Supplement to Tract XVIII. From Project Canterbury.
 sidebar:
-  label: "Tract 66: Supplement to Tract XVIII"
+  label: "Tract 66: On the Benefits of the System of Fasting Prescr..."
   order: 68
 author: "Edward Pusey"
 year: 1835

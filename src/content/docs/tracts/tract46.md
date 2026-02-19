@@ -1,8 +1,8 @@
 ---
-title: "Tract 46: Bishop Wilson"
+title: "Tract 46: Bishop Wilson's Meditations on his Sacred Office. No. III, Tuesday."
 description: Tract Number 46. From Project Canterbury.
 sidebar:
-  label: "Tract 46: Bishop Wilson"
+  label: "Tract 46: Bishop Wilson's Meditations on his Sacred Offic..."
   order: 48
 author: "Thomas Wilson"
 year: 1834

@@ -1,8 +1,8 @@
 ---
-title: "Tract 52: Sermons for Saints"
+title: "Tract 52: Sermons for Saints' Days and Holidays. No. 1, St. Matthias."
 description: Tract Number 52. From Project Canterbury.
 sidebar:
-  label: "Tract 52: Sermons for Saints"
+  label: "Tract 52: Sermons for Saints' Days and Holidays. No. 1, S..."
   order: 54
 author: "John Keble"
 year: 1835

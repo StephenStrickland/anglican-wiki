@@ -1,8 +1,8 @@
 ---
-title: "Tract 55: Bishop Wilson"
+title: "Tract 55: Bishop Wilson's Meditations on his Sacred Office. No. V, Thursday (continued)"
 description: Tract Number 55. From Project Canterbury.
 sidebar:
-  label: "Tract 55: Bishop Wilson"
+  label: "Tract 55: Bishop Wilson's Meditations on his Sacred Offic..."
   order: 57
 author: "Thomas Wilson"
 year: 1835

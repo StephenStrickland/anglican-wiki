@@ -1,8 +1,8 @@
 ---
-title: "Tract 76: Catena Patrum. No. II"
+title: "Tract 76: Catena Patrum No. II. Testimony of Writers in the later English Church to the Doctrine of Baptismal Regeneration"
 description: Tract Number 76. From Project Canterbury.
 sidebar:
-  label: "Tract 76: Catena Patrum. No. II"
+  label: "Tract 76: Catena Patrum No. II. Testimony of Writers in t..."
   order: 78
 author: "John Henry Newman"
 year: 1836

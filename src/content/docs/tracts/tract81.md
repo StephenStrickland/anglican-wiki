@@ -1,8 +1,8 @@
 ---
-title: "Tract 81: Catena Patrum. No. IV"
+title: "Tract 81: Catena Patrum. No. IV. Testimony of Writers in the later English Church to the doctrine of the Eucharistic Sacrifice"
 description: Tract Number 81. From Project Canterbury.
 sidebar:
-  label: "Tract 81: Catena Patrum. No. IV"
+  label: "Tract 81: Catena Patrum. No. IV. Testimony of Writers in ..."
   order: 83
 author: "Edward Pusey"
 year: 1837

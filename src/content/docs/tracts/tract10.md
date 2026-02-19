@@ -1,8 +1,8 @@
 ---
-title: "Tract 10: Heads of a Week-day Lecture"
+title: "Tract 10: Heads of a Week-day lecture, delivered to a country congregation in -------shire."
 description: Tract Number 10. From Project Canterbury.
 sidebar:
-  label: "Tract 10: Heads of a Week-day Lecture"
+  label: "Tract 10: Heads of a Week-day lecture, delivered to a cou..."
   order: 12
 author: "John Henry Newman"
 year: 1833

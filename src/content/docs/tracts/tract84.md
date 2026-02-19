@@ -1,8 +1,8 @@
 ---
-title: "Tract 84: Whether a Clergyman be Now Bound to Have Daily"
+title: "Tract 84: Whether a Clergyman of the Church of England be now bound to have Morning and Evening Prayers daily in his Parish Church"
 description: Tract Number 84. From Project Canterbury.
 sidebar:
-  label: "Tract 84: Whether a Clergyman be Now Bound to Have Daily"
+  label: "Tract 84: Whether a Clergyman of the Church of England be..."
   order: 86
 author: "Thomas Keble"
 year: 1838

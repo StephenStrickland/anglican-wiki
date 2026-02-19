@@ -1,9 +1,9 @@
 ---
-title: "Tract 29: Christian Liberty; Or, Why Should We Belong to The Church of England"
-subttitle: By a Layman
+title: "Tract 29: Christian Liberty; Or, Why Should We Belong to the Church of England?"
+subtitle: "By a Layman."
 description: Tract Number 29. From Project Canterbury.
 sidebar:
-  label: "Tract 29: Christian Liberty; Or, Why Should We Belong to The Church of England"
+  label: "Tract 29: Christian Liberty; Or, Why Should We Belong to ..."
   order: 31
 author: "John William Bowden"
 year: 1834

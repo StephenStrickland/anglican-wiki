@@ -1,8 +1,8 @@
 ---
-title: "Tract 74: Catena Patrum. No. I"
+title: "Tract 74: Catena Patrum No. I. Testimony of Writers in the later English Church to the Doctrine of the Apostolical Succession"
 description: Tract Number 74. From Project Canterbury.
 sidebar:
-  label: "Tract 74: Catena Patrum. No. I"
+  label: "Tract 74: Catena Patrum No. I. Testimony of Writers in th..."
   order: 76
 author: "John Henry Newman"
 year: 1836

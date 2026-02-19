@@ -1,9 +1,8 @@
 ---
-title: "Tract 28: Bishop Cosin on the Doctrine of the Eucharist"
-subtitle: (Continued.)
+title: "Tract 28: The same, concluded."
 description: Tract Number 28. From Project Canterbury.
 sidebar:
-  label: "Tract 28: Bishop Cosin on the Doctrine of the Eucharist"
+  label: "Tract 28: The same, concluded."
   order: 30
 author: "John Cosin"
 year: 1834

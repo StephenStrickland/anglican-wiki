@@ -1,8 +1,8 @@
 ---
-title: "Tract 4: Adherence to the Apostolical Succession the Safest"
+title: "Tract 4: Adherence to the Apostolical Succession the Safest Course. On Alterations in the Prayer-book."
 description: Tract Number 4. From Project Canterbury.
 sidebar:
-  label: "Tract 4: Adherence to the Apostolical Succession the Safest"
+  label: "Tract 4: Adherence to the Apostolical Succession the Safe..."
   order: 6
 author: "John Keble"
 year: 1833

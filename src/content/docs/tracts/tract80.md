@@ -1,8 +1,8 @@
 ---
-title: "Tract 80: On Reserve in Communicating Religious Knowledge"
+title: "Tract 80: On Reserve in communicating Religious Knowledge, Parts I-III"
 description: Tract Number 80. From Project Canterbury.
 sidebar:
-  label: "Tract 80: On Reserve in Communicating Religious Knowledge"
+  label: "Tract 80: On Reserve in communicating Religious Knowledge..."
   order: 82
 author: "Isaac Williams"
 year: 1837

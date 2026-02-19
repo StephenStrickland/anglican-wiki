@@ -1,8 +1,8 @@
 ---
-title: "Tract 54: Sermons for Saints"
+title: "Tract 54: Sermons for Saints' Days and Holidays. No. 2, The Annunciation of the Blessed Virgin Mary."
 description: Tract Number 54. From Project Canterbury.
 sidebar:
-  label: "Tract 54: Sermons for Saints"
+  label: "Tract 54: Sermons for Saints' Days and Holidays. No. 2, T..."
   order: 56
 author: "John Keble"
 year: 1835

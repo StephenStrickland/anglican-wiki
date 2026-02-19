@@ -1,8 +1,8 @@
 ---
-title: "Tract 79: Against Romanism No. III. On Purgatory"
+title: "Tract 79: On Purgatory (Against Romanism, No. III)"
 description: Tract Number 79. From Project Canterbury.
 sidebar:
-  label: "Tract 79: Against Romanism No. III. On Purgatory"
+  label: "Tract 79: On Purgatory (Against Romanism, No. III)"
   order: 81
 author: "John Henry Newman"
 year: 1837

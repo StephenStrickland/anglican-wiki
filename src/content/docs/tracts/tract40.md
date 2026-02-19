@@ -1,8 +1,8 @@
 ---
-title: "Tract 40: Richard Nelson III. Baptism"
+title: "Tract 40: Baptism. Richard Nelson III."
 description: Tract Number 40. From Project Canterbury.
 sidebar:
-  label: "Tract 40: Richard Nelson III. Baptism"
+  label: "Tract 40: Baptism. Richard Nelson III."
   order: 42
 author: "John Keble"
 year: 1834
