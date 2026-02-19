@@ -36,8 +36,7 @@ The most comprehensive online collection of Books of Common Prayer, including th
 **ACNA 2019 Book of Common Prayer** — https://bcp2019.anglicanchurch.net/
 Full text of the Anglican Church in North America's 2019 BCP, available in PDF and Word formats.
 
-**REC Prayer Book** — http://www.recus.org/resources.html
-PDF of the Reformed Episcopal Church's approved Prayer Book (2005), in both traditional and modern language editions, plus the Book of Occasional Services.
+**[REC Prayer Book](/bcp-rec-2005/)** — The Reformed Episcopal Church's approved Prayer Book (2005), in both traditional and modern language editions. Available for download on this site.
 
 ---
 
