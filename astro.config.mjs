@@ -26,6 +26,7 @@ export default defineConfig({
 						{ label: 'BCP 1928', slug: 'bcp-1928' },
 						{ label: 'BCP 1962 — Canadian', slug: 'bcp-1962' },
 						{ label: 'BCP 2019', slug: 'bcp-2019' },
+						{ label: 'BCP 2005 — REC', slug: 'bcp-rec-2005' },
 					],
 				},
 				{
