@@ -1,8 +1,8 @@
 ---
-title: Tract Number 20
+title: "Tract 20: The Visible Church, Letter III"
 description: Tract Number 20. From Project Canterbury.
 sidebar:
-  label: "#20 - The Visible Church, Letter III"
+  label: "Tract 20: The Visible Church, Letter III"
   order: 22
 author: "John Henry Newman"
 year: 1833

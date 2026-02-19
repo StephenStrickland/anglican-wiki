@@ -1,8 +1,8 @@
 ---
-title: Tract Number 60
+title: "Tract 60: Sermons for Saints"
 description: Tract Number 60. From Project Canterbury.
 sidebar:
-  label: "#60 - Sermons for Saints' Days. No. 4, St. Philip and..."
+  label: "Tract 60: Sermons for Saints"
   order: 62
 author: "John Keble"
 year: 1835

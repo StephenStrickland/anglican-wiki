@@ -1,8 +1,8 @@
 ---
-title: Tract Number 13
+title: "Tract 13: Sunday Lessons. The Principle of Selection"
 description: Tract Number 13. From Project Canterbury.
 sidebar:
-  label: "#13 - Sunday Lessons. The Principle of Selection"
+  label: "Tract 13: Sunday Lessons. The Principle of Selection"
   order: 15
 author: "John Keble"
 year: 1833

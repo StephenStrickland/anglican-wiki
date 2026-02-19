@@ -1,8 +1,8 @@
 ---
-title: Tract Number 89
+title: "Tract 89: On the Mysticism Attributed to the Fathers of"
 description: Tract Number 89. From Project Canterbury.
 sidebar:
-  label: "#89 - On the Mysticism Attributed to the Fathers of..."
+  label: "Tract 89: On the Mysticism Attributed to the Fathers of"
   order: 91
 author: "John Keble"
 year: 1841

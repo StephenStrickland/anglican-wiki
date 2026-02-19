@@ -9,6 +9,7 @@ export const collections = {
 			extend: z.object({
 				author: z.string().optional(),
 				year: z.number().optional(),
+				subtitle: z.string().optional(),
 			}),
 		}),
 	}),

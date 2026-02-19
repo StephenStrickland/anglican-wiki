@@ -1,8 +1,8 @@
 ---
-title: Tract Number 57
+title: "Tract 57: Sermons on Saints"
 description: Tract Number 57. From Project Canterbury.
 sidebar:
-  label: "#57 - Sermons on Saints' Days. No. 3, St Mark's Day"
+  label: "Tract 57: Sermons on Saints"
   order: 59
 author: "John Keble"
 year: 1835

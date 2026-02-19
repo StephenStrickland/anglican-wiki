@@ -1,8 +1,8 @@
 ---
-title: Tract Number 72
+title: "Tract 72: Against Romanism. No. II"
 description: Tract Number 72. From Project Canterbury.
 sidebar:
-  label: "#72 - Against Romanism. No. II"
+  label: "Tract 72: Against Romanism. No. II"
   order: 74
 author: "James Ussher"
 year: 1836

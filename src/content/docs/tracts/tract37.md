@@ -1,8 +1,8 @@
 ---
-title: Tract Number 37
+title: "Tract 37: Bishop Wilson"
 description: Tract Number 37. From Project Canterbury.
 sidebar:
-  label: "#37 - Bishop Wilson's Form of Excommunication"
+  label: "Tract 37: Bishop Wilson"
   order: 39
 author: "Thomas Wilson"
 year: 1834

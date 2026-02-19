@@ -1,8 +1,8 @@
 ---
-title: Tract Number 86
+title: "Tract 86: Indications of a Superintending Providence in"
 description: Tract Number 86. From Project Canterbury.
 sidebar:
-  label: "#86 - Indications of a Superintending Providence in..."
+  label: "Tract 86: Indications of a Superintending Providence in"
   order: 88
 author: "Isaac Williams"
 year: 1839

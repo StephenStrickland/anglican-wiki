@@ -1,8 +1,8 @@
 ---
-title: Tract Number 35
+title: "Tract 35: The People"
 description: Tract Number 35. From Project Canterbury.
 sidebar:
-  label: "#35 - The People's Interest in Their Minister's Commission"
+  label: "Tract 35: The People"
   order: 37
 author: "Arthur Philip Perceval"
 year: 1834

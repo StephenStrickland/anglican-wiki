@@ -1,8 +1,8 @@
 ---
-title: Tract Number 19
+title: "Tract 19: On Arguing Concerning the Apostolical Succession"
 description: Tract Number 19. From Project Canterbury.
 sidebar:
-  label: "#19 - On Arguing Concerning the Apostolical Succession..."
+  label: "Tract 19: On Arguing Concerning the Apostolical Succession"
   order: 21
 author: "John Henry Newman"
 year: 1833

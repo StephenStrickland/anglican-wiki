@@ -1,8 +1,8 @@
 ---
-title: Tract Number 90
+title: "Tract 90: Remarks on Certain Passages in the Thirty-Nine"
 description: Tract Number 90. From Project Canterbury.
 sidebar:
-  label: "#90 - Remarks on Certain Passages in the Thirty-Nine..."
+  label: "Tract 90: Remarks on Certain Passages in the Thirty-Nine"
   order: 92
 author: "John Henry Newman"
 year: 1841

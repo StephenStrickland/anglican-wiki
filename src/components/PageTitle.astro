@@ -6,6 +6,7 @@ const { entry } = Astro.locals.starlightRoute;
 const slug = entry.slug ?? entry.id;
 const isApologyPage = slug.startsWith('anglican-divines/john-jewel/apology');
 
+const subtitle = entry.data.subtitle;
 const author = entry.data.author;
 const year = entry.data.year;
 const hasAuthorMeta = author || year;
@@ -21,6 +22,10 @@ if (isApologyPage && entry.filePath) {
 ---
 
 <h1 id={PAGE_TITLE_ID}>{entry.data.title}</h1>
+
+{subtitle && (
+	<h1 class="subtitle">{subtitle}</h1>
+)}
 
 {hasAuthorMeta && (
 	<div class="reading-meta">
@@ -47,6 +52,15 @@ if (isApologyPage && entry.filePath) {
 			font-weight: 600;
 			color: var(--sl-color-white);
 		}
+	}
+
+	.subtitle {
+		font-size: var(--sl-text-lg);
+		color: var(--sl-color-gray-2);
+		margin-top: 0.25rem;
+		margin-bottom: 0;
+		font-weight: 400;
+		font-style: italic;
 	}
 
 	.reading-meta {

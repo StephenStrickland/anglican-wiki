@@ -1,8 +1,8 @@
 ---
-title: Tract Number 30
+title: "Tract 30: Christian Liberty (Continued)"
 description: Tract Number 30. From Project Canterbury.
 sidebar:
-  label: "#30 - Christian Liberty (Continued)"
+  label: "Tract 30: Christian Liberty (Continued)"
   order: 32
 author: "John William Bowden"
 year: 1834

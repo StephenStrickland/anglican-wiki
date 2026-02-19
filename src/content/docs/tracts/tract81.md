@@ -1,8 +1,8 @@
 ---
-title: Tract Number 81
+title: "Tract 81: Catena Patrum. No. IV"
 description: Tract Number 81. From Project Canterbury.
 sidebar:
-  label: "#81 - Catena Patrum. No. IV"
+  label: "Tract 81: Catena Patrum. No. IV"
   order: 83
 author: "Edward Pusey"
 year: 1837

@@ -1,8 +1,8 @@
 ---
-title: Tract Number 33
+title: "Tract 33: Primitive Episcopacy"
 description: Tract Number 33. From Project Canterbury.
 sidebar:
-  label: "#33 - Primitive Episcopacy"
+  label: "Tract 33: Primitive Episcopacy"
   order: 35
 author: "John Henry Newman"
 year: 1834

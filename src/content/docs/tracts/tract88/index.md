@@ -1,9 +1,9 @@
 ---
-title: Tract Number 88
+title: "Tract 88: The Greek Devotions of Bishop Andrews"
 description: Tract Number 88. From Project Canterbury.
 sidebar:
   order: 90
-  label: "#88 - The Greek Devotions of Bishop Andrews"
+  label: "Tract 88: The Greek Devotions of Bishop Andrews"
 author: "John Henry Newman"
 year: 1840
 ---

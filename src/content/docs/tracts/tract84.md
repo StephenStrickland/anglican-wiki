@@ -1,8 +1,8 @@
 ---
-title: Tract Number 84
+title: "Tract 84: Whether a Clergyman be Now Bound to Have Daily"
 description: Tract Number 84. From Project Canterbury.
 sidebar:
-  label: "#84 - Whether a Clergyman be Now Bound to Have Daily..."
+  label: "Tract 84: Whether a Clergyman be Now Bound to Have Daily"
   order: 86
 author: "Thomas Keble"
 year: 1838

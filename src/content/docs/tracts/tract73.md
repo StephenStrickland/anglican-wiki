@@ -1,8 +1,8 @@
 ---
-title: Tract Number 73
+title: "Tract 73: On the Introduction of Rationalistic Principles"
 description: Tract Number 73. From Project Canterbury.
 sidebar:
-  label: "#73 - On the Introduction of Rationalistic Principles..."
+  label: "Tract 73: On the Introduction of Rationalistic Principles"
   order: 75
 author: "John Henry Newman"
 year: 1836

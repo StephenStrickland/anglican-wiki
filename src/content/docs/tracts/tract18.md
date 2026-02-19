@@ -1,8 +1,8 @@
 ---
-title: Tract Number 18
+title: "Tract 18: Thoughts on the Benefits of the System of Fasting"
 description: Tract Number 18. From Project Canterbury.
 sidebar:
-  label: "#18 - Thoughts on the Benefits of the System of Fasting..."
+  label: "Tract 18: Thoughts on the Benefits of the System of Fasting"
   order: 20
 author: "Edward Pusey"
 year: 1833

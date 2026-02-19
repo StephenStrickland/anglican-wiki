@@ -1,22 +1,13 @@
 ---
-title: Tract Number 3
+title: "Tract 3: On Alterations in the Liturgy"
 description: Tract Number 3. From Project Canterbury.
 sidebar:
-  label: "#3 - On Alterations in the Liturgy"
+  label: "Tract 3: On Alterations in the Liturgy"
   order: 5
 author: "John Henry Newman"
 year: 1833
 ---
 
-Tracts for the Times
-
-THOUGHTS RESPECTFULL ADDRESSED TO THE CLERGY
-
-ON ALTERATIONS IN THE LITURGY.
-
-\[Number 3\]
-
----
 
 ATTEMPTS are making to get the Liturgy altered. My dear Brethren, I beseech you, consider with me, whether you ought not to resist the alteration of even one jot or tittle of it. Though you would in your own private judgments wish to have this or that phrase or arrangement amended, is this a time to concede one tittle?
 

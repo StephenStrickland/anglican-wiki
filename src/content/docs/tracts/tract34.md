@@ -1,8 +1,8 @@
 ---
-title: Tract Number 34
+title: "Tract 34: Rites and Customs of the Church"
 description: Tract Number 34. From Project Canterbury.
 sidebar:
-  label: "#34 - Rites and Customs of the Church"
+  label: "Tract 34: Rites and Customs of the Church"
   order: 36
 author: "John Henry Newman"
 year: 1834

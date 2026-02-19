@@ -1,8 +1,8 @@
 ---
-title: Tract Number 53
+title: "Tract 53: Bishop Wilson"
 description: Tract Number 53. From Project Canterbury.
 sidebar:
-  label: "#53 - Bishop Wilson's Meditations on His Sacred Office..."
+  label: "Tract 53: Bishop Wilson"
   order: 55
 author: "Thomas Wilson"
 year: 1835

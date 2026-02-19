@@ -1,8 +1,8 @@
 ---
-title: Tract Number 36
+title: "Tract 36: Account of Religious Sects at Present Existing"
 description: Tract Number 36. From Project Canterbury.
 sidebar:
-  label: "#36 - Account of Religious Sects at Present Existing..."
+  label: "Tract 36: Account of Religious Sects at Present Existing"
   order: 38
 author: "Arthur Philip Perceval"
 year: 1834

@@ -1,8 +1,8 @@
 ---
-title: Tract Number 83
+title: "Tract 83: Advent Sermons on Antichrist"
 description: Tract Number 83. From Project Canterbury.
 sidebar:
-  label: "#83 - Advent Sermons on Antichrist"
+  label: "Tract 83: Advent Sermons on Antichrist"
   order: 85
 author: "John Henry Newman"
 year: 1838

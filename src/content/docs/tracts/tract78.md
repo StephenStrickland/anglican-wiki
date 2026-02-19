@@ -1,8 +1,8 @@
 ---
-title: Tract Number 78
+title: "Tract 78: Catena Patrum. No. III"
 description: Tract Number 78. From Project Canterbury.
 sidebar:
-  label: "#78 - Catena Patrum. No. III"
+  label: "Tract 78: Catena Patrum. No. III"
   order: 80
 author: "Henry Edward Manning"
 year: 1837

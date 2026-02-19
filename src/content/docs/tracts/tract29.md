@@ -1,8 +1,8 @@
 ---
-title: Tract Number 29
+title: "Tract 29: Christian Liberty; Or, Why Should We Belong to"
 description: Tract Number 29. From Project Canterbury.
 sidebar:
-  label: "#29 - Christian Liberty; Or, Why Should We Belong to..."
+  label: "Tract 29: Christian Liberty; Or, Why Should We Belong to"
   order: 31
 author: "John William Bowden"
 year: 1834

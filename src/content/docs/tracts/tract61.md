@@ -1,8 +1,8 @@
 ---
-title: Tract Number 61
+title: "Tract 61: The Catholic Church a Witness Against Real Illib"
 description: Tract Number 61. From Project Canterbury.
 sidebar:
-  label: "#61 - The Catholic Church a Witness Against Real Illib..."
+  label: "Tract 61: The Catholic Church a Witness Against Real Illib"
   order: 63
 author: "Antony Buller"
 year: 1835

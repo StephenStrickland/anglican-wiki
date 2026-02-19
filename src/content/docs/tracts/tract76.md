@@ -1,8 +1,8 @@
 ---
-title: Tract Number 76
+title: "Tract 76: Catena Patrum. No. II"
 description: Tract Number 76. From Project Canterbury.
 sidebar:
-  label: "#76 - Catena Patrum. No. II"
+  label: "Tract 76: Catena Patrum. No. II"
   order: 78
 author: "John Henry Newman"
 year: 1836

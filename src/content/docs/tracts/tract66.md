@@ -1,8 +1,8 @@
 ---
-title: Tract Number 66 - Supplement to Tract XVIII
+title: "Tract 66: Supplement to Tract XVIII"
 description: Tract Number 66 - Supplement to Tract XVIII. From Project Canterbury.
 sidebar:
-  label: "#66 - Supplement to Tract XVIII"
+  label: "Tract 66: Supplement to Tract XVIII"
   order: 68
 author: "Edward Pusey"
 year: 1835

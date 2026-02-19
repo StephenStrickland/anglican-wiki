@@ -1,8 +1,8 @@
 ---
-title: Tract Number 24
+title: "Tract 24: The Scripture View of the Apostolical Commission"
 description: Tract Number 24. From Project Canterbury.
 sidebar:
-  label: "#24 - The Scripture View of the Apostolical Commission"
+  label: "Tract 24: The Scripture View of the Apostolical Commission"
   order: 26
 author: "Benjamin Harrison"
 year: 1834

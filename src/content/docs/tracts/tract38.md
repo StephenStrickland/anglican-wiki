@@ -1,8 +1,8 @@
 ---
-title: Tract Number 38
+title: "Tract 38: Via Media. No. I"
 description: Tract Number 38. From Project Canterbury.
 sidebar:
-  label: "#38 - Via Media. No. I"
+  label: "Tract 38: Via Media. No. I"
   order: 40
 author: "John Henry Newman"
 year: 1834

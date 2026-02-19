@@ -1,8 +1,8 @@
 ---
-title: Tract Number 12
+title: "Tract 12: Richard Nelson I. Bishops, Priests, and Deacons"
 description: Tract Number 12. From Project Canterbury.
 sidebar:
-  label: "#12 - Richard Nelson I. Bishops, Priests, and Deacons"
+  label: "Tract 12: Richard Nelson I. Bishops, Priests, and Deacons"
   order: 14
 author: "Thomas Keble"
 year: 1833

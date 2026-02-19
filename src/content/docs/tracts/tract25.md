@@ -1,8 +1,8 @@
 ---
-title: Tract Number 25
+title: "Tract 25: Bishop Beveridge on the Great Necessity and Advan"
 description: Tract Number 25. From Project Canterbury.
 sidebar:
-  label: "#25 - Bishop Beveridge on the Great Necessity and Advan..."
+  label: "Tract 25: Bishop Beveridge on the Great Necessity and Advan"
   order: 27
 author: "William Beveridge"
 year: 1834

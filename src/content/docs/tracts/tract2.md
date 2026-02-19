@@ -5,7 +5,7 @@ description: >
   must resist state interference in ecclesiastical affairs.
 sidebar:
   label: "Tract 2: The Catholic Church"
-  order: 2
+  order: 4
 # Custom fields for filtering, cross-referencing, and search
 series: "Tracts for the Times"
 tract: 2
@@ -18,27 +18,9 @@ tags:
   - apostolic succession
 ---
 
-<!-- ---
-title: Tract Number 2
-description: Tract Number 2. From Project Canterbury.
-sidebar:
-  label: "#2 - The Catholic Church"
-  order: 4
---- -->
-
-Tracts for the Times
-
-THE CATHOLIC CHURCH.
-
-\[Number 2, J. H. Newman\]
-
----
-
-> > *
-> >
-> > No weapon that is formed against thee shall prosper, and every tongue that shall rise against thee in judgment
-> >
-> > *THOU SHALT CONDEMN.
+> No weapon that is formed against thee shall prosper, and every tongue that shall rise against thee in judgment
+>
+> THOU SHALT CONDEMN.
 
 It is sometimes said, that the Clergy should abstain from politics; and that, if a Minister of CHRIST is political, he is not a follower of him who said, "My kingdom is not of this world." Now there is a sense in which this is true, but, as it is commonly taken, it is very false.
 

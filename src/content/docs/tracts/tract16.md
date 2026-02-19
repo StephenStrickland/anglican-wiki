@@ -1,8 +1,8 @@
 ---
-title: Tract Number 16
+title: "Tract 16: Advent"
 description: Tract Number 16. From Project Canterbury.
 sidebar:
-  label: "#16 - Advent"
+  label: "Tract 16: Advent"
   order: 18
 author: "Benjamin Harrison"
 year: 1833

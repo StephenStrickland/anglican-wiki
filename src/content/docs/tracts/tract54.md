@@ -1,8 +1,8 @@
 ---
-title: Tract Number 54
+title: "Tract 54: Sermons for Saints"
 description: Tract Number 54. From Project Canterbury.
 sidebar:
-  label: "#54 - Sermons for Saints' Days. No. 2, The Annunciation..."
+  label: "Tract 54: Sermons for Saints"
   order: 56
 author: "John Keble"
 year: 1835

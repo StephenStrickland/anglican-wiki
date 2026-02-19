@@ -1,8 +1,8 @@
 ---
-title: Tract Number 17
+title: "Tract 17: The Ministerial Commission, a Trust from Christ"
 description: Tract Number 17. From Project Canterbury.
 sidebar:
-  label: "#17 - The Ministerial Commission, a Trust from Christ..."
+  label: "Tract 17: The Ministerial Commission, a Trust from Christ"
   order: 19
 author: "Benjamin Harrison"
 year: 1833

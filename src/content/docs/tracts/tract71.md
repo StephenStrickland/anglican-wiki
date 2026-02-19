@@ -1,8 +1,8 @@
 ---
-title: Tract Number 71
+title: "Tract 71: Against Romanism. No. I"
 description: Tract Number 71. From Project Canterbury.
 sidebar:
-  label: "#71 - Against Romanism. No. I"
+  label: "Tract 71: Against Romanism. No. I"
   order: 73
 author: "John Henry Newman"
 year: 1836

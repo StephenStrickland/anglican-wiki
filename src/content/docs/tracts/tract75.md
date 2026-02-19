@@ -1,8 +1,8 @@
 ---
-title: Tract Number 75
+title: "Tract 75: On the Roman Breviary"
 description: Tract Number 75. From Project Canterbury.
 sidebar:
-  label: "#75 - On the Roman Breviary"
+  label: "Tract 75: On the Roman Breviary"
   order: 77
 author: "John Henry Newman"
 year: 1836

@@ -1,8 +1,8 @@
 ---
-title: Tract Number 26
+title: "Tract 26: The Necessity and Advantage of Frequent Communion"
 description: Tract Number 26. From Project Canterbury.
 sidebar:
-  label: "#26 - The Necessity and Advantage of Frequent Communion"
+  label: "Tract 26: The Necessity and Advantage of Frequent Communion"
   order: 28
 author: "William Beveridge"
 year: 1834

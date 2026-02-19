@@ -1,8 +1,8 @@
 ---
-title: Tract Number 62
+title: "Tract 62: Bishop Wilson"
 description: Tract Number 62. From Project Canterbury.
 sidebar:
-  label: "#62 - Bishop Wilson's Meditations, No. 5 (Continued)"
+  label: "Tract 62: Bishop Wilson"
   order: 64
 author: "Thomas Wilson"
 year: 1835

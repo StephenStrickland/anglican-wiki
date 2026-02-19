@@ -1,8 +1,8 @@
 ---
-title: Tract Number 47
+title: "Tract 47: The Visible Church, Letter IV"
 description: Tract Number 47. From Project Canterbury.
 sidebar:
-  label: "#47 - The Visible Church, Letter IV"
+  label: "Tract 47: The Visible Church, Letter IV"
   order: 49
 author: "John Henry Newman"
 year: 1834

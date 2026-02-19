@@ -1,8 +1,8 @@
 ---
-title: 'Tract 91, by William Reed Huntington'
+title: "Tract 91: The Articles of Religion from an American Point"
 description: 'Tract 91, by William Reed Huntington. From Project Canterbury.'
 sidebar:
-  label: "#91 - The Articles of Religion from an American Point..."
+  label: "Tract 91: The Articles of Religion from an American Point"
   order: 93
 author: "William Reed Huntington"
 year: 1907

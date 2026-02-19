@@ -1,19 +1,11 @@
 ---
-title: Tract Number 4
+title: "Tract 4: Adherence to the Apostolical Succession the Safest"
 description: Tract Number 4. From Project Canterbury.
 sidebar:
-  label: "#4 - Adherence to the Apostolical Succession the Safest..."
+  label: "Tract 4: Adherence to the Apostolical Succession the Safest"
   order: 6
 author: "John Keble"
 year: 1833
----
-
-Tracts for the Times
-
-ADHERENCE TO THE APOSTOLICAL SUCCESSION THE SAFEST COURSE.
-
-\[Number 4\]
-
 ---
 
 WE who believe the Nicene Creed, must acknowledge it a high privilege, that we belong to the Apostolic Church. How is it that so many of us are, almost avowedly, so cold and indifferent in our thoughts of this privilege?

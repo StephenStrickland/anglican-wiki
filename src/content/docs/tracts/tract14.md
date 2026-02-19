@@ -1,8 +1,8 @@
 ---
-title: Tract Number 14
+title: "Tract 14: The Ember Days"
 description: Tract Number 14. From Project Canterbury.
 sidebar:
-  label: "#14 - The Ember Days"
+  label: "Tract 14: The Ember Days"
   order: 16
 author: "Alfred Menzies"
 year: 1833

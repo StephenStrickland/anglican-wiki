@@ -1,8 +1,8 @@
 ---
-title: Tract Number 21
+title: "Tract 21: Mortification of the Flesh a Scripture Duty"
 description: Tract Number 21. From Project Canterbury.
 sidebar:
-  label: "#21 - Mortification of the Flesh a Scripture Duty"
+  label: "Tract 21: Mortification of the Flesh a Scripture Duty"
   order: 23
 author: "John Henry Newman"
 year: 1834

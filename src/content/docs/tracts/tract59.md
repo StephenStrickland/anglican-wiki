@@ -1,8 +1,8 @@
 ---
-title: Tract Number 59
+title: "Tract 59: Church and State"
 description: Tract Number 59. From Project Canterbury.
 sidebar:
-  label: "#59 - Church and State"
+  label: "Tract 59: Church and State"
   order: 61
 author: "Richard Hurrell Froude"
 year: 1835

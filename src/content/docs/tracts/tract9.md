@@ -1,19 +1,11 @@
 ---
-title: Tract Number 9
+title: "Tract 9: On Shortening the Church Service"
 description: Tract Number 9. From Project Canterbury.
 sidebar:
-  label: "#9 - On Shortening the Church Service"
+  label: "Tract 9: On Shortening the Church Service"
   order: 11
 author: "Richard Hurrell Froude"
 year: 1833
----
-
-Tracts for the Times
-
-ON SHORTENING THE CHURCH SERVICE.
-
-\[Number 9\]
-
 ---
 
 > There is a growing feeling that the Services of the Church are too long; and many persons think it a sound feeling, merely because it is a growing one. Let such as have not made up their minds on the subject, suffer themselves, before going into the arguments against our Services, to be arrested by the following considerations.

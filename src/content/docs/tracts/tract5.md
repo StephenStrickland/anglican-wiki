@@ -1,33 +1,15 @@
 ---
-title: Tract Number 5
+title: "Tract 5: A Short Address to His Brethren on the Nature and Constitution of the Church of Christ, and of the Branch of It Established in England"
+subtitle: "By a Layman."
 description: Tract Number 5. From Project Canterbury.
 sidebar:
-  label: "#5 - A Short Address to His Brethren on the Nature and Co..."
+  label: "Tract 5: A Short Address to His Brethren on the Nature and Co"
   order: 7
 author: "John William Bowden"
 year: 1833
 ---
 
-Tracts for the Times
-
-A
-SHORT ADDRESS TO HIS BRETHREN
-ON THE
-NATURE AND CONSTITUTION
-OF
-**THE CHURCH OF CHRIST,**
-AND OF
-THE BRANCH OF IT ESTABLISHED IN ENGLAND.
-
-BY A LAYMAN.
-
-\[Number 5\]
-
----
-
-I believe one Catholic and Apostolic Church. NIC. CREED.
-
----
+> I believe one Catholic and Apostolic Church. NIC. CREED.
 
 THERE are many persons who have the happiness of being members of that pure and Apostolical branch of Christs holy Church, which, as it is established in this our country, we call " the Church of England;" persons who attend with regularity and devotion to her services, and have participated in the benefits of her Sacraments; who may yet have no very clear idea either of the nature of that body which we call " the Church" in general, or of the peculiar circumstances and events which have led to the present position and constitution of that portion of it to which we belong.
 

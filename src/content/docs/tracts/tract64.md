@@ -1,8 +1,8 @@
 ---
-title: Tract Number 64
+title: "Tract 64: Bishop Bull on the Ancient Liturgies"
 description: Tract Number 64. From Project Canterbury.
 sidebar:
-  label: "#64 - Bishop Bull on the Ancient Liturgies"
+  label: "Tract 64: Bishop Bull on the Ancient Liturgies"
   order: 66
 author: "George Bull"
 year: 1835

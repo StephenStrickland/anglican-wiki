@@ -1,8 +1,8 @@
 ---
-title: Tract Number 31
+title: "Tract 31: The Reformed Church"
 description: Tract Number 31. From Project Canterbury.
 sidebar:
-  label: "#31 - The Reformed Church"
+  label: "Tract 31: The Reformed Church"
   order: 33
 author: "John Henry Newman"
 year: 1834

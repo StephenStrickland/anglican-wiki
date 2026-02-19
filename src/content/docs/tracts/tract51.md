@@ -1,8 +1,8 @@
 ---
-title: Tract Number 51
+title: "Tract 51: On Dissent without Reason in Conscience"
 description: Tract Number 51. From Project Canterbury.
 sidebar:
-  label: "#51 - On Dissent without Reason in Conscience"
+  label: "Tract 51: On Dissent without Reason in Conscience"
   order: 53
 author: "Robert F. Wilson"
 year: 1835
