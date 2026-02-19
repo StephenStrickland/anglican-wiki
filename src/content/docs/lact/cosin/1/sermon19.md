@@ -4,7 +4,7 @@ description: 'John Cosin, Works, Sermons, Volume One. From Project Canterbury.'
 ---
 
 John Cosin, Works, Sermons, Volume One
-pp. 263­275
+pp. 263275
 
 SERMON XIX
 PARIS, MAY 21, 1651

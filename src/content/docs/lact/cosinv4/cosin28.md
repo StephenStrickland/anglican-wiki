@@ -202,6 +202,6 @@ CONCERNING CHURCHWARDENS AND SIDEMEN.
 
 8\. Have you (the Churchwardens and Sidemen now sworn to give in a true answer unto all these articles of enquiry in all their several titles) has a sufficient time to draw up your presentments, and therein consulted or entreated your Minister for his faithful assistance?
 
-For you know assuredly, that, as the true discharging of your office is the chief means whereby public disorders, sins, and offences in your parish, may be reformed and punished, so, if you wilfully refuse to present such crimes and faults, as either you know to have been committed, or otherwise have heard of them by public fame,that, in such cases, the Bishop and his officers are to proceed against you in their ecclesiastical courts, as in cases of wilful omission and perjury.
+For you know assuredly, that, as the true discharging of your office is the chief means whereby public disorders, sins, and offences in your parish, may be reformed and punished, so, if you wilfully refuse to present such crimes and faults, as either you know to have been committed, or otherwise have heard of them by public fame,—that, in such cases, the Bishop and his officers are to proceed against you in their ecclesiastical courts, as in cases of wilful omission and perjury.
 
 JOH. DUNELM.

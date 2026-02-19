@@ -25,7 +25,7 @@ The sequence of colours, as remarked above, has been most extensively adopted am
 
 The Western Use is based upon venerable authority, its rules are quite clear and are readily ascertainable, so that in adapting it for English use the Editors have every confidence that their work will commend itself to those Clergy who are desirous of putting “Before their people a beautiful and dignified ritual, which, while instructive to the worshipper, will sustain that Objective Worship which is the leading idea involved in all the principal Services of the Church, by the direction of the devotion towards some recognizable Divine Presence, especially in the Holy Eucharist, itself the special embodiment of objective worship and its full realization, as therein, “before” men’s “eyes JESUS CHRIST” is “evidently set forth, crucified among” them.—(*Gal*. iii. 1.)
 
-Great care has been exercised to make this work as complete and accurate as possible, and although it has not been found feasible or desirable in a hand­book of this character, to quote the authorities from which the various details are derived, those who use this book may do so with every confidence that its directions are really based on authoritative documents and a painstaking examination of the opinions of the best rubricists.
+Great care has been exercised to make this work as complete and accurate as possible, and although it has not been found feasible or desirable in a handbook of this character, to quote the authorities from which the various details are derived, those who use this book may do so with every confidence that its directions are really based on authoritative documents and a painstaking examination of the opinions of the best rubricists.
 
 *Lent, 1894.*
 

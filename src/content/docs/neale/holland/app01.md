@@ -65,7 +65,7 @@ WORKS IN DEFENCE OF THE RIGHTS OF THE CHAPTERS.
 
 2\. *Refutatio Responsi ad Motivum.* 1703\. These are by Van Espen, but they were adopted by De Swaen, Dean of Haarlem.
 
-3\. *Assertio Juris Eccl. Metr. Ultrajectin. R. C. Per*  J. C. Erkelium, *ejusdem Eccl. Canon.* 1703.
+3\. *Assertio Juris Eccl. Metr. Ultrajectin. R. C. Per*  J. C. Erkelium, *ejusdem Eccl. Canon.* 1703.
 
 4\. *Cleri R. C. praecipuarum in Hollandia Australi civitatum Protestatio.* 1709.
 

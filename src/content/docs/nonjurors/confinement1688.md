@@ -17,7 +17,7 @@ The Confinement of the Seven Bishops.
 > Surely, unless some Pittying God look down,
 > And stop the Threatning Torrent, it will drown
 > Divinity it Self.--------------
->           The Bishops Prisoners are, we tamely see;
+>           The Bishops Prisoners are, we tamely see;
 > The Reverend Prelats forc'd to Bow the Knee
 > To Anti-Christ: No, Mighty Monarch, know,
 > Tho' we must pay to Caesar what we Owe;
@@ -35,7 +35,7 @@ The Confinement of the Seven Bishops.
 > 'Twill Dash Your Joys, and make Your Glory Fall:
 > His Holyness, That Patriot of Strife,
 > Tho' he can grant You Pardon, cannot Life.
->           Arise then, Mighty Sir, in God-like Mean!
+>           Arise then, Mighty Sir, in God-like Mean!
 > As of thy Valor, Let thy Truth be Seen,
 > Free from Mistrust, let all Your Words be clear
 > By Action; Let Your Promises appear,

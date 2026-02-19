@@ -41,8 +41,8 @@ And as I think of the long life of Lord Halifax, Henry Vaughan’s lines come to
 > > But these all night
 > > Like candles shed
 > > Their beams, and light
-> >     Us to bed
+> >     Us to bed
 > > They are indeed our Pillar-fires
 > > Seen as we go;
 > > They are the cities’ shining spires
-> >     We travel to.
+> >     We travel to.

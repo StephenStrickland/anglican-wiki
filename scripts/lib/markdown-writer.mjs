@@ -87,9 +87,40 @@ export function htmlToMarkdown(cleanedHtml, localPath) {
 }
 
 /**
+ * Fix mis-encoded Windows-1252 C1 control characters (U+0080–U+009F).
+ * Source HTML from Project Canterbury is often Windows-1252 encoded;
+ * reading it as UTF-8 maps bytes 0x80–0x9F to C1 control chars instead
+ * of the intended characters (smart quotes, em dashes, etc.)
+ */
+const WIN1252_MAP = {
+  '\u0080': '\u20AC', '\u0082': '\u201A', '\u0083': '\u0192',
+  '\u0084': '\u201E', '\u0085': '\u2026', '\u0086': '\u2020',
+  '\u0087': '\u2021', '\u0088': '\u02C6', '\u0089': '\u2030',
+  '\u008A': '\u0160', '\u008B': '\u2039', '\u008C': '\u0152',
+  '\u008E': '\u017D', '\u0091': '\u2018', '\u0092': '\u2019',
+  '\u0093': '\u201C', '\u0094': '\u201D', '\u0095': '\u2022',
+  '\u0096': '\u2013', '\u0097': '\u2014', '\u0098': '\u02DC',
+  '\u0099': '\u2122', '\u009A': '\u0161', '\u009B': '\u203A',
+  '\u009C': '\u0153', '\u009E': '\u017E', '\u009F': '\u0178',
+};
+
+function fixWindows1252(text) {
+  return text.replace(/[\u0080-\u009F]/g, (ch) => WIN1252_MAP[ch] || ch);
+}
+
+/**
  * Post-process Markdown: collapse whitespace, fix entities, normalize headings.
  */
 function postProcess(md, localPath) {
+  // Fix mis-encoded Windows-1252 C1 control characters
+  md = fixWindows1252(md);
+
+  // Replace non-breaking spaces with regular spaces
+  md = md.replace(/\u00A0/g, ' ');
+
+  // Remove soft hyphens (invisible formatting hints)
+  md = md.replace(/\u00AD/g, '');
+
   // Collapse multiple blank lines to two
   md = md.replace(/\n{3,}/g, '\n\n');
 

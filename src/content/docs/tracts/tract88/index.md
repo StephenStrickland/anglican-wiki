@@ -24,11 +24,11 @@ THE only deviation in the following Translation from the order of the original t
   * Place of Prayer
   * Circumstances of Prayer
 
-2. Order of early or Matin Prayer*Litany**Confession**Commendation*
+2. Order of early or Matin Prayer—*Litany*—*Confession*—*Commendation*
 
-3. Order of Evening Prayer*Meditation**Confession**Commendation*
+3. Order of Evening Prayer—*Meditation*—*Confession*—*Commendation*
 
-4. Course of Prayer for the Week (for each Day, under the five acts of *Confession, Prayer for Grace, Profession, Intercession*, and *Praise*, with an *Introduction*):
+4. Course of Prayer for the Week (for each Day, under the five acts of *Confession, Prayer for Grace, Profession, Intercession*, and *Praise*, with an *Introduction*):—
   * First Day
   * Second Day
   * Third Day
@@ -40,7 +40,7 @@ THE only deviation in the following Translation from the order of the original t
 5 Additional Exercises
   * [A Deprecation](5a.html)
   * A Litany of Deprecation
-  * Forms of Intercession[First](5c.html)
+  * Forms of Intercession—[First](5c.html)
   * [Second](5d.html)
   * [Third](5e.html)
   * [Fourth](5f.html)

@@ -47,7 +47,7 @@ IV. How we prepared they must be, the mood and sense of the same words will show
 
 V. By whom they must be prepared and straightened, the number of the verb, plural, and indefinite, will satisfy us. We are all to do it.
 
-So, I. what this way is, and what these paths mean; II. Whose they are; III. That prepared they must be; IV. How prepared they should be; and V. by whom prepared they ought to be ­ are the particulars, by which I shall lead you in the way, and in the preparation, prepare you the way to prepare the way of the Lord, and make his paths straight; the only way to have any comfort of his coming. I begin with the 'way.' To show you what it is, that we err not from it.
+So, I. what this way is, and what these paths mean; II. Whose they are; III. That prepared they must be; IV. How prepared they should be; and V. by whom prepared they ought to be  are the particulars, by which I shall lead you in the way, and in the preparation, prepare you the way to prepare the way of the Lord, and make his paths straight; the only way to have any comfort of his coming. I begin with the 'way.' To show you what it is, that we err not from it.
 
 I. This way, say some, is the soul of man, *cor spatiosum*, so Origen; and these paths, the powers and operations of it. 'His way is in this sea. and His paths in these deep waters.' Here the wind blows, and the tempest rises, and the waves roar; the unruly passions make a noise and tumult, and so, as the psalm has it, 'His footsteps are not known.' We cannot discern his track of reason of their tumultuous doings. These are they that are to be prepared, and still and quieted; the soul calmed, and laid, and smoothed, that Christ may come into it. But this is the way into which, and not by which, he comes.
 

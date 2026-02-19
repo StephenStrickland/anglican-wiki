@@ -10,7 +10,7 @@ Priest in the Church of God.
 
 ![houghton1.jpg (27189 bytes)](https://anglicanhistory.org/bios/houghton1.jpg)
 
-This Memorial Sermon was preached in Saint Marys Chapel, Sherwood
+This Memorial Sermon was preached in Saint Mary’s Chapel, Sherwood
 Park, Yonkers, New York, on the Fourth Sunday after Epiphany,
 January 30th, 1898, by the Rev. Harry I. Bodley, at
 the request of the Curate in Charge, the Rev.
@@ -42,7 +42,7 @@ St. Barnabas was a product of Jewish religion and Church. The Jewish religion an
 
 Jesus Christ Himself, a product, on the human side, of this chosen folk and select system, came to fulfill it, to complete the culture, to exercise the supernatural selection, completely to set at work the farthest reaching, even the absolutely universal spiritual evolution. He was still systematic. He used means. Hence St. Barnabas' story is one which cannot be dissociated from careful choice of *men* as chief means, of preaching, of baptism, of Church. He was a good man because of his fullness of the Holy Ghost, of which preaching, Baptism and Laying on of Hands were means to him, or, through him, to others. So faith was the faith of Jesus Christ the Saviour, and all his ordinances of strength and help unto goodness. St. Barnabas' goodness disproves such wild and demoralizing theories as that of Mr. Stead, who says: "there is no greater surprise in the Bible than that which is occasioned when we come upon the simple narrative telling us that we shall not be judged by anything which we profess to believe, or by any ceremonial or ritual to which we have conformed, or, still less, by the fact of our membership or non-membership in any organized body, ecclesiastical or otherwise." . . . "His (the Master's) words are so distinct and so precise, that there is no getting away from them. Yet they have been ignored so much that salvation, which, according to Christ, was to be found in feeding the hungry, giving drink to the thirsty, clothing the naked, showing hospitality to the stranger, and visiting those who were sick or in prison, is now almost universally held to consist in the acceptance of a more or less abstract series of religio-philosophical propositions." (If Christ Came to Chicago, pages 138-139,) I might refer simply to the story of St. Barnabas. But we need not return across nineteen centuries to confute such. The answer is simple and easy, as it is convincing. Go question such a Christian life as that of our departed friend of whom I am specially to speak to you to-day, then question the institutions of grace and mercy and love over which such as he have been the presiding geniuses, of which they were the center and inspiration. The houses of mercy for the fallen, hospitals for the sick, orphanages for the fatherless, houses for the aged and the poor, sisterhoods and ministries of men to serve suffering wherever love can. Ask these, "Whence came ye?" All make reply, we have sprung up and been fostered directly or indirectly by the Church of Christ. If civilization is to be credited with much, it is because it is a Christian civilization, whose very *forms of government*, Mr. Stead himself declares, are borrowed from the *Church*. This Kingdom of Heaven with its positive creeds and ministries of the Holy Ghost, renders men holy too. It keeps us of Heaven while yet on sordid earth, like God amidst the most brutal of mankind. "His gentle humanity (says one tribute to Dr. Houghton), first made the fame of the 'Little Church 'Round the Corner.' He played the part of the kindly sympathizer and counsellor, never too busy to listen, never too shocked to hear."
 
-The logic of the Spirit as much as of the reason, compelled the entrance of George Hendrick Houghton into this branch of the Holy Catholic Church. To one constituted as he was, the highest goodness was to be attained only in the Church that Church which teaches the faith once for all delivered to the saints and teaches it with authority. That Church which conveys the gifts of the Holy Ghost by Holy Sacraments. This is the clue to his life, his work, his sanctity. Let us see whether his story bears this out.
+The logic of the Spirit as much as of the reason, compelled the entrance of George Hendrick Houghton into this branch of the Holy Catholic Church. To one constituted as he was, the highest goodness was to be attained only in the Church— that Church which teaches the faith once for all delivered to the saints and teaches it with authority. That Church which conveys the gifts of the Holy Ghost by Holy Sacraments. This is the clue to his life, his work, his sanctity. Let us see whether his story bears this out.
 
 George Hendrick Houghton was born in Deerfield, Mass., in February, 1820, A.D. It is remarkable that that little town should have given to the Church in these United States, about the same time, John Williams, Bishop of Connecticut and Presiding Bishop of the American Church, and the late Rector of the Church of the Transfiguration, both of Congregational lineage.
 
@@ -59,8 +59,8 @@ In a poem entitled "To my Mother," young Houghton pictures his mother thus:
 
 His father was already dead some years before this date (February 1, 1844), for he continues pathetically, answering his own questions.
 
-> "These all are gone, forever gone
-> Allallthat childhood gave.
+> "These all are gone, forever gone—
+> All—all—that childhood gave.
 > The winter's snow is resting now
 > Upon my father's grave.
 > Yet, dearest mother, well I know,
@@ -195,7 +195,7 @@ Of his deep, inner life there are vistas everywhere. I cannot give you these wit
 > > "JESU."
 
 > "In mine ear an angel whispered,
-> Jesu, Jesu,' yesterday,
+> ‘Jesu, Jesu,' yesterday,
 > Never word so sweet had sounded,
 > Fain I'd hear it breathed alway.
 >
@@ -230,7 +230,7 @@ Of his deep, inner life there are vistas everywhere. I cannot give you these wit
 > As the raindrops earthward shed.
 >
 > When my tears with his commingling
-> Soon therefrom all else did blot
+> Soon therefrom all else did blot—
 > Then we saw how love was written
 > Underneath in every spot.
 >
@@ -244,13 +244,13 @@ Of his deep, inner life there are vistas everywhere. I cannot give you these wit
 > Down I sank with eyes o'erflowing,
 > Lest I hear that name no more.
 >
-> While I wept, methought, returning
+> While I wept, methought, returning—
 > Some of Jesu's blood he bore,
 > And, with folded pinion stooping
 > In my heart did straightway pour
 >
 > This all earthly love effacing,
-> Love too deepallied to sin,
+> Love too deep—allied to sin,
 > While my heart with joy did quiver,
 > Wrote he 'Jesu's' name therein."
 
@@ -270,7 +270,7 @@ These led him to be truly a shepherd of souls, a haven for the storm tossed, a r
 
 You may describe this function by any name you choose. Call it confession if you like. But such as Dr. Houghton are not obliged to seek to draw men and women to confession. If any effort is to be made, it must be to keep them away. His sympathy and tenderness and knowledge of human nature, his good sense and love of souls, made him a confessor by sheer force of the coming of those who must tell their sin, their grief, their need to some kind soul, ready to lift up and help. That compulsion of a sense of sin which Coleridge so forcibly sets forth in "The Rime of the Ancient Mariner."
 
-There was never any of the noise and rattle of modern mechanical Christianity in his person or parish, but he had double daily service for years and daily Eucharist was added after a while. He was personally accessible to the poorest and had a Maternity Society which ministered at the birth of a child, and then brought it to the font to be born again He set the example to the humanitarians by personally picking the drunkard out of the gutter and trying to reform him with undying patience. Perhaps he used the name Transfiguration for his parish because he believed that his work and the work of the Church, through the co-operation of the Holy Ghost, was to be to transfigure just such poor fallen souls until the likeness of God should shine out on their faces, and the poor soiled raiment of their humanity be rendered once more white and glistening. So he lived and wrought and died, died as he desired, with the harness on. "And he walked with God, and he was not, for God took him." "For he was a good man, and full of the Holy Ghost and of faith." At the head of a poem entitled "To One Departed," he has this quotation. It seems to be something which the departed had said to him long before: "Pray for me foreverforever, and I will pray for you forever, till prayers brighten into rapture and wounds are healed, tears dried, sins remitted Once more let us pray for each other foreverforever." His last words to St. Anna's Guild are to the same purpose and furnish fitting conclusion to our tribute to him.
+There was never any of the noise and rattle of modern mechanical Christianity in his person or parish, but he had double daily service for years and daily Eucharist was added after a while. He was personally accessible to the poorest and had a Maternity Society which ministered at the birth of a child, and then brought it to the font to be born again He set the example to the humanitarians by personally picking the drunkard out of the gutter and trying to reform him with undying patience. Perhaps he used the name Transfiguration for his parish because he believed that his work and the work of the Church, through the co-operation of the Holy Ghost, was to be to transfigure just such poor fallen souls until the likeness of God should shine out on their faces, and the poor soiled raiment of their humanity be rendered once more white and glistening. So he lived and wrought and died, died as he desired, with the harness on. "And he walked with God, and he was not, for God took him." "For he was a good man, and full of the Holy Ghost and of faith." At the head of a poem entitled "To One Departed," he has this quotation. It seems to be something which the departed had said to him long before: "Pray for me forever—forever, and I will pray for you forever, till prayers brighten into rapture and wounds are healed, tears dried, sins remitted Once more let us pray for each other forever—forever." His last words to St. Anna's Guild are to the same purpose and furnish fitting conclusion to our tribute to him.
 
 "In conclusion, if a word personal may be spoken, and a request personal only may be made: when on some soon coming night the door bell of the rectory of the church be rung, and no longer as hitherto ere its last sound has ceased the window from above be not lifted by the hand that has been wont to lift it, and the voice no longer be heard that has been wont to be heard, asking if there be sick or dying to be visited; or when you come hither on some soon coming day for the ministrations that are needed, and are told that the one, who has hitherto been so thankful to give them, has gone to the country, to the country that lies beyond the seas and the sunset, gone not for a summer holiday, but for all days and for all seasons, gone to return hither again no more, let it be a time not for tears but for prayer. If the tears must needs fall from any eyes, let them fall like the drops of the summer shower, if abundant, yet soon to be followed by the lasting sunshine, but whenever thought returns of the hither nevermore returning one, let the prayer fail not to go up from the hearts of all who hold him in loving remembrance: 'Grant him, Lord, eternal rest: and let light perpetual shine upon him.'"
 

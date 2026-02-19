@@ -355,7 +355,7 @@ O HEAVENLY Father, who in thy wondrous goodness had the birds and beasts of the 
 
 BLESS, O Lord, this house and farm and those who live here and do their work. Give them health and purity, strength and humility, goodness and meekness, the fulfillment of the law of Christ and thanksgiving to God, now and always. *Amen*.
 
-¶ *The congregation shall then process to the fourth Station singing a hymn*.
+¶ *The congregation shall then process to the fourth Station singing a hymn*.
 
 1\. Fairest Lord Jesus,
 Ruler of all nature,
@@ -380,7 +380,7 @@ Than all the angels heav'n can boast.
 
 Fourth Station: At the Churchyard
 
-¶ *Then the Minister shall lead the congregation in the Litany of the Hymn of Creation*.
+¶ *Then the Minister shall lead the congregation in the Litany of the Hymn of Creation*.
 
 O MOST high, omnipotent, good Lord God, to thee belong praise, glory, honor, and all blessing.
 

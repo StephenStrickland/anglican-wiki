@@ -27,13 +27,13 @@ Oxford: J. Parker, 1880.
 The Church and the Ministry: A Review of the Rev. E. Hatch's Bampton Lectures.
 London: Rivingtons, 1882.
 
-The Roman Catholic Claims: Reprinted from the "Indian Churchman." 
+The Roman Catholic Claims: Reprinted from the "Indian Churchman." 
 Calcutta: E. Berryman, 1884.
 
 A Word for Peace on Justification, Being a Letter to the Rev. Henry Williams, of the Church Missionary Society.
 Calcutta: E. Berryman, 1884.
 
-Prayer and the Reign of Law. 
+Prayer and the Reign of Law. 
 London: Rivingtons, 1887.
 
 The Clergy and the Creeds: A Sermon.
@@ -57,14 +57,14 @@ From *The Contemporary Pulpit* (London), Second Series Vol. 1, No. 7 July 1889.
 The Resurrection: An Historical Fact.
 Reading: Blagrave Street Steam Printing Works, 1890.
 
-The Sermon on the Mount. 
+The Sermon on the Mount. 
 London: John Murray, 1891.
 
 The Incarnation of the Son of God.
 1891 Bampton Lectures
 London: John Murray, 1891.
 
-[The Social Doctrine of the Sermon on the Mount](http://archive.org/details/socialdoctrineof00gore). 
+[The Social Doctrine of the Sermon on the Mount](http://archive.org/details/socialdoctrineof00gore). 
 London: Percival, 1892. \[External link\]
 
 [The Mission of the Church: Four Lectures delivered in June, 1892, in the Cathedral Church of St. Asaph.](http://www.archive.org/details/missionofchurchf00goreiala)
@@ -78,13 +78,13 @@ New York: E. & J.B. Young & Co., 1895.
 [Dissertations on Subjects connected with the Incarnation.](http://www.archive.org/details/a583484600goreuoft)
 London: John Murray, 1895. \[External link\]
 
-Essays in Aid of the Reform of the Church. 
+Essays in Aid of the Reform of the Church. 
 London: J. Murray, 1898.
 
 [Prayer and the Lord's Prayer.](http://www.archive.org/details/prayerandlordspr00goreuoft)
 London: Wells, Gardner, Darton, 1898. \[External link\]
 
-[St. Paul's Epistle to the Ephesians: A Practical Exposition.](http://www.archive.org/details/a583515102goreuoft) 
+[St. Paul's Epistle to the Ephesians: A Practical Exposition.](http://www.archive.org/details/a583515102goreuoft) 
 London: J. Murray, 1898. \[External link\]
 
 [The Test of Theological and Ecclesiastical Development](/gore/gore1/). This lecture was delivered at the Sixth Annual Meeting of the Church Historical Society on December 6, 1900. It was originally printed by special request from a shorthand report.
@@ -105,16 +105,16 @@ London: John Murray, 1905.
 Why We Christians Believe in Christ: Bishop Gore's Bampton Lectures Shortened for Popular Use.
 London: J. Murray, 1904.
 
-[The Permanent Creed and the Christian Idea of Sin, Being Two Sermons](permanent.html). 
+[The Permanent Creed and the Christian Idea of Sin, Being Two Sermons](permanent.html). 
 London: John Murray, 1905.
 
-[Objections to the Education Bill, 1906, in Principle and in Detail](http://archive.org/details/objectionstoeduc00gore). 
+[Objections to the Education Bill, 1906, in Principle and in Detail](http://archive.org/details/objectionstoeduc00gore). 
 London: Murray, 1906. \[External link\]
 
 [The New Theology and the Old Religion, Being Eight Lectures, together with Five Sermons.](http://www.archive.org/details/a583504100goreuoft)
 London: J. Murray, 1907. \[External link\]
 
-Christianity and Socialism. 
+Christianity and Socialism. 
 London: A.R. Mowbray 1908.
 
 [The Sermon on the Mount: A Practical Exposition](http://archive.org/details/sermononmountpra00goreiala).
@@ -123,7 +123,7 @@ London: J. Murray, 1908. \[External link\]
 [Orders and Unity.](http://www.archive.org/details/ordersandunity00goreuoft)
 New York: Dutton, 1909. \[External link\]
 
-[The Question of Divorce.](divorce1911.html) 
+[The Question of Divorce.](divorce1911.html) 
 London: J. Murray, 1911.
 
 The Title "The Son of Man."
@@ -141,7 +141,7 @@ London: Mowbray, 1912.
 [Property, Its Duties and Rights: Historically, Philosophically and Religiously Regarded.](http://www.archive.org/details/propertyitsdutie00gorerich)
 London: Macmillan, 1913. \[External link\]
 
-The Solidarity of the Faith. 
+The Solidarity of the Faith. 
 London and New York: Longmans, Green, 1914.
 
 [The Basis of Anglican Fellowship in Faith and Organization](/gore/fellowship/). An Open letter to the Clergy of the Diocese of Oxford.
@@ -154,13 +154,13 @@ London: A.R. Mowbray, 1915.
 London: Mowbray, 1915.
 Milwaukee: Young Churchman, 1915.
 
-Child Labour and Education during the War and after. 
+Child Labour and Education during the War and after. 
 London: Workers' Educational Association, 1915.
 
 [The War and the Church and other Addresses Being the Charge Delivered at His Primary Visitation, 1914.](http://www.archive.org/details/a583522600goreuoft)
 London: A.R. Mowbray; Milwaukee: Young Churchman, 1915. \[External link\]
 
-Association of Prayer for the Church in Canada: A Sermon Preached in St. Matthew's Church, Great Peter Street, Westminster on Thursday Morning, November 4, 1915. 
+Association of Prayer for the Church in Canada: A Sermon Preached in St. Matthew's Church, Great Peter Street, Westminster on Thursday Morning, November 4, 1915. 
 London: Longmans, 1916.
 
 [The Religion of the Church: As Presented in the Church of England: A Manual of Membership.](http://www.archive.org/details/religionofchurch00goreuoft)
@@ -178,24 +178,24 @@ London: Longmans, 1917.
 [Dominant Ideas and Corrective Principles.](http://www.archive.org/details/dominantideascor00goreuoft)
 London: Mowbray, 1918. \[External link\]
 
-[The League of Nations: The Opportunity of the Church.](http://www.archive.org/details/leagueofnationso00gorerich) 
+[The League of Nations: The Opportunity of the Church.](http://www.archive.org/details/leagueofnationso00gorerich) 
 New York: G.H. Doran.
 London: Hodder and Stoughton, 1918. \[External link\]
 
-Not Charity, But Justice. 
+Not Charity, But Justice. 
 London: The Challenge, 1919.
 
-Steps towards Unity. 
+Steps towards Unity. 
 London: Mowbray, 1919.
 
 Dr. Headlam's Bampton Lectures: An Open Letter to the Bishop of Nassau.
 London: A.R. Mowbray, 1920.
 Milwaukee: Morehouse, 1920.
 
-[The Epistles of St. John.](http://www.archive.org/details/epistlesofstjohn00goreuoft) 
+[The Epistles of St. John.](http://www.archive.org/details/epistlesofstjohn00goreuoft) 
 London: J. Murray, 1920. \[External link\]
 
-[Christianity Applied to the Life of Men and of Nations.](christianity1920.html) 
+[Christianity Applied to the Life of Men and of Nations.](christianity1920.html) 
 London: The Lindsey Press, 1920.
 
 [Roman Catholic Claims.](http://www.archive.org/details/a583508500goreuoft)
@@ -230,7 +230,7 @@ Milwaukee: Morehouse, 1922.
 London: Student Christian Movement, 1924.
 New York: George H. Doran, \[no date, but 1924\]
 
-[The Holy Spirit and the Church.](http://www.archive.org/details/holyspiritandthe011907mbp) 
+[The Holy Spirit and the Church.](http://www.archive.org/details/holyspiritandthe011907mbp) 
 New York: Scribner, 1924.
 London: Murray, 1924. \[External link\]
 
@@ -244,7 +244,7 @@ Dangers and Duties: A Sermon Preached before the Church Congress at All Saints',
 London: Mowbray, 1928.
 Milwaukee: Morehouse, 1928.
 
-An Appeal to Churchmen to Support the British and Foreign Bible Society. 
+An Appeal to Churchmen to Support the British and Foreign Bible Society. 
 New York: American Bible Society, 1928.
 
 Christ and Society.
@@ -254,13 +254,13 @@ The Holy Communion: The Gift, the Offering, the Fellowship: Lectures Delivered i
 London: Mowbray, 1928.
 Milwaukee: Morehouse, 1928.
 
-Jesus of Nazareth. 
+Jesus of Nazareth. 
 New York: Holt, 1929.
 
 [Lambeth on Contraceptives](/gore/contra1930/).
 London: Mowbray, 1930.
 
-[Dr. Streeter and the Primitive Church.](streeter1930.html) 
+[Dr. Streeter and the Primitive Church.](streeter1930.html) 
 Milwaukee: Morehouse, 1930.
 London: A. R. Mowbray, 1930.
 

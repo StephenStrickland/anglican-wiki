@@ -140,23 +140,23 @@ Tract Number 65-- Bishop Wilson's Meditations on His Sacred Office, No. 6.-- Fri
 
 [Tract Number 66](tract66.html)\-- On the Benefits of the System of Fasting Prescribed by Our Church. Supplement to Tract XVIII.
 
-[Tract Number 71](tract71.html)\--Against Romanism.No. I. On the Controversy with the Romanists.
+[Tract Number 71](tract71.html)\--Against Romanism.—No. I. On the Controversy with the Romanists.
 
-[Tract Number 72](tract72.html)\--Against Romanism.No. II. Archbishop Ussher on Prayers for the Dead.
+[Tract Number 72](tract72.html)\--Against Romanism.—No. II. Archbishop Ussher on Prayers for the Dead.
 
 [Tract Number 73](tract73.html)\--On the Introduction of Rationalistic Principles into Religion.
 
-[Tract Number 74](tract74.html)\--Catena Patrum.No. I. Testimony of Writers in the later English Church to the Doctrine of the Apostolical Succession.
+[Tract Number 74](tract74.html)\--Catena Patrum.—No. I. Testimony of Writers in the later English Church to the Doctrine of the Apostolical Succession.
 
 [Tract Number 75](tract75.html)\--On the Roman Breviary as Embodying the Substance of the Devotional Services of the Church Catholic. \[Introduction only\]
 
-[Tract Number 76](tract76.html)\--Catena Patrum.No. II. Testimony of Writers in the later English Church to the Doctrine of Baptismal Regeneration.
+[Tract Number 76](tract76.html)\--Catena Patrum.—No. II. Testimony of Writers in the later English Church to the Doctrine of Baptismal Regeneration.
 
 [Tract Number 79](tract79.html)\-- On Purgatory (Against Romanism, No. III).
 
 [Tract Number 80](tract80.html)\--On Reserve in Communicating Religious Knowledge.
 
-[Tract Number 81](tract81.html)\--Catena Patrum.No. IV. Testimony of Writers in the later English Church to the Eucharistic Sacrifice,
+[Tract Number 81](tract81.html)\--Catena Patrum.—No. IV. Testimony of Writers in the later English Church to the Eucharistic Sacrifice,
 With an Historical Account of the Changes Made in the Liturgy as to the Expression of that Doctrine.
 
 [Tract Number 82](tract82.html)\-- Preface, Title-Page, and Contents to Volume IV.

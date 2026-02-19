@@ -30,7 +30,7 @@ I. Christ's coming. 'Then shall they see the Son,' etc.
 
 II. The Christian's comfort. 'When these things, ' etc.
 
-In Christ's coming ­
+In Christ's coming 
 1\. The time when. 'Then,' after the signs forementioned, 'then shall they see.'
 2\. The generality of it. 'They,' all that can see, shall see his coming.
 3\. The evidence of his coming, so plain, he may be 'seen,' seen by the eye of faith.
@@ -39,7 +39,7 @@ In Christ's coming ­
 6\. The end to which he comes. He comes 'with power,' with the power of a Judge for quick and dead.
 7\. The manner of his coming. 'in a cloud, with power and great glory.'
 
-In the Christian's comfort ­
+In the Christian's comfort 
 
 \[34/35\] 1. Where it begins. 'When these things begin to come to pass,' then that begins too. 'then look up.'
 2\. To whom it belongs. You, disciples, do you look up.
@@ -95,7 +95,7 @@ And as it is a mercy thus to be judged by one who is sensible of our frail condi
 
 Only I must tell you, (2) that his motion is no faster than an easy coming. So loth is He to come to judgment, so unwilling to enter into dispute with flesh and blood, that He delays the hasty prayers of the afflicted saints under the altars of heaven; seems a little to withhold the full beams of mercy which He has laid up for the saints, rather than to post to the destruction of the wicked. Yet for the elect's sake hasten he does a little; and therefore He makes a 'cloud' the chariot of His power, that when He once begins to come He may come quickly.
 
-And not so only, but come in 'glory,' which is the last observable in His coming ­ 'in a cloud, with power and great glory.'
+And not so only, but come in 'glory,' which is the last observable in His coming  'in a cloud, with power and great glory.'
 
 In a cloud he ascended; and the angel told the disciples there, that he should so come as they saw him go. 'In the clouds,' says the other Evangelists; they speak of more than one: his cloud is not a single cloud, there are attendant clouds upon it. Angels surround his throne; the trumpet of the archangel sounds before him; his throne is a throne of glory; and his apostles' thrones are round about him, and 'all things are in subjection under his feet.'
 

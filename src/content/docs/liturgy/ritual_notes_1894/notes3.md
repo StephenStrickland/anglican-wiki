@@ -288,7 +288,7 @@ ALMIGHTY and Everlasting god, we humbly beseech Thine infinite mercy, that it ma
 
 Let us pray *is not said*.
 
-I ADJURE thee, O creature of water, in the Name of GOD the FATHER  + Almighty, in the Name of JESUS + CHRIST, His SON, our LORD, and in the power of the HOLY + GHOST, that thou become water exorcised for putting to flight all the power of the Enemy, and do thou avail to cast out and send hence that same Enemy, with all his apostate angels, through the power of the Same our LORD JESUS CHRIST, Who is to come and will judge the quick and the dead and the world by fire. R/. Amen.
+I ADJURE thee, O creature of water, in the Name of GOD the FATHER  + Almighty, in the Name of JESUS + CHRIST, His SON, our LORD, and in the power of the HOLY + GHOST, that thou become water exorcised for putting to flight all the power of the Enemy, and do thou avail to cast out and send hence that same Enemy, with all his apostate angels, through the power of the Same our LORD JESUS CHRIST, Who is to come and will judge the quick and the dead and the world by fire. R/. Amen.
 
 Let us pray.
 

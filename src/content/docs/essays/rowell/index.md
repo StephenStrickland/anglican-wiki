@@ -7,5 +7,5 @@ description: Essays by The Right Reverend Geoffrey Rowell. From Project Canterbu
 
 <table border="0" cellpadding="1" cellspacing="2" width="671"><tbody><tr><td><a href="/essays/rowell/ephraim.pdf">Making the Church of England Poetical: Ephraim and the Oxford Movement</a> <img align="BOTTOM" border="0" src="http://www.episcopalian.org/austin/texts/adobe_a.gif"><br>This article originally appeared in <i>Hugoye: Journal of Syriac Studies</i> 2:1, January, 1999.</td><td></td></tr></tbody></table>
 
- ![](http://www.episcopalian.org/austin/texts/adobe_a.gif) indicates that a particular document is available in [Adobe Acrobat format](http://www.adobe.com/products/acrobat/readstep.html).
+ ![](http://www.episcopalian.org/austin/texts/adobe_a.gif) indicates that a particular document is available in [Adobe Acrobat format](http://www.adobe.com/products/acrobat/readstep.html).
 *All texts are copyright the Right Reverend Geoffrey Rowell unless otherwise noted*.

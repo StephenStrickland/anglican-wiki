@@ -6,7 +6,7 @@ description: 'Mark Frank Sermons, Volume Two. From Project Canterbury.'
 Mark Frank Sermons, Volume Two
 pp. 376-393
 
- 
+ 
 
 A SERMON ON S. ANDREW'S DAY
 
@@ -27,7 +27,7 @@ And amongst the saints S. Andrew is the first in order, for here the Christian C
 
 I shall not yet, this day, though it be the first of Advent, much meddle with that, or primarily or very particularly set myself to speak of Christ's Advent or coming. I shall be content (because we are not like to meet many such oppor-tunities as this day in conjunction brings us) to speak this day of the disciple, and only glance at his Lord. We shall have many occasions to speak of the Master, few, now a-days, to take notice of the disciples. Yet for all that cannot we well speak of the one without the other. The honour of the servant will redound always to the glory of the Master. It is for that that we commemorate the saints, that we may so magnify the King of saints, both by acknowledging his great-ness and goodness in them, and by doing gloriously to the honour of our Master by their examples.
 
-And indeed we cannot separate them; and as the text falls out, it ends as all the praises and commendations of his saints should end, in him, at And it begins with a con-junctive particle, which will refer us to him. And with an also, or an oÖ dù which, to make the text to be understood, will make us look back to an dö, peripatÓn dö ­ ¦j This OÖ to that 'O, this dö to that dö, this "and" to another "and," this their following to Jesus walking, this "and they left and followed," to "and Jesus walking and calling them to follow," in the two immediately foregoing verses.
+And indeed we cannot separate them; and as the text falls out, it ends as all the praises and commendations of his saints should end, in him, at And it begins with a con-junctive particle, which will refer us to him. And with an also, or an oÖ dù which, to make the text to be understood, will make us look back to an dö, peripatÓn dö  ¦j This OÖ to that 'O, this dö to that dö, this "and" to another "and," this their following to Jesus walking, this "and they left and followed," to "and Jesus walking and calling them to follow," in the two immediately foregoing verses.
 
 We shall then, for the full sense of the text, and the honour of the day, not quite separate the Lord and his saints, but join the 'O and the OÖ together, speak somewhat of Christ's coming as well as of their following; though more fully of this, it being expressly in the words, the other but implicitly \[377/378\] or implied, yet referring this wholly to the glory of that, their following here to Christ's coming before, S. Andrew's *exit* to Christ's Advent; join them both, as the day does for us.
 

@@ -12,7 +12,7 @@ ALL Liturgies now existing, except those in use in Protestant countries, profess
 
 Unlikely, however, as it might appear beforehand, learned men who have undertaken the laborious task of examining them, have been led to form a different estimate of their value. Certain, indeed, it is that they have been much interpolated, and in parts, corrupted; but it seems to be admitted at last, after long and patient research, that much likewise has been handed down from the first uninterpolated, and that means exist for ascertaining what parts are interpolated, and what pure and genuine.
 
-Among many remarkable facts which have been brought to light respecting the antiquity of existing Liturgies, the following is among the most striking:
+Among many remarkable facts which have been brought to light respecting the antiquity of existing Liturgies, the following is among the most striking:—
 
 There exists at the present day, scattered through Judaea, Mesopotamia, Syria, and the southern part of Asia Minor, which formerly made up the Patriarchate of Antioch, a sect of heretical Christians, called Jacobites or Monophysites, who were anathematized 1383 years since, at the council of Chalcedon, A. D. 451. This ancient sect has from that time to this persisted in its separation from the orthodox Church, and no communion has subsisted between the two: each regarding the other as heretical. For a long time each preserved their separate establishments in the different Churches and dioceses, and each their own patriarch in the metropolitan city. By degrees, however, the Orthodox became the inferior party, and on the Mahometan invasion, finding themselves no longer able to maintain an independent existence, fell back on the support of the patriarch of Constantinople, whose dependents they acknowledge themselves at the present day. The Monophysites, on the contrary, were patronized by the invaders, and having been thus enabled to support their ancient establishment, remain in undisturbed possession of their sees, and represent the ancient Patriarchate of Antioch. Now these Monophysites use at this day a Liturgy in the Syriac language, which they ascribe to the Apostle St. James; and the remarkable fact about this Liturgy is, that a great part of it coincides with a Greek Liturgy used once a year by the orthodox Church at Jerusalem, expression for expression. So that one must evidently be a translation of the other.
 
@@ -22,23 +22,23 @@ Another remarkable fact, not indeed so striking as this, but perhaps as essentia
 
 If then it should be thought that St. Mark's Liturgy, as given in this manuscript, is the same St. Mark's Liturgy which was once in use among the Orthodox of Alexandria, we can hardly doubt that, so far as it coincides with that now in use among the Monophysites, both are anterior to the separation of the parties, *i. e.* more than 1383 years old.
 
-Other Liturgies there likewise are, besides those of Antioch and Alexandria, to which we may safely assign very great antiquity. One of these, which bears the name of St. Basils, and is now universally adopted by the Greek Church, "from the northern shore of Russia to the extremities of Abyssinia, and from the Adriatic and Baltic Seas to the farthest coast of Asia," is believed to have undergone very little alteration, from times still more remote than even the era of the Monophysite schism. A MS. of this Liturgy was found by Montfaucon in the Barbarini Library at Rome, which that profound antiquary pronounced to be above 1000 years old at the time he wrote, *i. e*. 124 years since, and which, consequently, was written about the time of the Council of Trullo; A. D. 691. Now, at the time of this council, we know that not so much as a doubt existed of the genuineness of the text, as it was cited by 227 Eastern Bishops, as an undoubted record of St. Basils opinions. Their decree opens thus:\[kai gar Basileios ho tes Kaisareion ekklesias Archiepiskopos, hou to kleos kata pasan ten oikoumenen diedramen gegraphos ten mustiken hemin hierourgian paradedoken, k. t. l. ....\]
+Other Liturgies there likewise are, besides those of Antioch and Alexandria, to which we may safely assign very great antiquity. One of these, which bears the name of St. Basil’s, and is now universally adopted by the Greek Church, "from the northern shore of Russia to the extremities of Abyssinia, and from the Adriatic and Baltic Seas to the farthest coast of Asia," is believed to have undergone very little alteration, from times still more remote than even the era of the Monophysite schism. A MS. of this Liturgy was found by Montfaucon in the Barbarini Library at Rome, which that profound antiquary pronounced to be above 1000 years old at the time he wrote, *i. e*. 124 years since, and which, consequently, was written about the time of the Council of Trullo; A. D. 691. Now, at the time of this council, we know that not so much as a doubt existed of the genuineness of the text, as it was cited by 227 Eastern Bishops, as an undoubted record of St. Basil’s opinions. Their decree opens thus:—\[kai gar Basileios ho tes Kaisareion ekklesias Archiepiskopos, hou to kleos kata pasan ten oikoumenen diedramen gegraphos ten mustiken hemin hierourgian paradedoken, k. t. l. ....\]
 
-If then we possess the text of St. Basils Liturgy, such as it was when appealed to on a controverted question only 310 years after it was written, and that too by an assembly so likely to be well-informed respecting its value, we may perhaps admit its genuineness without much hesitation.
+If then we possess the text of St. Basil’s Liturgy, such as it was when appealed to on a controverted question only 310 years after it was written, and that too by an assembly so likely to be well-informed respecting its value, we may perhaps admit its genuineness without much hesitation.
 
-Another Liturgy, which can be traced back with tolerable certainty to very remote times, is the Roman Missal. Mr. Palmer has shown that we have abundance of materials for ascertaining the text of this Liturgy, as it stood in the time of Gregory the Great, patriarch of Rome, A. D. 590, by whom it was revised and in some parts enlarged. There also seems to be good reason for believing that one of the MSS. which has been preserved, exhibits it to us in a still earlier stage, such as it was left by Pope Gelasius, its former reviser, about 100 years before the time of Gregory. This ancient MS. as found by Thomasius in the Queen of Swedens library. It is divided into several books, as the Gelasian Sacramentary appears to have been, and in other respects diers from that of Gregory just where history informs us the Gelasian did. It appears to have been written during, or not long after, the time of Gregory the Great, but in some remote proince to which the additions and alterations introduced by that prelate had not yet penetrated. Nay, farther, learned men appear to agree that there exists a MS. still more ancient than this, from which the canon of the mass may be ascertained as it stood before the revisal of Gelasius, even so long back as the time of Leo the Great, *i. e*. as early as the Monophysite schism. This MS. was found in the library of the Chapter of Verona, and its merits have been very minutely canvassed by the most learned antiquaries. It also deserves to be noticed, that at the time when the Roman Liturgy was undergoing these successive revisals, a tradition all along prevailed attributing to one part of it an apostolic origin; and that this part does not appear to have undergone any change whatever. Vigilius, who was Pope between the times of Gelasius and Gregory, tells us that the "canonical prayers," or what are now called the "Canon of the Mass," had been "handed down as an apostolical tradition." And much earlier we hear the same from Pope Innocent, who adds that the Apostle from whom they derived it was St. Peter.
+Another Liturgy, which can be traced back with tolerable certainty to very remote times, is the Roman Missal. Mr. Palmer has shown that we have abundance of materials for ascertaining the text of this Liturgy, as it stood in the time of Gregory the Great, patriarch of Rome, A. D. 590, by whom it was revised and in some parts enlarged. There also seems to be good reason for believing that one of the MSS. which has been preserved, exhibits it to us in a still earlier stage, such as it was left by Pope Gelasius, its former reviser, about 100 years before the time of Gregory. This ancient MS. as found by Thomasius in the Queen of Sweden’s library. It is divided into several books, as the Gelasian Sacramentary appears to have been, and in other respects diers from that of Gregory just where history informs us the Gelasian did. It appears to have been written during, or not long after, the time of Gregory the Great, but in some remote proince to which the additions and alterations introduced by that prelate had not yet penetrated. Nay, farther, learned men appear to agree that there exists a MS. still more ancient than this, from which the canon of the mass may be ascertained as it stood before the revisal of Gelasius, even so long back as the time of Leo the Great, *i. e*. as early as the Monophysite schism. This MS. was found in the library of the Chapter of Verona, and its merits have been very minutely canvassed by the most learned antiquaries. It also deserves to be noticed, that at the time when the Roman Liturgy was undergoing these successive revisals, a tradition all along prevailed attributing to one part of it an apostolic origin; and that this part does not appear to have undergone any change whatever. Vigilius, who was Pope between the times of Gelasius and Gregory, tells us that the "canonical prayers," or what are now called the "Canon of the Mass," had been "handed down as an apostolical tradition." And much earlier we hear the same from Pope Innocent, who adds that the Apostle from whom they derived it was St. Peter.
 
 On the whole, then, it appears that of the existing Liturgies, one, *viz*. that of St. Basil, can be traced with tolerable certainty to the fourth century, and three others to the middle of the fifth; and that respecting these three a tradition prevailed, ascribing one of them to the Apostle St. James, another to St. Mark, and the third to St. Peter.
 
 But curious as these results are, those which follow from comparing the above Liturgies with others now existing, and with one another, are still more curious. The Liturgies of Rome, Alexandria, and Antioch, differ so materially as compositions, that neither can with any reason be supposed to have been taken from the other; it is however true, with a singular exception, to be presently noticed, that no other Liturgy either exists now or ever appears to have existed, which is not a copy from one or other of them. The Liturgy of St. Basil, striking as are some of the features in which it differs from that of Antioch, is, nevertheless, evidently a superstructure raised on that basis: the composition of both is the same, i. e. the parts which they have in common follow in the same order. The same may be said of the Constantinopolitan Liturgy, commonly attributed to St. Chrysostom, of that of the Armenian Church, and of the florid and verbose compositions in use among the Nestorians of Mesopotamia. So that the Liturgy of Antioch, commonly attributed to St. James, appears to be the basis of all the oriental Liturgies. In the same manner a remarkable correspondence subsists between the Liturgy of Ethiopia and the Alexandrian Liturgy attributed to St. Mark. And so likewise the ancient Liturgies of Milan, and of Roman Africa, which last indeed has not been preserved, and can only be collected from the writings of the Fathers, are characterized by the marked peculiarities of the Roman Missal of St. Peter. The exception which I above noticed, is the ancient Gothic Liturgy of Gaul and Spain, which from the fragments that have been preserved of it, appears to have agreed in composition with neither of the three; but to have been an independent rite; and this Liturgy, Mr. Palmer, by a very curious argument, traces to the Apostle St. John. Here, then, we arrive at one remarkable result: it appears, from all we can learn, that throughout the whole world, there neither exist now, nor ever have existed, more than four independent forms of Liturgy; a circumstance which, of itself, gives some credibility to the supposition otherwise suggested, that these four were of Apostolic origin.
 
-The confirmation of this supposition, which results from comparing the four independent rites, is, if possible, still more remarkable. For while, on the one hand, the diversity of the compositions proves that their authors, whoever tb,ey were, did not feel bound to copy, either from the other, or from any common original; so the identity of the matter proves that they were exactly agreed in sentiment, and intimately conversant with each others habits of thought. Had these Liturgies resembled one another less, we might have attributed them to sources wholly independent, to the influence of any four great minds, which may have arisen at different times, and acquired ascendency in their own regions of Christendom. Had they differed less, it might have been supposable that some single Saint, though not an Apostle, some Ambrose, or Athanasius, or Cyprian, might gradually have extended his religious influence still more universally. Though, even so, great difficulties would have attended either supposition. As it is, however, we have to look for four persons, each with predominating influence in distinct and distant portions of the world; yet, all so united in thought as to make it certain they had been educated in the same school. Nothing less than this will account at once for the resemblances and differences of the four ancient Liturgies; and this it would be vain to look for after the Apostolic age.
+The confirmation of this supposition, which results from comparing the four independent rites, is, if possible, still more remarkable. For while, on the one hand, the diversity of the compositions proves that their authors, whoever tb,ey were, did not feel bound to copy, either from the other, or from any common original; so the identity of the matter proves that they were exactly agreed in sentiment, and intimately conversant with each other’s habits of thought. Had these Liturgies resembled one another less, we might have attributed them to sources wholly independent, to the influence of any four great minds, which may have arisen at different times, and acquired ascendency in their own regions of Christendom. Had they differed less, it might have been supposable that some single Saint, though not an Apostle, some Ambrose, or Athanasius, or Cyprian, might gradually have extended his religious influence still more universally. Though, even so, great difficulties would have attended either supposition. As it is, however, we have to look for four persons, each with predominating influence in distinct and distant portions of the world; yet, all so united in thought as to make it certain they had been educated in the same school. Nothing less than this will account at once for the resemblances and differences of the four ancient Liturgies; and this it would be vain to look for after the Apostolic age.
 
 Such is the general character of the argument resulting from a comparison of these curious documents, each of which can independently be traced back to the middle of the fifth century, and which appear, at that time, to have commanded the same exclusive respect as at present.
 
 To institute the comparison here in such a manner as to enable the reader to judge for himself, is, of course, out of the question, involving as it does very minute and extensive researches. The following-particulars, however, may perhaps be not altogether uninteresting, however incomplete.
 
-I. It appears from Mr. Palmer's valuable work, that all the ancient Liturgies now existing, or which can be proved ever to have existed, resemble one another in the following points:
+I. It appears from Mr. Palmer's valuable work, that all the ancient Liturgies now existing, or which can be proved ever to have existed, resemble one another in the following points:—
 
 (1.) All of them direct, that previous to communion, those who intend to communicate shall exchange "the kiss of peace."
 
@@ -46,7 +46,7 @@ I. It appears from Mr. Palmer's valuable work, that all the ancient Liturgies no
 
 (3.) All contain the Hymn, "Therefore with Angels and Archangels," &c. with very trifling varieties of expression.
 
-(4.) Also, they all contain a Prayer, answering in substance to ours "for the whole state of Christs Church militant:"
+(4.) Also, they all contain a Prayer, answering in substance to ours "for the whole state of Christ’s Church militant:"
 
 (5.) And likewise another Prayer (which has been excluded from the English Ritual) "for the rest and peace of all those who have departed this life in GOD'S faith and fear;" concluding with a Prayer for communion with them.
 
@@ -58,43 +58,43 @@ I. It appears from Mr. Palmer's valuable work, that all the ancient Liturgies no
 
 (9.) Directions to the Priest for breaking the consecrated bread.
 
-(10.) The LORDS Prayer.
+(10.) The LORD’S Prayer.
 
 (11.) Communion.
 
 II. These parts are always arranged in one of the four following orders.
 
-St. Peters Liturgy.
+St. Peter’s Liturgy.
 *Roman, Milanese, African.*
 
 > > > > > > > 1\. Lift up your hearts, &c.
 > > > > > > > 2\. Therefore with Angels, &c.
 > > > > > > > 3\. Prayers for the Church on earth.
 > > > > > > > 4\. Consecration Prayer.
-> > > > > > > 5\. Commemoration of our LORDS words.
+> > > > > > > 5\. Commemoration of our LORD’S words.
 > > > > > > > 6\. The Oblation.
 > > > > > > > 7\. Prayers for the dead.
 > > > > > > > 8\. Breaking of bread.
-> > > > > > > 9\. The LORDS Prayer.
+> > > > > > > 9\. The LORD’S Prayer.
 > > > > > > > 10\. The kiss of peace.
 > > > > > > > 11\. Communion.
 
-St. Jamess Liturgy.
+St. James’s Liturgy.
 *Oriental.*
 
 > > > > > > > 10\. The kiss of peace.
 > > > > > > > 1\. Lift up your hearts, &c.
 > > > > > > > 2\. Therefore with Angels.
-> > > > > > > 5\. Commemoration of our LORDS words.
+> > > > > > > 5\. Commemoration of our LORD’S words.
 > > > > > > > 6\. The Oblation.
 > > > > > > > 4\. Consecration Prayer.
 > > > > > > > 3\. Prayers for the Church on earth.
 > > > > > > > 7\. Prayers for the dead.
-> > > > > > > 9\. The LORDS Prayer.
+> > > > > > > 9\. The LORD’S Prayer.
 > > > > > > > 8\. Breaking of bread.
 > > > > > > > 11\. Communion.
 
-St. Marks Liturgy.
+St. Mark’s Liturgy.
 *Egyptian and Ethiopian.*
 
 > > > > > > > 10\. The kiss of peace.
@@ -102,14 +102,14 @@ St. Marks Liturgy.
 > > > > > > > 3\. Prayers for the Church on earth.
 > > > > > > > 7\. Prayers for the dead.
 > > > > > > > 2\. Therefore with Angels, &c.
-> > > > > > > 5\. Commemoration of our LORDS words.
+> > > > > > > 5\. Commemoration of our LORD’S words.
 > > > > > > > 6\. The Oblation.
 > > > > > > > 4\. Consecration Prayer.
 > > > > > > > 8\. Breaking of bread.
-> > > > > > > 9\. The LORDS Prayer.
+> > > > > > > 9\. The LORD’S Prayer.
 > > > > > > > 11\. Communion.
 
-St. Johns Liturgy.
+St. John’s Liturgy.
 
 > *
 >
@@ -122,11 +122,11 @@ St. Johns Liturgy.
 > > > > > > 10\. The kiss of peace.
 > > > > > > 1\. Lift up your hearts, &c.
 > > > > > > 2\. Therefore with Angels, &c.
-> > > > > > 5\. Commemoration of our LORDS words.
+> > > > > > 5\. Commemoration of our LORD’S words.
 > > > > > > 6\. The Oblation.
 > > > > > > 4\. Consecration Prayer.
 > > > > > > 8\. Breaking of bread.
-> > > > > > 9\. The LORDS Prayer.
+> > > > > > 9\. The LORD’S Prayer.
 > > > > > > 11\. Communion.
 
 Thus it appears that the four original forms from which all the Liturgies in the world have been taken, resemble one another too much to have grown up independently, and too little to have been copied from one another.
@@ -151,23 +151,23 @@ We humbly beseech Thee, O ALMIGHTY GOD, command these things to be carried by th
 
 THE ORIENTAL FORM.
 
-This is taken from Dr. Brett's translation of the Liturgy of St. James, used at the present day by the Monophysites throughout the Patriarchate of Antioch; and by the Orthodox at Jerusalem on St. Jamess day.
+This is taken from Dr. Brett's translation of the Liturgy of St. James, used at the present day by the Monophysites throughout the Patriarchate of Antioch; and by the Orthodox at Jerusalem on St. James’s day.
 
-In the same might that He was offered, or rather offered up Himself for the life and salvation of the world, taking bread into His holy, immaculate, pure, and immortal hands, looking up to Heaven, and presenting it to THEE, His GOD and FATHER, He gave thanks, sanctified and brake it, and gave it to His Disciples and Apostles, saying
+In the same might that He was offered, or rather offered up Himself for the life and salvation of the world, taking bread into His holy, immaculate, pure, and immortal hands, looking up to Heaven, and presenting it to THEE, His GOD and FATHER, He gave thanks, sanctified and brake it, and gave it to His Disciples and Apostles, saying—
 
-*Deacon*.For the remission of sins and for everlasting life.*
+*Deacon*.—For the remission of sins and for everlasting life.*
 
 Priest continues
 
-*.Take, eat: this is my body which is broken and given for you for the remission of sins. *R.* Amen.
+*.—Take, eat: this is my body which is broken and given for you for the remission of sins. *R.* Amen.
 
 Likewise, after supper He took the cup and mixed it with vine and water, and looking up to Heaven, presenting it to THEE, His GOD and FATHER, He gave thanks, sanctified and blessed it, and filled it with the HOLY; GHOST, and gave it to His Disciples, saying, Drink ye all of this; this is my blood of the New Testament, which is shed and given for you and for many, for the remission of sins. *R*. Amen. Do this in remembrance of Me. For as oft as ye eat this bread and drink this cup, ye do show forth the death of the SON of MAN, and confess His resurrection, until His coming again.
 
-*People*.O LORD, we show forth thy death and confess thy resurrection.*
+*People*.—O LORD, we show forth thy death and confess thy resurrection.*
 
 Priest continues
 
-*.Wherefore, having in remembrance, His lifegiving passion, salutary cross, death, burial, and resurrection on the third day from the dead; His ascension into heaven, and sitting at the right hand of THEE, His GOD and FATHER; and His second bright and terrible appearance, when He shall come with glory to judge the quick and dead, and shall render to every man according to his works: We sinners offer unto THEE, O LORD, this tremendous and unbloody sacrifice, beseeching THEE not to deal with us after our sins, nor reward us according to our iniquities: but according to thy clemency and ineffable love to mankind, overlook and blot out the hand-writing that is against thy servants, and grant us thine heavenly and eternal rewards, such as eye hath not seen nor ear heard, neither hath it entered into the heart of man to conceive; even such as Thou hast prepared for them that love Thee.
+*.—Wherefore, having in remembrance, His lifegiving passion, salutary cross, death, burial, and resurrection on the third day from the dead; His ascension into heaven, and sitting at the right hand of THEE, His GOD and FATHER; and His second bright and terrible appearance, when He shall come with glory to judge the quick and dead, and shall render to every man according to his works: We sinners offer unto THEE, O LORD, this tremendous and unbloody sacrifice, beseeching THEE not to deal with us after our sins, nor reward us according to our iniquities: but according to thy clemency and ineffable love to mankind, overlook and blot out the hand-writing that is against thy servants, and grant us thine heavenly and eternal rewards, such as eye hath not seen nor ear heard, neither hath it entered into the heart of man to conceive; even such as Thou hast prepared for them that love Thee.
 
 And reject not this people for me and my sins, O LORD.
 
@@ -175,15 +175,15 @@ And reject not this people for me and my sins, O LORD.
 
 Priest
 
-*.For this people and thy Church make their supplication before Thee.*
+*.—For this people and thy Church make their supplication before Thee.*
 
 People
 
-*.Have mercy upon us, O LORD GOD, ALMIGHTY FATHER.*
+*.—Have mercy upon us, O LORD GOD, ALMIGHTY FATHER.*
 
 Priest continues
 
-*.Have mercy upon us, O GOD the ALMIGHTY, have mercy upon us, O GOD our SAVIOUR. Have mercy upon US, O GOD, according to thy great mercy; and send down upon these gifts which are here set before Thee, thy most HOLY SPIRIT, even the LORD and Giver of life, who with THEE, O GOD the FATHER, and with thine only-begotten SON, liveth and reigneth a consubstantial and co-eternal Person: who spake by the Law, by the Prophets, and by the New Testament: descended in the form of a dove upon our LORD JESUS CHRIST in the river Jordan, and rested upon Him, and came down in the shape of fiery tongues upon thy Apostles, when they were assembled on the day of Pentecost, in an upper room of holy and glorious Sion. Send down, O LORD, this thy most HOLY SPIRIT upon us, and upon these holy gifts, here set before Thee. That by His holy good and glorious presence, He may sanctify and make this bread the body of thy CHRIST. *R*. Amen.
+*.—Have mercy upon us, O GOD the ALMIGHTY, have mercy upon us, O GOD our SAVIOUR. Have mercy upon US, O GOD, according to thy great mercy; and send down upon these gifts which are here set before Thee, thy most HOLY SPIRIT, even the LORD and Giver of life, who with THEE, O GOD the FATHER, and with thine only-begotten SON, liveth and reigneth a consubstantial and co-eternal Person: who spake by the Law, by the Prophets, and by the New Testament: descended in the form of a dove upon our LORD JESUS CHRIST in the river Jordan, and rested upon Him, and came down in the shape of fiery tongues upon thy Apostles, when they were assembled on the day of Pentecost, in an upper room of holy and glorious Sion. Send down, O LORD, this thy most HOLY SPIRIT upon us, and upon these holy gifts, here set before Thee. That by His holy good and glorious presence, He may sanctify and make this bread the body of thy CHRIST. *R*. Amen.
 
 And this cup the precious blood of thy CHRIST. *R*. Amen.
 
@@ -191,61 +191,61 @@ That all who are partakers thereof may obtain remission of their sins and eterna
 
 THE EGYPTIAN FORM
 
-This is taken from Dr. Bretts translation of the Liturgy of St. Mark, used by the Monophysites at this day throughout the Patriarchate of Alexandria, and by the Orthodox so late as the eleventh century.
+This is taken from Dr. Brett’s translation of the Liturgy of St. Mark, used by the Monophysites at this day throughout the Patriarchate of Alexandria, and by the Orthodox so late as the eleventh century.
 
 In the same night wherein He delivered himself for our sins, and was about to suer death for mankind, sitting down to supper with His Disciples; He took bread in His holy, spotless, and undefiled hands, and looking up to THEE, His FATHER, but our GOD and the GOD of all, He gave thanks, He blessed, He sanctified, and brake it, and gave it to them saying, Take, eat.
 
-*Deacon*.Attend.*
+*Deacon*.—Attend.*
 
 Priest continues
 
-*.For this is my body which is broken and given for the remission of sins.*
+*.—For this is my body which is broken and given for the remission of sins.*
 
 People
 
-*.Amen.*
+*.—Amen.*
 
 Priest continues
 
-*.In like manner He took the cup after supper, and mixing it with wine and water, and looking up to Heaven, to THEE, His FATHER, but our GOD and the GOD of all, He gave thanks, He blessed. He filled it with the HOLY GHOST, and gave it to His holy and blessed Disciples, saying, Drink ye all of this.*
+*.—In like manner He took the cup after supper, and mixing it with wine and water, and looking up to Heaven, to THEE, His FATHER, but our GOD and the GOD of all, He gave thanks, He blessed. He filled it with the HOLY GHOST, and gave it to His holy and blessed Disciples, saying, Drink ye all of this.*
 
 Deacon
 
-*.Attend again.*
+*.—Attend again.*
 
 Priest continues
 
-*.For this is my blood of the New Testament, which is shed and given for you and for many, for the remission of sins.*
+*.—For this is my blood of the New Testament, which is shed and given for you and for many, for the remission of sins.*
 
 People
 
-*.Amen.*
+*.—Amen.*
 
 Priest continues
 
-*.Do this in remembrance of me. For as often as ye shall eat this bread and drink this cup, ye show forth my death and confess my resurrection and ascension till my coming again.
+*.—Do this in remembrance of me. For as often as ye shall eat this bread and drink this cup, ye show forth my death and confess my resurrection and ascension till my coming again.
 
 Showing forth, therefore, O LORD ALMIGHTY, heavenly King, the death of thine only-begotten SON, our LORD, our GOD, and SAVIOUR, JESUS CHRIST, and confessing His blessed resurrection from the dead on the third day, and His sitting at the right hand of Thee, His GOD and FATHER; and also looking for His second terrible appearance, when He shall come in righteousness to judge both the quick and dead, and to render to every man according to his works. We, O LORD, have set before Thee thine own, out of thine own gifts; and we pray and beseech thee, O thou lover of mankind, to send down from thy holy heaven, the habitation of thy dwelling, from thine infinite bosom, the Paraclete, the Spirit of Truth, the Holy One, the LORD, the Giver of Life, who spake in the Law, in the Prophets, and in the Apostles; who is every where, and fills all things; sanctifying whom He pleases, not ministerially, but according to His own will: simple in nature, but various in operation. The fountain of all divine graces, consubstantial with Thee, proceeding from Thee, and sitting with Thee in the throne of thy kingdom, together with thy SON our LORD our GOD, and SAVIOUR JESUS CHRIST.
 
 Send down thine HOLY SPIRIT upon us, and upon these loaves and these cups, that the ALMIGHTY GOD may sanctify and thoroughly consecrate them: making the bread the body.
 
-*People*.Amen.
+*People*.—Amen.
 
 And the cup, the blood of the New Testament of our LORD himself, our GOD and SAVIOUR, and supreme King JESUS CHRIST.
 
-*Deacon*.Descend ye Deacon*
+*Deacon*.—Descend ye Deacon*
 
 Priest
 
-*.That they may be to us who partake of them, the means of faith, sobriety, health, temperance, sanctification, the renewing of our soul, our body, and spirit; the communion of the blessedness of eternal life and immortality; the glorifying of thy holy name; and the remission of sins.
+*.—That they may be to us who partake of them, the means of faith, sobriety, health, temperance, sanctification, the renewing of our soul, our body, and spirit; the communion of the blessedness of eternal life and immortality; the glorifying of thy holy name; and the remission of sins.
 
 The Egyptian rite contains elsewhere the following words, resembling a part of the Roman oblation, which would otherwise seem to stand by itself.
 
-"Receive, O LORD, unto thy holy Heaven, and intellectual Altar in the Heaven of Heavens, by the ministry of Archangels, the Eucharistical praises of those that offer sacrifices and oblations to Thee.... Receive them as Thou didst the gifts of thy righteous Abel, the sacrifice of our Father Abraham, the incense of Zacharias, the alms of Cornelius, and the widows mite."
+"Receive, O LORD, unto thy holy Heaven, and intellectual Altar in the Heaven of Heavens, by the ministry of Archangels, the Eucharistical praises of those that offer sacrifices and oblations to Thee.... Receive them as Thou didst the gifts of thy righteous Abel, the sacrifice of our Father Abraham, the incense of Zacharias, the alms of Cornelius, and the widow’s mite."
 
 THE GALLICAN FORM.
 
-The following fragment was translated by Dr. Brett, from Mabillon's edition of an ancient MS. in the Queen of Swedens Library.
+The following fragment was translated by Dr. Brett, from Mabillon's edition of an ancient MS. in the Queen of Sweden’s Library.
 
 O JESUS, the good High Priest, come and be in the midst of us, as Thou wast in the midst of thy disciples; sanctify this oblation, that being sanctified, we may receive it by the hand of thy holy Angel, O Holy LORD and eternal REDEEMER.
 

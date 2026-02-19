@@ -4,7 +4,7 @@ description: 'John Cosin, Works, Sermons, Volume One. From Project Canterbury.'
 ---
 
 John Cosin, Works, Sermons, Volume One
-pp. 71­83
+pp. 7183
 
 SERMON V
 

@@ -10,9 +10,9 @@ Michaelmas, 1998
 
 There is never a time when we do not “stand in need of God’s particular assistance”, nor a place in which we cannot pray. For Andrewes prayer should be ceaseless; it was like the burning of incense ever arising to the court of heaven. “‘Let our prayer go up to Him that His grace may come down to us,’ so to lighten us in our ways and works that we may in the end come to dwell with Him, in the light ‘whereof there is no even-tide.’” And ‘prayer goeth up, pity cometh down.’[\[1\]](#_ftn1)
 
-These quotations also reveal another aspect of Andrewes’ teaching on prayer. It is the channel by which we experience the generosity of the blessed Trinity. By this Andrewes not only meant that it is through prayer that we come to know God better, but also that it is only by the Holy Spirit working within us that we can prayer at all. Prayer is thus a gift of grace. So if we find ourselves not being able to pray, we must humbly ask for grace to be able to pray.  Without prayer we sin, and so one of this divine’s terse remarks was that ‘prayer is good as it keeps us from sin.’
+These quotations also reveal another aspect of Andrewes’ teaching on prayer. It is the channel by which we experience the generosity of the blessed Trinity. By this Andrewes not only meant that it is through prayer that we come to know God better, but also that it is only by the Holy Spirit working within us that we can prayer at all. Prayer is thus a gift of grace. So if we find ourselves not being able to pray, we must humbly ask for grace to be able to pray.  Without prayer we sin, and so one of this divine’s terse remarks was that ‘prayer is good as it keeps us from sin.’
 
-For many, their introduction to Lancelot Andrewes has been through his *Preces Privatæ.*  For those who are familiar with this collection will know that his prayers are like a piece of tapestry as he weaves strands from the Bible, especially the psalms, the Hours, the Prayer Book and quotations from the Fathers. However this weaving is not tight but loose enough to allow for spontaneous prayer arising from daily life. The structure of his prayers follow the ancient five-fold pattern: confession, praise, thanksgiving, intercession and petition.
+For many, their introduction to Lancelot Andrewes has been through his *Preces Privatæ.*  For those who are familiar with this collection will know that his prayers are like a piece of tapestry as he weaves strands from the Bible, especially the psalms, the Hours, the Prayer Book and quotations from the Fathers. However this weaving is not tight but loose enough to allow for spontaneous prayer arising from daily life. The structure of his prayers follow the ancient five-fold pattern: confession, praise, thanksgiving, intercession and petition.
 
 Prayer for Andrewes is essentially ecclesial and sacramental, and thus the *Preces* cannot be separated from Andrewes’ theology. It reveals his consciousness of continuing in the line of the Fathers, or indeed further back to antiquity when man first set up his altar to God, and therefore there was always an awareness of praying as part of that whole Church of God, the saints and sinners; the living and the dead. This is evident by what can be termed an *anamnesis* approach to his praying where he constantly recalled the various gifts God has given through creation, redemption and sanctification. He also firmly believed that Christ and the Church's teaching spoke as "one person", and that outside of the Church no Christian could receive Christ's blessings and grace which in time will bring them to "the glory, the joys, \[and\] the crown of Heaven".[\[2\]](#_ftn2)
 
@@ -27,7 +27,7 @@ Overall his prayers ranged from his own sense of utter unworthiness and frailty 
 
 However the *Preces Privatæ* is not the only extant work of Andrewes’ prayers and his teaching on prayer. Shortly after his death in 1630 his amanuensis and chaplain, Henry Isaacson, compiled from Andrewes’ papers a collection of prayers to cover every aspect of life. As well as morning and evening prayers, there are eucharistic prayers, prayers in sickness and approaching death. Titled *Institutiones Piæ* or *Directions to Prayer* it also included the seven penitential and thanksgiving psalms respectively, a summary of Andrewes' teaching on the Lord's Prayer, Ten Commandments, repentance and confession.
 
-There is yet another important work on prayer by Andrewes. *Scala Coeli*, first published in 1611, is the collection of nineteen sermons that he gave on prayer and the Lord’s Prayer in the 1590’s and its title is not without significance. In the Mediæval Church  "Scala Coeli" was intricately bound up with indulgences to lessen the time of purgatory through prayers, masses, penances and good works offered for the dead, and at the beginning of the Henrician Reformation it was one of the abuses clearly to be put away. It had also been one of the pilgrimage cults of Westminster Abbey when in 1500 "Henry VII secured the ‘cala Coeli’ indulgence for requiem Masses celebrated in his new chapel".[\[5\]](#_ftn5) On the title page, the editor, Francis Burton, depicted the purpose of these sermons, "the first sixe guiding to the true Doore" and the rest "teaching how so to knock thereat that wee may enter."[\[6\]](#_ftn6) Hence prayer must always be the way to heaven, but offered simply in gratitude for what God has given without the implication of any leniency on Judgment day.
+There is yet another important work on prayer by Andrewes. *Scala Coeli*, first published in 1611, is the collection of nineteen sermons that he gave on prayer and the Lord’s Prayer in the 1590’s and its title is not without significance. In the Mediæval Church  "Scala Coeli" was intricately bound up with indulgences to lessen the time of purgatory through prayers, masses, penances and good works offered for the dead, and at the beginning of the Henrician Reformation it was one of the abuses clearly to be put away. It had also been one of the pilgrimage cults of Westminster Abbey when in 1500 "Henry VII secured the ‘cala Coeli’ indulgence for requiem Masses celebrated in his new chapel".[\[5\]](#_ftn5) On the title page, the editor, Francis Burton, depicted the purpose of these sermons, "the first sixe guiding to the true Doore" and the rest "teaching how so to knock thereat that wee may enter."[\[6\]](#_ftn6) Hence prayer must always be the way to heaven, but offered simply in gratitude for what God has given without the implication of any leniency on Judgment day.
 
 As these sermons obviously contain Andrewes’ teaching on prayer I have summarised them for this talk. In the first of these sermons Andrewes emphasised the importance of preparation in order to be able to pray aright. The first step is to acknowledge our own lack of holiness, goodness and sufficiency without God. That acknowledgement leads to the door of prayer, and on opening it, we will be led to confess our unworthiness and need for spiritual enlightenment, strength and humility. Then only will God give His grace to meet our needs.[\[7\]](#_ftn7) In his own prayer life, Andrewes had a prayer called *Before Prayer*.
 
@@ -39,13 +39,13 @@ When thou awakest in the morning, shut and close up the entrance to thy heart, f
 
 When thou art arisen and art ready, return thyself to thy closet, or other private place, and offer to God, the first fruits of the day, and in praying to him and praising him, remember,
 
-1.      To give him thanks, for thy quiet rest received, for delivering thee from all dangers, ghostly and bodily, and for all other his benefits to thee
+1.      To give him thanks, for thy quiet rest received, for delivering thee from all dangers, ghostly and bodily, and for all other his benefits to thee
 
-2.      Offer unto him thyself, and all things that thou dost possess, and desire him to dispose of thee and them, according to his good pleasure.
+2.      Offer unto him thyself, and all things that thou dost possess, and desire him to dispose of thee and them, according to his good pleasure.
 
-3.      Crave his grace to guide thee, and to strengthen thee from, and against all temptations, that so thou mayest do nothing the day following contrary to his will.
+3.      Crave his grace to guide thee, and to strengthen thee from, and against all temptations, that so thou mayest do nothing the day following contrary to his will.
 
-4.      And lastly, beg of him, (according to how we should pray) all things needful for the soul and body.[\[11\]](#_ftn11)
+4.      And lastly, beg of him, (according to how we should pray) all things needful for the soul and body.[\[11\]](#_ftn11)
 
 Praying alone for Andrewes also meant those “private meditations and conferences between God and our souls”, the contemplative approach. Often in his liturgical sermons too he advocated this contemplative approach. For instance in his extant sermons for Good Friday he begged his auditors to spend much time simply contemplating the cross. “Blessed are the hours that are so spent!” he told them.[\[12\]](#_ftn12)
 
@@ -61,11 +61,11 @@ In the last of these prayer sermon Andrewes emphasised once again the ecclesial 
 
 The Lord's Prayer, ever said by the Church, must be the framework of Public Prayer. There are four parts which are summarised under the two headings "of confession and petition". Under confession there is both *confessionem fraudis*, ... that is, "confession of sins", and *"confessio laudis*, that is, thanksgiving to God for His goodness in pardoning our sins, and bestowing His benefits upon us". With petition there is both "comprecation and deprecation". The former is seeking for good things, while the latter is desiring "that evil be removed". Associated with petitionary prayer is the prayer "proceeding from charity" which leads the Church to pray for all sorts and conditions of men, from those in authority to those with special needs such as the sick and poor.[\[17\]](#_ftn17)
 
-At the end of his last preparatory prayer sermon, Andrewes commented that "we have need to be instructed in the sense of the Lord's Prayer", that prayer "penned by our Saviour Christ on behalf of His disciples and His Church unto the end of the world". In accordance with this, he gave thirteen sermons on each petition respectively. Of all the prayers offered to God each day he described the *Pater Noster* as the prayer of charity and fraternity because there is no ‘I’ nor ‘mine’, nor ‘my’, but rather ‘our’ and ‘us’. It is ‘our Father’, ‘our bread’,  ‘our trespasses’, and deliver ‘us’ from evil’.
+At the end of his last preparatory prayer sermon, Andrewes commented that "we have need to be instructed in the sense of the Lord's Prayer", that prayer "penned by our Saviour Christ on behalf of His disciples and His Church unto the end of the world". In accordance with this, he gave thirteen sermons on each petition respectively. Of all the prayers offered to God each day he described the *Pater Noster* as the prayer of charity and fraternity because there is no ‘I’ nor ‘mine’, nor ‘my’, but rather ‘our’ and ‘us’. It is ‘our Father’, ‘our bread’,  ‘our trespasses’, and deliver ‘us’ from evil’.
 
 *Our Father*
 
-When we pray ‘our Father’, it should remind us that we are but one of God’s children. He is the Father of us all, and consequently it should be ‘a pledge of our love’ towards our brethren, What we pray for ourselves, we pray for others; we pray that our brethren will be delivered from evil as well as ourselves; we pray that they as well as ourselves receive daily bread; we recognise that we are all sinners, and we all need God’s forgiveness. We must also pray for those brethren who are our enemies, that God many have mercy upon them as well as ourselves. 
+When we pray ‘our Father’, it should remind us that we are but one of God’s children. He is the Father of us all, and consequently it should be ‘a pledge of our love’ towards our brethren, What we pray for ourselves, we pray for others; we pray that our brethren will be delivered from evil as well as ourselves; we pray that they as well as ourselves receive daily bread; we recognise that we are all sinners, and we all need God’s forgiveness. We must also pray for those brethren who are our enemies, that God many have mercy upon them as well as ourselves. 
 
 The image of God as *Father* conveys all that Fatherhood implies. His paternity covers all creation, but especially man as He created him in His image. He provides for us; He never stops loving us; He wants to give us good things, but He will also chasten us when we need it. We, as His children may forget our duty to our heavenly Father, but He never ceases to love us. He is always waiting for us to say ‘I will return to my Father.’ "Father" also reminds us that God made man in "His own image \[and\] ... breathed into him life immortal", and after the fall rescued him by giving him "a second birth" to make him "the son of God" with an entrance “‘into the kingdom of God.’”[\[18\]](#_ftn18)
 
@@ -73,13 +73,13 @@ Finally *Father* assures us of the life to come with Him in heaven.
 
 *Who art in heaven*
 
-> We are reminded that our Father dwells in heaven on His throne in all His glory. This should in turn inspire us to pray with devotion and reverence to our Father who always provides both our bodily and spiritual needs. As Tertullian said,  ‘no Father, so fatherly,’ It also conveys that as God’s children heaven is our native land, we are but sojourners and pilgrims on this earth. As citizens of this higher realm we must constantly lift up our hearts to heaven so that we can have the image of God imprinted on our being in order to seek the things above. In the life to come we have a lively hope, but in this life a dead hope only.[\[19\]](#_ftn19)
+> We are reminded that our Father dwells in heaven on His throne in all His glory. This should in turn inspire us to pray with devotion and reverence to our Father who always provides both our bodily and spiritual needs. As Tertullian said,  ‘no Father, so fatherly,’ It also conveys that as God’s children heaven is our native land, we are but sojourners and pilgrims on this earth. As citizens of this higher realm we must constantly lift up our hearts to heaven so that we can have the image of God imprinted on our being in order to seek the things above. In the life to come we have a lively hope, but in this life a dead hope only.[\[19\]](#_ftn19)
 
 *Hallowed be Thy Name*
 
 > This is the first of the seven petitions, and it is the only one that is concerned with God. Hence before seeking our own and our brethren’s needs, we pray that God’s name will be sanctified as He alone is holy, and the Saviour. As we ponder on the holiness of God there should come to us other manifestations of holiness such as His day, the Church, His priests, the sacraments, creation and our fellow brothers and sisters.
 >
-> sanctus, sanctus, sanctus.  This petition also reminds us that we must not curse the Holy name, and that we must pray for those who do. We must also not give any glory to ourselves but only to God as everything we have comes from Him. When we reverence God’s name it also helps us to fight the sin of pride, so much rooted in us. Above all the petition tells us of our true vocation:
+> sanctus, sanctus, sanctus.  This petition also reminds us that we must not curse the Holy name, and that we must pray for those who do. We must also not give any glory to ourselves but only to God as everything we have comes from Him. When we reverence God’s name it also helps us to fight the sin of pride, so much rooted in us. Above all the petition tells us of our true vocation:
 >
 > If while we remain on earth our whole desire be to sanctify God’s name, we shall at length come to the place where we shall say and might sing as the Cherubims do, and with the heavenly host of Angels sing, ‘Glory to God on high;’ we shall fall down before His throne, saying always, ‘Thou art worthy, O Lord, to receive glory, and honour and praise for ever.’[\[20\]](#_ftn20)
 
@@ -93,11 +93,11 @@ Finally *Father* assures us of the life to come with Him in heaven.
 
 > Of course to “obtain the kingdom of glory” God’s will must be done. Not everyone who says, ‘Lord, Lord shall enter the kingdom of God, but he that shall do the will of my Father which is in heaven.’ Thus the door to the Kingdom is the doing of God’s will. However Andrewes declared that in essence it is not so much that God’s will may be done, but rather that what God willeth may be our will. We must not wrestle nor struggle against it, but patiently submit our wills to His as Christ manifested in the garden of Gethesemane. To be obedient to God’s will two things are required.
 
-            1. To lay aside our own will and say “convert my froward and unwilling will into Thy will.” If we find that our will is contrary to God’s, then we must pull it up by the roots.
+            1. To lay aside our own will and say “convert my froward and unwilling will into Thy will.” If we find that our will is contrary to God’s, then we must pull it up by the roots.
 
-            2. To have a base conceit of our own will and a high and reverend opinion of God’s. We must not trust our reason and understanding to direct our wills as this is perverse but only to God’s grace to direct it.
+            2. To have a base conceit of our own will and a high and reverend opinion of God’s. We must not trust our reason and understanding to direct our wills as this is perverse but only to God’s grace to direct it.
 
-            Then we can be assured in our consciences that we have done the will of God and we shall enjoy that peace and joy of the Holy Spirit, a pledge to us of the Kingdom of glory.[\[22\]](#_ftn22)
+            Then we can be assured in our consciences that we have done the will of God and we shall enjoy that peace and joy of the Holy Spirit, a pledge to us of the Kingdom of glory.[\[22\]](#_ftn22)
 
 *In earth as it is in heaven*
 
@@ -117,7 +117,7 @@ Finally *Father* assures us of the life to come with Him in heaven.
 
 > This and the next two petitions are called deprecations, that is, the removing of evil. These are of three kinds: sins past, sins to come, and of evil of punishment. Again in this petition we pray not only for forgiveness of our past sins but those too of our brothers. Our sins, and those of others, even though they are great, God will forgive them and give us grace to repent so that we can be transformed into a state of grace.
 >
-> We need to ask for remission for those sins that proceed from some part of us, because they form a partition between God and us; they separate us from God’s grace and blessings, and hinder our prayers. Andrewes suggested that we should  perceive sin as like a cloud which prevents our prayers reaching God. So if we do not desire the forgiveness of sins, all other prayers are in vain as well as excluding us from God’s kingdom.
+> We need to ask for remission for those sins that proceed from some part of us, because they form a partition between God and us; they separate us from God’s grace and blessings, and hinder our prayers. Andrewes suggested that we should  perceive sin as like a cloud which prevents our prayers reaching God. So if we do not desire the forgiveness of sins, all other prayers are in vain as well as excluding us from God’s kingdom.
 >
 > The petition also reminds us that God granted to man something that He did not give to the fallen angels – remission of sins. So we also express out thankfulness for forgiveness of sins as we acknowledge ourselves as sinners, daily sinners. Our comfort is that we seek forgiveness from our Father and as His children, though great sinners, yet we cannot lose His love and mercy. He is always ready to forgive our sins be they little or great. Nevertheless we must strive to die unto sin as Christ died for our sins. This means that we not only confess them, but also are truly sorry for them and earnestly desire to conquer them. [\[25\]](#_ftn25)
 
@@ -165,9 +165,9 @@ Stretch out thy right hand, O sweet Jesus, to me thy poor servant, and give out 
 
 And after having received the Body and Blood of Christ, one of his prayers conclude:
 
-            Give me a heart, which may love thee with so true, faithful, and constant affection, as that nothing under the sun may separate me from the love of thee. Let me not follow the love of the world, or delight in the vanities of it any longer: but give me power to kill and quench all other love and desires, and to love thee only, desire thee only, and only think of thee, and thy commandments: that all my affections and thoughts may be fixed on thee; that in all temptations and adversities, I may have recourse to thee only, and receive all comfort from thee alone, who livest and reignest, one God, world without end. Amen.
+            Give me a heart, which may love thee with so true, faithful, and constant affection, as that nothing under the sun may separate me from the love of thee. Let me not follow the love of the world, or delight in the vanities of it any longer: but give me power to kill and quench all other love and desires, and to love thee only, desire thee only, and only think of thee, and thy commandments: that all my affections and thoughts may be fixed on thee; that in all temptations and adversities, I may have recourse to thee only, and receive all comfort from thee alone, who livest and reignest, one God, world without end. Amen.
 
-            That is a good note on which to end as it summarises Andrewes’ teaching on prayer, which is to seek God above everything, and in finding Him to love Him for His own sake.
+            That is a good note on which to end as it summarises Andrewes’ teaching on prayer, which is to seek God above everything, and in finding Him to love Him for His own sake.
 
 Appendix: Prayers of Andrewes
 
@@ -177,49 +177,49 @@ O Almighty and everliving God, heavenly Father, to whom it is manifestly known, 
 
 *Preparation for the Blessed Sacrament*
 
-O merciful Lord Jesus, I confess myself to be a most grievous and wretched sinner, not worthy to approach into thy presence, altogether unfit and unmeet to receive  thee under the roof of my soul, in respect of the stains and pollutions thereof, and that it is not decked and fitted, with such good graces, as thy majesty and presence requireth, and therefore am afraid to come near unto thee: yet, O Lord, considering thy comfortable saying, that thou dost nor desire the death of a sinner, but that he should turn unto thee and live; and thy blessed invitation, how lovingly, with the arms of thy mercy stretched out, thou hast called all, that are heavily oppressed with the burden of their sins, to come to thee for comfort and ease. And lastly, thy usual practice, in pitying and relieving those which were cast down with the thought of their misdeeds; as the Thief on the Cross, Mary Magdalen, the Woman taken in Adultery, the Publican, Peter and Paul, I am comforted and emboldened to come unto thee, assuredly trusting, that thou wilt of thy goodness supply my defects, and make me a worthy receiver of the high mystery and benefit of thy blessed Sacrament, whereof of myself I am altogether unworthy. Stretch out thy right hand, O sweet Jesus, to me thy poor servant, and give out of thy rich store-house of mercy what I want; that thereby I may be made a living temple to thee, and an acceptable habitation for thine honour to abide in: and grant, that being cleansed by thy mercy and goodness, I may, by thy grace and power, persevere in all godliness of conversation, to the end of my days, and attain to that blessed place, where thou reignest, with the Father and Holy Spirit, world without end. Amen.
+O merciful Lord Jesus, I confess myself to be a most grievous and wretched sinner, not worthy to approach into thy presence, altogether unfit and unmeet to receive  thee under the roof of my soul, in respect of the stains and pollutions thereof, and that it is not decked and fitted, with such good graces, as thy majesty and presence requireth, and therefore am afraid to come near unto thee: yet, O Lord, considering thy comfortable saying, that thou dost nor desire the death of a sinner, but that he should turn unto thee and live; and thy blessed invitation, how lovingly, with the arms of thy mercy stretched out, thou hast called all, that are heavily oppressed with the burden of their sins, to come to thee for comfort and ease. And lastly, thy usual practice, in pitying and relieving those which were cast down with the thought of their misdeeds; as the Thief on the Cross, Mary Magdalen, the Woman taken in Adultery, the Publican, Peter and Paul, I am comforted and emboldened to come unto thee, assuredly trusting, that thou wilt of thy goodness supply my defects, and make me a worthy receiver of the high mystery and benefit of thy blessed Sacrament, whereof of myself I am altogether unworthy. Stretch out thy right hand, O sweet Jesus, to me thy poor servant, and give out of thy rich store-house of mercy what I want; that thereby I may be made a living temple to thee, and an acceptable habitation for thine honour to abide in: and grant, that being cleansed by thy mercy and goodness, I may, by thy grace and power, persevere in all godliness of conversation, to the end of my days, and attain to that blessed place, where thou reignest, with the Father and Holy Spirit, world without end. Amen.
 
 *After receiving the Blessed Sacrament*
 
-If all the creatures in the world should offer themselves together with me to praise thee, O Lord, yet is it certain that we could not give thee sufficient thanks for the least of thy mercies; and if together we cannot sufficiently praise thee for the least, how much less can I alone perform so great a duty, for such inestimable blessings, as I have at this time received; for vouchsafing to visit me, comfort me, and honour me with acceptance   and admittance to thy blessed table. If Elizabeth, the mother of John Baptist, upon the Virgin Mary’s entrance to her house) said, Whence is it that the Mother of my Lord should come to me? What shall I say, whom the Lord himself hath visited and united to him, by his blessed Sacrament, being a vessel and receptacle of all impurity, who hath so often affended, despited and neglected him? King David wondered why God should so esteem of, or visit man; but I wonder much more, why he should be made man for man, abide with him, suffer death for him, and give himself to him for spiritual food. Solomon, after he had built a temple to God, reasoned thus: But will God dwell indeed on the earth? Behold the heaven of heavens cannot contain thee, how much less this house, that I have builded? May not I much more marvel, that God  will not disdain to come and abide in this my poor and wretched soul? What greater benefit or grace, what greater argument of his love is there, can there be showed to me? Oh my soul, if thou wouldest but thoroughly conceive the happiness that cometh to thee by this holy Sacrament, then consider and well weigh, what benefits it bringeth with it. By it the sons of men are made the sons of God, and all that is earthly or carnal in us is mortified, that the Deity may live and abide with us. What therefore, O my Lord, shall I do? What thanks shall I render to thee? With what fervency shall I love thee? For if thou, so mighty  a Lord, hast vouchsafed to love me, poor wretched creature, how should it be, but that I should return love again to thee? And how shall I express my love better, than in forbearing those things which thou dost abhor, and following those things which thou dost command? Give, O Lord, to this end thy concomitant grace to me, whereby I may return a reciprocal love to thee, and love those things, which are acceptable to thee, and avoid those things, which are to thee unpleasing.
+If all the creatures in the world should offer themselves together with me to praise thee, O Lord, yet is it certain that we could not give thee sufficient thanks for the least of thy mercies; and if together we cannot sufficiently praise thee for the least, how much less can I alone perform so great a duty, for such inestimable blessings, as I have at this time received; for vouchsafing to visit me, comfort me, and honour me with acceptance   and admittance to thy blessed table. If Elizabeth, the mother of John Baptist, upon the Virgin Mary’s entrance to her house) said, Whence is it that the Mother of my Lord should come to me? What shall I say, whom the Lord himself hath visited and united to him, by his blessed Sacrament, being a vessel and receptacle of all impurity, who hath so often affended, despited and neglected him? King David wondered why God should so esteem of, or visit man; but I wonder much more, why he should be made man for man, abide with him, suffer death for him, and give himself to him for spiritual food. Solomon, after he had built a temple to God, reasoned thus: But will God dwell indeed on the earth? Behold the heaven of heavens cannot contain thee, how much less this house, that I have builded? May not I much more marvel, that God  will not disdain to come and abide in this my poor and wretched soul? What greater benefit or grace, what greater argument of his love is there, can there be showed to me? Oh my soul, if thou wouldest but thoroughly conceive the happiness that cometh to thee by this holy Sacrament, then consider and well weigh, what benefits it bringeth with it. By it the sons of men are made the sons of God, and all that is earthly or carnal in us is mortified, that the Deity may live and abide with us. What therefore, O my Lord, shall I do? What thanks shall I render to thee? With what fervency shall I love thee? For if thou, so mighty  a Lord, hast vouchsafed to love me, poor wretched creature, how should it be, but that I should return love again to thee? And how shall I express my love better, than in forbearing those things which thou dost abhor, and following those things which thou dost command? Give, O Lord, to this end thy concomitant grace to me, whereby I may return a reciprocal love to thee, and love those things, which are acceptable to thee, and avoid those things, which are to thee unpleasing.
 
 Give me a heart, which may love thee with so true, faithful, and constant affection, as that nothing under the sun may separate me from the love of thee. Let me not follow the love of the world, or delight in the vanities of it any longer: but give me power to kill and quench all other love and desires, and to love thee only, desire thee only, and only think of thee, and thy commandments: that all my affections and thoughts may be fixed on thee; that in all temptations and adversities, I may have recourse to thee only, and receive all comfort from thee alone, who livest and reignest, one God, world without end. Amen.
 
 [\[1\]](#_ftnref1) Andrewes, Vol. 3, p.376; *Inst. Piæ*, p.21.
 
-     \[2\] Andrewes, Vol. 1, pp. 15, 373, Vol. 2, p. 367.
+     \[2\] Andrewes, Vol. 1, pp. 15, 373, Vol. 2, p. 367.
 
-     \[3\] *ibid*., Vol. 11, pp. 260 - 1, 263, 271 – 2.
+     \[3\] *ibid*., Vol. 11, pp. 260 - 1, 263, 271 – 2.
 
-     \[4\] *ibid.,* Vol. 11, p. 295.
+     \[4\] *ibid.,* Vol. 11, p. 295.
 
-     \[5\] Duffy, *The Stripping of the Altars,*  pp. 375 - 6.
+     \[5\] Duffy, *The Stripping of the Altars,*  pp. 375 - 6.
 
-     \[6\] L. Andrewes, *Scala Coeli: Nineteene Sermons Concerning Prayer* (London, 1611), *Dedicatory, A4.*
+     \[6\] L. Andrewes, *Scala Coeli: Nineteene Sermons Concerning Prayer* (London, 1611), *Dedicatory, A4.*
 
-     \[7\]Andrewes, Vol. 5, pp. 301 - 310.
+     \[7\]Andrewes, Vol. 5, pp. 301 - 310.
 
-     \[8\] *ibid.,* pp. 311 - 320, and especially pp. 311, 315.
+     \[8\] *ibid.,* pp. 311 - 320, and especially pp. 311, 315.
 
-     \[9\] He explained why it was appropriate to speak of prayers rising like incense. "And it is most fitly resembled to incense, for the use of incense was to sweeten those places which are unsavoury; even so the wicked imaginations and unchaste thoughts of our hearts, which yield a stinking smell in the nostrils of God, are sweetened by no other means than by prayer;  and therefore to shew how the one is resembles by the other, it is said that while the incense was burning, the people were without upon their knees in prayer." *ibid*., p. 324. He also mades similar references in his Genesis lectures. *Apos. Sacra*, p. 125, 663.
+     \[9\] He explained why it was appropriate to speak of prayers rising like incense. "And it is most fitly resembled to incense, for the use of incense was to sweeten those places which are unsavoury; even so the wicked imaginations and unchaste thoughts of our hearts, which yield a stinking smell in the nostrils of God, are sweetened by no other means than by prayer;  and therefore to shew how the one is resembles by the other, it is said that while the incense was burning, the people were without upon their knees in prayer." *ibid*., p. 324. He also mades similar references in his Genesis lectures. *Apos. Sacra*, p. 125, 663.
 
-     \[10\] Andrewes, Vol. 5, pp. 321- 331, and especially p. 323.
+     \[10\] Andrewes, Vol. 5, pp. 321- 331, and especially p. 323.
 
-[\[11\]](#_ftnref11)  *Inst. Piæ*, pp. 84 – 5.
+[\[11\]](#_ftnref11)  *Inst. Piæ*, pp. 84 – 5.
 
 [\[12\]](#_ftnref12) Andrewes, Vol. 2, pp. 160, 163.
 
-     \[13\] *ibid*., Vol. 5, pp. 324 - 5, 327.
+     \[13\] *ibid*., Vol. 5, pp. 324 - 5, 327.
 
-     \[14\] *ibid*., pp. 329.
+     \[14\] *ibid*., pp. 329.
 
-     \[15\] *ibid*., pp. 332 - 341, and especially pp. 337, 339.
+     \[15\] *ibid*., pp. 332 - 341, and especially pp. 337, 339.
 
-     \[16\] *ibid.,* pp. 343 - 350, and especially pp. 344 - 5, 349.
+     \[16\] *ibid.,* pp. 343 - 350, and especially pp. 344 - 5, 349.
 
-     \[17\] *ibid*., pp. 351 - 361, and especially pp. 354, 356 - 60.
+     \[17\] *ibid*., pp. 351 - 361, and especially pp. 354, 356 - 60.
 
-     \[18\] *ibid*., pp. 361 - 2, 364, 366.
+     \[18\] *ibid*., pp. 361 - 2, 364, 366.
 
 [\[19\]](#_ftnref19) ibid., pp. 372 – 380, esp. p.375.
 
@@ -235,7 +235,7 @@ Give me a heart, which may love thee with so true, faithful, and constant affect
 
 [\[25\]](#_ftnref25) ibid., pp. 424 – 431, esp. 424, 430.
 
-[\[26\]](#_ftnref26) ibid., pp. 432 – 440, esp. pp.433,435, 437. 
+[\[26\]](#_ftnref26) ibid., pp. 432 – 440, esp. pp.433,435, 437. 
 
 [\[27\]](#_ftnref27) ibid., pp. pp.441 – 448, esp. pp.441, 443.
 
@@ -247,8 +247,8 @@ Give me a heart, which may love thee with so true, faithful, and constant affect
 
 [\[31\]](#_ftnref31) Andrewes, Vol. 1, p. 283; Vol. 2, p. 322.
 
-     \[32\]  Ibid, Vol. 1, pp. 168, 173.
+     \[32\]  Ibid, Vol. 1, pp. 168, 173.
 
-     \[33\] *Inst. Piæ*, pp. 260 - 1.
+     \[33\] *Inst. Piæ*, pp. 260 - 1.
 
-     \[34\] Mathew, pp. 93 - 4, 96 - 7, 99 - 100.
+     \[34\] Mathew, pp. 93 - 4, 96 - 7, 99 - 100.

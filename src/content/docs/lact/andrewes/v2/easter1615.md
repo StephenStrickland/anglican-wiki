@@ -8,7 +8,7 @@ PREACHED UPON EASTER-DAY, 1615.
 
 Preached before King James, at Whitehall, on Sunday the Ninth of April, A. D. MDCXV.
 
-pp. 324 ­ 363
+pp. 324  363
 
 Transcribed by Dr. Marianne Dorman
 AD 2002

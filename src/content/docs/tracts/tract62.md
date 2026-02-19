@@ -12,9 +12,9 @@ CHURCH DISCIPLINE.
 
 (*Continued*.)
 
-Heb. xiii. 4. "Whoremongers and adulterers GOD will judge." You dare not say that this is not true. What can you say to your own mind to make it easy? Nothing but this can make you easy:to take shame to yourself, to confess your sins, to fast, and to pray earnestly to GOD for pardon, &c., and to let others know "what an evil thing and bitter it is to forsake the LORD."
+Heb. xiii. 4. "Whoremongers and adulterers GOD will judge." You dare not say that this is not true. What can you say to your own mind to make it easy? Nothing but this can make you easy:—to take shame to yourself, to confess your sins, to fast, and to pray earnestly to GOD for pardon, &c., and to let others know "what an evil thing and bitter it is to forsake the LORD."
 
-This visitation will either do you much good or much hurt; you will from this time grow much better or much worse.Since you did not blush to sin, do not blush to own your faults. Let it be matter of joy and thankfulness to you, that we are concerned for you so much. Grace indeed we cannot give,that is the gift of GOD;we can only pray for you, and do our duty in admonishing you, &c.If you submit for fear only, and not for conscience sake, you will suffer both here and hereafter.
+This visitation will either do you much good or much hurt; you will from this time grow much better or much worse.—Since you did not blush to sin, do not blush to own your faults. Let it be matter of joy and thankfulness to you, that we are concerned for you so much. Grace indeed we cannot give,—that is the gift of GOD;—we can only pray for you, and do our duty in admonishing you, &c.—If you submit for fear only, and not for conscience sake, you will suffer both here and hereafter.
 
 When men, and especially men in any authority, are not content to neglect their own salvation, but are industrious to ruin others, they may depend upon it, they are very near filling up the measure of their iniquities, and consequently their destruction is not far off.
 
@@ -32,15 +32,15 @@ Remissness in Church discipline is owing, sometimes to indulgence and an easy te
 
 There may be people bold enough to make a mock of sin, to submit to public penance with contempt of the authority that enjoins it, and not to be bettered by such Christian methods for the restoring sinners to the peace of GOD; but it is to be hoped all are not so hardened, and that Christian discipline is, notwithstanding, a mighty check upon sin, and keeps many under a fear of committing such crimes as must oblige them to take shame to themselves before the face of men.
 
-Convocation, 1536."That perfect penance which CHRIST requireth consists of contrition, confession, and amendment of former life, and an obedient reconciliation to the laws and will of GOD."See also the *Homilies*.
+Convocation, 1536.—"That perfect penance which CHRIST requireth consists of contrition, confession, and amendment of former life, and an obedient reconciliation to the laws and will of GOD."—See also the *Homilies*.
 
 *Absolution*.
 
-Our Church ascribeth not the power of remission of sins to any but to GOD only. She holds that faith and repentance are the necessary conditions of receiving this blessing. And she asserts what is most true, that CHRIST'S ministers have a special commission, which other believers have not, authoritatively to declare this absolution for the comfort of true penitents; and which absolution, if duly dispensed, will have -a real effect from the promise of CHRIST. (John xx. 23.)*Pull. Moderat*.
+Our Church ascribeth not the power of remission of sins to any but to GOD only. She holds that faith and repentance are the necessary conditions of receiving this blessing. And she asserts what is most true, that CHRIST'S ministers have a special commission, which other believers have not, authoritatively to declare this absolution for the comfort of true penitents; and which absolution, if duly dispensed, will have -a real effect from the promise of CHRIST. (John xx. 23.)—*Pull. Moderat*.
 
 *Authority of the Church*is only *spiritual* and *ministerial* (the Head and authority being in heaven). She does not, therefore, call her orders *Laws*, but *Rules, Canons*; and her inflictions, not *punishments*, but *censures*. She acknowledges that whatever power she has besides spiritual, is either from the favour or injunction of princes.
 
-But (Article 37.) we give not our princes (and they have always disclaimed it) the power of administering GODS Word, or the Sacraments. And although our spiritual power be from GOD, yet is this power subject to be inhibited, limited, regulated, in the *outward exercises*, by the laws and customs of the land. By this moderation both powers are preserved entire and distinct. We neither claim a power of jurisdiction over the prince, nor pretend to be exempt from his.
+But (Article 37.) we give not our princes (and they have always disclaimed it) the power of administering GOD’S Word, or the Sacraments. And although our spiritual power be from GOD, yet is this power subject to be inhibited, limited, regulated, in the *outward exercises*, by the laws and customs of the land. By this moderation both powers are preserved entire and distinct. We neither claim a power of jurisdiction over the prince, nor pretend to be exempt from his.
 
 *Antenuptial Fornication*.
 
@@ -70,7 +70,7 @@ Matt. xvi. 19. "Whatsoever thou shalt bind on earth shall be bound in heaven; an
 
 Those ministers that know not what it is to bind and loose sinners, reject one half of their commission.
 
-Excommunication is the last remedy reserved for the incorrigible in the case of enormous sins. They who despise it, know not what it is to be an heathen in GOD'S sight,to be without GOD for a Father, CHRIST for a Saviour, the Church for a Mother, and Christians for brethren.
+Excommunication is the last remedy reserved for the incorrigible in the case of enormous sins. They who despise it, know not what it is to be an heathen in GOD'S sight,—to be without GOD for a Father, CHRIST for a Saviour, the Church for a Mother, and Christians for brethren.
 
 A true penitent is always willing to bear the shame and confusion of his sin and folly before men, that he may escape the anger of GOD.
 
@@ -112,7 +112,7 @@ Deut. xix. 15. "Thou shalt not respect the person of the poor, nor honour the pe
 
 The judgment of the multitude is no rule of justice. "Then cried they all, Not this man, but Barabbas."
 
-John xix. 12. "If thou let this man go, thou art not Caesar's friend;when Pilate heard that saying," then he resolved to sacrifice his conscience, rather than lose his prince's favour.
+John xix. 12. "If thou let this man go, thou art not Caesar's friend;—when Pilate heard that saying," then he resolved to sacrifice his conscience, rather than lose his prince's favour.
 
 2 Chron. xix. 6. "And he said to the judges, take heed what ye do: for ye judge not for man but for the LORD, who is with you in the judgment."
 
@@ -130,15 +130,15 @@ Micah vi. 7, 8. "Will the LORD be pleased with thousands of rams, or with ten th
 
 The Jews had a rule that if a rich man and a poor man had a controversy, they must both of them *stand* or *sit*, to avoid partiality.
 
-Virtue would hardly be distinguished from a kind of sensuality, if there were no labourno oppositionno difficulty in doing our duty. *Dulce est periculum sequi Deum*.
+Virtue would hardly be distinguished from a kind of sensuality, if there were no labour—no opposition—no difficulty in doing our duty. *Dulce est periculum sequi Deum*.
 
 The duty of a judge may oblige him to punish according to the law; but it is the part of a Christian injured to forgive according to the charity of the Gospel.
 
-A judge is not the master but the minister of the lawfor the public good, not for his own interest, passion, or will.
+A judge is not the master but the minister of the law—for the public good, not for his own interest, passion, or will.
 
 A good judge will never desire to make himself feared by his power; but will rather be afraid of abusing it.
 
-The civil magistrate is liable to be excluded from Church communion for such reasons as the spiritual governors shall judge necessary;they are to determine for him, and not he for them, in matters merely spiritual.
+The civil magistrate is liable to be excluded from Church communion for such reasons as the spiritual governors shall judge necessary;—they are to determine for him, and not he for them, in matters merely spiritual.
 
 Give me, O LORD, the spirit of judgment, (Isaiah xxviii. 6.) that I may govern this Church with wisdom.
 

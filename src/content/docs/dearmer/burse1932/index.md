@@ -51,7 +51,7 @@ This significant veiling is the only veiling for which there is authority. There
 
 III. THE BURSE
 
-The two Corporals (the Corporal and Pall) are kept in the Burse. If they are made of flimsy lawn or lace, they are with difficulty inserted, the more so if the Burse is made with the sides joined, as has been often done. This ornament is a flat case, hinged on one side and open at the three other sides, about eight to ten inches square,  large enough for the Corporals to be slipped into it with ease:
+The two Corporals (the Corporal and Pall) are kept in the Burse. If they are made of flimsy lawn or lace, they are with difficulty inserted, the more so if the Burse is made with the sides joined, as has been often done. This ornament is a flat case, hinged on one side and open at the three other sides, about eight to ten inches square,  large enough for the Corporals to be slipped into it with ease:
 
 ![](https://anglicanhistory.org/dearmer/burse1932/05.jpg)
 

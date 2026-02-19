@@ -11,8 +11,8 @@ description: Index of /nonjurors/ghickes. From Project Canterbury.
 ---
 
  |
-| ![[PARENTDIR]](/icons/back.gif) | [Parent Directory](/nonjurors/) |   | \- |   |
-| ![[IMG]](/icons/image2.gif) | [01.jpg](01.jpg) | 2013-02-21 16:14 | 70K |   |
+| ![[PARENTDIR]](/icons/back.gif) | [Parent Directory](/nonjurors/) |   | \- |   |
+| ![[IMG]](/icons/image2.gif) | [01.jpg](01.jpg) | 2013-02-21 16:14 | 70K |   |
 |
 
 ---

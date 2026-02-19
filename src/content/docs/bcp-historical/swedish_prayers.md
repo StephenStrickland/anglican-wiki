@@ -94,7 +94,7 @@ O BARMHÄRTIGE Gud och himmelske Fader, som i ditt heliga ord har lärt oss, att
 
 *För dödsdömda fångar*.
 
-*¶ Eller bönen*: "O barmhärtige Fader" o. s. v. i böneformuläret f or fångar.
+*¶ Eller bönen*: "O barmhärtige Fader" o. s. v. i böneformuläret f or fångar.
 
 O NÅDERIKE Gud och barmhärtige Fader, vi bedja Dig innerligen, förbarma Dig öfver dessa människor, som lagenligt blifvit dömda till döden och därför äro föremål för våra förböner. O Herre, besök dem med din nåd och frälsning! Of verbevisa dem, att deras synder och missgärningar bringat dem i deras nuvarande elände, och låt din mäktiga nåd verka i dem sådan uppriktig ånger och sann bättring, som behaga Dig. Förläna dem en sann och lefvande tro på din Son, vår välsignade Frälsare, som allena kan frälsa deras själar. O Herre, i dom tänk på nåd, och hvilka lidanden de än måste utstå i denna värld, så rädda dem dock från den eviga dödens bittra pina! Förlåt dem deras synder, och fräls deras själar, för din käre Sons, vår välsignade Frälsares och Återlösares skull. Amen.
 

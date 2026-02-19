@@ -47,7 +47,7 @@ description: 'Sermons by Mark Frank, volume two. From Project Canterbury.'
 > "And the graves were opened; and many bodies of saints which slept arose, and came out of the graves after his resurrection, and went into the holy city, and appeared unto many."
 >
 > SERMON XXXV.
-> [THE THIRD SERMON UPON EASTER DAY](easter3.html). 
+> [THE THIRD SERMON UPON EASTER DAY](easter3.html). 
 > PSALM cxviii. 24.
 > "This is the day which the Lord hath made; we will rejoice, and be glad in it."
 >

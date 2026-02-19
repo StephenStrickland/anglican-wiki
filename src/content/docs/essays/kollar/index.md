@@ -7,5 +7,5 @@ description: Essays by Rene Kollar. From Project Canterbury.
 
 <table border="0" cellpadding="1" cellspacing="2" width="600"><tbody><tr><td><p><a href="/essays/kollar/travels.pdf">Travels in America: Aelred Carlyle, His American "Allies," and Anglican Benedictine Monasticism</a> <img align="BOTTOM" border="0" src="http://www.episcopalian.org/austin/texts/adobe_a.gif"><br>By the Reverend Rene Kollar, O.S.B.</p></td><td></td></tr></tbody></table>
 
- ![](http://www.episcopalian.org/austin/texts/adobe_a.gif) indicates that a particular document is available in [Adobe Acrobat format](http://www.adobe.com/products/acrobat/readstep.html).
+ ![](http://www.episcopalian.org/austin/texts/adobe_a.gif) indicates that a particular document is available in [Adobe Acrobat format](http://www.adobe.com/products/acrobat/readstep.html).
 *Documents are copyright Rene Kollar unless otherwise noted*.

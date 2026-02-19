@@ -131,7 +131,7 @@ In his address to his council, BISHOP JETT OF THE DIOCESE OF SOUTHWESTERN VIRGIN
 
 These strong words show that in the regions where the Protestant Episcopal Church is deeply rooted there will be no otiose and supine submission to Anglo-Catholic lawlessness and repudiation of Reformation gains.
 
-![](https://anglicanhistory.org/liturgy/grammer_missal/12.jpg)  ![](https://anglicanhistory.org/liturgy/grammer_missal/13.jpg)
+![](https://anglicanhistory.org/liturgy/grammer_missal/12.jpg)  ![](https://anglicanhistory.org/liturgy/grammer_missal/13.jpg)
 
 \[15\] The same note is sounded in the Diocese of Arkansas by BISHOP WINCHESTER:
 
@@ -230,7 +230,7 @@ Our list fittingly closes with this utterance of BISHOP TAITT, OF PENNSYLVANIA, 
 
 *We are indebted to the* CHRONICLE *for most of these Episcopal deliverances, and appreciate the courtesy of the Editor, Dr. Alex. G. Cummins, in granting us permission to use them.*
 
-  *![](https://anglicanhistory.org/liturgy/grammer_missal/24.jpg)  ![](https://anglicanhistory.org/liturgy/grammer_missal/25.jpg)*
+  *![](https://anglicanhistory.org/liturgy/grammer_missal/24.jpg)  ![](https://anglicanhistory.org/liturgy/grammer_missal/25.jpg)*
 
 ---
 
@@ -493,6 +493,6 @@ But what can we do about it? Of course the Custodian's certificate ought to be d
 
 The sad condition of the Church of England, where a politically and sacerdotally minded Archbishop of Canterbury is compromising the Church of England's position by his flirtations with the Eastern Churches and his concessions to militant Anglo-Catholicism should arouse us to the peril which threatens our Church from these well-organized and diligent "borers-within," with their efficient organ of propaganda, the *Living Church*. Indeed we must go further. There should be great searchings of hearts among us. \[61/62\] If such superstitions are being spread abroad as the remedy for the doubts and problems of the age, we ought to ask ourselves whether we are not to blame, we who have a more spiritual message. Anglo-Catholicism has manifest defects, but it is a cult and has a programme; its ministers have a sense of mission. Such zeal can never be discredited by mere logic or history. Such ministrations can never be excluded by ministers without a message, who regard the Church as a debating society; or by mystical rhapsodists who insist that the Church stand aloof from the problems of the day; or by prudent self-seekers who court popularity, or preferment and float with the stream; or by mere humanists who have lost their faith in God and are painfully out of place leading the devotions of a congregation. Anglo-Catholicism is a paganized and Judaized form of Christianity, emphasizing deleterious elements, not found in the Scriptures, but it is, with all its crudities, a cult, a religion; it has a programme. It can never be successfully combated with mere negations and exposures of its errors. Starving people will eat tainted meat, if none other is procurable. The only effective remedy for the situation is an earnest setting forth of the Gospel of our loving Heavenly Father, Who calls us to be His co-workers in building up a better order in this world. This is the task that superstition is ever shirking in its preoccupation with rites and ceremonies. Here is a programme that can arouse all our energies. If our Church turning away from the letter that killeth can be filled with the spirit of faith in the loving, indwelling God, and with zeal for His kingdom, our people will lose all taste for these mummeries and posturings and this crude conception of God as an Oriental despot to be propitiated by sacrifices and approached through patron saints. What we need is more consecration to the Divine purpose, more reliance on Divine power, more faith in the loving Father revealed to us by the beloved Son, Jesus Christ our Lord, more zeal for the Divine kingdom. Reason has its proper function, but it can never, in the defense and promulgation of the truth, take the place of faith and service. To wise legislation and statesmanlike administration we must add prayer and self-devotion; no otherwise can the walls of Zion be built.
 
-![](https://anglicanhistory.org/liturgy/grammer_missal/63.jpg) ![](https://anglicanhistory.org/liturgy/grammer_missal/64.jpg)
+![](https://anglicanhistory.org/liturgy/grammer_missal/63.jpg) ![](https://anglicanhistory.org/liturgy/grammer_missal/64.jpg)
 
 [Project Canterbury](//)

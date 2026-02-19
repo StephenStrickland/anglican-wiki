@@ -36,7 +36,7 @@ The fault that the Apostle finds with the Galatians, for "observing days, and mo
 
 Other secondary interpretations, I confess, they make, some of them, but this the prime, though to some other upon occasion, or by-the-by, they apply it too.
 
-1\. To the day of the incarnation first. Then this stone, upon whose exaltation this day is founded, was "cut out of the mountain without hands," ­ Christ's body framed with-out man's help.
+1\. To the day of the incarnation first. Then this stone, upon whose exaltation this day is founded, was "cut out of the mountain without hands,"  Christ's body framed with-out man's help.
 
 2\. To the day of his nativity. Then *factus est in angulum,* \[115/116\] this stone was made, made more plainly in little Bethlehem, a corner of Judæa.
 

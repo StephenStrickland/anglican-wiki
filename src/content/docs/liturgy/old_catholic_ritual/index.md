@@ -67,7 +67,7 @@ J. DOELLINGER, D.D.
 
 ---
 
-TRANSLATOR’S  PREFACE.
+TRANSLATOR’S  PREFACE.
 
 \[The *Catholisches Rituale* forms the first of a series of vernacular Prayer-Books for the Old Catholics of Germany. Other offices are in preparation, including a revised Missal (*Beschlüsse der zweiten Synode der Altkatholiken des deutschen Reiches*, Bonn, 1875, pp. 13, 14). The *Rituale* consists of a translation of the offices contained in the Roman Manual, and of one service (Confirmation) contained in the Roman Pontifical, for the reasons assigned on p. 66; to which are added, in an Appendix, certain prayers for special occasions. An Introduction and Notes explain and defend the various changes which have been made, especially the substitution of the vernacular for the Latin language. The modern Roman, and some of the old German offices, have been printed in this volume in parallel columns, to exhibit accurately the variations which have taken place in the text and rubrics; and the following editions have been made use of for that purpose :—
 
@@ -142,7 +142,7 @@ May* 21, 1876.
 
 ---
 
-EXTRACT FROM THE DECREES  OF THE SECOND  SYNOD.
+EXTRACT FROM THE DECREES  OF THE SECOND  SYNOD.
 
 1\. The Synodal Representative Body is commissioned to print the German Ritual according to the plan laid before them, with the alterations accepted at the sitting of the 19th of May.
 

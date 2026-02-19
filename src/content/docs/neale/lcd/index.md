@@ -11,9 +11,9 @@ description: Index of /neale/lcd. From Project Canterbury.
 ---
 
  |
-| ![[PARENTDIR]](/icons/back.gif) | [Parent Directory](/neale/) |   | \- |   |
-| ![[TXT]](/icons/text.gif) | [5.html](5.html) | 2017-06-07 15:57 | 21K |   |
-| ![[TXT]](/icons/text.gif) | [6.html](6.html) | 2017-06-07 15:57 | 15K |   |
+| ![[PARENTDIR]](/icons/back.gif) | [Parent Directory](/neale/) |   | \- |   |
+| ![[TXT]](/icons/text.gif) | [5.html](5.html) | 2017-06-07 15:57 | 21K |   |
+| ![[TXT]](/icons/text.gif) | [6.html](6.html) | 2017-06-07 15:57 | 15K |   |
 |
 
 ---

@@ -45,7 +45,7 @@ Gerard Contonnel, a Jesuit, (Sept. 18, 1613,) directs a letter, — “Illmo. et
 
 John Dulmen, a Jesuit, (March 10, 1613,) — “Illmo. et Revmo. Dno. D. Sasboldo Arch. Philippensi et Ultrajectensi.”
 
-Louis Makeblyd, a Jesuit, (Aug. 6, 1611,) directs his letter, —  “Illmo. et Revmo. Dno. Sasboldo, Arch. Ultraj. Coloniam.”
+Louis Makeblyd, a Jesuit, (Aug. 6, 1611,) directs his letter, —  “Illmo. et Revmo. Dno. Sasboldo, Arch. Ultraj. Coloniam.”
 
 These, again, are examples of many.
 

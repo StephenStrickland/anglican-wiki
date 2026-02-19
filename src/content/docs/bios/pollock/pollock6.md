@@ -6,7 +6,7 @@ description: Father Pollock And His Brother; chapter seven. From Project Canterb
 > Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests of St. Albans Birmingham*
+Mission Priests of St. Alban’s Birmingham*
 
 Transcribed by Robert Stevens
 AD 2001
@@ -14,7 +14,7 @@ AD 2001
 CHAPTER VI.
 SOME LINES OF CHARACTER
 
-Blending their soulsÕ sublimest needs 
+Blending their soulsÕ sublimest needs 
 With tasks of every day,
 They went about their gravest deeds
 As noble boys at play.Ó
@@ -24,7 +24,7 @@ THE characters of the two Priest-Brothers were in some respects a contrast, the 
 
 Both were ardent, untiring battlers for the right, bravo champions of purity and truth. True to the spirit of his own soul-stirring linesÑ
 
-ÒWe are soldiers of CHRIST, Who is mighty to save, 
+ÒWe are soldiers of CHRIST, Who is mighty to save, 
 And His Banner the Cross is unfurled;
 We are pledged to be faithful and steadfast and brave
 Against Satan, the flesh, and the world.
@@ -60,7 +60,7 @@ The same subtle sense is observable in the following little piece found among Fa
 
 ÒTHAT FACE.
 
-It is right to ask questions in a right way.  But there is a wrong way, too often followed.  Some people with little experience or knowledge are wont to sneer at truths which wiser men hold firmly. In one case of this kind, a looking-glass was held before the caviller, and he was asked whether such questions suited that face.Ó
+It is right to ask questions in a right way.  But there is a wrong way, too often followed.  Some people with little experience or knowledge are wont to sneer at truths which wiser men hold firmly. In one case of this kind, a looking-glass was held before the caviller, and he was asked whether such questions suited that face.Ó
 
 All beauties of the natural world were appreciated to the full by both brothers.
 
@@ -129,16 +129,16 @@ The cry of wandering water-bird.
 
 Lo while I gazed, a sudden ray
 Gleamed where the sky and mountain met,
-Where all had been in shade as yet 
+Where all had been in shade as yet 
 I thought it soon would melt away.
 
-'Twas nearly midnight: in the west 
+'Twas nearly midnight: in the west 
 One cloud lay low along the hill,
 As if it lingered there until
 The sinking sun was laid to rest.
 
 But brighter I beheld it shine,
-And farther, higher, radiance throw, 
+And farther, higher, radiance throw, 
 And burnish with a deepening glow
 The hilltopsÕ clear and waving line.
 Before me there at once were seen

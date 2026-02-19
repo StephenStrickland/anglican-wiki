@@ -10,7 +10,7 @@ SERMONS OF THE RESURRECTION
 PREACHED UPON EASTER-DAY, 1612.
 
 Preached before King James, at Whitehall, on Sunday the Twelfth of April, A. D. MDCXII.
-pp. 290 ­ 308
+pp. 290  308
 
 Transcribed by Dr. Marianne Dorman
 AD 2002
@@ -93,7 +93,7 @@ In all offerings thus it was, but in the Paschal lamb especially, that it hath c
 
 But much more justly Christ, Who sure was even a Passover throughout from the first to the last. At the first: His birth, what was it but a Passover from the bosom of His Father to the womb of His mother, to take our nature? And His circumcision what, but a Passover from the state of one free, to the condition of one bond, to undertake our debt? And at the last, His Resurrection, this day, what was it but a passage from death to life? And His Ascension another, *de mundo ad Patrem,* \`from the world to His Father?' First and last, a Passover He was.
 
-But above all, His death, His offering was it. Then He was *Pascha pro nobi*s indeed. For then He passed over into the estate of us wretched sinners, laid off His own, as it were, and took upon Him our person; became *tanquam unus e nobis,* nay, *tanquam omnes nos.* For God took from us, and laid them on Him, *posuit super Eum iniquitates omnium nostrum,* 'laid upon Him,' our Passover, 'the transgressions of us all.' *Fecit peccatum*, 'made Him sin for us.' - there, our sins passed from us. *Fecit maledictum,* 'made Him a curse for us;' ­ \[297/298\] there the punishment of our sins passed from us to Him. Then, and there, passed the destroyer over us.
+But above all, His death, His offering was it. Then He was *Pascha pro nobi*s indeed. For then He passed over into the estate of us wretched sinners, laid off His own, as it were, and took upon Him our person; became *tanquam unus e nobis,* nay, *tanquam omnes nos.* For God took from us, and laid them on Him, *posuit super Eum iniquitates omnium nostrum,* 'laid upon Him,' our Passover, 'the transgressions of us all.' *Fecit peccatum*, 'made Him sin for us.' - there, our sins passed from us. *Fecit maledictum,* 'made Him a curse for us;'  \[297/298\] there the punishment of our sins passed from us to Him. Then, and there, passed the destroyer over us.
 
 Over us, to Him. But when he came at Him, he passed Him not, *Transeat a me calix* would not be heard, and it was *Pascha, non Pascha,* 'a Passover,' to us, no 'Passover' to Him. We had one, He had none. Him it passed not, but light upon Him so heavy that, it made a sweat of bloody drops pass from Him, yea life and soul and all, ere it left Him. At which His Passion He was a right Passover, *Christus* p£ocwu, *Christus Pascha*. Then He was *pro nobis*, then He was *nostrum;* 'Christ,' 'Christ offered,' 'offered for us,' of which passing our sins to Him, and God's wrath over us, this day, and the action of this day is a memorial.
 

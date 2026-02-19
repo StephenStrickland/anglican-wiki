@@ -68,19 +68,19 @@ AFTER COMMUNION.
 I thank thee, my Lord and Saviour, that in the fulness of thy mercy thou hast deigned to visit me. Abide thou in me, and let me abide in thee. Help me that nothing more may ever separate me from thy love. Keep far from my heart all that is displeasing to thee. Assist me to bear patiently the pains of my sickness. Shew thyself to be the heavenly physician both of soul and body, and restore health to me if it tends to my salvation. All the days that thou yet shalt send me will I spend in thy love and service. But if thou hast otherwise decreed in thy wisdom, yet fulfil in me thy promise, “Whoso eateth of this bread shall live for ever.”
 
 > I thank thee, Lord, that I have found
->     Thee whom my soul doth seek,
+>     Thee whom my soul doth seek,
 > Who givest health unto the sick,
->     And strength unto the weak.
+>     And strength unto the weak.
 >
 > O let me not forsake thee, Lord,
->     Nor from thy servant part;
+>     Nor from thy servant part;
 > But consecrate a dwelling-place
->     Within my yearning heart.
+>     Within my yearning heart.
 >
 > For thou alone throughout my life
->     My Lord and King shalt be;
+>     My Lord and King shalt be;
 > Ne’er let me own another god,
->     Nor separate from thee.
+>     Nor separate from thee.
 >
 > IX.
 

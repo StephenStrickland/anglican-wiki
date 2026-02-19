@@ -11,7 +11,7 @@ Project Canterbury
 
 by the Reverend [Rodney Hacking](mailto:RdnyHacking@aol.com)
 
- CONTENTS
+ CONTENTS
 
 I The Fathers and the Oxford Movement
 II Ignatius of Antioch
@@ -42,11 +42,11 @@ From 1838 The Library of the Fathers began to appear in what eventually became 4
 
 It was at once an encouraging and a steadying influence it made thoughtful adherents of the Movement feel that the Fathers were behind them, and with the Fathers that ancient undivided Church whom the Fathers represented... And above all, it reminded men of a type of life and thought which all good men, in their best moments, would have been glad to make their own.
 
- II. IGNATIUS OF ANTIOCH
+ II. IGNATIUS OF ANTIOCH
 
 If Anglicans had thus far played no great part in the field of Patristic scholarship this changed from the mid 1860s with the work of Joseph Barber Lightfoot. His 5-volume edition of the Apostolic Fathers remains the definitive work on the provenance and text of the writings of Clement of Rome, Ignatius of Antioch and Polycarp.
 
-They emerged from controversy. From 1861 Lightfoot was successively Hulsean Professor and Lady Margaret’s Professor in Cambridge until he moved to the see of Durham in 1879. Most of his major work lay in contesting the claims of the Tübingen ‘School’ (led by F C Baur) that the writings of the New Testament were largely second century creations upon which little or no historical reliability could he placed. In a series of commentaries on the Pauline epistles and volumes on the Apostolic Fathers Lightfoot revealed the historical vacuity of the theories of the Tübingen school.
+They emerged from controversy. From 1861 Lightfoot was successively Hulsean Professor and Lady Margaret’s Professor in Cambridge until he moved to the see of Durham in 1879. Most of his major work lay in contesting the claims of the Tübingen ‘School’ (led by F C Baur) that the writings of the New Testament were largely second century creations upon which little or no historical reliability could he placed. In a series of commentaries on the Pauline epistles and volumes on the Apostolic Fathers Lightfoot revealed the historical vacuity of the theories of the Tübingen school.
 
 Lightfoot knew early on in his time at Cambridge that Ignatius was the key to dealing the theorists of Tübingen a serious blow. If it were possible to date the letters of Ignatius at the beginning of the second century then so many of the arguments advanced by Baur and others would be shown to be without foundation. He had already written three major commentaries and a major work on Clement before he turned his attention, in 1877, to Ignatius. His two substantial volumes appeared seven years later. The demands of episcopal office meant he was often unable to attend to the work for ‘weeks and sometimes for months’ but he still produced a work of some 700 closely argued pages. The Preface sets the tone:
 
@@ -128,7 +128,7 @@ Ignatius of Antioch embodies the flesh-taking of the Son of God. In life his tea
 
 Therefore stop your ears, when any man would deny or ignore Christ. Believe it: He was true man, the descendant of David, the child of Mary. His human body was no mere phantom. He was really born. He really ate and drank. He was really persecuted, crucified, put to death - a spectacle to men and angels and demons. And so too He was really raised again by the Father, who will as surely raise us also through Jesus Christ, in whom alone is true life.
 
-If  it be true, as these godless unbelievers affirm that Christ did not really die, then why am I a prisoner? Why do I desire to fight with wild beasts? in this case I die for nothing; and I lie against the Lord. (Trall. IX-X)
+If  it be true, as these godless unbelievers affirm that Christ did not really die, then why am I a prisoner? Why do I desire to fight with wild beasts? in this case I die for nothing; and I lie against the Lord. (Trall. IX-X)
 
 and to the Smyrneans he wrote:
 
@@ -216,7 +216,7 @@ Pray that strength may be given me within and without, so that I may not only sa
 
 ‘Endure unto the end in Christ Jesus’.
 
- © R D Hacking  2001
+ © R D Hacking  2001
 
 Quotations from St Ignatius’s writings are taken from Bishop Lightfoot’s translations in his 5-volume edition of *The Apostolic Fathers.* I recommend this work as an example of the best and most accessible scholarly work by an Anglican divine. It is available in an attractive hard-back edition published by Hendrickson Publishers, Massachusetts, at a very reasonable price.
 

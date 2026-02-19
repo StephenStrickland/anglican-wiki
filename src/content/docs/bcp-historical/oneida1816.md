@@ -112,7 +112,7 @@ OKHONKENE,
 
 *Ionterennaienthagwa ne tsi-iatha nongwe*.
 
-¶ *Agwa ne-ok hensie ne* Orhonke *ne nisa thasatierent nats-hennontonnion ne Niioh nok a-sat-rennaien; a-satonheke:*
+¶ *Agwa ne-ok hensie ne* Orhonke *ne nisa thasatierent nats-hennontonnion ne Niioh nok a-sat-rennaien; a-satonheke:*
 
 Tehonwaroniaienton ne Niioh Ronwaniha, nok oni ne Niioh Ronikonratokenton; asen nihati nok saiata ne Niioh; ahonwasennaien nok tahonwanonwearton nonwa nok oni tsini-ienhenwe iategagonte.
 

@@ -94,7 +94,7 @@ This then being a part only, being but one thing, we must not stay here; we must
 
 Inasmuch then as it is never put alone, but still coupled with some other, and it is a rule--not only for marriage, but for all things else--'What God hath couple, let no man put assunder,' let us see what that other thing is which God hath coupled, and St. James supplieth to be joined with it.
 
-What is that? Is it to be moved a little with that we hear? Upon our hearing to say with Agrippa, n ÑlhJ, Somewhat I was, I was a little moved with it? No, this is to suffer, not to do. St. James speaketh of doing.
+What is that? Is it to be moved a little with that we hear? Upon our hearing to say with Agrippa, ™n ÑlhJ, Somewhat I was, I was a little moved with it? No, this is to suffer, not to do. St. James speaketh of doing.
 
 What is it then? Is it to cry *Magister bene dixisti, '*Sir you well said,' you have made us a good sermon? Nay then, what say you to *Nunquam quiquam,'* we never heard a better.' Is not that it? No, for this is to say and not to do. St. James speaketh of doing.
 

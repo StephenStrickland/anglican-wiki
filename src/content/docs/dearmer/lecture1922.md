@@ -27,7 +27,7 @@ To divide into three will be even better, for 20 slides supply a fully adequate 
 
 For Four Lectures
 
-With a little more explanation and a short recapitulation, four good lectures of an hour each can be given. The slides might then be arranged rather differently. For example (the repeated slides being in brackets):—I. “Types of Architecture,” Slides 1-18; II. “Ornaments and the Altar,” Slides 28-37 (5, 7, 11), 19-21 (16)—(17 in all), \[as Slides 28-37 take less time, some of Slides 22-26 might be added\]; III. “Churches and Vestments,” Slides (19, 21) 22-27, 38-49—(19 in all)  IV. “ The English Rite,” Slides (45, 42, 48, 49) 50-66—(20 in all).
+With a little more explanation and a short recapitulation, four good lectures of an hour each can be given. The slides might then be arranged rather differently. For example (the repeated slides being in brackets):—I. “Types of Architecture,” Slides 1-18; II. “Ornaments and the Altar,” Slides 28-37 (5, 7, 11), 19-21 (16)—(17 in all), \[as Slides 28-37 take less time, some of Slides 22-26 might be added\]; III. “Churches and Vestments,” Slides (19, 21) 22-27, 38-49—(19 in all)  IV. “ The English Rite,” Slides (45, 42, 48, 49) 50-66—(20 in all).
 
 To save repetition and to keep this Leaflet within a possible size, matter contained in the Warham Guild Leaflets is not as a rule reprinted here, but references are given instead. Leaflets 13 and 14 especially should be consulted, also 15 and 16; the others referred to are Nos. 10, 11, and also 5, 8, and 18.
 
@@ -115,7 +115,7 @@ THE ALTAR
 
 19\. S. Clemente, Rome
 
-This shows the basilican arrangement of the altar, and the later basilican choir within low screens with gospel and epistle ambos and Paschal candle. This beautiful ciborium happens to be as late as the 12th century, but it is on the old lines and shows exactly the arrangement of the Early Church. The too sumptuous  ceiling is Renaissance (see Slide 5).
+This shows the basilican arrangement of the altar, and the later basilican choir within low screens with gospel and epistle ambos and Paschal candle. This beautiful ciborium happens to be as late as the 12th century, but it is on the old lines and shows exactly the arrangement of the Early Church. The too sumptuous  ceiling is Renaissance (see Slide 5).
 
 20\. S. Matthew’s, Bethnal Green
 
@@ -168,7 +168,7 @@ The candlestick began to appear on the altar in the 10th century (see above. Sli
 
 Showing the use of candles and candlesticks. It is usual nowadays to put a cross on the altar, but not necessary, and in this case it would be a mistake because there is a rood in the reredos. The reredos, decorated in gold, blue, and black, contains the Annunciation, Crucifixion, and the Three Maries at the Sepulchre. The four figures represent S. George, S. Andrew, S. Patrick, and S. David.
 
-The stained glass, mainly of silvery white with colour sparingly used, but pure and bright, contains figures of S. George, S. Michael, S. Joan of Arc, and S. Martin. The last saint is the patron of French soldiers, and also of Ypres, the pivot of the British front, and it was on Martinmas Day that the Armistice was signed. The whole work by Mr. Howard for the Warham Guild.
+The stained glass, mainly of silvery white with colour sparingly used, but pure and bright, contains figures of S. George, S. Michael, S. Joan of Arc, and S. Martin. The last saint is the patron of French soldiers, and also of Ypres, the pivot of the British front, and it was on Martinmas Day that the Armistice was signed. The whole work by Mr. Howard for the Warham Guild.
 
 32\. Standard Candlesticks
 
@@ -223,7 +223,7 @@ THE ENGLISH RITE
 
 45\. “As in the Second Year”
 
-A 15th century miniature, showing altar, with riddels; ministers in chasuble, dalmatic, tunicle, etc.; chanters in copes; also surplices. (The Ornaments Rubric should be read here.) The Ornaments Rubric orders the old ornaments to be still in use; but under the same authority the Elevation  (here shown) is forbidden (and rightly, for it arose from a mechanical and “clock-time” idea of consecration). (See Mowbrays Pamphlet, *The Ornaments Rubric*, by F. C. Eeles.)
+A 15th century miniature, showing altar, with riddels; ministers in chasuble, dalmatic, tunicle, etc.; chanters in copes; also surplices. (The Ornaments Rubric should be read here.) The Ornaments Rubric orders the old ornaments to be still in use; but under the same authority the Elevation  (here shown) is forbidden (and rightly, for it arose from a mechanical and “clock-time” idea of consecration). (See Mowbrays Pamphlet, *The Ornaments Rubric*, by F. C. Eeles.)
 
 46\. Clerk in Tunicle
 
@@ -235,7 +235,7 @@ Both the tunicle and dalmatic were originally coats, worn over the under-tunic. 
 
 48\. Brass at Rothwell. (Cope.)
 
-Effigy of the archdeacon, William de Rothewelle, c. 1361. Cope over fur almuce, surplice, and tight-sleeved cassock. The cope is a comparatively late vestment, and is worn by choristers (chanters) as well as by priests and bishops. Note how still in the 14th century it is a soft cloak or mantle, with a narrow orphrey and soft hood,  and fastened by a small brooch. The stiff cope, with broad orphreys, and flap for a hood, is a deterioration in design; and we shall restore beauty and manliness of appearance by working back to the original shape. (Cf.  the sandwich-man type of chasuble. All vestments underwent degradation). (Further details, and illustrations of all vestments from brasses, can be found in Mr. H. J. Claytons Alcuin Club Collection, *The Ornaments of the Ministers as shown in English Monumental Brasses*.)
+Effigy of the archdeacon, William de Rothewelle, c. 1361. Cope over fur almuce, surplice, and tight-sleeved cassock. The cope is a comparatively late vestment, and is worn by choristers (chanters) as well as by priests and bishops. Note how still in the 14th century it is a soft cloak or mantle, with a narrow orphrey and soft hood,  and fastened by a small brooch. The stiff cope, with broad orphreys, and flap for a hood, is a deterioration in design; and we shall restore beauty and manliness of appearance by working back to the original shape. (Cf.  the sandwich-man type of chasuble. All vestments underwent degradation). (Further details, and illustrations of all vestments from brasses, can be found in Mr. H. J. Claytons Alcuin Club Collection, *The Ornaments of the Ministers as shown in English Monumental Brasses*.)
 
 49\. Anzac Memorial Service
 

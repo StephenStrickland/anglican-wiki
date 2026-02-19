@@ -17,7 +17,7 @@ Chapter VIII
 
 Preparation and Thanksgiving
 
-IT is the custom of many devout priests to say an office of preparation immediately before vesting for the celebration. This habit is recommended. The few minutes spent quietly before the altar will be found most helpful as a means of recollection. The thought of his own unworthiness and the dignity of his high calling will help to prepare the priest for the accomplishment of his Masters command, "Do this." For such a purpose the following devotions are often used.
+IT is the custom of many devout priests to say an office of preparation immediately before vesting for the celebration. This habit is recommended. The few minutes spent quietly before the altar will be found most helpful as a means of recollection. The thought of his own unworthiness and the dignity of his high calling will help to prepare the priest for the accomplishment of his Master’s command, "Do this." For such a purpose the following devotions are often used.
 
 OFFICE OF PREPARATION
 
