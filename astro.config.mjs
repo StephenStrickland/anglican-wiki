@@ -86,7 +86,24 @@ export default defineConfig({
 						{
 							label: 'Richard Hooker',
 							collapsed: true,
-							autogenerate: { directory: 'hooker' },
+							items: [
+								{ slug: 'hooker' },
+								{
+									label: 'Laws of Ecclesiastical Polity',
+									collapsed: true,
+									items: [
+										{ slug: 'hooker/preface' },
+										{ slug: 'hooker/1' },
+										{ slug: 'hooker/2' },
+										{ slug: 'hooker/3' },
+										{ slug: 'hooker/4' },
+										{ slug: 'hooker/5' },
+										{ slug: 'hooker/6' },
+										{ slug: 'hooker/7' },
+										{ slug: 'hooker/8' },
+									],
+								},
+							],
 						},
 						{
 							label: 'Library of Anglo-Catholic Theology',
