@@ -84,7 +84,7 @@ In addition to those papers which are reprinted from **\[vii\]** the *Christian 
 
 And, finally, the Dissertation on Sequences is reprinted because it is not procurable in England, while it has been quoted as of some degree of authority in Germany. The first draught was prefixed as an Introduction to the collection of Sequences which I printed in 1851**.** Dr. Daniel, the first hymnologist of the day, being about to add a fifth volume, by way of appendix, to his former labours—a volume dedicated to Proses alone—requested leave to reprint that Introdu6tion. I was unwilling that, after the lapse of six or seven years, it should appear without corrections and additions; and the result was the Epistle which the reader has now before him.
 
-How utterly unworthy of their subject these Dissertations are, no one can feel more deeply than I do. Yet, at the same time, they were, I believe, the first attempt to elucidate Comparative Liturgiology which had appeared in the English language, (Mr. Freeman’s invaluable work having not been published when most of them were written),—a fact which may perhaps be allowed to excuse some of its shortcomings.
+How utterly unworthy of their subject these Dissertations are, no one can feel more deeply than I do. Yet, at the same time, they were, I believe, the first attempt to elucidate Comparative Liturgiology which had appeared in the English language, (Mr. Freeman's invaluable work having not been published when most of them were written),—a fact which may perhaps be allowed to excuse some of its shortcomings.
 
 SACKVILLE COLLEGE,
 

@@ -40,7 +40,7 @@ Our Church ascribeth not the power of remission of sins to any but to GOD only. 
 
 *Authority of the Church*is only *spiritual* and *ministerial* (the Head and authority being in heaven). She does not, therefore, call her orders *Laws*, but *Rules, Canons*; and her inflictions, not *punishments*, but *censures*. She acknowledges that whatever power she has besides spiritual, is either from the favour or injunction of princes.
 
-But (Article 37.) we give not our princes (and they have always disclaimed it) the power of administering GOD’S Word, or the Sacraments. And although our spiritual power be from GOD, yet is this power subject to be inhibited, limited, regulated, in the *outward exercises*, by the laws and customs of the land. By this moderation both powers are preserved entire and distinct. We neither claim a power of jurisdiction over the prince, nor pretend to be exempt from his.
+But (Article 37.) we give not our princes (and they have always disclaimed it) the power of administering GOD'S Word, or the Sacraments. And although our spiritual power be from GOD, yet is this power subject to be inhibited, limited, regulated, in the *outward exercises*, by the laws and customs of the land. By this moderation both powers are preserved entire and distinct. We neither claim a power of jurisdiction over the prince, nor pretend to be exempt from his.
 
 *Antenuptial Fornication*.
 

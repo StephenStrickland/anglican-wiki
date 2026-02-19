@@ -106,7 +106,7 @@ L
 
 C
 
-*. Is it quite in accordance with our present Protestant notions, that unbaptized persons should not be buried with the rites of the Church?—that every Clergyman should read the Daily Service morning and evening at home, if he cannot get a congregation?—that in college chapels the Holy Communion should be administered every week—that Saints’ Days should be observed?—that stated days of fasting should be set apart by the Church? Ask even a sober-minded really serious man about the observance of these rules; will he not look grave, and say, that he is afraid of formality and superstition if these rules were attended to?*
+*. Is it quite in accordance with our present Protestant notions, that unbaptized persons should not be buried with the rites of the Church?—that every Clergyman should read the Daily Service morning and evening at home, if he cannot get a congregation?—that in college chapels the Holy Communion should be administered every week—that Saints' Days should be observed?—that stated days of fasting should be set apart by the Church? Ask even a sober-minded really serious man about the observance of these rules; will he not look grave, and say, that he is afraid of formality and superstition if these rules were attended to?*
 
 L
 
@@ -134,7 +134,7 @@ C
 
 L
 
-*. All, however, will allow, I suppose, that our Reformation was never completed in its details. The final judgment was not passed upon parts of the Prayer Book. There were, you know, alterations in the second edition of it published in King Edward’s time; and these tended to a more Protestant doctrine than that which had first been adopted. For instance, in King Edward’s first book the dead in CHRIST were prayed for; in the second this commemoration was omitted. Again, in the first book the elements of the LORD’S Supper were more distinctly offered up to GOD, and more formally consecrated than in the second edition, or at present. Had Queen Mary not succeeded, perhaps the men who effected this would have gone further.*
+*. All, however, will allow, I suppose, that our Reformation was never completed in its details. The final judgment was not passed upon parts of the Prayer Book. There were, you know, alterations in the second edition of it published in King Edward's time; and these tended to a more Protestant doctrine than that which had first been adopted. For instance, in King Edward's first book the dead in CHRIST were prayed for; in the second this commemoration was omitted. Again, in the first book the elements of the LORD'S Supper were more distinctly offered up to GOD, and more formally consecrated than in the second edition, or at present. Had Queen Mary not succeeded, perhaps the men who effected this would have gone further.*
 
 C
 
@@ -146,7 +146,7 @@ L
 
 C
 
-*. Yes, the foreign party: who afterwards went by the name of Puritans. Bucer, who altered in King Edward’s time, and the Puritans, who destroyed in King Charles’s, both came from the same religious quarter.*
+*. Yes, the foreign party: who afterwards went by the name of Puritans. Bucer, who altered in King Edward's time, and the Puritans, who destroyed in King Charles's, both came from the same religious quarter.*
 
 L
 
@@ -194,7 +194,7 @@ L
 
 C
 
-*. Now for a second instance. The following is his statement concerning the LORD’S Supper. "I understand what is to be understood by the words of CHRIST; that He doth not only offer us the benefits of His death and Resurrection, but His very body, wherein He died and rose again. I assert that the body of CHRIST is really, (as the usual expression is,) that it is truly given to us in the Sacrament, to be the saving food of our souls." ...... "The SON of GOD offers daily to us in the Holy Sacrament, the same body which He once offered in sacrifice to His Father, that it may be our spiritual food."... "If anyone ask me concerning the manner, I will not be ashamed to confess that it is a secret too high for my reason to comprehend, or my tongue to express." Now, if I were of myself to use these words, (in spite of the qualification at the end, concerning the manner of His presence in the Sacrament,) would they not be sufficient to convict me of Popery in the judgment of this minute and unlearned generation?*
+*. Now for a second instance. The following is his statement concerning the LORD'S Supper. "I understand what is to be understood by the words of CHRIST; that He doth not only offer us the benefits of His death and Resurrection, but His very body, wherein He died and rose again. I assert that the body of CHRIST is really, (as the usual expression is,) that it is truly given to us in the Sacrament, to be the saving food of our souls." ...... "The SON of GOD offers daily to us in the Holy Sacrament, the same body which He once offered in sacrifice to His Father, that it may be our spiritual food."... "If anyone ask me concerning the manner, I will not be ashamed to confess that it is a secret too high for my reason to comprehend, or my tongue to express." Now, if I were of myself to use these words, (in spite of the qualification at the end, concerning the manner of His presence in the Sacrament,) would they not be sufficient to convict me of Popery in the judgment of this minute and unlearned generation?*
 
 L
 
@@ -218,7 +218,7 @@ L
 
 C
 
-*. This is not the first time you have spoken of this supposed system of ours. I will not stop to quarrel with you for calling it *ours*, as if it were not rather the Church’s; but explain to me what you consider it to consist in.*
+*. This is not the first time you have spoken of this supposed system of ours. I will not stop to quarrel with you for calling it *ours*, as if it were not rather the Church's; but explain to me what you consider it to consist in.*
 
 L
 
@@ -226,7 +226,7 @@ L
 
 C
 
-*. As to urging them at all, we might be free to urge them even though not mentioned in the Articles; unless indeed the Articles are our rule of faith. Were the Church first set up at the Reformation, then indeed it might be right so to exalt its Articles as to forbid to teach "whatsoever is not read therein, nor may be proved thereby." I cannot consent, I am sure the Reformers did not wish me, to deprive myself of the Church’s dowry, the doctrines which the Apostles spoke in Scripture and impressed upon the early Church. I receive the Church as a messenger from CHRIST, rich in treasures old and new, rich with the accumulated wealth of ages.*
+*. As to urging them at all, we might be free to urge them even though not mentioned in the Articles; unless indeed the Articles are our rule of faith. Were the Church first set up at the Reformation, then indeed it might be right so to exalt its Articles as to forbid to teach "whatsoever is not read therein, nor may be proved thereby." I cannot consent, I am sure the Reformers did not wish me, to deprive myself of the Church's dowry, the doctrines which the Apostles spoke in Scripture and impressed upon the early Church. I receive the Church as a messenger from CHRIST, rich in treasures old and new, rich with the accumulated wealth of ages.*
 
 L
 
@@ -250,7 +250,7 @@ L
 
 C
 
-*. Is it not a clergyman’s duty to maintain and confess it?
+*. Is it not a clergyman's duty to maintain and confess it?
 
 L. Certainly.
 
@@ -276,9 +276,9 @@ I consider that it is unscriptural to say with the Church of Rome, that "we are 
 
 That it is unscriptural that "the good works of a man justified do *truly* merit eternal life."
 
-That the doctrine of transubstantiation, as not being revealed, but a theory of man’s devising, is profane and impious.
+That the doctrine of transubstantiation, as not being revealed, but a theory of man's devising, is profane and impious.
 
-That the denial of the cup to the laity, is a bold and unwarranted encroachment on their privileges as CHRIST’S people.
+That the denial of the cup to the laity, is a bold and unwarranted encroachment on their privileges as CHRIST'S people.
 
 That the sacrifice of masses, as it has been practised in the Roman Church, is without foundation in Scripture or antiquity, and therefore blasphemous and dangerous.
 
@@ -300,7 +300,7 @@ That the Roman Doctrine of Tradition is unscriptural.
 
 That the claim of the Pope to be Universal Bishop is against Scripture and antiquity.
 
-I might add other points in which also I protest against the Church of Rome, but I think it enough to make my confession in Hall’s order, and so leave it. And having done so, I will ask you but one question. Which says more against Popery, the Articles or I? The only severe words in the Articles being, that "the Sacrifice of Masses" "were blasphemous fables a dangerous deceits;" whereas the "doctrines concerning Purgatory, Pardons, Worshipping, and Adoration, as well of images as of relics, and also Invocation of saints," are only called "a fond thing," vainly invented, and grounded upon no warranty of Scripture, but rather repugnant to the Word of GOD."
+I might add other points in which also I protest against the Church of Rome, but I think it enough to make my confession in Hall's order, and so leave it. And having done so, I will ask you but one question. Which says more against Popery, the Articles or I? The only severe words in the Articles being, that "the Sacrifice of Masses" "were blasphemous fables a dangerous deceits;" whereas the "doctrines concerning Purgatory, Pardons, Worshipping, and Adoration, as well of images as of relics, and also Invocation of saints," are only called "a fond thing," vainly invented, and grounded upon no warranty of Scripture, but rather repugnant to the Word of GOD."
 
 *L*. Thank you for this conversation; from which I hope to draw matter for reflection, though the subject seems to involve such deep historical research, I hardly know how to find my way ..through it.
 

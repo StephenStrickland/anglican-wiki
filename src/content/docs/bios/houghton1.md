@@ -10,7 +10,7 @@ Priest in the Church of God.
 
 ![houghton1.jpg (27189 bytes)](https://anglicanhistory.org/bios/houghton1.jpg)
 
-This Memorial Sermon was preached in Saint Mary’s Chapel, Sherwood
+This Memorial Sermon was preached in Saint Mary's Chapel, Sherwood
 Park, Yonkers, New York, on the Fourth Sunday after Epiphany,
 January 30th, 1898, by the Rev. Harry I. Bodley, at
 the request of the Curate in Charge, the Rev.
@@ -195,7 +195,7 @@ Of his deep, inner life there are vistas everywhere. I cannot give you these wit
 > > "JESU."
 
 > "In mine ear an angel whispered,
-> ‘Jesu, Jesu,' yesterday,
+> 'Jesu, Jesu,' yesterday,
 > Never word so sweet had sounded,
 > Fain I'd hear it breathed alway.
 >

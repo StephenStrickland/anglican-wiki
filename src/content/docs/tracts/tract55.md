@@ -52,7 +52,7 @@ John xii. 43. "They loved the praise of men more than the glory of GOD." And thi
 
 We must never insult a sinner; but, without extenuating his sin, we must comfort him, by showing him the good which GOD may bring out of it.
 
-Acts viii. 3. "As for Saul, he made havock of the Church." The designs of GOD toward Saul should teach us not to despair of any man’s conversion, but to pray for it, and to use our best endeavours, instead of being angry, and using them ill.
+Acts viii. 3. "As for Saul, he made havock of the Church." The designs of GOD toward Saul should teach us not to despair of any man's conversion, but to pray for it, and to use our best endeavours, instead of being angry, and using them ill.
 
 Acts ix. 9. "And Saul was three days without sight, and neither did eat nor drink." JESUS CHRIST Himself, in this instance, teaches His ministers not to be too hasty in receiving penitents, but to let them fast and pray, and bear the sense of their sin, and of their bad condition, before they be reconciled. It teaches penitents to fast and pray, and to bear with patience the fruit of their own doings,
 
@@ -76,7 +76,7 @@ It is the greatest comfort of a good pastor, to feel himself obliged to use noth
 
 It seldom happens that great men, whether clergy or laity, reform their lives, because they seldom meet with persons of courage to oppose them, or to tell them of their faults. A Bishop who is not restrained by any earthly engagements, will not spare any man whose conduct is prejudicial to the faith.
 
-Gal. v. 12. "I would they were even cut off which trouble you." To wish shame, or some temporal evil, for the salvation of our neighbour’s soul, is not contrary to charity. It seems, matters were come to a great height of evil, when St. Paul was forced to wish that to be done, which he did not, in prudence, think fit to do.
+Gal. v. 12. "I would they were even cut off which trouble you." To wish shame, or some temporal evil, for the salvation of our neighbour's soul, is not contrary to charity. It seems, matters were come to a great height of evil, when St. Paul was forced to wish that to be done, which he did not, in prudence, think fit to do.
 
 Ecclus. viii. 5. "Reproach not a man that turneth from sin, but remember that we are all worthy of punishment."
 
@@ -104,15 +104,15 @@ Nor can any prince, governor, nor human law, hinder a Christian Bishop from exer
 
 Nor must it be pretended, that the punishment which Christian Magistrates inflict may supersede this discipline. Those punishments only affect the body, and keep the outward man in order. These are designed to purify the soul, and to save that from destruction. Excommunication, as St. Paul tells us, (1 Cor. v. 5.) is "for the destruction of the flesh, that the soul may be saved;" that is, to mortify the corruption of nature, lust, pride, intemperance, &c.; this being the only way to save the soul of the sinner, and to bring him to reason, that is, to repentance.
 
-For upon a sinner’s repentance, (unless where he has incurred the sentence more than once,) the Church is ready to receive him into her bosom, with open arms. But then by repentance must be understood, *not* a bare change of mind; not an acknowledgment of the sin and scandal; not a serious behaviour for a few days;—all which may soon wear off; but, a course of public trial of sincerity, such as may satisfy a man’s self, and all sober Christians, that the sinner is a true penitent: that he has forsaken all his evil ways, evil company, evil habits; that he is grown habitually serious, devout and religious,—and that by fasting and prayer, he has, in some good measure, got the mastery of his corrupt nature, and has begun a repentance not to be repented of.
+For upon a sinner's repentance, (unless where he has incurred the sentence more than once,) the Church is ready to receive him into her bosom, with open arms. But then by repentance must be understood, *not* a bare change of mind; not an acknowledgment of the sin and scandal; not a serious behaviour for a few days;—all which may soon wear off; but, a course of public trial of sincerity, such as may satisfy a man's self, and all sober Christians, that the sinner is a true penitent: that he has forsaken all his evil ways, evil company, evil habits; that he is grown habitually serious, devout and religious,—and that by fasting and prayer, he has, in some good measure, got the mastery of his corrupt nature, and has begun a repentance not to be repented of.
 
 For want of this care and method, many Christians are ruined eternally. They sin and repent, and sin again, and think all is safe, because they have repented, as they think, and are pardoned.
 
 There are people who are in the same sad case with those that stand excommunicated, though no sentence has passed upon them, namely, such as live in a contempt of the public worship of GOD. They cannot properly be turned out of the Church, who never come into it, but they keep themselves out of the ark, and consequently must perish.
 
-Excommunication, in the primitive times, was pronounced in the congregation to which the offender belonged. After which, they gave notice to all other Churches; namely, ‘let no temple of GOD be open to him, let none converse with him, &c.
+Excommunication, in the primitive times, was pronounced in the congregation to which the offender belonged. After which, they gave notice to all other Churches; namely, 'let no temple of GOD be open to him, let none converse with him, &c.
 
-2 Sam. xii. 13, 14. "And David said unto Nathan, I have sinned against the LORD. And Nathan said, the LORD also hath put away thy sin, thou shalt not die. Howbeit, because by this deed thou hast given occasion to the enemies of the LORD to blaspheme, the child that is born unto thee shall surely die." The divine justice punisheth every sin, either in this world or in the next. A sinner’s willingness to undergo any punishment which shall be appointed by the minister of GOD, in order to make proof of, and to establish his repentance, is a sure sign that GOD has not withdrawn his grace, notwithstanding his sin.
+2 Sam. xii. 13, 14. "And David said unto Nathan, I have sinned against the LORD. And Nathan said, the LORD also hath put away thy sin, thou shalt not die. Howbeit, because by this deed thou hast given occasion to the enemies of the LORD to blaspheme, the child that is born unto thee shall surely die." The divine justice punisheth every sin, either in this world or in the next. A sinner's willingness to undergo any punishment which shall be appointed by the minister of GOD, in order to make proof of, and to establish his repentance, is a sure sign that GOD has not withdrawn his grace, notwithstanding his sin.
 
 *(To be continued.)*
 

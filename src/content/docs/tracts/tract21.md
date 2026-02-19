@@ -40,13 +40,13 @@ OUR SAVIOUR did not statedly fast; but here also the exception proves the rule. 
 
 He bade His disciples to fast Consider his implied precept, is an express command to those who obey the Law of Liberty. "When thou fastest, anoint thy head, and wash thy face, that thou appear not unto men to fast." Matt. vi. 17, 18.
 
-Consider, moreover, the *general austere character* of Christian obedience, as enjoined by our LORD;—a circumstance much to be on in an age like this, when what is really self-indulgence is thought to be a mere moderate and innocent use of this world’s goods. I will but refer to a few, out of many texts, which I am persuaded are now forgotten by numbers of educated and amiable men who are fond of extolling what they call the mild, tolerant, enlightened spirit of the Gospel. Matt. v. 29, 30. vii. 13, 14. x 37—39. Mark ix. 43—50. x. 25. Luke xiv. 12. 26—33.
+Consider, moreover, the *general austere character* of Christian obedience, as enjoined by our LORD;—a circumstance much to be on in an age like this, when what is really self-indulgence is thought to be a mere moderate and innocent use of this world's goods. I will but refer to a few, out of many texts, which I am persuaded are now forgotten by numbers of educated and amiable men who are fond of extolling what they call the mild, tolerant, enlightened spirit of the Gospel. Matt. v. 29, 30. vii. 13, 14. x 37—39. Mark ix. 43—50. x. 25. Luke xiv. 12. 26—33.
 
 And reflect, too, whether the spirit of texts such as the following will not move every true member of the Church Militant. "The ark, and Israel, and Judah abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink?. . . . . as thou liveth, and as thy soul liveth, I will not do this thing. 2 Sam. xi. 11.
 
 Now take the example of the Apostles. St. Peter was fasting, when he had the vision which sent him to Cornelius : Acts x.. 10. The prophets and teachers at Antioch were fasting, when the HOLY GHOST revealed to them His purpose about Saul and Barnabas: Acts iii. 2, 3. Vide also Acts xiv. 23. 2 Cor. vi. 5. xi. 27.
 
-Weigh well the following text, which I am persuaded many men would deny to be St. Paul’s writing, had not a gracious Providence preserved to us the epistle containing it. "I keep under my body, and bring it into subjection; lest that by any means, when I have preached to others, I myself should be a cast-away." 1 Cor. ix. 27.
+Weigh well the following text, which I am persuaded many men would deny to be St. Paul's writing, had not a gracious Providence preserved to us the epistle containing it. "I keep under my body, and bring it into subjection; lest that by any means, when I have preached to others, I myself should be a cast-away." 1 Cor. ix. 27.
 
 4\. Lastly, Consider the practice of the Primitive Christians.
 
@@ -60,7 +60,7 @@ THE FASTS OF THE FOUR SEASONS.—The next Anniversary fasting days were those wh
 
 MONTHLY FASTS.—In some places they had also Monthly Fasts throughout the year excepting in the two months of July and August ….. because of the sickness of the season.
 
-WEEKLY FASTS.—Besides these they had their weekly Fasts on Wednesday and Friday, called the Stationary Days, and Half-Fasts, or Fasts of the Fourth and Sixth Days of the Week …….. These Fasts being of continual use every week throughout the Year, except in the Fifty Days between Easter and Pentecost, were not kept with that rigour and strictness which was observed in the time of Lent \[but\] ordinarily held no longer than 9 o’clock, i. e. 3 in the afternoon.
+WEEKLY FASTS.—Besides these they had their weekly Fasts on Wednesday and Friday, called the Stationary Days, and Half-Fasts, or Fasts of the Fourth and Sixth Days of the Week …….. These Fasts being of continual use every week throughout the Year, except in the Fifty Days between Easter and Pentecost, were not kept with that rigour and strictness which was observed in the time of Lent \[but\] ordinarily held no longer than 9 o'clock, i. e. 3 in the afternoon.
 
 OXFORD.
 *The Feast of the Circumcision.*

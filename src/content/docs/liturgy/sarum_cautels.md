@@ -5,13 +5,13 @@ description: Cautels of the Mass. From Project Canterbury.
 
 Project Canterbury
 
-<table align="center" border="2" cellpadding="2" cellspacing="2"><tbody><tr><td><p align="center"> </p><p align="center">CAUTELS OF THE MASS.</p><p align="center"> </p><p align="center">translated from the Sarum Missal.</p><p align="center"> </p><p align="center">BY</p><p align="center">JOHN PURCHAS, M.A.,</p><p align="center">CHRIST’S COLLEGE, CAMBRIDGE; PRIEST IN THE DIOCESE OF ELY;<br>EDITOR OF THE “DIRECTORIUM ANGLICANUM.”</p><p align="center"> </p><p align="center">LONDON:</p><p align="center">PRINTED FOR THE EDITOR BY JOSEPH MASTERS, ALDERSGATE STREET,<br>AND NEW BOND STREET.</p><p align="center">MDCCCLVIII.</p></td></tr></tbody></table>
+<table align="center" border="2" cellpadding="2" cellspacing="2"><tbody><tr><td><p align="center"> </p><p align="center">CAUTELS OF THE MASS.</p><p align="center"> </p><p align="center">translated from the Sarum Missal.</p><p align="center"> </p><p align="center">BY</p><p align="center">JOHN PURCHAS, M.A.,</p><p align="center">CHRIST'S COLLEGE, CAMBRIDGE; PRIEST IN THE DIOCESE OF ELY;<br>EDITOR OF THE "DIRECTORIUM ANGLICANUM."</p><p align="center"> </p><p align="center">LONDON:</p><p align="center">PRINTED FOR THE EDITOR BY JOSEPH MASTERS, ALDERSGATE STREET,<br>AND NEW BOND STREET.</p><p align="center">MDCCCLVIII.</p></td></tr></tbody></table>
 
 Transcribed by Peter Owen, 2006
 
 ---
 
-> It is believed that the careful study of these Cautels of the English Church used in times of old, will be the means of wakening many Priests to a sense of what is due on the score of reverence and decency to so great a Mystery. It should also be remembered that very nearly the whole of the following are to be found in the Provisions of the Canons and Constitutions of the Church of England passed before the sixteenth century, and that such of them as are consistent with the structure of our Service Book have the force of statute law in virtue of 25 Henry VIII. c. 19, § 7, and 35 Henry VIII. c. 16, § 2. They may most conveniently be found in Perry’s “Lawful Church Ornaments,” pp. 472—482, where those which are *statutable* are indicated.
+> It is believed that the careful study of these Cautels of the English Church used in times of old, will be the means of wakening many Priests to a sense of what is due on the score of reverence and decency to so great a Mystery. It should also be remembered that very nearly the whole of the following are to be found in the Provisions of the Canons and Constitutions of the Church of England passed before the sixteenth century, and that such of them as are consistent with the structure of our Service Book have the force of statute law in virtue of 25 Henry VIII. c. 19, § 7, and 35 Henry VIII. c. 16, § 2. They may most conveniently be found in Perry's "Lawful Church Ornaments," pp. 472—482, where those which are *statutable* are indicated.
 >
 > J.P.
 >
@@ -30,7 +30,7 @@ THE first Cautel is: that the Priest about to celebrate Mass shall seasonably pr
 
 He should suit his understanding to the signs and words, since great things are latent in signs, greater things in words, and still greater things in intention. He should join three[\[2\]](#_edn2) fingers together with which he will make the sign (of the cross); the other two he will lay together in his hand. He will make the sign directly over the chalice, not obliquely; and sufficiently high, lest he upset it. He must not make circles for crosses. When he inclines, he must not do it obliquely but right before the altar, and in inclining must bend his whole body.
 
-\[*The* “*Materies*.”\]
+\[*The* "*Materies*."\]
 
 The second Cautel is: that he must not think, but know for certain, that he has the appointed matter (*debitas*[\[3\]](#_edn3) *materias*); this is wheaten bread, and wine (mixed) with a modicum of water. Of the wine and water he will be able to be certified after this fashion. Let him test it by his minister[\[4\]](#_edn4) who will taste both the wine and the water. But the Priest himself ought not to taste it.[\[5\]](#_edn5) Let him pour a drop upon his hand, rub it with his finger, and smell it, so that he may be the more certified. He must trust neither the *mark* (*signature*[\[6\]](#_edn6)) upon the cruet, nor the colour of it: since both often deceive. He must see that the chalice be not broken. He must look to the wine; if it is corrupted he must in no wise celebrate; if it is sour he must in no wise pass it by. If it is too watery,[\[7\]](#_edn7) he must not use it, unless he knows that the wine exceeds the water. And in every case where there is a doubt either in regard to the sourness or the mixture,[\[8\]](#_edn8) or the excessive thickness of the wine, whether it can be used, we counsel the Priest not to use it: because in this Sacrament nothing must be done concerning which there is any doubt, where most explicitly (*certissime*) it is to be said; HOC EST ENIM CORPUS MEUM, *et*, HIC EST ENIM CALIX SANGUINIS MEI. Let him also see that he offer the oblations conveniently and that he pour out the wine discreetly, because this Sacrament ought to be appreciable by the senses, to be seen, touched, and tasted, in order that the sense may be refreshed by the *species*, and the intellect be nourished (*ex re contenta*). Also the water must be poured[\[9\]](#_edn9) in the smallest possible quantity, so that it may be absorbed by the wine and receive the savour of the wine. For there is no danger, however small be the modicum of water that is mixed, but there is risk if it be much. Moreover, the water is mixed solely as a symbol, and one drop is as symbolical as a thousand. The Priest should, therefore, take heed not to pour the water with an *impetus*, lest too much should fall into the chalice.
 
@@ -42,7 +42,7 @@ The fourth Cautel is: That if he has to consecrate more hosts (than one) he ough
 
 We counsel also that the Presbyter should know the Canon by heart, in order that he may say it more devotionally; yet he should always have the Service-Book that it may be referred to to help his memory.
 
-The fifth cautel is: That whilst he communicates he should never take the chalice at one draught,[\[11\]](#_edn11) lest by reason of the *impetus* (of the wine against his *fauces*) he should unadvisedly cough, but twice or thrice he should take It warily, that no impediment occur. But if he must take more Hosts than one, as when the Host is renewed,[\[12\]](#_edn12) let him first take that which he has used as the Priest’s Host (*confecit*) and (also) the Blood; after them the others which remain. He should take his own (Host) before the others, because of his own he believes and has knowledge,[\[13\]](#_edn13) (that the matter is without defect), of the others he indeed believes, but has not certain knowledge. After that the Ablutions, and not before.
+The fifth cautel is: That whilst he communicates he should never take the chalice at one draught,[\[11\]](#_edn11) lest by reason of the *impetus* (of the wine against his *fauces*) he should unadvisedly cough, but twice or thrice he should take It warily, that no impediment occur. But if he must take more Hosts than one, as when the Host is renewed,[\[12\]](#_edn12) let him first take that which he has used as the Priest's Host (*confecit*) and (also) the Blood; after them the others which remain. He should take his own (Host) before the others, because of his own he believes and has knowledge,[\[13\]](#_edn13) (that the matter is without defect), of the others he indeed believes, but has not certain knowledge. After that the Ablutions, and not before.
 
 The sixth Cautel is: That he burdens himself with names of few[\[14\]](#_edn14) in the Canon; not always, but when he wishes it he may make mention of them, when he wishes he may omit them, because the Canon is made prolix by a multitude of names, and hence thought is distracted. Yet it is honourable that father, mother, brother, and sister should there be named; and specially those in whose behalf the Mass is celebrated. Not, however, that the expression thereof should be vocal, but mental.
 
@@ -52,7 +52,7 @@ Therefore let the Priest have diligence in performing It; reverence in handling 
 
 Also in saying the collects the Priest should observe always to say an unequal number.[\[15\]](#_edn15) One collect on account of the Unity of the Godhead., Three on account of the Trinity of Persons. Five on account of the five-fold Passion of CHRIST. Seven on account of the seven-fold grace of the HOLY GHOST. It is not lawful to exceed the number seven.
 
-Also; when a collect is directed solely to The FATHER, at close shall be said: “*through our* LORD JESUS CHRIST.” But if it is directed to the FATHER, and mention is made of the SON in the same collect, at the close shall be said: “*through the same our* LORD JESUS CHRIST.” But if the collect is directed solely to the SON, at the close shall be said: “*Who with the* FATHER *and the* HOLY GHOST, &c.” And if mention be made of the HOLY SPIRIT in any collect, at the close shall be said: “of the same HOLY SPIRIT, GOD *for ever and ever*. Amen.”
+Also; when a collect is directed solely to The FATHER, at close shall be said: "*through our* LORD JESUS CHRIST." But if it is directed to the FATHER, and mention is made of the SON in the same collect, at the close shall be said: "*through the same our* LORD JESUS CHRIST." But if the collect is directed solely to the SON, at the close shall be said: "*Who with the* FATHER *and the* HOLY GHOST, &c." And if mention be made of the HOLY SPIRIT in any collect, at the close shall be said: "of the same HOLY SPIRIT, GOD *for ever and ever*. Amen."
 
 ¶ *Here begin Cautels to be observed*, *as to what is to be done in regard to defect, or accident*, *which may possibly arise in the Mass*, *and especially in regard to the consecration of the Eucharist*.
 
@@ -90,7 +90,7 @@ Also: if during the time of consecration, any distraction should occur from his 
 
 But if in too much distraction, his habitual intention be withdrawn as well as his actual intention, it seems he ought to resume the words of consecration with actual intention, with this proviso, that he is unwilling to consecrate, if consecration has taken place.
 
-Also: if the consecrated Host on account of cold, or any other cause, slips from the Priest’s (hands) into the chalice, whether before or after the dividing of It; he ought not to take It out of the Blood, nor to reiterate any thing by reason of this, or to change ought concerning the celebration of the Sacrament; but he must proceed in making the sign of the cross and in other matters, as if he held It in his hands.
+Also: if the consecrated Host on account of cold, or any other cause, slips from the Priest's (hands) into the chalice, whether before or after the dividing of It; he ought not to take It out of the Blood, nor to reiterate any thing by reason of this, or to change ought concerning the celebration of the Sacrament; but he must proceed in making the sign of the cross and in other matters, as if he held It in his hands.
 
 If the Eucharist hath fallen to the ground, the place where It lay must be scraped, and fire kindled thereon, and the ashes reserved beside the altar.[\[26\]](#_edn26)
 
@@ -122,7 +122,7 @@ Also: if anything be wanting here, it must be looked for *in summa et lectura Ho
 
 > [\[2\]](#_ednref2) This is usually the episcopal usage in blessing: a simple Priest ought more properly to bless with the whole hand. See Directorium Anglicanum, Parr. 44, note ‡, subnote 1, and 122, note †.
 
-> [\[3\]](#_ednref3) “Rightly and *duly* administer Thy Holy Sacraments.” Prayer of Oblation.—Book of Common Prayer.
+> [\[3\]](#_ednref3) "Rightly and *duly* administer Thy Holy Sacraments." Prayer of Oblation.—Book of Common Prayer.
 
 > [\[4\]](#_ednref4) Who would not communicate.
 
@@ -140,13 +140,13 @@ Also: if anything be wanting here, it must be looked for *in summa et lectura Ho
 
 > [\[11\]](#_ednref11) This, of course, is inapplicable to us—the privilege of communion in both kinds being invariably restored to all who communicate.
 
-> [\[12\]](#_ednref12) See p. 8, “If he perceive this after taking of the Body,” &c.
+> [\[12\]](#_ednref12) See p. 8, "If he perceive this after taking of the Body," &c.
 
-> [\[13\]](#_ednref13) The Priest, through the *medium* of his minister, would have tested the Priest’s own breads by eating one or two of the wafers made at the same batch—besides the hosts intended for the Priest were probably made under his own eye, if not actually with his own hands, as the Cautels evidently imply. See “On the Celebration of the Holy Eucharist,” pp. 5—7, a paper reprinted from the *Ecclesiastic*.
+> [\[13\]](#_ednref13) The Priest, through the *medium* of his minister, would have tested the Priest's own breads by eating one or two of the wafers made at the same batch—besides the hosts intended for the Priest were probably made under his own eye, if not actually with his own hands, as the Cautels evidently imply. See "On the Celebration of the Holy Eucharist," pp. 5—7, a paper reprinted from the *Ecclesiastic*.
 
 > [\[14\]](#_ednref14) The names of those his piety may prompt him to commemorate whether living or dead. All long pauses and prolixity of every kind should be carefully eschewed.
 
-> [\[15\]](#_ednref15) See “Directorium Anglicanum,” Par. 20.
+> [\[15\]](#_ednref15) See "Directorium Anglicanum," Par. 20.
 
 > [\[16\]](#_ednref16) Before the Prayer for the Church Militant in our Service Book when the oblations are made.
 
@@ -156,7 +156,7 @@ Also: if anything be wanting here, it must be looked for *in summa et lectura Ho
 
 > [\[19\]](#_ednref19) I.e., *recollect* that the chalice had not been prepared; he could not tell the absence of a few drops of water by his vision.
 
-> [\[20\]](#_ednref20) By giving it to the Deacon, who hands it to the Subdeacon to empty into the piscina at solemn Service; or by emptying it himself at low Service—for the server, under such circumstances, must not touch the chalice, unless he be in Holy Orders. See “Directorium Anglicanum,” Par. 78.
+> [\[20\]](#_ednref20) By giving it to the Deacon, who hands it to the Subdeacon to empty into the piscina at solemn Service; or by emptying it himself at low Service—for the server, under such circumstances, must not touch the chalice, unless he be in Holy Orders. See "Directorium Anglicanum," Par. 78.
 
 > [\[21\]](#_ednref21) The decrees of councils and written opinions of doctors and canonists.
 
@@ -164,9 +164,9 @@ Also: if anything be wanting here, it must be looked for *in summa et lectura Ho
 
 > [\[23\]](#_ednref23) Scil. with a perforated spoon—there should always be one on the credence.
 
-> [\[24\]](#_ednref24) The Subdeacon should be sent for a *covered* chalice, he will pour a little water in, and also over the Priest’s fingers. The Priest will leave the fly or suchlike thing and spoon with the ablutions in the chalice; the Subdeacon will cover the chalice, and place it on the credence. After service the insect must be burnt and the ashes and ablutions thrown down the piscina.
+> [\[24\]](#_ednref24) The Subdeacon should be sent for a *covered* chalice, he will pour a little water in, and also over the Priest's fingers. The Priest will leave the fly or suchlike thing and spoon with the ablutions in the chalice; the Subdeacon will cover the chalice, and place it on the credence. After service the insect must be burnt and the ashes and ablutions thrown down the piscina.
 
-> [\[25\]](#_ednref25) “Habitual intention” is the frame of mind which has a general and pervading intention to do what CHRIST did, and so fulfil the mind of the Church—“actual intention” is the *consciousness* of “habitual intention” directed to a particular action or thing.
+> [\[25\]](#_ednref25) "Habitual intention" is the frame of mind which has a general and pervading intention to do what CHRIST did, and so fulfil the mind of the Church—"actual intention" is the *consciousness* of "habitual intention" directed to a particular action or thing.
 
 > [\[26\]](#_ednref26) In a similar case we should put the ashes down the piscina.
 
@@ -176,10 +176,10 @@ Also: if anything be wanting here, it must be looked for *in summa et lectura Ho
 
 > [\[29\]](#_ednref29) Viz. the reserved Sacrament.
 
-> [\[30\]](#_ednref30) The “form” or outward part of the Sacrament.
+> [\[30\]](#_ednref30) The "form" or outward part of the Sacrament.
 
-> [\[31\]](#_ednref31) This probably does not refer to the fourth linen cloth which was dyed purple and called the pall (see “Church of our Fathers,” vol. I. p. 266) but is most likely used in a general sense—meaning any of the altar-cloths, or chalice veils, &c.
+> [\[31\]](#_ednref31) This probably does not refer to the fourth linen cloth which was dyed purple and called the pall (see "Church of our Fathers," vol. I. p. 266) but is most likely used in a general sense—meaning any of the altar-cloths, or chalice veils, &c.
 
-> [\[32\]](#_ednref32) “Wine mixed with honey and spices, and afterwards strained till it is *clear*. It was otherwise called *Piment*; as appears from the title of the following receipt, in the Medulla Cirugiae Rolandi. MS. Bod. 761. fol. 86. ‘*Claretum bonum*, *sive pigmentum*—Accipe *nucem moschatam*, *cariofilos*, *gingebas*, *macis*, *cinnamonum*, *galangum*; quae omnia in pulverem reducta distempera *cum bono vino cum tertia parte mellis*: post *cola per sacculum*, et da ad bibendum. Et nota, quod illud idem potest fieri de *cerevisia*.’ And so in R. 5967. *Clarré* is the translation of *Piment*. Orig. 11450.”— Glossary to Tyrwhitt’s Chaucer, London, Moxon, 1843.
+> [\[32\]](#_ednref32) "Wine mixed with honey and spices, and afterwards strained till it is *clear*. It was otherwise called *Piment*; as appears from the title of the following receipt, in the Medulla Cirugiae Rolandi. MS. Bod. 761. fol. 86. '*Claretum bonum*, *sive pigmentum*—Accipe *nucem moschatam*, *cariofilos*, *gingebas*, *macis*, *cinnamonum*, *galangum*; quae omnia in pulverem reducta distempera *cum bono vino cum tertia parte mellis*: post *cola per sacculum*, et da ad bibendum. Et nota, quod illud idem potest fieri de *cerevisia*.' And so in R. 5967. *Clarré* is the translation of *Piment*. Orig. 11450."— Glossary to Tyrwhitt's Chaucer, London, Moxon, 1843.
 
 > [\[33\]](#_ednref33) Or a wine made from apples—perhaps cider.

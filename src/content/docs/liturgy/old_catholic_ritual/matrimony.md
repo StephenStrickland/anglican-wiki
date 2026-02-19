@@ -11,11 +11,11 @@ SOLEMNIZATION OF MATRIMONY.
 
 You appear here before me as the servant of the Christian church, and before these witnesses, to promise matrimonial love and fidelity to one another, and to have your union hallowed by the blessing of the church.
 
-In entering the condition of matrimony ye enter upon an inner union, and a partnership which embraces every condition of your lives, and indeed a contract which should be incapable of dissolution throughout the whole duration of your lives. Ye will henceforth participate in each other’s joy and sorrow. Ye will conscientiously fulfil the difficult and important duties which marriage brings with it. Ye will remain united together in true love, and not allow this true affection for any cause to be disturbed, but ever fasten its cords, and thereby render it ever purer and happier, that ye may both continually work out your sanctification and moral improvement. All this ye now promise before God, and this promise is an irrevocable one, which should bind you till death do you part.
+In entering the condition of matrimony ye enter upon an inner union, and a partnership which embraces every condition of your lives, and indeed a contract which should be incapable of dissolution throughout the whole duration of your lives. Ye will henceforth participate in each other's joy and sorrow. Ye will conscientiously fulfil the difficult and important duties which marriage brings with it. Ye will remain united together in true love, and not allow this true affection for any cause to be disturbed, but ever fasten its cords, and thereby render it ever purer and happier, that ye may both continually work out your sanctification and moral improvement. All this ye now promise before God, and this promise is an irrevocable one, which should bind you till death do you part.
 
 Certainly it is an important crisis in the life of man, a crisis in which he stands in especial need of the help and grace of God. Wherefore the Lord in his mercy and loving-kindness hath promised his especial grace to those who contract matrimony with upright Christian intention. Ye profess your belief in this promise, your wish to become participators in this grace, by appearing here to obtain the benediction of the church on your union, after ye have repeated your affirmation of consent.
 
-Let us all then, brethren, unite in the prayer that God’s richest blessing may descend upon these two persons now about to be married, and may perpetually attend upon them in their walk through life.
+Let us all then, brethren, unite in the prayer that God's richest blessing may descend upon these two persons now about to be married, and may perpetually attend upon them in their walk through life.
 
 § 113. *After the address, the Priest shall say to the persons about to be married;*
 
@@ -47,7 +47,7 @@ Bless, O Lord, this ring, and grant thy grace unto her who shall wear it, that s
 
 § 115. *The rings shall then be sprinkled with holy water*.
 
-§ 116. *The Priest shall place the one ring on the bridegroom’s finger, and shall give him the other, which the bridegroom shall place on the bride’s finger. Whereupon the Priest shall say;*
+§ 116. *The Priest shall place the one ring on the bridegroom's finger, and shall give him the other, which the bridegroom shall place on the bride's finger. Whereupon the Priest shall say;*
 
 Take hence these rings, and wear them as an emblem of that matrimonial fidelity which ye will maintain towards one another by the grace of God. May your intention be blessed by God the Father + the Son, and the Holy Ghost. *Amen*.
 

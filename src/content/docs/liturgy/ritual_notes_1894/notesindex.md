@@ -23,7 +23,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Alb, The** — 3; Must be of linen, 3; Always worn with Amice and Girdle, 5; Rarely worn, except at the Holy Eucharist, 5; Worn by Bishop, if administering Holy Baptism solemnly, 23; Prayer to be used after putting on, 31; Worn by Deacon and Sub-Deacon as well as by Celebrant, 3, 51.
 
-**All Souls’ Day, Of** — 15; Kept on November 3rd if the 2nd be a Sunday, 15; Has no Second Vespers, 15.
+**All Souls' Day, Of** — 15; Kept on November 3rd if the 2nd be a Sunday, 15; Has no Second Vespers, 15.
 
 **Alms-basin or dish** — 34, 45, 51, 69, 87.
 
@@ -57,7 +57,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Bishop, The** — Entitled to additional Candles when Celebrating, 2; Should consecrate Chalice and Paten, 2; Always wears the Stole pendant, 5; Uses Amice, Alb and Girdle when officiating or assisting pontifically at Choir Offices, 5; Wears Cope when assisting pontifically at Holy Eucharist or Choir Offices, 5; also at Processions, Solemn Baptisms, and Confirmations, 22. 23; Should carry Pastoral Staff in his left hand, 22, 23, 24, 48; Should not use Pastoral Staff, unless vested in Chasuble or Cope or, at least, in a Stole, with the Mitre, 48; May administer Holy Baptism vested as a Priest but more fittingly in full Pontificals, 23; May make the Absolution at a Requiem, although not the Celebrant at the Holy Eucharist preceding, 100; Incensed with three double swings, 51, but after the Officiant, 51.
 
-**Black, Of** — Used at Funerals, 4, 26, at Requiems, 18, on Good Friday, 4, 12, on All Souls’ Day, 15.
+**Black, Of** — Used at Funerals, 4, 26, at Requiems, 18, on Good Friday, 4, 12, on All Souls' Day, 15.
 
 **Blessed Sacrament, The** — Incensed with three double swings of the Thurible, 51; Saluted by a genuflection, if reserved in the Tabernacle, 32.
 
@@ -75,7 +75,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Burse, The** — 3, 5, 31; Placed against the gradine on the Gospel side, 32, 66, 87; Carried with the opening towards the Priest, 31; Placed on Credence with the opening to the wall, 51.
 
-**Candles, Of the Acolytes’** — At Solemn Evensong, 29; At Processions, 21; At the Holy Eucharist, 53, 55; At Funerals, 26; At the Absolutions, 100; Method of carrying, 55 Not required on Good Friday, 12; Not used at Gospel on Palm Sunday, 11; or during Holy Week, 94; or at Requiems, 18, 85; Processional Lanterns may be substituted for outdoor use, 26.
+**Candles, Of the Acolytes'** — At Solemn Evensong, 29; At Processions, 21; At the Holy Eucharist, 53, 55; At Funerals, 26; At the Absolutions, 100; Method of carrying, 55 Not required on Good Friday, 12; Not used at Gospel on Palm Sunday, 11; or during Holy Week, 94; or at Requiems, 18, 85; Processional Lanterns may be substituted for outdoor use, 26.
 
 **Candles, Of the Altar** — 1; To be of white wax, 1; On Good Friday and at Requiems, of yellow or unbleached wax, 1, 12, 26; Six to be lighted at Solemn Services on Sundays and Festivals, 1; Two sufficient on Simples and Ferias, 1; Four sufficient on lesser days and at Requiems, 1; Two to be lighted at Low Celebrations, 1; Four if a Bishop be the Celebrant, 2; Seven at a High Celebration, if the Bishop of the Diocese be the Celebrant, 2; Order to be observed in lighting and extinguishing, 2; Not to be extinguished till after the Celebrant has read the Last Gospel, 2; Six to be lighted at a Confirmation, 23; Six at a Funeral if solemnly rendered, otherwise two, 26.
 
@@ -105,7 +105,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Chasuble, The** — 3; Its colour, 4; Its use, 5; Prayer at putting on, 31; To be placed on Sedilia when the Holy Eucharist is preceded by a Procession, 22, 9, 11, 51, or by the Asperges, 96; Not to be received from the Altar, except by a Bishop, 22; At Requiems, to be exchanged at the Sedilia for a Cope before the Absolutions, 100, 103.
 
-**Chasuble, The Folded** — Used by Deacon and Sub-deacon at certain times, \* 6, 9, 10, 48; Always Violet, 48; The Deacon’s to be removed after the Epistle and resumed after the last Ablution, 86; The Sub-deacon’s to be removed during the Collect and resumed after the Epistle, 86.
+**Chasuble, The Folded** — Used by Deacon and Sub-deacon at certain times, \* 6, 9, 10, 48; Always Violet, 48; The Deacon's to be removed after the Epistle and resumed after the last Ablution, 86; The Sub-deacon's to be removed during the Collect and resumed after the Epistle, 86.
 \*During Advent and Lent and on all Fasts and Vigils, but not on the 3rd Sunday in Advent, 4th in Lent, Christmas Eve (if it be Sunday), or on the Whitsun Ember Days.
 
 **Choral Celebrations of the Holy Eucharist** — Without Incense, 87; With Incense, 90.
@@ -154,7 +154,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Dalmatic, The** — 3, 5; Prayer at putting on, 52; Not worn in Advent and Lent, 6, 10, nor at the procession on the Purification, 9, 48, nor at the Absolutions, if the Celebrant be not vested in Cope, 100; Worn on *Gaudete* and *Laetare* Sundays, 6, 10, and on the Whitsun Ember Days, 14.
 
-**Deacon, The** — His duties at the Holy Eucharist, 52, 105; At Requiems, 18, 84; At the Asperges, 96, At the Absolution for the Dead, 100; On the Purification, 8; On Palm Sunday, 11; during Holy Week, 12, 94; At Processions, 21; When wearing the folded Chasuble, 86; Always genuflects to the Altar, 54; When presenting any object to the Celebrant, to kiss first the object presented and then the Celebrant’s hand, 56, 68; All such kisses omitted in Requiems, 18. 54, 84, 100; Does not strike his breast at the *Agnus Dei* in Requiems, 84; When Sub-deacon carries Cross will always walk at Celebrant’s left, 9, 11, 21, 100, 102; Incensed with two double swings, 51; Not incensed in Requiems, 18, 84; Prayers while vesting, 31, 52, at the Holy Eucharist, 105-113.
+**Deacon, The** — His duties at the Holy Eucharist, 52, 105; At Requiems, 18, 84; At the Asperges, 96, At the Absolution for the Dead, 100; On the Purification, 8; On Palm Sunday, 11; during Holy Week, 12, 94; At Processions, 21; When wearing the folded Chasuble, 86; Always genuflects to the Altar, 54; When presenting any object to the Celebrant, to kiss first the object presented and then the Celebrant's hand, 56, 68; All such kisses omitted in Requiems, 18. 54, 84, 100; Does not strike his breast at the *Agnus Dei* in Requiems, 84; When Sub-deacon carries Cross will always walk at Celebrant's left, 9, 11, 21, 100, 102; Incensed with two double swings, 51; Not incensed in Requiems, 18, 84; Prayers while vesting, 31, 52, at the Holy Eucharist, 105-113.
 
 **Dedication, Feast of** — 16; Not observed unless Church consecrated, 16.
 
@@ -162,7 +162,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Easter-tide, Of** — 13.
 
-**Elevations, The** — 38, 74, 75, 77, 89, 92, 93; Thurifer incenses the Blessed Sacrament with three double swings at each Elevation, 75; but in Requiems this is done by the Sub-deacon, 85; Celebrant’s Chasuble to be raised by the Server or Deacon during the Elevations but not when he genuflects, 46, 74; or by both Acolytes, 89, or by Master of Ceremonies, 92.
+**Elevations, The** — 38, 74, 75, 77, 89, 92, 93; Thurifer incenses the Blessed Sacrament with three double swings at each Elevation, 75; but in Requiems this is done by the Sub-deacon, 85; Celebrant's Chasuble to be raised by the Server or Deacon during the Elevations but not when he genuflects, 46, 74; or by both Acolytes, 89, or by Master of Ceremonies, 92.
 
 **Epiphany, The** — 8.
 
@@ -200,7 +200,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Green, Of** — The ordinary colour from Epiphany to Septuagesima and during Trinity-tide, 4.
 
-**Hands, Of the** — Held joined before the breast when not carrying anything or otherwise ordered, 32, 54; Usually held extended for the prayers and joined at the concluding sentence, 33; Held extended throughout the LORD’s Prayer, 33, 40; To be extended and then rejoined at *Let us pray* and *The* LORD *be with you*, 33; But *The* LORD *be with you* before the Gospel to be said with hands joined, 34, 62; Hands raised and then extended at *Lift up your hearts*, 37; The left to be extended on the breast or placed on the Altar or on the Book when making the Sign of the Cross with the right hand or turning over the leaves of the Book, 33, 34, 36, 37, 38, 43; Thumb and forefinger of each hand to be kept joined from the Consecration to the Ablutions, 38; Acolytes, when not carrying anything, to hold their hands joined before the breast or their arms folded, 57.
+**Hands, Of the** — Held joined before the breast when not carrying anything or otherwise ordered, 32, 54; Usually held extended for the prayers and joined at the concluding sentence, 33; Held extended throughout the LORD's Prayer, 33, 40; To be extended and then rejoined at *Let us pray* and *The* LORD *be with you*, 33; But *The* LORD *be with you* before the Gospel to be said with hands joined, 34, 62; Hands raised and then extended at *Lift up your hearts*, 37; The left to be extended on the breast or placed on the Altar or on the Book when making the Sign of the Cross with the right hand or turning over the leaves of the Book, 33, 34, 36, 37, 38, 43; Thumb and forefinger of each hand to be kept joined from the Consecration to the Ablutions, 38; Acolytes, when not carrying anything, to hold their hands joined before the breast or their arms folded, 57.
 
 **High Celebrations of the Holy Eucharist, Of** — 51-83, 105-113.
 
@@ -274,7 +274,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Purificator, The** — To be of linen, 3; Its shape and dimensions, 3; Its adornment, 3; To be placed over the Chalice, 31, round the stem of the Chalice when the Priest pours in the Wine, 35, over that part of the Paten which is not under the Corporal, 36; Spread over the Chalice after the Ablutions, 43; To be clean for each Celebration, 95; To be washed first by one in Holy Orders, 2, 95.
 
-**Red, Of** — Days on which it is used, 4; Used at Votive Eucharists, 18, on Holy Innocents’ Day, if it be Sunday, or Patronal Feast, 4, 8, and always on Octave Day, 4.
+**Red, Of** — Days on which it is used, 4; Used at Votive Eucharists, 18, on Holy Innocents' Day, if it be Sunday, or Patronal Feast, 4, 8, and always on Octave Day, 4.
 
 **Requiems, Of** — See Absolution for the Dead, also Funerals and Votive Eucharists.
 
@@ -292,7 +292,7 @@ Oxford: Mowbray & Co., 1894.
 
 **Stole, The Large** — Worn by the Deacon at the times folded Chasubles are used, 48, 96.
 
-**Sub-deacon, The** — His duties at the Holy Eucharist, 52, 105; At Requiems, 84; At the Asperges, 96; At the Absolution for the Dead, 100; On the Purification, 8; On Palm Sunday, 11; During Holy Week, 12, 94; At Processions, 21; When wearing the folded Chasuble, 86; Always genuflects to the Altar, 54; When the Gospel is sung by the Deacon, does not make the Sign of the Cross or any inclination or genuflection, 62; Does not present the Water for Celebrant’s blessing in Requiems, 85; Does not wear the Humeral-Veil in Requiems, 85; Does not strike his breast at the *Agnus Dei* in Requiems, 85; In Requiems, incenses the Blessed Sacrament at the Elevations, 85; When carrying the Cross, always does so with head uncovered, 22, 100; Incensed with two double swings, 51; Not incensed m Requiems, 18, 84; Prayers while vesting, 31, 52, at the Holy Eucharist, 105-113.
+**Sub-deacon, The** — His duties at the Holy Eucharist, 52, 105; At Requiems, 84; At the Asperges, 96; At the Absolution for the Dead, 100; On the Purification, 8; On Palm Sunday, 11; During Holy Week, 12, 94; At Processions, 21; When wearing the folded Chasuble, 86; Always genuflects to the Altar, 54; When the Gospel is sung by the Deacon, does not make the Sign of the Cross or any inclination or genuflection, 62; Does not present the Water for Celebrant's blessing in Requiems, 85; Does not wear the Humeral-Veil in Requiems, 85; Does not strike his breast at the *Agnus Dei* in Requiems, 85; In Requiems, incenses the Blessed Sacrament at the Elevations, 85; When carrying the Cross, always does so with head uncovered, 22, 100; Incensed with two double swings, 51; Not incensed m Requiems, 18, 84; Prayers while vesting, 31, 52, at the Holy Eucharist, 105-113.
 
 **Surplice, The** — Always used by the Officiant, except at the Holy Eucharist, or Services immediately connected therewith, 23, 24, 25, 26, 29, 96, 102; At Communion of the Sick, with Reserved Sacrament, 5, 25; By a Cleric assisting to give Communion, 5; By the Server 44; By the Assistants on all occasions, 23, 24, 25, 29, 53; But a Bishop officiating pontifically, will use the Rochet or Alb instead, 23.
 

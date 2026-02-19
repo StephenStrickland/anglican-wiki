@@ -47,7 +47,7 @@ Almighty and everlasting God, who hast vouchsafed to regenerate these thy servan
 
 *N*. I sign thee with the sign of the cross + and I confirm thee with the chrism of salvation, in the Name of the Father + and of the Son, and of the Holy Ghost.
 
-*The Bishop*’*s assistant*. Amen.
+*The Bishop*'*s assistant*. Amen.
 
 § 46. *At the first name the candidate is anointed, at the next the sign of the cross is made over him. Then the Bishop shall strike him gently on the cheek, saying*,
 
@@ -57,7 +57,7 @@ Peace be with thee.
 
 § 48. *When all have been confirmed, the Bishop wipes his thumbs with bread-crumbs or salt, and washes his hands. At the same time the following antiphon may be said by the Bishop, or some of the assistants;*
 
-Stablish the thing, O God, that thou hast wrought in us, for thy temple’s sake at Jerusalem.
+Stablish the thing, O God, that thou hast wrought in us, for thy temple's sake at Jerusalem.
 
 Glory be to the Father, and to the Son, and to the Holy Ghost.
 

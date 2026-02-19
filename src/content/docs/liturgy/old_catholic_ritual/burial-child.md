@@ -107,4 +107,4 @@ Glory be to the Father, &c.
 
 § 183. *If the body is only blessed in the house, and not accompanied to the grave, the address must be made, and the prayers for the departed must be offered after the sprinkling of the coffin with holy water.*
 
-§ 184. *If the body is only blessed at the grave, the sentences*, “The Lord gave,” &c., *and* Ps. cxiii. *must be repeated after the benediction of the grave. The body shall be lowered during the Psalm. Then shall the Priest sprinkle the grave with holy water,* &*c., as above*.
+§ 184. *If the body is only blessed at the grave, the sentences*, "The Lord gave," &c., *and* Ps. cxiii. *must be repeated after the benediction of the grave. The body shall be lowered during the Psalm. Then shall the Priest sprinkle the grave with holy water,* &*c., as above*.

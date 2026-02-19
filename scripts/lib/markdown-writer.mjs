@@ -97,8 +97,8 @@ const WIN1252_MAP = {
   '\u0084': '\u201E', '\u0085': '\u2026', '\u0086': '\u2020',
   '\u0087': '\u2021', '\u0088': '\u02C6', '\u0089': '\u2030',
   '\u008A': '\u0160', '\u008B': '\u2039', '\u008C': '\u0152',
-  '\u008E': '\u017D', '\u0091': '\u2018', '\u0092': '\u2019',
-  '\u0093': '\u201C', '\u0094': '\u201D', '\u0095': '\u2022',
+  '\u008E': '\u017D', '\u0091': "'", '\u0092': "'",
+  '\u0093': '"', '\u0094': '"', '\u0095': '\u2022',
   '\u0096': '\u2013', '\u0097': '\u2014', '\u0098': '\u02DC',
   '\u0099': '\u2122', '\u009A': '\u0161', '\u009B': '\u203A',
   '\u009C': '\u0153', '\u009E': '\u017E', '\u009F': '\u0178',
@@ -114,6 +114,10 @@ function fixWindows1252(text) {
 function postProcess(md, localPath) {
   // Fix mis-encoded Windows-1252 C1 control characters
   md = fixWindows1252(md);
+
+  // Normalize curly quotes to straight ASCII for consistency
+  md = md.replace(/[\u2018\u2019]/g, "'");
+  md = md.replace(/[\u201C\u201D]/g, '"');
 
   // Replace non-breaking spaces with regular spaces
   md = md.replace(/\u00A0/g, ' ');

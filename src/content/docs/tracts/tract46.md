@@ -12,23 +12,23 @@ year: 1834
 >
 > Question from the Office of Ordination
 >
-> *.— ARE YOU READY, WITH ALL FAITHFUL DILIGENCE, TO BANISH AND DRIVE AWAY ALL ERRONEOUS AND STRANGE DOCTRINE, CONTRARY TO GOD’S WORD; AND BOTH PRIVATELY AND OPENLY TO CALL UPON AND ENCOURAGE OTHERS TO DO THE SAME?—*Ans*. I AM READY, THE LORD BEING MY HELPER.
+> *.— ARE YOU READY, WITH ALL FAITHFUL DILIGENCE, TO BANISH AND DRIVE AWAY ALL ERRONEOUS AND STRANGE DOCTRINE, CONTRARY TO GOD'S WORD; AND BOTH PRIVATELY AND OPENLY TO CALL UPON AND ENCOURAGE OTHERS TO DO THE SAME?—*Ans*. I AM READY, THE LORD BEING MY HELPER.
 
 Blessed be the good providence of GOD, who, in great compassion for this Church and Nation, has hitherto preserved us from heresies and schisms.
 
-O LORD, continue to us this great mercy, and grant that we, Who are appointed to watch over Thy flock, may employ our learning and our time in promoting of true piety; that we may never grow secure and careless, but that we may endeavour to secure the *power*, as well as the *form* of godliness. Have pity upon all Christian Churches, that are distracted by contending parties, and reduce all that wander out of the way. Enable us to preserve this Church in peace and unity by all means becoming the spirit of the Gospel. Keep us stedfast in the faith, that we may never be tossed about with any wind of doctrine, or the craft of men. Let the zeal and industry of those that are in error provoke us to be zealously affected in a righteous cause; in labouring to make men good, and in converting sinners from the error of their ways; which GOD grant for JESUS CHRIST’S sake. —Amen.
+O LORD, continue to us this great mercy, and grant that we, Who are appointed to watch over Thy flock, may employ our learning and our time in promoting of true piety; that we may never grow secure and careless, but that we may endeavour to secure the *power*, as well as the *form* of godliness. Have pity upon all Christian Churches, that are distracted by contending parties, and reduce all that wander out of the way. Enable us to preserve this Church in peace and unity by all means becoming the spirit of the Gospel. Keep us stedfast in the faith, that we may never be tossed about with any wind of doctrine, or the craft of men. Let the zeal and industry of those that are in error provoke us to be zealously affected in a righteous cause; in labouring to make men good, and in converting sinners from the error of their ways; which GOD grant for JESUS CHRIST'S sake. —Amen.
 
 "But," the Bishop, "himself also, as his important affairs will permit him, shall use his best persuasion, and all good means he can devise, to reclaim both them and all other within his Diocese so affected."—Canon 66th.
 
 2 Tim. iv. 3. "The time will come when they will not endure sound doctrine, but after their own lusts shall they heap to themselves teachers, having itching ears."
 
-N.B. We are now in these sad times, and it behoves all faithful Pastors to know it. It is not the doctrine of the Gospel, if it favours men’s lusts. They that will not receive, or who reject, the truth, are often judicially punished with a greediness to receive errors, falsehoods, and fables.
+N.B. We are now in these sad times, and it behoves all faithful Pastors to know it. It is not the doctrine of the Gospel, if it favours men's lusts. They that will not receive, or who reject, the truth, are often judicially punished with a greediness to receive errors, falsehoods, and fables.
 
 Ver. 5. "Watch thou in all things, endure afflictions, make full proof of (*or fulfil*) thy ministry." He that is wanting in any essential part, is wanting to his own salvation.
 
 LORD, Thou art just in all the troubles which Thou hast brought upon this Church and Nation. Yet, O LORD, have mercy upon us, and restore to us that peace and unity which we once enjoyed.
 
-Matt. vii. 20. "By their fruits ye shall know them.’’ This rule, though given by CHRIST himself, is seldom observed. The best fruits are counted as nothing, are overlooked, and often condemned by those who have none good to show. Hence, all the evils the Church suffers.
+Matt. vii. 20. "By their fruits ye shall know them.'' This rule, though given by CHRIST himself, is seldom observed. The best fruits are counted as nothing, are overlooked, and often condemned by those who have none good to show. Hence, all the evils the Church suffers.
 
 Matt. xiii. 25. "But while men slept, his enemy came and sowed tares among the wheat." O JESUS, awaken the Pastors of Thy flock, and open their eyes, that they may perceive the tares which choke the seed,—the wolves which destroy Thy sheep.
 
@@ -36,7 +36,7 @@ A mixture of good and bad in the Church is necessary to instruct, exercise, puri
 
 Matt. xiii. 29. "Nay, lest, while ye gather up the tares, ye root up also the wheat with them." A zeal not regulated by this prohibition, allows no time to the good to grow strong in goodness, or to the wicked to forsake their evil ways; but chooses rather to destroy the good, provided they can but destroy the bad.
 
-Rev. ii. 14, 20. "I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balak to cast a stumbling-block before the children of Israel, to eat things sacrificed unto idols, and to commit fornication. Thou sufferest that woman Jezebel to teach and to seduce my servants to commit fornication.’’ How dreadful is the government of the Church, wherein a man must answer for those sins which he does not hinder! To tolerate by silence those who favour and pro mote sin, JESUS CHR1ST rebukes in the persons of these Bishops.
+Rev. ii. 14, 20. "I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balak to cast a stumbling-block before the children of Israel, to eat things sacrificed unto idols, and to commit fornication. Thou sufferest that woman Jezebel to teach and to seduce my servants to commit fornication.'' How dreadful is the government of the Church, wherein a man must answer for those sins which he does not hinder! To tolerate by silence those who favour and pro mote sin, JESUS CHR1ST rebukes in the persons of these Bishops.
 
 O my SAVIOUR ! Thou who givest me this warning, enable me to profit by it. Assist me, in this day of trial, effectually to oppose and suppress that spirit of impurity, idolatry, profane ness, and irreligion, which is broken in upon us.
 

@@ -19,15 +19,15 @@ By taking all the slides very rapidly, and omitting five or six, the whole set c
 
 For Two Lectures
 
-It will be more useful however, when possible, to use the two sections of 37 and 29 slides respectively for two lectures of about an hour and a quarter each. I. “The Church and its Ornaments,” Slides 1-37, and II. The Ornaments of the Ministers,” Slides 38-66, repeating two or three slides from Lecture I as an introduction to Lecture II. (There are more slides in Lecture I, but the last ten will not take much time.)
+It will be more useful however, when possible, to use the two sections of 37 and 29 slides respectively for two lectures of about an hour and a quarter each. I. "The Church and its Ornaments," Slides 1-37, and II. The Ornaments of the Ministers," Slides 38-66, repeating two or three slides from Lecture I as an introduction to Lecture II. (There are more slides in Lecture I, but the last ten will not take much time.)
 
 For Three Lectures
 
-To divide into three will be even better, for 20 slides supply a fully adequate lecture of over an hour with none too much explanation. The slides might then be arranged thus:—I. “Types of Architecture,” Slides 1-2 (19), 3-15 (24, 2.5), 16-18; II. “The Church and its Ornaments,” Slides (5, 11, 16) 19-37; III. “Ornaments of the Ministers,” Slides (40, 41, 42) 38-66. (The repeated slides are in brackets.)
+To divide into three will be even better, for 20 slides supply a fully adequate lecture of over an hour with none too much explanation. The slides might then be arranged thus:—I. "Types of Architecture," Slides 1-2 (19), 3-15 (24, 2.5), 16-18; II. "The Church and its Ornaments," Slides (5, 11, 16) 19-37; III. "Ornaments of the Ministers," Slides (40, 41, 42) 38-66. (The repeated slides are in brackets.)
 
 For Four Lectures
 
-With a little more explanation and a short recapitulation, four good lectures of an hour each can be given. The slides might then be arranged rather differently. For example (the repeated slides being in brackets):—I. “Types of Architecture,” Slides 1-18; II. “Ornaments and the Altar,” Slides 28-37 (5, 7, 11), 19-21 (16)—(17 in all), \[as Slides 28-37 take less time, some of Slides 22-26 might be added\]; III. “Churches and Vestments,” Slides (19, 21) 22-27, 38-49—(19 in all)  IV. “ The English Rite,” Slides (45, 42, 48, 49) 50-66—(20 in all).
+With a little more explanation and a short recapitulation, four good lectures of an hour each can be given. The slides might then be arranged rather differently. For example (the repeated slides being in brackets):—I. "Types of Architecture," Slides 1-18; II. "Ornaments and the Altar," Slides 28-37 (5, 7, 11), 19-21 (16)—(17 in all), \[as Slides 28-37 take less time, some of Slides 22-26 might be added\]; III. "Churches and Vestments," Slides (19, 21) 22-27, 38-49—(19 in all)  IV. " The English Rite," Slides (45, 42, 48, 49) 50-66—(20 in all).
 
 To save repetition and to keep this Leaflet within a possible size, matter contained in the Warham Guild Leaflets is not as a rule reprinted here, but references are given instead. Leaflets 13 and 14 especially should be consulted, also 15 and 16; the others referred to are Nos. 10, 11, and also 5, 8, and 18.
 
@@ -49,11 +49,11 @@ Here are plans of basilicas from the 4th to the 9th century (the type hardly cha
 
 3\. S. Vitale, Ravenna
 
-Another early type of Christian architecture was the round, or rather the “central” church, built originally to protect and honour some sacred spot, or the font, or a tomb. Constantine, early in the 4th century, built such churches over the sacred places at Jerusalem—the Church of the Holy Sepulchre (326) and the Church of the Ascension. These are gone, but the church which he built as the mausoleum of his sister, S. Costanza in Rome, still survives. It was early used as a baptistery. Indeed the most general use of round or central churches was as baptisteries. But magnificent Byzantine churches of this type were built later, of which the best known is S. Vitale, Ravenna (526-47). This is a view across the octagonal church. Note the beautiful Byzantine capitals; also the glimpse into the apse where the altar is, and the original 6th century mosaic.
+Another early type of Christian architecture was the round, or rather the "central" church, built originally to protect and honour some sacred spot, or the font, or a tomb. Constantine, early in the 4th century, built such churches over the sacred places at Jerusalem—the Church of the Holy Sepulchre (326) and the Church of the Ascension. These are gone, but the church which he built as the mausoleum of his sister, S. Costanza in Rome, still survives. It was early used as a baptistery. Indeed the most general use of round or central churches was as baptisteries. But magnificent Byzantine churches of this type were built later, of which the best known is S. Vitale, Ravenna (526-47). This is a view across the octagonal church. Note the beautiful Byzantine capitals; also the glimpse into the apse where the altar is, and the original 6th century mosaic.
 
 4\. S. George, Ezra
 
-A Syrian example of the “central” church, with an apse for the altar. One of the many ruined churches in this part of Asia, discovered during the 19th century in Syria, it is not round but octagonal and had the altar, not in the middle, but in an apse. These remarkable Syrian churches (mostly of oblong basilican plan) were built between 372 and 609, when their flourishing towns were utterly destroyed by the followers of Muhammad. Near Antioch there are 100 of these ruined churches in 100 square miles. The date of S. George, Ezra, is 515. Note the “central” plan, modified by a sort of chancel attached, and an apse beyond. Note the dome, which became a great feature in Byzantine architecture, and was revived in Renaissance architecture: e.g. S. Paul’s Cathedral. Much of the early Romanesque architecture of England and France is now proved to be derived from the ancient Churches of the East—Syria, Armenia, and even Egypt.
+A Syrian example of the "central" church, with an apse for the altar. One of the many ruined churches in this part of Asia, discovered during the 19th century in Syria, it is not round but octagonal and had the altar, not in the middle, but in an apse. These remarkable Syrian churches (mostly of oblong basilican plan) were built between 372 and 609, when their flourishing towns were utterly destroyed by the followers of Muhammad. Near Antioch there are 100 of these ruined churches in 100 square miles. The date of S. George, Ezra, is 515. Note the "central" plan, modified by a sort of chancel attached, and an apse beyond. Note the dome, which became a great feature in Byzantine architecture, and was revived in Renaissance architecture: e.g. S. Paul's Cathedral. Much of the early Romanesque architecture of England and France is now proved to be derived from the ancient Churches of the East—Syria, Armenia, and even Egypt.
 
 5\. Parenzo Cathedral, Istria
 
@@ -67,9 +67,9 @@ A charming example of a basilica, dating from the 5th century. The ciborium howe
 
 In a deserted island of the Venetian lagune. The apse is 8th century, the rest was rebuilt with the old materials and with little change in 1001. Basilican, with Byzantine detail. The magnificent mosaic of S. Mary the Virgin in the semi-dome of the apse is hardly seen behind the crucifix, which is of course much later. Note the beautifully carved Byzantine capitals, and the mosaic floor: also the ambo or pulpit, and the interesting rood-beam on columns—another good feature suitable for modern requirements. Close to the cathedral is the central Church of S. Fosca. Both are strangely impressive.
 
-8\. S. Basil’s Birmingham
+8\. S. Basil's Birmingham
 
-A 20th century church of basilican form, which shows how well suited this type is for us to-day—simple, dignified, convenient, and very cheap, with no bad carving (“cheap” in the bad sense), and no sham-Gothic flummery. Note the screen, rather like Torcello, but without the loft, the fair whitewashed walls and wise concentration of decoration in the apse. All the ornaments are good; but there are always too many seats in modern churches; and the hot-water grating has not the effect of the mosaic pavement of Torcello.
+A 20th century church of basilican form, which shows how well suited this type is for us to-day—simple, dignified, convenient, and very cheap, with no bad carving ("cheap" in the bad sense), and no sham-Gothic flummery. Note the screen, rather like Torcello, but without the loft, the fair whitewashed walls and wise concentration of decoration in the apse. All the ornaments are good; but there are always too many seats in modern churches; and the hot-water grating has not the effect of the mosaic pavement of Torcello.
 
 9\. S. Sofia, Constantinople
 
@@ -79,9 +79,9 @@ Built for Justinian (537), 6th century. The crowning glory of Byzantine art. The
 
 S. Sofia is the mother of all Byzantine churches, as of this one which was built nearly a thousand years later. S. Sofia is also the mother of all true domes. But in Russia the dome is modified, as in these examples. Gilt or painted domes are a feature of Russian churches. The Muslims modified the dome again into the familiar onion shape. Renaissance domes are a further modification. Within, Eastern churches have retained many primitive characteristics. The ancient veiling of the altar has developed into a permanent screen-wall, solid, with three doors, and covered with pictures (see Slide 44).
 
-11\. S. Mark’s, Venice
+11\. S. Mark's, Venice
 
-Another Byzantine example, covered with mosaics. It was built about the time of William the Conqueror. The artists of Venice for many centuries were Greeks. S. Sofia was a one-dome church; the Church of the Apostles at Constantinople was many-domed; it was destroyed, but S. Mark’s is on the same lines. Note in this magnificent interior the two pulpits, the stately and simple screen. The altar stands in the apse under its ciborium.
+Another Byzantine example, covered with mosaics. It was built about the time of William the Conqueror. The artists of Venice for many centuries were Greeks. S. Sofia was a one-dome church; the Church of the Apostles at Constantinople was many-domed; it was destroyed, but S. Mark's is on the same lines. Note in this magnificent interior the two pulpits, the stately and simple screen. The altar stands in the apse under its ciborium.
 
 12\. Worms Cathedral
 
@@ -89,7 +89,7 @@ About the year 1000, which is easy to remember, Basilican and Byzantinesque arch
 
 13\. Durham Cathedral
 
-And here is an example of English or Norman Romanesque, Durham Cathedral (1093-1133), the work of a great master, a noble, rational, mighty building, completed in a life-time, and unaltered. The discordant note is “ the pretentious marble and alabaster screen of mid-Victorian Gothic,” “ one of the many abominable ‘restorations’ of which the authorities of this cathedral have been guilty” (Francis Bond, Cathedrals of England and Wales). Previously there was a Renaissance choir screen, much more in keeping with the original Norman work. \[The lecturer can here mention any local Norman churches.\]
+And here is an example of English or Norman Romanesque, Durham Cathedral (1093-1133), the work of a great master, a noble, rational, mighty building, completed in a life-time, and unaltered. The discordant note is " the pretentious marble and alabaster screen of mid-Victorian Gothic," " one of the many abominable 'restorations' of which the authorities of this cathedral have been guilty" (Francis Bond, Cathedrals of England and Wales). Previously there was a Renaissance choir screen, much more in keeping with the original Norman work. \[The lecturer can here mention any local Norman churches.\]
 
 14\. Salisbury Cathedral
 
@@ -97,7 +97,7 @@ In the 12th century, Romanesque began to develop in France and England into the 
 
 15\. Amiens Cathedral
 
-Amiens is one of the most perfect examples of early French Gothic. Note the great height, and consider the structural skill involved. Notice also the simplicity of detail. (The east end is later, finished in 1279: the nave was begun in 1220.) Gothic afterwards ran into excess of detail (in capitals, finials, crockets, etc.), and many people think of the detail as if this was Gothic. But in England the masons recovered themselves and became simple again before the end of the Decorated period, and almost severe in Perpendicular. In France there was little change, after the full Gothic of Amiens, till the outburst of Flamboyant, c. 1400. Gothic was the perfect expression of the social conditions of the period from the 12th to the 15th centuries, especially of the guild system. It therefore cannot be revived to-day: it was invented and developed by working masons, and cannot be made by learned architects in offices. It cannot be copied, for its whole spirit is originality and freedom from imitation. This is why modern Gothic has proved a failure. We must change society before we are worthy of being Gothic. The moment we imitate, we cease to be Gothic. The nearest style at the present day to Gothic is really modern steel construction, because it has rather similar scientific structural principles. It may succeed, or it may not. The most Gothic buildings, on the other hand, in spirit though not in construction, are the charming cottages and small houses in the country which we are now building; because, for our own homes, we build what we really like, and do not try to be “correct.”
+Amiens is one of the most perfect examples of early French Gothic. Note the great height, and consider the structural skill involved. Notice also the simplicity of detail. (The east end is later, finished in 1279: the nave was begun in 1220.) Gothic afterwards ran into excess of detail (in capitals, finials, crockets, etc.), and many people think of the detail as if this was Gothic. But in England the masons recovered themselves and became simple again before the end of the Decorated period, and almost severe in Perpendicular. In France there was little change, after the full Gothic of Amiens, till the outburst of Flamboyant, c. 1400. Gothic was the perfect expression of the social conditions of the period from the 12th to the 15th centuries, especially of the guild system. It therefore cannot be revived to-day: it was invented and developed by working masons, and cannot be made by learned architects in offices. It cannot be copied, for its whole spirit is originality and freedom from imitation. This is why modern Gothic has proved a failure. We must change society before we are worthy of being Gothic. The moment we imitate, we cease to be Gothic. The nearest style at the present day to Gothic is really modern steel construction, because it has rather similar scientific structural principles. It may succeed, or it may not. The most Gothic buildings, on the other hand, in spirit though not in construction, are the charming cottages and small houses in the country which we are now building; because, for our own homes, we build what we really like, and do not try to be "correct."
 
 16\. Thaxted Church, Essex
 
@@ -107,7 +107,7 @@ Thaxted is a very complete and well kept example of a Perpendicular parish churc
 
 Here is an example of how churches should express their national character and their epoch, and not be mere copies. This Spanish church near Leon (probably 12th century) shows the development of Romanesque in the peculiar form of horse-shoe arches. Spanish archaeologists now say that this was a Christian Spanish invention, and not really of Moorish origin at all, though it has become characteristic of Moorish architecture. How simple it all is, and how impressive is this little church! Note again the suitability of this type of screen to modern needs—only we must not start copying horseshoe arches!
 
-18\. All Saints’, Peshawar
+18\. All Saints', Peshawar
 
 No, churches need not be Gothic nowadays! Here is the C.M.S. church in the bazar (the still rather dangerous old part of this frontier city) in Peshawar, near the Khyber Pass. We did great harm to the Christian cause in India by associating the Church in Indian minds with Western forms—with Gothic (and such Gothic!). Here is an exception: an attempt to make a Christian church in the style which Islam introduced long ago Into North India.
 
@@ -117,7 +117,7 @@ THE ALTAR
 
 This shows the basilican arrangement of the altar, and the later basilican choir within low screens with gospel and epistle ambos and Paschal candle. This beautiful ciborium happens to be as late as the 12th century, but it is on the old lines and shows exactly the arrangement of the Early Church. The too sumptuous  ceiling is Renaissance (see Slide 5).
 
-20\. S. Matthew’s, Bethnal Green
+20\. S. Matthew's, Bethnal Green
 
 The simplest way to show the development of the Christian altar is to show this modern Renaissance work by Mr. Eden in a Georgian church. Here are still the four ciborium columns, though the canopy has gone; and still three of the four ancient curtains, the one between altar and people only being gone. (See Warham Guild Leaflet, No. 11. The Altar, by Mr. F. C. Eeles). This is what happened when the ciborium disappeared in Gothic times. (We still find the ciborium in the paintings of Giotto, c. 1300.)
 
@@ -125,7 +125,7 @@ The simplest way to show the development of the Christian altar is to show this 
 
 Early English, with a good modern altar on the original lines. Screen behind, forming a vestry. (See Warham Guild Leaflet. No. 14. The Altar according to English Traditions, by Dr. Hermitage Day.)
 
-22\. King’s College, Cambridge
+22\. King's College, Cambridge
 
 A side chapel, fitted up simply and inexpensively by the Warham Guild. (See Leaflet. No. 14. as above)
 
@@ -145,7 +145,7 @@ A famous Perpendicular screen with its altars. (See Warham Guild Leaflet, No. 15
 
 An over-large reredos on German lines by the late Mr. Bodley, subsequently modified. Rood loft and figures by Mr. Gilbert Bayes. (See Warham Guild Leaflet, No. 10, Monuments and Memorials, by Dr. Dearmer.)
 
-(This would be a place for explaining the use of colours: their primary object, beauty; their secondary object, the marking out of the Church seasons. There are no “Correct” colours, but many very ugly ones!)
+(This would be a place for explaining the use of colours: their primary object, beauty; their secondary object, the marking out of the Church seasons. There are no "Correct" colours, but many very ugly ones!)
 
 27\. The Same, in Lenten Array
 
@@ -179,23 +179,23 @@ The stained glass, mainly of silvery white with colour sparingly used, but pure 
 
 36\. Hymn-board
 
-From S. Mary’s, Primrose Hill. To show that these necessaries need not be eyesores.
+From S. Mary's, Primrose Hill. To show that these necessaries need not be eyesores.
 
 37\. Banner
 
-Designed by Mr. C. M. Gere for S. Mary’s, Primrose Hill. One of the most beautiful in existence.
+Designed by Mr. C. M. Gere for S. Mary's, Primrose Hill. One of the most beautiful in existence.
 
 II. THE ORNAMENTS OF THE MINISTERS
 
 38\. The End of the Creed
 
-Drawn by Mr. Skilbeck to illustrate this part of the service. Note the Vestments:—Chasuble, Dalmatic, Tunicle, Clerk’s Tunicle, Albes, etc.; Preacher’s Surplice, Hood, and Tippet (he can equally well wear Gown, Hood, and Tippet). (This drawing and that on Slide 62 are taken by permission from the Alcuin Club Collection, No. xix. Illustrations of the Liturgy, Mowbrays.)
+Drawn by Mr. Skilbeck to illustrate this part of the service. Note the Vestments:—Chasuble, Dalmatic, Tunicle, Clerk's Tunicle, Albes, etc.; Preacher's Surplice, Hood, and Tippet (he can equally well wear Gown, Hood, and Tippet). (This drawing and that on Slide 62 are taken by permission from the Alcuin Club Collection, No. xix. Illustrations of the Liturgy, Mowbrays.)
 
 Let us go back to the earliest vestments. First the Chasuble.
 
 39\. Trajan and his Officers. (Paenula.)
 
-(For this and the following Slides see Leaflet 13, S. Paul’s Cloke, by Dr. Dearmer.)
+(For this and the following Slides see Leaflet 13, S. Paul's Cloke, by Dr. Dearmer.)
 
 40\. Mosaic, Ravenna: SS. Maurus and Septimius
 
@@ -203,7 +203,7 @@ Paenula and Dalmatic, etc., 6th century.
 
 41\. Fresco in S. Clemente
 
-This fresco, in the under-church of S. Clemente, Rome, was painted in 1085, and is thus a kind of halfway house in the history of Christian art, besides belonging to a series of pictures very highly esteemed by modern artists. It also sums up a good deal of this lecture. It represents the translation of an unknown saint, whose relics are being carried, C., by four clerks or deacons in long tunicles with ornamented borders. On the R. the bishop is celebrating at the altar under its ciborium, attended by deacons in striped dalmatics. On the altar is a book. The only lights are lamps hanging from the ciborium. (The artist has suggested the outlines of the basilica as well as the ciborium.) The bishop wears his paenula (chasuble), and over it the Y shaped pallium. This was originally a large robe like a toga, and the earliest Christian robe worn by the celebrant and others in the 2nd century (and doubtless in the 1st). You see it as the dress of Christ and the Apostles in all pictures, except some quite modern ones. It was folded into one long narrow strip by the 6th century; and later was pinned into the Y shape, as here. It forms part of the Archbishop of Canterbury’s coat of arms.
+This fresco, in the under-church of S. Clemente, Rome, was painted in 1085, and is thus a kind of halfway house in the history of Christian art, besides belonging to a series of pictures very highly esteemed by modern artists. It also sums up a good deal of this lecture. It represents the translation of an unknown saint, whose relics are being carried, C., by four clerks or deacons in long tunicles with ornamented borders. On the R. the bishop is celebrating at the altar under its ciborium, attended by deacons in striped dalmatics. On the altar is a book. The only lights are lamps hanging from the ciborium. (The artist has suggested the outlines of the basilica as well as the ciborium.) The bishop wears his paenula (chasuble), and over it the Y shaped pallium. This was originally a large robe like a toga, and the earliest Christian robe worn by the celebrant and others in the 2nd century (and doubtless in the 1st). You see it as the dress of Christ and the Apostles in all pictures, except some quite modern ones. It was folded into one long narrow strip by the 6th century; and later was pinned into the Y shape, as here. It forms part of the Archbishop of Canterbury's coat of arms.
 
 Behind, C, are two clerks in albes and tunicles, waving censers. On the L. is a bishop in paenula, pallium, etc., wearing a curious conical cap, probably papal. Also other bishops, whose stoles are seen under the ample bell-shaped paenula. Stoles are. later than these other vestments, the earliest representation we have being of the 8th century.
 
@@ -221,9 +221,9 @@ Showing priest in phaelonion or paenula (caught up in front), and deacon in dalm
 
 THE ENGLISH RITE
 
-45\. “As in the Second Year”
+45\. "As in the Second Year"
 
-A 15th century miniature, showing altar, with riddels; ministers in chasuble, dalmatic, tunicle, etc.; chanters in copes; also surplices. (The Ornaments Rubric should be read here.) The Ornaments Rubric orders the old ornaments to be still in use; but under the same authority the Elevation  (here shown) is forbidden (and rightly, for it arose from a mechanical and “clock-time” idea of consecration). (See Mowbrays Pamphlet, *The Ornaments Rubric*, by F. C. Eeles.)
+A 15th century miniature, showing altar, with riddels; ministers in chasuble, dalmatic, tunicle, etc.; chanters in copes; also surplices. (The Ornaments Rubric should be read here.) The Ornaments Rubric orders the old ornaments to be still in use; but under the same authority the Elevation  (here shown) is forbidden (and rightly, for it arose from a mechanical and "clock-time" idea of consecration). (See Mowbrays Pamphlet, *The Ornaments Rubric*, by F. C. Eeles.)
 
 46\. Clerk in Tunicle
 
@@ -263,9 +263,9 @@ Of ample grace and beauty. The degradation of the surplice into a little tight s
 
 54\. Brass: Little Wilbraham. (Hood.)
 
-Brass of William Blakeway, M.A., 1521, in narrow-sleeved cassock, gown, chimere, and hood of a Master of Arts. The M.A. hood, both at Oxford and Cambridge, was originally of white fur. The hood, like the chasuble, dalmatic, tunicle, and (probably) the cope, was originally an out-door garment. It is now worn also over the surplice, of different coloured linings according to the degree. (Give familiar examples.) Doctors’ hoods are generally scarlet. The shape also has deteriorated (owing mainly to the use of wigs): we should gradually get it right.
+Brass of William Blakeway, M.A., 1521, in narrow-sleeved cassock, gown, chimere, and hood of a Master of Arts. The M.A. hood, both at Oxford and Cambridge, was originally of white fur. The hood, like the chasuble, dalmatic, tunicle, and (probably) the cope, was originally an out-door garment. It is now worn also over the surplice, of different coloured linings according to the degree. (Give familiar examples.) Doctors' hoods are generally scarlet. The shape also has deteriorated (owing mainly to the use of wigs): we should gradually get it right.
 
-55\. Doctor’s Robes
+55\. Doctor's Robes
 
 Oxford D.D. (The Cambridge robes are different.) Here worn over the surplice:—scarlet chimere, scarlet hood of the proper original shape, lined with black silk, black silk tippet (or scarf), black velvet square cap. Both the mortar-board and the biretta are degraded forms of the square cap.
 
@@ -295,7 +295,7 @@ In Bethnal Green. Boy in winged rochet putting out the candles.
 
 62\. Priest in Ordinary Dress
 
-This is the canonical dress of the clergy out of doors, and nothing is so convenient and comely as the gown over the cassock. The Roman clergy have different varieties of costume in different countries, none of which can be lawfully worn by our clergy, and none of which is so graceful as ours. In this example, over the cassock (which may be either double or single breasted, so long as it is without those inconvenient buttons) is worn the priest’s gown, and tippet (unspoilt by creasing), with a cloth square cap. Academic gowns may also be worn.
+This is the canonical dress of the clergy out of doors, and nothing is so convenient and comely as the gown over the cassock. The Roman clergy have different varieties of costume in different countries, none of which can be lawfully worn by our clergy, and none of which is so graceful as ours. In this example, over the cassock (which may be either double or single breasted, so long as it is without those inconvenient buttons) is worn the priest's gown, and tippet (unspoilt by creasing), with a cloth square cap. Academic gowns may also be worn.
 
 63\. The Blessing
 
@@ -309,9 +309,9 @@ Costume is as expressive as architecture. The men who built our marvellous Gothi
 
 65\. A Procession To-day
 
-We must remember again that this represents the fullest legitimate ceremonial, and not a procession in a village church! You will recognize the ornaments. The order is:—Verger in gown with wand. Clerk with cross, Taperers, Thurifer, Subdeacon, Deacon, Priest, banner, two Chanters, Boy choristers. Men choristers. If a bishop were present, he would follow with his chaplain last of all. (Painted by Mr. Vedder for *The Parson’s Handbook*.)
+We must remember again that this represents the fullest legitimate ceremonial, and not a procession in a village church! You will recognize the ornaments. The order is:—Verger in gown with wand. Clerk with cross, Taperers, Thurifer, Subdeacon, Deacon, Priest, banner, two Chanters, Boy choristers. Men choristers. If a bishop were present, he would follow with his chaplain last of all. (Painted by Mr. Vedder for *The Parson's Handbook*.)
 
-Let us remember here that a healthy and widespread art, deep-rooted in the people, is a necessary of civilization. Art in recent generations has survived in picture galleries and concert rooms—precariously. It must be the people’s art to be healthy and strong. This is why architecture and costume are so important: they (with God’s own art, which we call Nature) are our surroundings. They, with popular music, make the everyday world we live in. The parish church, with good singing, good architecture, and good costume, is the natural centre of the divine beauty. Once we recover these things, art will spread from these centres back into common life again.
+Let us remember here that a healthy and widespread art, deep-rooted in the people, is a necessary of civilization. Art in recent generations has survived in picture galleries and concert rooms—precariously. It must be the people's art to be healthy and strong. This is why architecture and costume are so important: they (with God's own art, which we call Nature) are our surroundings. They, with popular music, make the everyday world we live in. The parish church, with good singing, good architecture, and good costume, is the natural centre of the divine beauty. Once we recover these things, art will spread from these centres back into common life again.
 
 66\. The English Rite
 

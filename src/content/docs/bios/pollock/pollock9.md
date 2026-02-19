@@ -6,7 +6,7 @@ description: Father Pollock And His Brother; chapter eight. From Project Canterb
 > Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests of St. Alban’s Birmingham*
+Mission Priests of St. Alban's Birmingham*
 
 Transcribed by Robert Stevens
 AD 2001

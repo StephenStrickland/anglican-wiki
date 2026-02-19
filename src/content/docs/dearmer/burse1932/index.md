@@ -21,7 +21,7 @@ Here is the Corporal folded. Both Corporals may be exactly the same, and may be 
 
 ![](https://anglicanhistory.org/dearmer/burse1932/01.jpg)
 
-\[5\] Before the vessels are placed on the Lord’s Table this Corporal is unfolded, so that, as in Plate 2 below, the device is in the familiar way on the front middle square. Both the Corporals are made of exceptionally good and stout linen, so that this one unfolds with no trouble, and is placed quite easily exactly on the place where it should go; that is, in the middle of the altar, near the front, but not hanging over the edge. As the picture shows, the folds divide the Corporal into nine squares; these are unfolded first at the sides (beginning at the right), then the back part is folded back, and lastly the front part; and this also is a matter of pure convenience; it is not sinful, or even incorrect, to do otherwise, but it complicates the folds if different people treat them in varying ways. So then, in folding up again, one should begin with the front part, then fold the back part over, and then the sides. Here is the Corporal when it is spread out:
+\[5\] Before the vessels are placed on the Lord's Table this Corporal is unfolded, so that, as in Plate 2 below, the device is in the familiar way on the front middle square. Both the Corporals are made of exceptionally good and stout linen, so that this one unfolds with no trouble, and is placed quite easily exactly on the place where it should go; that is, in the middle of the altar, near the front, but not hanging over the edge. As the picture shows, the folds divide the Corporal into nine squares; these are unfolded first at the sides (beginning at the right), then the back part is folded back, and lastly the front part; and this also is a matter of pure convenience; it is not sinful, or even incorrect, to do otherwise, but it complicates the folds if different people treat them in varying ways. So then, in folding up again, one should begin with the front part, then fold the back part over, and then the sides. Here is the Corporal when it is spread out:
 
 ![](https://anglicanhistory.org/dearmer/burse1932/02.jpg)
 
@@ -37,9 +37,9 @@ As this, like the other, is made of stout good linen, it forms when it is folded
 
 Here we see the entire relevance of the Prayer Book rubric; for the Pall or Second Corporal is the fair linen cloth there mentioned:
 
-‘When all have communicated, the Minister shall return to the Lord’s Table, and reverently place upon it what remaineth of the consecrated Elements, covering the same with a fair linen cloth.’
+'When all have communicated, the Minister shall return to the Lord's Table, and reverently place upon it what remaineth of the consecrated Elements, covering the same with a fair linen cloth.'
 
-This is the Second Corporal or Pall, and has nothing to do with the linen altar-cloth, which is best called ‘the Fair Linen,’ to avoid confusion.
+This is the Second Corporal or Pall, and has nothing to do with the linen altar-cloth, which is best called 'the Fair Linen,' to avoid confusion.
 
 \[7\] The Pall then, after the communion of the people, is unfolded by the deacon (or by the celebrant himself, if he is alone) and spread out over the paten, which rests on the chalice, as is shown in Plate 4:
 
@@ -47,7 +47,7 @@ This is the Second Corporal or Pall, and has nothing to do with the linen altar-
 
 4\. THE PALL, UNFOLDED AS THE FAIR LINEN CLOTH
 
-This significant veiling is the only veiling for which there is authority. There should be no covering of the vessels by any sort of veil at any time before the communion of the people. Since it is our duty to tell the truth, we are bound to state, although the statement still often causes surprise, that we have no authority, either pre-Reformation or post-Reformation, for a silken ‘chalice-veil.’ We know how common this unauthorized ornament became during the Victorian era; but this does not exonerate us from the necessity of pointing out that it is a mistake. The Prayer Book follows a very ancient and widespread tradition in ordering the covering after the communion; and it is right in not ordering the vessels to \[7/8\] be covered at any earlier stage. Those who have once used a chalice-veil, and-have given it up, will bear testimony to the relief they find in not having to contend with this heavy veil, which frequently drags the paten off the chalice, and always has to be warily adjusted, held on, drawn off, and folded away.
+This significant veiling is the only veiling for which there is authority. There should be no covering of the vessels by any sort of veil at any time before the communion of the people. Since it is our duty to tell the truth, we are bound to state, although the statement still often causes surprise, that we have no authority, either pre-Reformation or post-Reformation, for a silken 'chalice-veil.' We know how common this unauthorized ornament became during the Victorian era; but this does not exonerate us from the necessity of pointing out that it is a mistake. The Prayer Book follows a very ancient and widespread tradition in ordering the covering after the communion; and it is right in not ordering the vessels to \[7/8\] be covered at any earlier stage. Those who have once used a chalice-veil, and-have given it up, will bear testimony to the relief they find in not having to contend with this heavy veil, which frequently drags the paten off the chalice, and always has to be warily adjusted, held on, drawn off, and folded away.
 
 III. THE BURSE
 

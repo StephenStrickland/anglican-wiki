@@ -17,4 +17,4 @@ May Almighty God have mercy upon thee, forgive thee thy sins, and bring thee to 
 
 § 58. As the servant of our Lord Jesus Christ, I declare thee freed from thy sins, in the name of the Father +, and of the Son, and of the Holy Ghost. *Amen*.
 
-§ 61. (Note. *The clauses commencing* “May Almighty,” *and* “May the Almighty,” *can be omitted*.)
+§ 61. (Note. *The clauses commencing* "May Almighty," *and* "May the Almighty," *can be omitted*.)

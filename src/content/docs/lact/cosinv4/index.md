@@ -16,7 +16,7 @@ Contents
 
 1\. Historia Transubstantionis Papalis
 
-2\. Luke de Beaulieu’s translation of the History of Transubstantiation.
+2\. Luke de Beaulieu's translation of the History of Transubstantiation.
 
 3\. On the validity of the ordination of Priests in the Church of England.
 
@@ -27,12 +27,12 @@ Contents
 > e. First letter to prior Robinson
 > f. Second Letter
 > g. Second Letter, as re-written, and sent to the Prior upon receipt of his reply to the first letter
-> h. View of F. P.’s Answer to the first paper
+> h. View of F. P.'s Answer to the first paper
 
 4\. Letters about communicating in one kind.
 
 > a. Letter from a Roman Catholic to a lady of the English Communion
-> b. Cosin’s Answer to this letter
+> b. Cosin's Answer to this letter
 
 5\. Letter to the Countess of Peterborough concerning agreements and differences in the chief points of religion betwixt the Church of Rome and the Church of England
 
@@ -45,7 +45,7 @@ Contents
 9\. Papers concerning the collation of Bishops.
 
 > a. Letter from Hyde to Cosin
-> b. Cosin’s reply to Hyde
+> b. Cosin's reply to Hyde
 > c. Form of Collation
 
 10\. Articles and Injunctions.
@@ -62,15 +62,15 @@ Contents
 
 13\. Answer to Fuller
 
-> a. Fuller’s charge
-> b. Cosin’s answer
+> a. Fuller's charge
+> b. Cosin's answer
 
 14\. Letter to Mr. Cordel
 
 15\. Correspondence with Gunning.
 
 > a. Letter from Gunning to Cosin
-> b. Cosin’s first Letter to Gunning
+> b. Cosin's first Letter to Gunning
 > c. — second Letter
 > d. — third Letter
 > e. — fourth Letter
@@ -103,4 +103,4 @@ Contents
 
 29\. Confession of Faith, in Latin
 
-30\. [Basire’s translation of the same](cosin30.html)
+30\. [Basire's translation of the same](cosin30.html)

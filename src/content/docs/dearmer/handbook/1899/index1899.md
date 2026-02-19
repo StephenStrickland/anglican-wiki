@@ -3,7 +3,7 @@ title: The Parson's Handbook by Percy Dearmer (1899)
 description: The Parson's Handbook by Percy Dearmer (1899). From Project Canterbury.
 ---
 
-<table align="center" border="2" cellpadding="20" cellspacing="2"><tbody><tr><td><p align="center">THE</p><p align="center">PARSON’S HANDBOOK</p><p align="center">Containing Practical Directions both for<br>Parsons and Others as to the Management of<br>the Parish Church and its Service according to</p><p align="center">THE ENGLISH USE</p><p align="center">as set forth in the Book of Common Prayer</p><p align="center">With an Introductory Essay on conformity to</p><p align="center">The Church of England</p><p align="center">By the Rev.</p><p align="center">PERCY DEARMER, M.A.</p><p align="center"> </p><p align="center">LONDON<br>GRANT RICHARDS<br>9 HENRIETTA STREET<br>1899</p></td></tr></tbody></table>
+<table align="center" border="2" cellpadding="20" cellspacing="2"><tbody><tr><td><p align="center">THE</p><p align="center">PARSON'S HANDBOOK</p><p align="center">Containing Practical Directions both for<br>Parsons and Others as to the Management of<br>the Parish Church and its Service according to</p><p align="center">THE ENGLISH USE</p><p align="center">as set forth in the Book of Common Prayer</p><p align="center">With an Introductory Essay on conformity to</p><p align="center">The Church of England</p><p align="center">By the Rev.</p><p align="center">PERCY DEARMER, M.A.</p><p align="center"> </p><p align="center">LONDON<br>GRANT RICHARDS<br>9 HENRIETTA STREET<br>1899</p></td></tr></tbody></table>
 
 Transcribed by Peter Owen, 2007
 

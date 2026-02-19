@@ -6,7 +6,7 @@ description: Father Pollock And His Brother. From Project Canterbury.
 > Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests of [St. Alban’s Birmingham](http://www.stalban.co.uk/)*
+Mission Priests of [St. Alban's Birmingham](http://www.stalban.co.uk/)*
 
 With A Letter From the
 Right Reverend Charles Gore, D.D.
@@ -20,8 +20,8 @@ AD 2001
 [The Spring of The Day.](pollock1.html)
 [Sowing The Seed.](pollock2.html)
 [Storm And Stress—"The Bother."](pollock3.html)
-[The Day’s Work.](pollock4.html)
-[Father Tom’s "Prologues."](pollock5.html)
+[The Day's Work.](pollock4.html)
+[Father Tom's "Prologues."](pollock5.html)
 [Some Lines Of Character.](/bios/pollock/pollock6/)
 [Father Pollock And His Brother.](pollock7.html)
 [Towards Evening](pollock8.html)
@@ -38,7 +38,7 @@ BISHOP GORE.
 
 *
 
-Bishop’s Croft.
+Bishop's Croft.
 Birmingham, September 9, 1911,
 
 Dear ——,
@@ -51,4 +51,4 @@ C. BIRMINGHAM:
 
 *
 
-The quotations and selections from Father Pollock’s books, and the Litanies and Hymns by Father Tom, are inserted by kind permission of Colonel A. W. Alsager Pollock.
+The quotations and selections from Father Pollock's books, and the Litanies and Hymns by Father Tom, are inserted by kind permission of Colonel A. W. Alsager Pollock.

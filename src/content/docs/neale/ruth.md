@@ -44,26 +44,26 @@ RUTH
 I.
 
 > HE stood on that prophetic height,
->     The chief of Israel’s host,
-> And cast, inspir’d of GOD, his sight
->     Round Canaan’s furthest coast:
+>     The chief of Israel's host,
+> And cast, inspir'd of GOD, his sight
+>     Round Canaan's furthest coast:
 > Where Spring, like some fair youthful queen,
-> Deck’d Jordan’s banks with loveliest green,
-> And, right in Judah’s onward road,
-> The City of the Palm-trees glow’d,
-> And Idumæa’s mountains lay
+> Deck'd Jordan's banks with loveliest green,
+> And, right in Judah's onward road,
+> The City of the Palm-trees glow'd,
+> And Idumæa's mountains lay
 > Far in the South, obscurely grey,                         10
 > To where the purple died away
 >     Upon the Western main:
-> Where Ephraim’s hills in glory shone,
-> By sea-storm’d Carmel, on and on,
-> Till, crown’d with snow-wreaths, Lebanon
->     Girt in Sidonia’s plain.
+> Where Ephraim's hills in glory shone,
+> By sea-storm'd Carmel, on and on,
+> Till, crown'd with snow-wreaths, Lebanon
+>     Girt in Sidonia's plain.
 > Nor less he views each future scene,
 > Though many a century intervene;
-> How Judah’s holier mount shall own
->     The LORD’S elected seat,                                 20
-> And Sion’s future tow’rs enthrone
+> How Judah's holier mount shall own
+>     The LORD'S elected seat,                                 20
+> And Sion's future tow'rs enthrone
 >     The footstool of His feet:
 > —Behold the land thy tribes must win,
 > But plead thou not to enter in!
@@ -71,23 +71,23 @@ I.
 > II.
 >
 > Of all the vision, sweet yet faint,
-> That cheer’d the warrior and the saint,
+> That cheer'd the warrior and the saint,
 > What landscape could so brightly shine,
 > Bethlehem-Ephratah, as thine?
 > Dear sunny fields,—true "House of bread,"—
->     True home of David’s race;                                   30
-> Whence Judah’s mystic bands are fed
+>     True home of David's race;                                   30
+> Whence Judah's mystic bands are fed
 >     And whence endued with grace;
 > Where He His earliest light shall pour,
->     The Flower of Jesse’s rod;
+>     The Flower of Jesse's rod;
 > The Wonderful, the Counsellor,
 >     The Everlasting GOD:
-> Where Israel’s tribes shall lift the horn,
->     And Satan’s ranks be riv’n,
+> Where Israel's tribes shall lift the horn,
+>     And Satan's ranks be riv'n,
 > What time to us a Child is born,
->     To us a Son is giv’n:                                                   40
+>     To us a Son is giv'n:                                                   40
 > Where midnight skies shall sing His birth,
-> The future LORD of ransom’d earth:
+> The future LORD of ransom'd earth:
 > Nor *Gloria in Excelsis* cease
 >     From furthest shore to shore
 > To tell of "peace to men of peace,"
@@ -101,11 +101,11 @@ I.
 > Back to the scenes of earlier time;                                 50
 > Though still we mark the dews that gem
 > Each leaf and flower of Bethlehem;
-> Still note the evening’s latest tint
+> Still note the evening's latest tint
 > Upon her rustic turrets glint;
 > Though many a sun has yet in turn
->     To ripen Bethlehem’s corn,
-> And many a summer’s course to burn,
+>     To ripen Bethlehem's corn,
+> And many a summer's course to burn,
 >     Before her LORD is born.
 > Let others tell how here that Name,
 >     That Blessed Name, was won;                                         60
@@ -119,11 +119,11 @@ I.
 > IV.
 >
 > A sky of the deepest and tenderest blue:
-> A landscape that glistens with May’s first dew:
+> A landscape that glistens with May's first dew:
 > The land of the olive, the land of the vine,
 > The region that floweth with oil and with wine:                             70
 > While the pathway, down to the valley, glows
-> With Hermon’s lily, and Sharon’s rose:
+> With Hermon's lily, and Sharon's rose:
 > And, like peaceful squadrons in rank enrolled,
 > The broad slopes glitter with barley-gold:
 > What spot upon earth, as the spot where we stand,
@@ -131,7 +131,7 @@ I.
 > But *there* is no riving of heart from heart:
 > There none can sorrow, and none can part:
 > There sickness is banished, and dried each tear,
-> And consoled each mourner—‘tis not so here!                         80
+> And consoled each mourner—'tis not so here!                         80
 >
 > V.
 >
@@ -200,20 +200,20 @@ I.
 >     She spake to her daughters twain;
 > And her glance was cast to the days that were past,
 >     And could never return again:
-> To the loved ones that lie ‘neath an alien sky,                         140
+> To the loved ones that lie 'neath an alien sky,                         140
 >     And moulder in heathen clay;
-> And never shall stand in the LORD’S own land
+> And never shall stand in the LORD'S own land
 >     Till the Resurrection Day.
 >
 > VIII.
 >
 > "O happy hours, while yet of old
-> The GOD of Jacob watch’d His fold,
+> The GOD of Jacob watch'd His fold,
 > While yours, mine own, it was to bless
 > With love and careful tenderness:
 > And though remembering, day by day,
 > The LORD'S own mansion, far away,
-> And mindful, at each evening’s rise,                                          150
+> And mindful, at each evening's rise,                                          150
 > Of Shiloh's holy Sacrifice,—
 > Still had I hoped one day to tread,
 > With you and with the holy dead,
@@ -233,8 +233,8 @@ I.
 > The GOD we trust in guard His own!
 > And give you some one day to prove
 > His best and holiest treasure, love;
-> And infants that shall yet be press’d                                         170
-> With mother’s rapture to the breast:
+> And infants that shall yet be press'd                                         170
+> With mother's rapture to the breast:
 > And so His aid be by you felt,
 >     His shield around you spread,
 > As, in the former days, ye dealt
@@ -488,7 +488,7 @@ How she, the alien-one, who chose
 In Israel's land to find repose,
 Her home, her kin, her gods forsaken,
 From Israel's GOD hath guerdon taken?
-And therefore is her name enroll’d
+And therefore is her name enroll'd
     In that celestial page,
 Which, writ in characters of gold,
     Shall live from age to age:
@@ -501,6 +501,6 @@ She speaks the words of hope and life:
 'If thou art call'd to toil for truth,
     Yet be not thou afraid;
 But think upon the GOD of Ruth,
-    And He shall give thee aid!’
+    And He shall give thee aid!'
 
 [Project Canterbury](//)

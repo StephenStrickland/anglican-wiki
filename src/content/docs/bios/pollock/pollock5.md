@@ -6,7 +6,7 @@ description: Father Pollock And His Brother; chapter five. From Project Canterbu
 > Project Canterbury
 
 *Father Pollock And His Brother:
-Mission Priests Of St. Alban’s Birmingham*
+Mission Priests Of St. Alban's Birmingham*
 
 Transcribed by Robert Stevens
 AD 2001
@@ -18,9 +18,9 @@ FATHER TOM'S "PROLOGUES"
 > And looks on grave things with a blithe face brightly."
 > —GOETHE.
 
-FATHER TOM'S original, inimitable rhymed "Prologues," written in the metre of Pope's "Essay on Man," and showing a very keen and shrewd, yet altogether kindly and charitable knowledge of human nature, are unique in character. Each "Prologue" contained an epitome of the last year’s history, and these records in rhyme give an excellent idea of the work of S. Alban’s and of the spirit in which that work was done. The reading of the "Prologue" by its author, in his own dry, humorous manner, was one of the chief attractions of the Christmas social gatherings.
+FATHER TOM'S original, inimitable rhymed "Prologues," written in the metre of Pope's "Essay on Man," and showing a very keen and shrewd, yet altogether kindly and charitable knowledge of human nature, are unique in character. Each "Prologue" contained an epitome of the last year's history, and these records in rhyme give an excellent idea of the work of S. Alban's and of the spirit in which that work was done. The reading of the "Prologue" by its author, in his own dry, humorous manner, was one of the chief attractions of the Christmas social gatherings.
 
-The "Prologue" selected and quoted almost at length is the last ever produced, being recited at S. Alban’s Christmas gathering, 1894:—
+The "Prologue" selected and quoted almost at length is the last ever produced, being recited at S. Alban's Christmas gathering, 1894:—
 
 PROLOGUE.
 
@@ -36,7 +36,7 @@ PROLOGUE.
 > > > > Or with some pleasant sport our cares beguile.
 > > > > No heart is merry idly and in vain
 > > > > That doeth good, like medicine in our pain.
-> > > > S. Alban’s keeps its thirtieth Christmastide,
+> > > > S. Alban's keeps its thirtieth Christmastide,
 > > > > And we are few who, working side by side,
 > > > > Through all those years have had the joy to share
 > > > > Together all its varied strife and care
@@ -62,20 +62,20 @@ PROLOGUE.
 > > > > To deepen, broaden, strengthen and enlarge.
 > > > > Our gains reveal the wants that still abound;
 > > > > The lights that shine show darkness all around.
-> > > > S. Alban’s as a Mission lives and grows;
+> > > > S. Alban's as a Mission lives and grows;
 > > > > No other name, no other calling knows;
 > > > > We tend the tree that lifts its towering head,
 > > > > So fruitful branches will their shadow spread
 > > > > We make the centre strong that it may prove
 > > > > A sun, around which other lights may move.
 > > > > Our profits have a limit, only one
-> > > > ‘Tis measured by the work that can be done,
+> > > > 'Tis measured by the work that can be done,
 > > > > And that upon the workers and the size
 > > > > Of what we well may call our factories.
 > > > > We started with what scoffers called a shed;
 > > > > It proved too small; we built a Church instead
 > > > > In cottages and shops we opened schools,
-> > > > Untrammelled there by the Department’s rules.
+> > > > Untrammelled there by the Department's rules.
 > > > > We tried to look before us, and provide
 > > > > For what was coming, using as our guide,
 > > > > With wisest prudence, not our cash in hand,
@@ -86,7 +86,7 @@ PROLOGUE.
 > > > > Managed by no hard economic law;
 > > > > Blank cheques are in the hands of faith to sign,
 > > > > Dishonoured never by the bank Divine
-> > > > S. Alban’s stands, a monument to those
+> > > > S. Alban's stands, a monument to those
 > > > > By whose united gifts and prayers it rose:
 > > > > A witness to the world of higher things
 > > > > Than those to which the earthly spirit clings
@@ -100,7 +100,7 @@ PROLOGUE.
 > > > > Show softening harmonies of light and shade.
 > > > > We know and love it better year by year,
 > > > > And crowding memories make it grow more dear
-> > > > S. Patrick’s Mission is of age; it pleads
+> > > > S. Patrick's Mission is of age; it pleads
 > > > > With modest confidence its rights and needs.
 > > > > The Sunday Schools to such dimensions grow,
 > > > > That Church and every Schoolroom overflow
@@ -120,14 +120,14 @@ PROLOGUE.
 > > > > The Church is hid where it is hard to find:
 > > > > We want a Church that passers-by can see,
 > > > > We want to set the iron building free
-> > > > For other uses—’tis a want that presses;
+> > > > For other uses—'tis a want that presses;
 > > > > So every one who knows the facts confesses.
-> > > > We have the ground; ‘tis paid for and our own;
+> > > > We have the ground; 'tis paid for and our own;
 > > > > We ask no guarantee or friendly loan;
 > > > > We will not mortgage, or in reckless way
-> > > > Fresh needless burdens on S. Alban’s lay.
+> > > > Fresh needless burdens on S. Alban's lay.
 > > > > We wish to work for duty, not for pride,
-> > > > And keep our banker’s pass-book as our guide.
+> > > > And keep our banker's pass-book as our guide.
 > > > > That shows us how some hundreds volunteered
 > > > > Before appeal or statement had appeared.
 > > > > We dare not doubt that when our needs are told,
@@ -137,21 +137,21 @@ PROLOGUE.
 > > > > Who only reckon up the care and cost,
 > > > > Forgetting what would follow were they lost.
 > > > > Who feel not for the lambs, whom Angels high
-> > > > Are ever watching o’er with jealous eye.
+> > > > Are ever watching o'er with jealous eye.
 > > > > Some ask rate aid, and are content to share
-> > > > With aliens what is all the Church’s care.
+> > > > With aliens what is all the Church's care.
 > > > > Let us be sure that it is better far
 > > > > To trust in Him Whose own the children are,
 > > > > Than trust rate-payers, and by gold beguiled,
 > > > > To part with more than half of every child.
 > > > > This would not be to safeguard, but to slay,
 > > > > And all that is worth keeping give away.
-> > > > The Church’s Schools are Hers; they are not ours;
+> > > > The Church's Schools are Hers; they are not ours;
 > > > > We hold a trust; we have no selling powers.
 > > > > If we are faithless, men will hear our name
 > > > > In after days with anger and with shame.
 > > > > We want to educate, not merely teach,
-> > > > To watch o’er every child, and give to each
+> > > > To watch o'er every child, and give to each
 > > > > That which for all its nature will provide
 > > > > For all its life a sure and upward guide.
 > > > > We want such teachers as, through all the day,
@@ -164,10 +164,10 @@ PROLOGUE.
 > > > > Betray our greatest vantage-ground for good,
 > > > > And bring upon our niggard souls the guilt
 > > > > Of tumbling down what those before us built
-> > > > No niggard souls are yours; you’ll do your part,
+> > > > No niggard souls are yours; you'll do your part,
 > > > > As you have ever done, with cheerful heart;
-> > > > You’ll show your sense of blessings you receive,
-> > > > You’ve learned the blessedness of those who give.
+> > > > You'll show your sense of blessings you receive,
+> > > > You've learned the blessedness of those who give.
 > > > > The Sale of Work has not been held for nought,
 > > > > Thanks to the workers and to those that bought
 > > > > But surely we can pay our debts without
@@ -186,7 +186,7 @@ PROLOGUE.
 > > > > The neighbours say it keeps their babes awake.
 > > > > Three new departures prove our keen desire
 > > > > To have each year fresh irons in the fire.
-> > > > The Lad’s Brigade will happily employ
+> > > > The Lad's Brigade will happily employ
 > > > > The restless energies of many a boy.
 > > > > The Class for Men on Sunday afternoon
 > > > > Long waited for, will count its hundreds soon.
@@ -194,12 +194,12 @@ PROLOGUE.
 > > > > Their wandering life in tents will soon be past.
 > > > > The Club will open with the opening year,
 > > > > The house is taken, and the way is clear.
-> > > > Too clear the rooms of fittings—who’ll supply them,
+> > > > Too clear the rooms of fittings—who'll supply them,
 > > > > From unused stores, or give the cash to buy them?
-> > > > We want chairs, tables, and we can’t afford
+> > > > We want chairs, tables, and we can't afford
 > > > > To buy a bagatelle or billiard board
 > > > > The gift of a piano would be pleasant,
-> > > > We’ll have them all, though maybe not at present.
+> > > > We'll have them all, though maybe not at present.
 > > > > Then papers of the week and of the day,
 > > > > And pictures too to make the walls look gay
 > > > > This wearies you; for you have come to hear
@@ -210,20 +210,20 @@ PROLOGUE.
 > > > > To brighten, as they pass, these social hours
 > > > > Let us be merry, helping, every one,
 > > > > The common cause of friendliness and fun.
-> > > > S. Alban’s must unite us all as friends,
+> > > > S. Alban's must unite us all as friends,
 > > > > Who meet together as the Old Year ends,
 > > > > United by our common memories,
 > > > > And common hopes and aims and sympathies
-> > > > The New Year’s wishes that our lips express
-> > > > Will rouse to seek each other’s happiness:
+> > > > The New Year's wishes that our lips express
+> > > > Will rouse to seek each other's happiness:
 > > > > Let us remember through the coming year
 > > > > The words of greeting we have spoken here
 > > > > And one in hearty fellowship aspire
 > > > > To work the ends we say what we desire.
 
-A previous chapter contained some lines from one of Father Tom’s "Prologues." The following extracts from various years are also well worth quoting, for the gems of thought and wisdom they enshrine.
+A previous chapter contained some lines from one of Father Tom's "Prologues." The following extracts from various years are also well worth quoting, for the gems of thought and wisdom they enshrine.
 
-> > > > ‘Another Christmas brings its thoughts of cheer,
+> > > > 'Another Christmas brings its thoughts of cheer,
 > > > > We speed the parting, hail the coming year;
 > > > > We think of work accomplished, battles won,
 > > > > And brace our strength for what must yet be done.
@@ -241,7 +241,7 @@ And again—
 > > > > "We are not thoughtless, though we are not sad.
 > > > > The truly thoughtful are indeed the glad,
 > > > > For Christmas joy its conquering light can throw
-> > > > Where hangs the shadow of earth’s darkest woe.
+> > > > Where hangs the shadow of earth's darkest woe.
 > > > > Let weak-kneed folly mope with downcast eyes,
 > > > > Let us be strong, be merry and be wise.
 > > > > If grudge exist, or loss of confidence—
@@ -250,7 +250,7 @@ And again—
 > > > > Let him who hugs it carry it outside.
 > > > > Let idlers quarrel we have not the time,
 > > > > Who feel that lack of diligence is crime
-> > > > The waste of energy we can’t afford
+> > > > The waste of energy we can't afford
 > > > > Which lays aside the spade to wield the sword
 > > > > The passing year goes by to come no more,
 > > > > It leaves of good and hope a goodly store.
@@ -259,18 +259,18 @@ And again—
 > > > > The records of the past this truth declare,
 > > > > That triumphs are for those who do and dare
 > > > > And though the future no one can foretell,
-> > > > With duty’s soldiers—all is always well."’
+> > > > With duty's soldiers—all is always well."'
 
 Again—
 
-> > > > ‘True friendship neither years nor space can sever,
-> > > > True friends, where’er they are, are friends for ever."
+> > > > 'True friendship neither years nor space can sever,
+> > > > True friends, where'er they are, are friends for ever."
 
 And—
 
 > > > > "We must forbear and bear, and try to feel
 > > > > What seems unkind is often only zeal,
-> > > > Like Marryat’s hero, who, the book declares,
+> > > > Like Marryat's hero, who, the book declares,
 > > > > In purest zeal, once kicked a man downstairs."
 
 To conclude, there is a wealth of true wisdom in these trenchant lines on education

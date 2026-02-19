@@ -41,9 +41,9 @@ Father Pollock and his Brother were the sons of Major Pollock of the 43rd Light 
 
 "The following extract from The Historical Records of the 43rd Light Infantry, describing the assault on Badajoz, gives the actual facts:—
 
-‘The soldiers swung themselves down cheering lustily. At the bottom of the ladders, Lieutenant Pollock, 43rd, who was in command of Lord Fitzroy Somerset's company, with Cooke, Considine, and Madden, met Captain Duffy of the regiment, who exclaimed, "Pollock! they (meaning the storming party and the forlorn hope) are all wrong; they have gone to the 4th Division breach" —pointing at the same time to the small one. Thus undesignedly this company were the first up to the sword blades.'
+'The soldiers swung themselves down cheering lustily. At the bottom of the ladders, Lieutenant Pollock, 43rd, who was in command of Lord Fitzroy Somerset's company, with Cooke, Considine, and Madden, met Captain Duffy of the regiment, who exclaimed, "Pollock! they (meaning the storming party and the forlorn hope) are all wrong; they have gone to the 4th Division breach" —pointing at the same time to the small one. Thus undesignedly this company were the first up to the sword blades.'
 
-"Lieutenant Pollock was almost immediately struck down, ‘severely wounded,' and in the course of the fight his three subalterns were also wounded. Lieutenant Pollock did not ‘lead the forlorn hope,' but was accidentally called upon to lead his company in the attack upon the breach which the forlorn hope ought properly to have assaulted.
+"Lieutenant Pollock was almost immediately struck down, 'severely wounded,' and in the course of the fight his three subalterns were also wounded. Lieutenant Pollock did not 'lead the forlorn hope,' but was accidentally called upon to lead his company in the attack upon the breach which the forlorn hope ought properly to have assaulted.
 
 "Captain Lord Fitzroy Somerset, the future Field-Marshal Lord Raglan, was serving on the staff of the commander-in-chief, and in his absence Lieutenant Pollock, the senior subaltern of the regiment, commanded the company.
 
@@ -53,9 +53,9 @@ Major Pollock is frequently mentioned in the annals of that time, particularly i
 
 In the History of the Oxfordshire Light Infantry, by Captain J. Hanbury Williams, we read:—
 
-> ‘The loss of the 43rd exceeded that of any other regiment. The day following the fall of Badajoz, as Lieutenant Pollock, of the 43rd, lay wounded in his tent, a private of his company brought him an offering of three fine fowls, remarking that they would make fine broth. This man had been a rather disorderly character, and Pollock had on many occasions administered punishments. He was, therefore, surprised by the act, and said, ‘Howard, you are the last man in the company from whom I should expect such attention.'
+> 'The loss of the 43rd exceeded that of any other regiment. The day following the fall of Badajoz, as Lieutenant Pollock, of the 43rd, lay wounded in his tent, a private of his company brought him an offering of three fine fowls, remarking that they would make fine broth. This man had been a rather disorderly character, and Pollock had on many occasions administered punishments. He was, therefore, surprised by the act, and said, 'Howard, you are the last man in the company from whom I should expect such attention.'
 
-> "'Sir,' replied Howard, ‘I have gratitude. You might have had me flogged twenty times; but, sir, you always punished me yourself, and I have gratitude.'"
+> "'Sir,' replied Howard, 'I have gratitude. You might have had me flogged twenty times; but, sir, you always punished me yourself, and I have gratitude.'"
 
 There was not a very great difference in the ages of the Priest-Brothers, the elder, James Samuel Pollock, being born on March 16, 1834, and the younger, Thomas Benson Pollock, on May 28, 1836. When James Samuel, fresh from his contemplation of a monkey on a barrel-organ, first saw the little brother who was to be so much to him, "Very like mukkey!" was his unflattering remark.
 
@@ -71,7 +71,7 @@ From the scanty records that remain, the brothers seem not to have been without 
 
 He also tells the following touching little story against himself:—
 
-> "One evening, when I was just old enough to be trusted with a gun, I was on my way home after a day's shooting. There was a charge in the barrel, which I wished to get rid of before going into the house. A little hedge-sparrow perched on a bush before me, and without a thought I shot it. I went to pick it up. It lay on the grass on its side wounded, and as I came up, it turned its head towards me. As long as I live I shall never forget the look in that little bird's eye. It seemed to say, as plainly as looks could, ‘You have killed me. What harm did I ever do you? And what good am I to you now?' I was as thoughtless as most boys of my age, but I felt myself utterly shamed. I would have given all the money I had to bring back the life that was the bird's all. I often now, after twenty-five years or more, seem to see that little bird's eye turned on me with gentle, pitiful reproach."
+> "One evening, when I was just old enough to be trusted with a gun, I was on my way home after a day's shooting. There was a charge in the barrel, which I wished to get rid of before going into the house. A little hedge-sparrow perched on a bush before me, and without a thought I shot it. I went to pick it up. It lay on the grass on its side wounded, and as I came up, it turned its head towards me. As long as I live I shall never forget the look in that little bird's eye. It seemed to say, as plainly as looks could, 'You have killed me. What harm did I ever do you? And what good am I to you now?' I was as thoughtless as most boys of my age, but I felt myself utterly shamed. I would have given all the money I had to bring back the life that was the bird's all. I often now, after twenty-five years or more, seem to see that little bird's eye turned on me with gentle, pitiful reproach."
 
 In later years both brothers were very fond of dumb animals; those who knew them will remember their handsome Skye terriers, especially "Guy," and the little chairs which used to be placed for them on the hearthrug in the parsonage dining-room of a winter's night.
 

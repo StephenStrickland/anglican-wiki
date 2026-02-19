@@ -12,7 +12,7 @@ year: 1835
 
 Question from the Office of Consecration
 
-.—WILL YOU MAINTAIN AND SET FORWARD, AS MUCH AS IN YOU LIETH, QUIETNESS, LOVE, AND PEACE, AMONG ALL MEN; AND SUCH AS BE UNQUIET, DISOBE DIENT, AND CRIM1NOUS WITHIN YOUR DIOCESE, CORRECT AND PUNISH, ACCORDING TO SUCH AUTHORITY AS YOU HAVE BY GOD’S WORD, AND AS TO YOU SHALL BE COMMITTED BY THE ORDINANCES OF THIS REALM?—*Ans*. I WILL SO DO, BY THE HELP OF GOD.
+.—WILL YOU MAINTAIN AND SET FORWARD, AS MUCH AS IN YOU LIETH, QUIETNESS, LOVE, AND PEACE, AMONG ALL MEN; AND SUCH AS BE UNQUIET, DISOBE DIENT, AND CRIM1NOUS WITHIN YOUR DIOCESE, CORRECT AND PUNISH, ACCORDING TO SUCH AUTHORITY AS YOU HAVE BY GOD'S WORD, AND AS TO YOU SHALL BE COMMITTED BY THE ORDINANCES OF THIS REALM?—*Ans*. I WILL SO DO, BY THE HELP OF GOD.
 
 O GOD of peace and love, make me, thy minister, a messenger and instrument of peace to this people to whom I am sent; that by thy gracious assistance I may root out all *strife* and *variance*, *hatred* and *malice*, and that this Church and Nation may enjoy a blessed tranquillity. Bless the discipline of this Church in my hands, and make it effectual for the conviction of wicked men and gainsayers. Assist me, by thy good Spirit, that I may apply a proper cure to every disorder; that I may reprove with *mildness*, censure with *equity*, and punish with *compassion*.
 
@@ -28,7 +28,7 @@ Ezek. ii. 6. "And thou, son of man, be not afraid of them, neither be afraid of 
 
 2 Cor. xiii. 10. "Lest I should use sharpness, according to the power," (*namely, of binding and loosing*,) "which GOD hath given me to edification, and not to destruction."
 
-1 Tim. i. 20. "Whom I have delivered unto Satan, that they may not blaspheme." O admirable use and command of Satan! He is GOD’S enemy, and yet does Him service; and an adversary to man, and yet helps to save him. He is the author of blasphemy, and yet teacheth not to blaspheme. That is, One that is stronger than he directs his malice to ends which he did not intend. Satan is set on work to take him down by terror and despair whom before he had tempted to sin. But while Satan thinks to drive him to destruction by despair, GOD stops his course, when the sinner is sufficiently humbled; and then, as it was with CHRIST, Satan is dismissed, and Angels come and minister unto him.—*Rouse.*
+1 Tim. i. 20. "Whom I have delivered unto Satan, that they may not blaspheme." O admirable use and command of Satan! He is GOD'S enemy, and yet does Him service; and an adversary to man, and yet helps to save him. He is the author of blasphemy, and yet teacheth not to blaspheme. That is, One that is stronger than he directs his malice to ends which he did not intend. Satan is set on work to take him down by terror and despair whom before he had tempted to sin. But while Satan thinks to drive him to destruction by despair, GOD stops his course, when the sinner is sufficiently humbled; and then, as it was with CHRIST, Satan is dismissed, and Angels come and minister unto him.—*Rouse.*
 
 What great man shall we now find, who will not take it ill to be reproved? and yet David, a prince and favourite of GOD, when he was reproved, even by a subject, did not turn away in a rage, but confessed his fault, and repented truly of his sin.— *St. Ambros. ap. David*.
 
@@ -40,7 +40,7 @@ Be steady and fearless in the discharge of your duty, without failing in that re
 
 Grant, O GOD, that I may have an eye to duty only, that I may fear no temporal evil, and be concerned only lest I should not in all respects please Thee my GOD.
 
-Deut. i. 17. "The judgment is GOD’S." As this should oblige all people to be afraid of a judgment or censure passed by men commissioned by GOD, so it should make us very careful that our judgment be such as is worthy of GOD, and agreeable to His will and Word.
+Deut. i. 17. "The judgment is GOD'S." As this should oblige all people to be afraid of a judgment or censure passed by men commissioned by GOD, so it should make us very careful that our judgment be such as is worthy of GOD, and agreeable to His will and Word.
 
 1 Cor. xvi. 22. "If any man love not the LORD JESUS CHRIST, let him be Anathema Maranatha." Here is a positive direction to the Church to excommunicate all such as plainly discover that they have no love for JESUS CHRIST,—who are scandalous or profane.
 
