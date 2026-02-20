@@ -1,0 +1,88 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import manifest from '../../../data/bible/manifest.json';
+
+export async function getStaticPaths() {
+  return manifest.map((book) => ({
+    params: { book: book.slug },
+    props: { book },
+  }));
+}
+
+interface Props {
+  book: {
+    slug: string;
+    name: string;
+    testament: string;
+    chapterCount: number;
+  };
+}
+
+const { book } = Astro.props;
+const chapterNumbers = Array.from({ length: book.chapterCount }, (_, i) => i + 1);
+---
+
+<StarlightPage
+  frontmatter={{
+    title: book.name,
+    description: `${book.name} — King James Version. ${book.chapterCount} chapter${book.chapterCount > 1 ? 's' : ''}.`,
+  }}
+>
+  <p class="book-testament">{book.testament === 'OT' ? 'Old Testament' : 'New Testament'}</p>
+
+  <ol class="chapter-list">
+    {chapterNumbers.map((ch) => (
+      <li>
+        <a href={`/bible/${book.slug}/${ch}/`}>Chapter {ch}</a>
+      </li>
+    ))}
+  </ol>
+
+  <p class="back-link">
+    <a href="/bible/">&larr; All Books</a>
+  </p>
+</StarlightPage>
+
+<style>
+  .book-testament {
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-3);
+    font-style: italic;
+    margin-bottom: 1.25rem;
+  }
+
+  .chapter-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr));
+    gap: 0.35rem;
+  }
+
+  .chapter-list a {
+    display: block;
+    padding: 0.35rem 0.6rem;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    color: var(--sl-color-gray-1);
+    font-family: 'EB Garamond', serif;
+    font-size: 1rem;
+    transition: background-color 0.15s, color 0.15s;
+  }
+
+  .chapter-list a:hover {
+    background: color-mix(in srgb, var(--bcp-color-gold) 12%, transparent);
+    color: var(--bcp-color-gold);
+  }
+
+  .back-link a {
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-3);
+    text-decoration: none;
+  }
+
+  .back-link a:hover {
+    color: var(--bcp-color-gold);
+  }
+</style>

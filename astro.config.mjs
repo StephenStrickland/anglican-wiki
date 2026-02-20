@@ -1,10 +1,14 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { remarkScriptureCitations } from './scripts/lib/remark-scripture-citations.mjs';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://anglican.wiki',
+	markdown: {
+		remarkPlugins: [remarkScriptureCitations],
+	},
 	integrations: [
 		starlight({
 			title: 'Anglican Wiki',
@@ -18,6 +22,13 @@ export default defineConfig({
 			],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/StephenStrickland/anglican-wiki' }],
 			sidebar: [
+				{
+					label: 'King James Bible',
+					collapsed: true,
+					items: [
+						{ label: 'Browse the Bible', link: '/bible/' },
+					],
+				},
 				{
 					label: 'Books of Common Prayer',
 					items: [
