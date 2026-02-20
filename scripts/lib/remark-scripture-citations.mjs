@@ -27,7 +27,13 @@ import { normalizeBook, parseChapterOrVerse, bibleUrl } from './bible-utils.mjs'
  *   [1/2/3 ][S./St. ]BookName[.]  Chapter[./:] [Verse]
  */
 const CITATION_RE =
-  /\b((?:\d\s+)?(?:S\.?\s+|St\.?\s+)?[A-Z][a-z]{1,11}\.?)\s+([ivxlcIVXLC]{1,6}|\d{1,3})(?:[.:\s]\s*(\d{1,3}|[ivxlc]{1,6})(?!\w))?/g;
+  /\b((?:\d\s+)?(?:S\.?\s+|St\.?\s+)?[A-Z][a-z]{1,11}\.?)\s+([ivxlcIVXLC]{1,6}|\d{1,3})\b(?:[.:\s]\s*(\d{1,3}|[ivxlc]{1,6})(?!\w))?/g;
+
+/**
+ * After a verse citation, match additional comma-separated verse numbers,
+ * e.g. the ", 5" in "Matt. iii. 3, 5".
+ */
+const CONTINUATION_RE = /^,\s*(\d{1,3}|[ivxlc]{1,6})(?!\w)/;
 
 /**
  * Process a single text-node value, returning an array of remark nodes
@@ -70,6 +76,33 @@ function processText(text) {
     });
 
     lastIndex = start + full.length;
+
+    // If the citation included a verse, consume any comma-separated
+    // continuation verses: e.g. "Matt. iii. 3, 5, 7"
+    if (verse !== null) {
+      let remaining = text.slice(lastIndex);
+      let contMatch;
+      while ((contMatch = CONTINUATION_RE.exec(remaining)) !== null) {
+        const contVerseRaw = contMatch[1];
+        const contVerse = parseChapterOrVerse(contVerseRaw);
+        if (!contVerse) break;
+
+        // The separator text (", ") before the verse number
+        const sep = contMatch[0].slice(0, contMatch[0].length - contVerseRaw.length);
+        nodes.push({ type: 'text', value: sep });
+        nodes.push({
+          type: 'link',
+          url: bibleUrl(book, chapter, contVerse),
+          title: null,
+          children: [{ type: 'text', value: contVerseRaw }],
+          data: { hProperties: { class: 'scripture-ref' } },
+        });
+
+        lastIndex += contMatch[0].length;
+        CITATION_RE.lastIndex = lastIndex;
+        remaining = text.slice(lastIndex);
+      }
+    }
   }
 
   if (nodes.length === 0) return null;
